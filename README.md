@@ -19,7 +19,9 @@
 - [消息推送](#消息推送)
     - [客户端](#客户端)
     - [服务器端](#服务器端)
-- [中文iOS/Mac开发博客列表 ](#中文iOS-Mac开发博客列表)
+- [开发资源](#开发资源)
+    - [他人开源总结](#他人开源总结)
+    - [中文开发博客列表](#中文开发博客列表)
 
 ### 具体内容 =============================
 #### UI
@@ -67,7 +69,16 @@
  * [javapns源代码](https://code.google.com/p/javapns/downloads/list) - 消息推送的java服务端代码，注意：DeviceToken中间不能有空格。
  * [pushMeBaby](https://github.com/stefanhafeneger/PushMeBaby) - Mac端消息推送端代码，注意：DeviceToken中间要有空格。
 
-##### 中文iOS-Mac开发博客列表
+##### 开发资源
+ * [awesome-ios](https://github.com/vsouza/awesome-ios) - 一个老外整理的。
+
+
+##### 他人开源总结
+
+
+
+##### 中文开发博客列表
+ * [唐巧整理](https://github.com/tangqiaoboy/iOSBlogCN) - 猿题库唐巧整理。
 博客地址 | RSS地址
 ----- | -----
 [OneV's Den](http://onevcat.com) | <http://onevcat.com/atom.xml>
