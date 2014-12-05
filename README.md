@@ -5,8 +5,8 @@
 ###  目录
 - [UI](#UI)
     - [模糊效果](#模糊效果) 
-    - [AutoLayout](#AutoLayout) 
-    - [POP动画](#POP动画) 
+    - [AutoLayout](#AutoLayout)
+    - [POP动画](#POP动画)
 - [动画](#动画)
     - [右滑返回手势](#右滑返回手势) 
 - [网络相关](#网络相关)
