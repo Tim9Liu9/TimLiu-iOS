@@ -4,16 +4,20 @@
 
 ###  目录
 - [UI](#UI)
+    - [下拉刷新](#下拉刷新)
     - [模糊效果](#模糊效果)
     - [AutoLayout](#AutoLayout)
     - [富文本](#富文本)
+    - [HUD与Toast](#HUD与Toast)
 - [动画](#动画)
     - [右滑返回手势](#右滑返回手势)
     - [POP动画](#POP动画)
 - [网络相关](#网络相关)
     - [网络连接](#网络连接)
     - [网络测试](#网络测试)
+    - [图像获取](#图像获取)
 - [数据库](#数据库)
+- [图像处理](#图像处理)
 - [测试](#测试)
 - [响应式框架](#响应式框架)
 - [消息推送](#消息推送)
@@ -27,6 +31,11 @@
 ### 具体内容 =============================
 ========
 #### UI
+##### 下拉刷新
+* [EGOTableViewPullRefresh](https://github.com/enormego/EGOTableViewPullRefresh) - 最早的下拉刷新控件。
+* [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) - 下拉刷新控件。 
+* [MJRefresh](https://github.com/CoderMJLee/MJRefresh) - 仅需一行代码就可以为UITableView或者CollectionView加上下拉刷新或者上拉刷新功能。可以自定义上下拉刷新的文字说明。具体使用看“使用方法”。 
+* [CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl) - 一个效果很酷炫的下拉刷新控件。
 ##### 模糊效果
  * [FXBlurView](https://github.com/nicklockwood/FXBlurView) - 支持iOS5.0以上版本，支持静态、动态模糊效果，继承与UIView的模糊特效。
 
@@ -35,6 +44,12 @@
 
 ##### 富文本
  * [RTLabel](https://github.com/honcheng/RTLabel) - 富文本
+
+##### HUD与Toast
+ * [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - 最多人用的loading。
+ * [SVProgressHUD](https://github.com/TransitApp/SVProgressHUD) - SVProgressHUD的loading。
+ * [ProgressHUD](https://github.com/relatedcode/ProgressHUD) - ProgressHUD的loading，使用最简单。
+
 
 ========
 #### 动画
@@ -51,13 +66,20 @@
 * [Alamofire](https://github.com/Alamofire/Alamofire) - Alamofire是AFNetworking的作者mattt新写的网络请求的swift库。
 * [YTKNetwork](https://github.com/yuantiku/YTKNetwork) - 是基于 AFNetworking 封装的 iOS 网络库，提供了更高层次的网络访问抽象。相比 AFNetworking，YTKNetwork 提供了以下更高级的功能：按时间或版本号缓存网络请求内容、检查返回 JSON 内容的合法性、文件的断点续传、批量的网络请求发送、filter和插件机制等。
 
+##### 图像获取
+* [SDWebImage](https://github.com/rs/SDWebImage) - SDWebImage 网络图片获取及缓存处理。
+
 ##### 网络测试
 * [Reachability](https://github.com/tonymillion/Reachability) - 苹果提供过一个Reachability类，用于检测网络状态。但是该类由于年代久远，并不支持ARC。该项目旨在提供一个苹果的Reachability类的替代品，支持ARC和block的使用方式。
 
 ========
 #### 数据库
 * [FMDB](https://github.com/ccgus/fmdb) - sqlite的工具。
+* [GXDatabaseUtils](https://github.com/Gerry1218/GXDatabaseUtils) - 在FMDB基础上的工具。
 * [realm-cocoa](https://github.com/realm/realm-cocoa) - Realm是一个真正为移动设备打造的数据库，同时支持Objective-C和Swfit。Realm宣称其相比Sqlite，在移动设备上有着更好的性能表现。
+
+========
+#### 图像处理
 
 ========
 #### 测试
@@ -66,6 +88,7 @@
 ========
 #### 响应式框架
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa 受函数响应式编程激发。不同于使用可变的变量替换和就地修改，RAC提供Signals来捕获当前值和将来值（ [使用介绍](http://yulingtianxia.com/blog/2014/07/29/reactivecocoa/) ）。
+* [BeeFramework](https://github.com/gavinkwoe/BeeFramework) -  与ReactiveCocoa类似。
 * [Objective-Chain](https://github.com/iMartinKiss/Objective-Chain) - Objective-Chain是一个面向对象的响应式框架，作者表示该框架吸收了 ReactiveCocoa 的思想，并且想做得更面向对象一些。
 
 ========
@@ -84,6 +107,7 @@
 * [code4app](http://www.code4app.com/) - 最多国人用的代码库。
 * [cocoachina](http://code.cocoachina.com/) - 国内最热门的iOS社区的代码库。
 * [awesome-ios](https://github.com/vsouza/awesome-ios) - 一个老外整理的。
+* [Cosmos](http://ios-cosmos.com) - The iOS Cosmos：收录了IOS绝大部分的开源框架和工具。
 
 ##### 中文开发博客列表
  * [唐巧整理](https://github.com/tangqiaoboy/iOSBlogCN) - 猿题库唐巧整理。
