@@ -19,7 +19,7 @@
 - [消息推送](#消息推送)
     - [客户端](#客户端)
     - [服务器端](#服务器端)
-- [开源blog](#消息推送)
+- [中文iOS/Mac开发博客列表 ](#中文iOS/Mac开发博客列表)
 
 ### 具体内容 =============================
 #### UI
@@ -66,3 +66,5 @@
 ##### 服务器端
  * [javapns源代码](https://code.google.com/p/javapns/downloads/list) - 消息推送的java服务端代码，注意：DeviceToken中间不能有空格。
  * [pushMeBaby](https://github.com/stefanhafeneger/PushMeBaby) - Mac端消息推送端代码，注意：DeviceToken中间要有空格。
+
+##### 中文iOS/Mac开发博客列表
