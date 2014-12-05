@@ -29,13 +29,13 @@
 ##### AutoLayout
  * [Masonry](https://github.com/Masonry/Masonry) - Masonry是一个轻量级的布局框架，拥有自己的描述语法，采用更优雅的链式语法封装自动布局，简洁明了并具有高可读性（ [使用介绍](http://adad184.com/2014/09/28/use-masonry-to-quick-solve-autolayout/) ）。
 
-#### 富文本
+##### 富文本
  * [RTLabel](https://github.com/honcheng/RTLabel) - 富文本
 
 #### 动画
 ##### 右滑返回手势
  * [SloppySwiper](https://github.com/fastred/SloppySwiper) - iOS系统自带的UINavigationController要7.0才支持，但不过该手势只能从屏幕左侧边缘识别，如果要扩大到整个屏幕范围怎么办？配合一个SloppySwiper无需代码就可以轻松实现。此库支持iOS5.0以上版本（另外：Nav的title滑动不明显，本人写了2个类似的控件）
- 
+
 ##### POP动画
  * [popping](https://github.com/schneiderandre/popping) - popping是一个POP 使用实例工程 
 
