@@ -70,15 +70,14 @@
  * [pushMeBaby](https://github.com/stefanhafeneger/PushMeBaby) - Mac端消息推送端代码，注意：DeviceToken中间要有空格。
 
 ##### 开发资源
- * [awesome-ios](https://github.com/vsouza/awesome-ios) - 一个老外整理的。
-
 
 ##### 他人开源总结
-
+* [awesome-ios](https://github.com/vsouza/awesome-ios) - 一个老外整理的。
 
 
 ##### 中文开发博客列表
  * [唐巧整理](https://github.com/tangqiaoboy/iOSBlogCN) - 猿题库唐巧整理。
+
 博客地址 | RSS地址
 ----- | -----
 [OneV's Den](http://onevcat.com) | <http://onevcat.com/atom.xml>
