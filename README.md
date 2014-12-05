@@ -72,6 +72,8 @@
 
 #### 开发资源
 ##### 他人开源总结
+* [code4app](http://www.code4app.com/) - 最多国人用的代码库。
+* [cocoachina](http://code.cocoachina.com/) - 国内最热门的iOS社区的代码库。
 * [awesome-ios](https://github.com/vsouza/awesome-ios) - 一个老外整理的。
 
 ##### 中文开发博客列表
