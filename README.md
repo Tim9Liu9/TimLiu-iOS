@@ -24,10 +24,10 @@
 ##### 模糊效果
  * [FXBlurView](https://github.com/nicklockwood/FXBlurView) - 支持iOS5.0以上版本，支持静态、动态模糊效果，继承与UIView的模糊特效。
 
-##### AutoLayout
+##### AutoLayout 
  * [Masonry](https://github.com/Masonry/Masonry) - Masonry是一个轻量级的布局框架，拥有自己的描述语法，采用更优雅的链式语法封装自动布局，简洁明了并具有高可读性（ [使用介绍](http://adad184.com/2014/09/28/use-masonry-to-quick-solve-autolayout/) ）。
 
-##### POP动画
+##### POP动画 
  * [popping](https://github.com/schneiderandre/popping) - popping是一个POP 使用实例工程。
 
 #### 动画
