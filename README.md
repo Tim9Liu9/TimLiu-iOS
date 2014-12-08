@@ -18,7 +18,7 @@
     - [图像获取](#图像获取)
 - [数据库](#数据库)
 - [图像浏览及处理](#图像浏览及处理)
-- [测试](#测试)
+- [测试及调试](#测试及调试)
 - [响应式框架](#响应式框架)
 - [消息推送](#消息推送)
     - [客户端](#客户端)
@@ -82,8 +82,9 @@
 #### 图像浏览及处理
 
 ========
-#### 测试
+#### 测试及调试
 * [HeapInspector](https://github.com/tapwork/HeapInspector-for-iOS) - HeapInspector是一个用于检测应用中的内存泄漏的开源调试工具。
+* [Crashlytics](http://try.crashlytics.com/) - Crashlytics 崩溃报告 崩溃日志   [使用说明](http://www.infoq.com/cn/articles/crashlytics-crash-statistics-tools) 
 
 ========
 #### 响应式框架
