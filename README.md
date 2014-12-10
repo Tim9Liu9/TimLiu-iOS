@@ -85,6 +85,7 @@
 ========
 #### 视频音频处理
 * [SCRecorder](https://github.com/rFlex/SCRecorder) - SCRecorder 短视频录制。
+* [VideoPushDemo](https://github.com/pingguo-zangqilong/VideoPushDemo) - 视频剪辑 [视频特效制作1](http://www.jianshu.com/p/3006502912aa) [视频特效制作2](http://www.jianshu.com/p/6313025349a9)。
 
 ========
 #### 测试及调试
