@@ -24,6 +24,7 @@
 - [消息推送](#消息推送)
     - [客户端](#客户端)
     - [服务器端](#服务器端)
+- [Xcode插件](#Xcode插件)
 - [开发资源](#开发资源)
     - [他人开源总结](#他人开源总结)
     - [中文开发博客列表](#中文开发博客列表)
@@ -108,6 +109,12 @@
 ##### 服务器端
  * [javapns源代码](https://code.google.com/p/javapns/downloads/list) - 消息推送的java服务端代码，注意：DeviceToken中间不能有空格。
  * [pushMeBaby](https://github.com/stefanhafeneger/PushMeBaby) - Mac端消息推送端代码，注意：DeviceToken中间要有空格。
+
+========
+#### Xcode插件
+ * [RTImageAssets](https://github.com/rickytan/RTImageAssets) - 一个 Xcode 插件，用来生成 @3x 的图片资源对应的 @2x 和 @1x 版本。
+  * [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) - 一个Xcode插件，build后，随手打开一个你之前的项目，然后在任意一个方法上面连按三下"/"键盘，就ok了。 
+
 
 ========
 #### 开发资源
