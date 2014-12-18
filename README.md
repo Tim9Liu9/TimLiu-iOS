@@ -26,7 +26,8 @@
     - [服务器端](#服务器端)
 - [版本新API的Demo](#版本新API的Demo)
 - [Xcode插件](#Xcode插件)
-- [开发资源](#开发资源)
+- [开发资源](#开发资源) ##### 
+    - [开发资料](#开发资料)
     - [他人开源总结](#他人开源总结)
     - [中文开发博客列表](#中文开发博客列表)
 
@@ -126,6 +127,9 @@
 
 ========
 #### 开发资源
+##### 开发资料
+* [Swift中文指南](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) - 中文版Apple官方Swift教程《The Swift Programming Language》。
+
 ##### 他人开源总结
 * [code4app](http://www.code4app.com/) - 最多国人用的代码库。
 * [cocoachina](http://code.cocoachina.com/) - 国内最热门的iOS社区的代码库。
