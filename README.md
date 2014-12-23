@@ -17,6 +17,8 @@
     - [网络连接](#网络连接)
     - [网络测试](#网络测试)
     - [图像获取](#图像获取)
+    - [网络聊天](#网络聊天)
+    - [网络测试](#网络测试)
 - [数据库](#数据库)
 - [图像浏览及处理](#图像浏览及处理)
 - [视频音频处理](#视频音频处理)
@@ -78,7 +80,10 @@
 
 ##### 图像获取
 * [SDWebImage](https://github.com/rs/SDWebImage) - SDWebImage 网络图片获取及缓存处理。
-
+##### 网络聊天
+* [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) - XMPPFramework openfire聊天。
+* [环信](http://www.easemob.com/) - 给开发者更稳定IM云功能。8200万用户考验，好用！
+* [融云](http://www.rongcloud.cn/) - 即时通讯云服务提供商。
 ##### 网络测试
 * [Reachability](https://github.com/tonymillion/Reachability) - 苹果提供过一个Reachability类，用于检测网络状态。但是该类由于年代久远，并不支持ARC。该项目旨在提供一个苹果的Reachability类的替代品，支持ARC和block的使用方式。
 
