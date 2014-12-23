@@ -9,6 +9,7 @@
     - [AutoLayout](#AutoLayout)
     - [富文本](#富文本)
     - [HUD与Toast](#HUD与Toast)
+    - [其他UI](#其他UI)
 - [动画](#动画)
     - [侧滑与右滑返回手势](#侧滑与右滑返回手势)
     - [POP动画](#POP动画)
@@ -53,6 +54,9 @@
  * [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - 最多人用的loading。
  * [SVProgressHUD](https://github.com/TransitApp/SVProgressHUD) - SVProgressHUD的loading。
  * [ProgressHUD](https://github.com/relatedcode/ProgressHUD) - ProgressHUD的loading，使用最简单。
+
+##### 其他UI
+ * [AwesomeMenu](https://github.com/levey/AwesomeMenu) - 最多人用的Path菜单。
 
 
 ========
