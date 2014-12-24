@@ -29,6 +29,7 @@
     - [服务器端](#服务器端)
 - [版本新API的Demo](#版本新API的Demo)
 - [Xcode插件](#Xcode插件)
+- [美工资源](#美工资源)
 - [开发资源](#开发资源)
     - [开发资料](#开发资料)
     - [他人开源总结](#他人开源总结)
@@ -139,6 +140,10 @@
  * [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) - 一个Xcode插件，build后，随手打开一个你之前的项目，然后在任意一个方法上面连按三下"/"键盘，就ok了。 
  * [java2Objective-c](https://github.com/google/j2objc) - Google公司出得java转Obje-C转换工具，转换逻辑，不转换UI。
  * [RegX](https://github.com/kzaher/RegX) - 专治代码强迫症的 Xcode 插件，使用 Swift 和 Objective-C 编写。其用竖向对齐特定源代码的元素，使得代码更易读和易理解。[说明](http://www.cocoachina.com/ios/20141224/10743.html)
+
+========
+#### 美工资源
+* [TWG_Retina_Icons](http://www.cocoachina.com/downloads/video/2010/1230/2523.html) - 一套支持 Retina 高清屏的 iPhone 免费图标集。
 
 ========
 #### 开发资源
