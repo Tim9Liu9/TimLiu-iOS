@@ -62,6 +62,8 @@
 
 ##### 表相关
  * [SWTableViewCell](https://github.com/onevcat/SWTableViewCell) - 国内开源作者，带很多手势的表单元格。
+ * [MCSwipeTableViewCell](https://github.com/alikaragoz/MCSwipeTableViewCell) - 带很多手势的表单元格。
+
 
 
 ##### HUD与Toast
@@ -72,6 +74,9 @@
 ##### 对话框
 * [WCAlertView](https://github.com/m1entus/WCAlertView) - 自定义的对话框。
 * [IOS7AlertView](https://github.com/wimagguc/ios-custom-alertview) - IOS7AlertView的对话框。
+* [AMSmoothAlert](https://github.com/mtonio91/AMSmoothAlert) - 动画效果不错，最多star，但不支持arm64。
+* [DQAlertView](https://github.com/dinhquan/DQAlertView) - 扁平化的样式不错。
+* 
 
 ##### 其他UI
  * [AwesomeMenu](https://github.com/levey/AwesomeMenu) - 最多人用的Path菜单。
