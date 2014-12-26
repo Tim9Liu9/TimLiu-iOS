@@ -8,6 +8,8 @@
     - [模糊效果](#模糊效果)
     - [AutoLayout](#AutoLayout)
     - [富文本](#富文本)
+    - [图表](#图表)
+    - [表相关](#表相关) 
     - [HUD与Toast](#HUD与Toast)
     - [其他UI](#其他UI)
 - [动画](#动画)
@@ -53,6 +55,13 @@
 
 ##### 富文本
  * [RTLabel](https://github.com/honcheng/RTLabel) - 富文本
+
+##### 图表
+ * [PNChart](https://github.com/kevinzhow/PNChart) - 国内开源作者，动态的图表。
+
+##### 表相关
+ * [SWTableViewCell](https://github.com/onevcat/SWTableViewCell) - 国内开源作者，带很多手势的表单元格。
+
 
 ##### HUD与Toast
  * [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - 最多人用的loading。
@@ -160,6 +169,7 @@
 * [awesome-ios](https://github.com/vsouza/awesome-ios) - 一个老外整理的。
 * [Cosmos](http://ios-cosmos.com) - The iOS Cosmos：收录了IOS绝大部分的开源框架和工具。
 * [cocoacontrols](http://cocoacontrols.com) -  收集了很多UI控件效果代码，缺点是需要翻墙，而且代码分类不够好。
+* [lexrus](https://github.com/lexrus) -  lexrus国内出名的iOS开源coder，非常库的label动画、textfield动画。
 
 ##### 中文开发博客列表
  * [唐巧整理](https://github.com/tangqiaoboy/iOSBlogCN) - 猿题库唐巧整理。
