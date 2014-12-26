@@ -11,6 +11,7 @@
     - [图表](#图表)
     - [表相关](#表相关) 
     - [HUD与Toast](#HUD与Toast)
+    - [对话框](#对话框)
     - [其他UI](#其他UI)
 - [动画](#动画)
     - [侧滑与右滑返回手势](#侧滑与右滑返回手势)
@@ -67,6 +68,10 @@
  * [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - 最多人用的loading。
  * [SVProgressHUD](https://github.com/TransitApp/SVProgressHUD) - SVProgressHUD的loading。
  * [ProgressHUD](https://github.com/relatedcode/ProgressHUD) - ProgressHUD的loading，使用最简单。
+
+##### 对话框
+* [WCAlertView](https://github.com/m1entus/WCAlertView) - 自定义的对话框。
+* [IOS7AlertView](https://github.com/wimagguc/ios-custom-alertview) - IOS7AlertView的对话框。
 
 ##### 其他UI
  * [AwesomeMenu](https://github.com/levey/AwesomeMenu) - 最多人用的Path菜单。
