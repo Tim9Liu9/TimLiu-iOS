@@ -123,6 +123,7 @@
 
 ========
 #### 图像浏览及处理
+* [FLAnimatedImage](https://github.com/liric28/FLAnimatedImage) - gif播放处理的工具。
 
 ========
 #### 视频音频处理
