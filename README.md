@@ -24,6 +24,7 @@
     - [网络测试](#网络测试)
 - [Model](#Model)
 - [数据库](#数据库)
+- [缓存处理](#缓存处理)
 - [图像浏览及处理](#图像浏览及处理)
 - [视频音频处理](#视频音频处理)
 - [测试及调试](#测试及调试)
@@ -127,6 +128,10 @@
 * [FMDB](https://github.com/ccgus/fmdb) - sqlite的工具。
 * [GXDatabaseUtils](https://github.com/Gerry1218/GXDatabaseUtils) - 在FMDB基础上的工具。
 * [realm-cocoa](https://github.com/realm/realm-cocoa) - Realm是一个真正为移动设备打造的数据库，同时支持Objective-C和Swfit。Realm宣称其相比Sqlite，在移动设备上有着更好的性能表现。
+
+========
+#### 缓存处理
+* [YTKKeyValueStore](https://github.com/yuantiku/YTKKeyValueStore) - Key-Value存储工具类，[说明](http://tangqiaoboy.gitcafe.io/blog/2014/10/03/opensouce-a-key-value-storage-tool/)。
 
 ========
 #### 图像浏览及处理
