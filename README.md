@@ -212,6 +212,9 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
 #### 美工资源
 * [TWG_Retina_Icons](https://github.com/markohlebar/Peckham) - 一套支持 Retina 高清屏的 iPhone 免费图标集。
 
+#### 其他资源
+* [githuber](http://githuber.info/#/index) - 最好用的GitHub人才搜索工具。   
+
 ========
 #### 开发资源
 ##### 开发资料
@@ -221,6 +224,7 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
 * [iOS开发的一些奇巧淫技2](http://www.jianshu.com/p/08f194e9904c) -  用一个pan手势来代替UISwipegesture的各个方向、拉伸图片、播放GIF、上拉刷新、把tableview里cell的小对勾的颜色改变、navigationbar弄成透明的而不是带模糊的效果、改变uitextfield placeholder的颜色和位置。
 * [cocoapods安装指南](http://code4app.com/article/cocoapods-install-usage) - cocoapods安装指南。
 
+ 
 ##### 他人开源总结
 * [code4app](http://www.code4app.com/) - 最多国人用的代码库。
 * [cocoachina](http://code.cocoachina.com/) - 国内最热门的iOS社区的代码库。
