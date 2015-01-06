@@ -57,6 +57,10 @@
 
 ##### AutoLayout
  * [Masonry](https://github.com/Masonry/Masonry) - Masonry是一个轻量级的布局框架，拥有自己的描述语法，采用更优雅的链式语法封装自动布局，简洁明了并具有高可读性（ [使用介绍1](http://adad184.com/2014/09/28/use-masonry-to-quick-solve-autolayout/)  [使用介绍2](http://ios.jobbole.com/81483/)）。
+ 
+ * [Snappy](https://github.com/Masonry/Snappy) - 
+ * [PureLayout](https://github.com/smileyborg/PureLayout) - 
+ * [Cartography](https://github.com/robb/Cartography) - 
 
 ##### 富文本
  * [RTLabel](https://github.com/honcheng/RTLabel) - 富文本
@@ -69,7 +73,7 @@
  * [MCSwipeTableViewCell](https://github.com/alikaragoz/MCSwipeTableViewCell) - 带很多手势的表单元格。
  * [TMQuiltView](https://github.com/1000Memories/TMQuiltView) - 瀑布流。
  * [XLForm](https://github.com/xmartlabs/XLForm) - 很多表格类的table,写法更高冷一点，推荐使用。 
- * [RETableViewManager](https://github.com/romaonthego/RETableViewManager) - 很多表格类的table,推荐使用。  * 
+ * [RETableViewManager](https://github.com/romaonthego/RETableViewManager) - 可以十分方便地生成各种样式、各种功能的TableView。只要开发者能想到的列表效果或者功能，都可以利用这份代码迅速编写出来。比如，之前要实现一个填写各种资料的列表，可能需要很多代码，现在只需要几行代码就可以实现。 
 
 
 
