@@ -153,6 +153,8 @@
 ========
 #### 图像浏览及处理
 * [FLAnimatedImage](https://github.com/liric28/FLAnimatedImage) - gif播放处理的工具。
+* [Reader](https://github.com/vfr/Reader) - 项目能够让iOS开发者轻而易举地在iOS设备屏幕上显示PDF文件。
+
 
 ========
 #### 视频音频处理
