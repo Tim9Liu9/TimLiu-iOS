@@ -173,6 +173,7 @@
 * [FLAnimatedImage](https://github.com/liric28/FLAnimatedImage) - gif播放处理的工具。
 * [Reader](https://github.com/vfr/Reader) - 项目能够让iOS开发者轻而易举地在iOS设备屏幕上显示PDF文件。
 * [CLImageEditor](https://github.com/yackle/CLImageEditor) - 超强的图片编辑库，快速帮你实现旋转，防缩，滤镜等等一系列麻烦的事情。。
+* [VIPhotoView](https://github.com/vitoziv/VIPhotoView) - 用于展示图片的工具类，因为是个 View，所以你可以放在任何地方显示。支持旋转，双击指定位置放大等。
  
 
 
