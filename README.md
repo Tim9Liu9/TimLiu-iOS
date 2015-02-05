@@ -301,11 +301,12 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
 
 博客地址 | RSS地址
 ----- | -----
+[南峰子的技术博客](http://southpeak.github.io/) - 南峰子的技术博客。
+[唐巧的技术博客](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
 [OneV's Den](http://onevcat.com) | <http://onevcat.com/atom.xml>
 [破船之家](http://beyondvincent.com) | <http://beyondvincent.com/atom.xml>
 [NSHipster](http://nshipster.cn) | <http://nshipster.cn/feed.xml>
 [Limboy 无网不剩](http://blog.leezhong.com/) | <http://feeds.feedburner.com/lzyy>
-[唐巧的技术博客](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
 [Lex iOS notes](http://ios.lextang.com) | <http://ios.lextang.com/rss>
 [念茜的博客](http://nianxi.net) | <http://nianxi.net/feed.xml>
 [Xcode Dev](http://blog.xcodev.com) | <http://blog.xcodev.com/atom.xml>
