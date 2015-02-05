@@ -120,7 +120,7 @@
  * [CoolLoadAniamtion](https://github.com/pingguo-zangqilong/CoolLoadAniamtion) - 一个简单但是效果不错的loading动画。
  * [SequenRotateAnimation](https://github.com/pingguo-zangqilong/SequenRotateAnimation) - 一个简单的loading次序动画。
  * [SYAppStart](https://github.com/441088327/SYAppStart) - App启动插画的自定义过度。
-
+ * [Spring](https://github.com/MengTo/Spring) - 用 Swift 写了一个动画库 Spring，用 IBDesignable 让使用者可以在 Xcode 中快速设置动画效果。
 
 
 ========
