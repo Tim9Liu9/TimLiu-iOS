@@ -59,7 +59,7 @@
 
 ##### AutoLayout
  * [Masonry](https://github.com/Masonry/Masonry) - Masonry是一个轻量级的布局框架，拥有自己的描述语法，采用更优雅的链式语法封装自动布局，简洁明了并具有高可读性（ [使用介绍1](http://adad184.com/2014/09/28/use-masonry-to-quick-solve-autolayout/)  [使用介绍2](http://ios.jobbole.com/81483/)）。
- 
+ * [Snap](https://github.com/Masonry/Snap) - Swift的版的Masonry
  * [Snappy](https://github.com/Masonry/Snappy) - 
  * [PureLayout](https://github.com/smileyborg/PureLayout) - 
  * [Cartography](https://github.com/robb/Cartography) - 
