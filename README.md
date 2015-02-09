@@ -96,7 +96,7 @@
 * [IOS7AlertView](https://github.com/wimagguc/ios-custom-alertview) - IOS7AlertView的对话框。
 * [AMSmoothAlert](https://github.com/mtonio91/AMSmoothAlert) - 动画效果不错，最多star，但不支持arm64。
 * [DQAlertView](https://github.com/dinhquan/DQAlertView) - 扁平化的样式不错。
-* 
+* [MJPopupViewController](https://github.com/martinjuhasz/MJPopupViewController) - 实现弹出视图的各种弹出和消失效果，包括淡入淡出（fade in，fade out），从屏幕上方飞进，下方飞出，从屏幕左方飞进，右方飞出等等效果。 
 
 ##### 其他UI
  * [AwesomeMenu](https://github.com/levey/AwesomeMenu) - 最多人用的Path菜单。
