@@ -138,7 +138,7 @@
  * [SYAppStart](https://github.com/441088327/SYAppStart) - App启动插画的自定义过度。
  * [RMParallax](https://github.com/michaelbabiy/RMParallax) - RMParallax是一个app启动页引导开源项目，除了细微的翻页视差效果，描述文本的过渡也非常美观。
  * [Spring](https://github.com/MengTo/Spring) - 用 Swift 写了一个动画库 Spring，用 IBDesignable 让使用者可以在 Xcode 中快速设置动画效果。
-
+ * [KYBezierBounceView](https://github.com/KittenYang/KYBezierBounceView) - 手势控制贝塞尔曲线，取消手势贝塞尔曲线会有反弹效果。
 
 ========
 #### 网络相关
@@ -186,7 +186,7 @@
 * [SYKeyboardTextField](https://github.com/441088327/SYKeyboardTextField) - SYKeyboardTextField 是一个轻巧,简单,非侵入式的键盘附随输入框! 采用Swift编写。
 * [BlocksKit](https://github.com/zwaldowski/BlocksKit) - block框架。
 * [appirater](https://github.com/arashpayan/appirater) - 用于提醒用户给你的 APP 打分的工具。
-
+* [MotionKitr](https://github.com/MHaroonBaig/MotionKitr) - 为核心运动框架（The Core Motion framework）提供友好的类库封装，以更方便使用三轴陀螺仪和加速感应器特性。
 
 ========
 #### 数据库
@@ -324,7 +324,7 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
 ##### 他人开源总结
 * [code4app](http://www.code4app.com/) - 最多国人用的代码库。
 * [cocoachina](http://code.cocoachina.com/) - 国内最热门的iOS社区的代码库。
-* [awesome-ios](https://github.com/vsouza/awesome-ios) - 一个老外整理的。
+* [awesome-ios](https://github.com/vsouza/awesome-ios) - 一个老外整理的，[中文版](http://app.memect.com/doc/ios.html)。
 * [ios-cosmos](http://ios-cosmos.com/) - The iOS Cosmos：收录了IOS绝大部分的开源框架和工具。。
 * [Awesome Haskell资料大全](https://haskell.zeef.com/konstantin.skipor#block_28362_basics) -    Awesome Haskell 资料大全：框架，库和软件。
 * [Cosmos](http://ios-cosmos.com) - The iOS Cosmos：收录了IOS绝大部分的开源框架和工具。
