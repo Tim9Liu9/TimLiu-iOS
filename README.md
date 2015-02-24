@@ -305,7 +305,7 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
 
 #### 其他资源
 * [githuber](http://githuber.info/#/index) - 最好用的GitHub人才搜索工具。   
-* [codatlas](www.codatlas.com) - 源代码搜索利器。
+* [codatlas](https://www.codatlas.com) - 源代码搜索利器。
 * [searchcode](https://searchcode.com/) - 源代码搜索利器：来自悉尼的代码搜索引擎汇聚了 Github, Bitbucket, Sourceforge...等多家开源站点超20万个项目、180亿行源代码，能以特殊字符、语言、仓库和源方式从90多种语言找到函数、API的真实代码。
 
 ========
