@@ -142,7 +142,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [SequenRotateAnimation](https://github.com/pingguo-zangqilong/SequenRotateAnimation) - 一个简单的loading次序动画。
  * [SYAppStart](https://github.com/441088327/SYAppStart) - App启动插画的自定义过度。
  * [RMParallax](https://github.com/michaelbabiy/RMParallax) - RMParallax是一个app启动页引导开源项目，除了细微的翻页视差效果，描述文本的过渡也非常美观。
- * [Spring](https://github.com/MengTo/Spring) - 用 Swift 写了一个动画库 Spring，用 IBDesignable 让使用者可以在 Xcode 中快速设置动画效果。
+ * [Spring](https://github.com/MengTo/Spring) - Spring是一个Swift编写的开源库，可简化Swift编写的iOS动画。支持shake、pop、morph、squeeze、wobble、swing、flipX、flipY、fall、squeezeLeft、squeezeRight以及squeezeDown等多种动画形式，用 IBDesignable 让使用者可以在 Xcode 中快速设置动画效果。
  * [KYBezierBounceView](https://github.com/KittenYang/KYBezierBounceView) - 手势控制贝塞尔曲线，取消手势贝塞尔曲线会有反弹效果。
 
 ========
