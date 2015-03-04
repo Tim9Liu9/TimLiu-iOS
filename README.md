@@ -27,7 +27,7 @@
 - [数据库](#数据库)
 - [缓存处理](#缓存处理)
 - [图像浏览及处理](#图像浏览及处理)
-- [视频音频处理](#视频音频处理)
+- [摄像照相视频音频处理](#视频音频处理)
 - [测试及调试](#测试及调试)
 - [响应式框架](#响应式框架)
 - [消息推送](#消息推送)
@@ -36,6 +36,7 @@
 - [版本新API的Demo](#版本新API的Demo)
 - [代码安全](#代码安全)
 - [AppleWatch](#AppleWatch)
+- [完整项目](#完整项目)
 - [Xcode插件](#Xcode插件)
 - [美工资源](#美工资源)
 - [开发资源](#开发资源)
@@ -229,7 +230,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [GPUImage](https://github.com/BradLarson/GPUImage) - 处理图片效果。
 
 ========
-#### 视频音频处理
+#### 摄像照相视频音频处理
 * [SCRecorder](https://github.com/rFlex/SCRecorder) - SCRecorder 短视频录制。
 * [VideoPushDemo](https://github.com/pingguo-zangqilong/VideoPushDemo) - 视频剪辑 [视频特效制作1](http://www.jianshu.com/p/3006502912aa) [视频特效制作2](http://www.jianshu.com/p/6313025349a9)。
 * [LLSimpleCamera](https://github.com/omergul123/LLSimpleCamera) - A simple, customizable camera control for iOS， 摄像头。
@@ -243,7 +244,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [IPDFCameraViewController](https://github.com/mmackh/IPDFCameraViewController) - 支持相机定焦拍摄、滤镜、闪光、实时边框检测以及透视矫正功能，并有简单易用的API。 
 * [SCRecorder](https://github.com/rFlex/SCRecorder) - 酷似 Instagram/Vine 的音频/视频摄像记录器，以 Objective-C 为基础的过滤器框架。 你可以做很多如下的操作：记录多个视频录像片段。删除任何你不想要的记录段。可以使用任何视频播放器播放片段。保存的记录可以在序列化的 NSDictionary 中使用。（在 NSUserDefaults 的中操作）添加使用 Core Image 的视频滤波器。可自由选择你需要的 parameters 合并和导出视频。
 * [Cool-iOS-Camera](https://github.com/GabrielAlva/Cool-iOS-Camera) - Cool-iOS-Camera。
-
+* [FastttCamera](https://github.com/IFTTT/FastttCamera) - FastttCamera 快速照相。
 
 
 ========
