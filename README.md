@@ -137,7 +137,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [SDProgressView](https://github.com/gsdios/SDProgressView) - 简便美观的进度指示器，此系列共有六种样式的进度指示器。 
  * [WZFlashButton](https://github.com/SatanWoo/WZFlashButton) - WZFlashButton，点击后button里面出现水波扩散效果。
  * [ios-multi-back-button](https://github.com/palmin/ios-multi-back-button) - UInavigationController里面多个viewController，返回按钮弹窗可直达返回到某层。
-  * [ASDayPicker](http://code.cocoachina.com/detail/226543) - 适用于iOS (iPhone)的日期选择器，类似于Calendar app的周视图。。
+ * [ASDayPicker](http://code.cocoachina.com/detail/226543) - 适用于iOS (iPhone)的日期选择器，类似于Calendar app的周视图。
+ * [SlideTapBar](http://d.cocoachina.com/code/detail/286102) - 滚动栏菜单，向上滚动时隐藏tabbar，向下滚动马上显示tabbar。
 
 ========
 #### 动画
