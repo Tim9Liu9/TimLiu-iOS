@@ -38,6 +38,7 @@
 - [代码安全与密码](#代码安全与密码)
 - [AppleWatch](#AppleWatch)
 - [完整项目](#完整项目)
+- [VPN](#VPN)
 - [Xcode插件](#Xcode插件)
 - [美工资源](#美工资源)
 - [开发资源](#开发资源)
@@ -313,6 +314,11 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 ========
 #### AppleWatch
 * [Tesla汽车AppleWatch app demo演示](https://github.com/eleks/rnd-apple-watch-tesla) - 通过AppleWatch控制特斯拉汽车，同时可以看到汽车的相关信息，比如剩余电量、可续行里程等，以及解锁/上锁车门、调节司机和乘客的四区域空调温度、开启车辆大灯、定位汽车等。[源码推荐说明](http://www.cocoachina.com/ios/20150205/11116.html)。 
+
+========
+#### VPN
+* [vpnon](https://github.com/lexrus/vpnon/) - swift的VPN On 的源码和本地化内容都是开放的: [官方网站](https://crowdin.com/project/vpnon)。
+* [Hydro.network](https://github.com/CatchChat/Hydro.network) - [Hydro.network 的开发旅程](http://zhowkev.in/2015/03/09/hydro-network-de-kai-fa-lu-cheng/), [gitcafe](https://gitcafe.com/Catch/Hydro.network)。
 
 ========
 #### 完整项目
