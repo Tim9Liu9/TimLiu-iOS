@@ -29,14 +29,13 @@
 - [PDF](#PDF)
 - [图像浏览及处理](#图像浏览及处理)
 - [摄像照相视频音频处理](#摄像照相视频音频处理)
-- [测试及调试](#测试及调试)
 - [响应式框架](#响应式框架)
 - [消息推送](#消息推送)
     - [客户端](#客户端)
     - [服务器端](#服务器端)
 - [版本新API的Demo](#版本新API的Demo)
 - [代码安全与密码](#代码安全与密码)
-- [代码调试](#代码调试)
+- [测试及调试](#测试及调试)
 - [AppleWatch](#AppleWatch)
 - [完整项目](#完整项目)
 - [VPN](#VPN)
@@ -281,11 +280,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 
 ========
-#### 测试及调试
-* [HeapInspector](https://github.com/tapwork/HeapInspector-for-iOS) - HeapInspector是一个用于检测应用中的内存泄漏的开源调试工具。
-* [Crashlytics](http://try.crashlytics.com/) - Crashlytics 崩溃报告 崩溃日志   [使用说明](http://www.infoq.com/cn/articles/crashlytics-crash-statistics-tools) 
-
-========
 #### 响应式框架
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa 受函数响应式编程激发。不同于使用可变的变量替换和就地修改，RAC提供Signals来捕获当前值和将来值（ [使用介绍](http://yulingtianxia.com/blog/2014/07/29/reactivecocoa/) ），[不错的例子](http://iiiyu.com/2014/12/26/learning-ios-notes-thirty-six/),入门好教程：[ReactiveCocoa入门教程：第一部分 ](http://www.cocoachina.com/ios/20150123/10994.html)。
 * [BeeFramework](https://github.com/gavinkwoe/BeeFramework) -  与ReactiveCocoa类似，[BeeFramework用户指南 v1.0](http://www.lanrenios.com/tutorials/all/2012/1220/641.html)。
@@ -314,9 +308,13 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [GesturePassword](https://github.com/smilingxinyi/GesturePassword) - 一个iOS手势密码功能实现，iPad/iPhone 都可以用，没有使用图片，里面可以通过view自己添加。keychain做的数据持久化，利用苹果官方KeychainItemWrapper类。操作部分都在controller了。删除直接用一下clear。
 * [JMPasswordView](https://github.com/Juuman/JMPasswordView) - 简单实用的手势密码，效果可自行调控。
 
+
 ========
-#### 代码调试
+#### 测试及调试
+* [HeapInspector](https://github.com/tapwork/HeapInspector-for-iOS) - HeapInspector是一个用于检测应用中的内存泄漏的开源调试工具。
+* [Crashlytics](http://try.crashlytics.com/) - Crashlytics 崩溃报告 崩溃日志   [使用说明](http://www.infoq.com/cn/articles/crashlytics-crash-statistics-tools) 。
 * [UIViewController-Swizzled](https://github.com/RuiAAPeres/UIViewController-Swizzled) - 把你进入的每一个controller的类名打出来,如果看一些特别复杂的项目的时候直接运行demo就可以知道执行次序了。
+* [snoop-it](http://code.google.com/p/snoop-it/) - snoop-it比UIViewController-Swizzled好用，代码托管在google上 。
 
 ========
 #### AppleWatch
