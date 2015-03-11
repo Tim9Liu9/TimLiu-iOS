@@ -10,6 +10,7 @@
     - [富文本](#富文本)
     - [图表](#图表)
     - [表相关](#表相关) 
+    - [隐藏与显示](#隐藏与显示)
     - [HUD与Toast](#HUD与Toast)
     - [对话框](#对话框)
     - [其他UI](#其他UI)
@@ -104,6 +105,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [GUITabPagerViewController](https://github.com/guilhermearaujo/GUITabPagerViewController) - 多个tab滑动切换。
  * [VOMetroLayoutDemo](https://github.com/pozi119/VOMetroLayoutDemo) - Metro风格的UICollectionView, 目前只支持横向布局,仅在iPad上应用。
 
+##### 隐藏与显示
+ * [SlideTapBar](http://d.cocoachina.com/code/detail/286102) - 滚动栏菜单，向上滚动时隐藏tabbar，向下滚动马上显示tabbar。
+ * [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) - LTNavigationBar为app导航栏添加动态着色效果，可自定义其背景色。Demo包含：1.变换背景色；2.滚动视图，导航栏和状态栏重叠。。
+ 
 ##### HUD与Toast
  * [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - 最多人用的loading。
  * [SVProgressHUD](https://github.com/TransitApp/SVProgressHUD) - SVProgressHUD的loading。
@@ -142,7 +147,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [Twinkle](https://github.com/piemonte/Twinkle) - 为字体加上钻石版闪耀的效果。使用Swift编写。 
  * [ios-multi-back-button](https://github.com/palmin/ios-multi-back-button) - UInavigationController里面多个viewController，返回按钮弹窗可直达返回到某层。
  * [ASDayPicker](http://code.cocoachina.com/detail/226543) - 适用于iOS (iPhone)的日期选择器，类似于Calendar app的周视图。
- * [SlideTapBar](http://d.cocoachina.com/code/detail/286102) - 滚动栏菜单，向上滚动时隐藏tabbar，向下滚动马上显示tabbar。
+
 
 ========
 #### 动画
