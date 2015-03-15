@@ -293,7 +293,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [FastttCamera](https://github.com/IFTTT/FastttCamera) - FastttCamera 快速照相。
 * [ICGVideoTrimmer](https://github.com/itsmeichigo/ICGVideoTrimmer) - ICGVideoTrimmer提供提供视频剪切的视图（类似系统相册中浏览视频时顶部那个条状视图）。左右两个边界选择器还能够自定义。
 * [IOS录音和播放功能demo](http://d.cocoachina.com/code/detail/285717) - 比较完整的ios录音和播放功能的实现。
-
+* [CameraManager](https://github.com/imaginary-cloud/CameraManager) - 相机管理封装类库。看着极好用的样子----swift。
 
 ========
 #### 响应式框架
