@@ -151,6 +151,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [ASDayPicker](http://code.cocoachina.com/detail/226543) - 适用于iOS (iPhone)的日期选择器，类似于Calendar app的周视图。
  * [today extension](http://adad184.com/2014/10/29/2014-10-29-how-to-setup-today-extension-programmatically/) - 用纯代码构建一个Widget(today extension) 。
  * [FSCalendar](https://github.com/f33chobits/FSCalendar) - 日历视图，带有微妙和平滑的滚动效果，可自定义外观--国人。
+ * [Persei](https://github.com/Yalantis/Persei) - 动画隐藏或显示顶部菜单支持库及示例项目。--swift
+
 
 ========
 #### 动画
