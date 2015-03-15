@@ -109,7 +109,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 ##### 隐藏与显示
  * [SlideTapBar](http://d.cocoachina.com/code/detail/286102) - 滚动栏菜单，向上滚动时隐藏tabbar，向下滚动马上显示tabbar。
  * [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) - LTNavigationBar为app导航栏添加动态着色效果，可自定义其背景色。Demo包含：1.变换背景色；2.滚动视图，导航栏和状态栏重叠。
- 
+ * [BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar) - 固定Header的效果库。。
+
 ##### HUD与Toast
  * [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - 最多人用的loading。
  * [SVProgressHUD](https://github.com/TransitApp/SVProgressHUD) - SVProgressHUD的loading。
@@ -347,6 +348,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [jetstream-ios](https://github.com/uber/jetstream-ios) - 一款 Uber 的 MVC 框架。它同时提供了多用户实时通讯支持，一旦启动 JetStream 后端服务，通过 WebSocket 协议可以分分钟建立多用户实时通讯应用。
 * [DeckRocket](https://github.com/jpsim/DeckRocket) - 在相同 WiFi 网络环境内，通过iPhone 控制并播放 Mac 中的 PDF 文档。
 * [ScanBook](https://github.com/JayFang1993/ScanBook) - 扫扫图书:可以扫描条形码查询图书，也可以关键字搜索，遇到合乎你口味的书，还可以看看别人的读书笔记，不同角度去体会。
+* [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) - Swift 开发的 DesignerNews 客户端，看着美美的！。
 
 ========
 #### Xcode插件
@@ -387,6 +389,7 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
 * [10款提高iOS开发效率的XCode插件](http://www.imooc.com/wenda/detail/237132) - 10款提高iOS开发效率的XCode插件：1. XcodeColors；5. ACCodeSnippetRepository；10. Dash for Xcode。 
 
 
+
 ========
 #### 美工资源
 * [TWG_Retina_Icons](https://github.com/markohlebar/Peckham) - 一套支持 Retina 高清屏的 iPhone 免费图标集。
@@ -395,6 +398,7 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
 * [githuber](http://githuber.info/#/index) - 最好用的GitHub人才搜索工具。   
 * [codatlas](https://www.codatlas.com) - 源代码搜索利器。
 * [searchcode](https://searchcode.com/) - 源代码搜索利器：来自悉尼的代码搜索引擎汇聚了 Github, Bitbucket, Sourceforge...等多家开源站点超20万个项目、180亿行源代码，能以特殊字符、语言、仓库和源方式从90多种语言找到函数、API的真实代码。
+* [kitematic](https://github.com/kitematic/kitematic) - Mac 上使用 Docker 最简单的方案。 
 
 ========
 #### 开发资源
