@@ -334,7 +334,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [HeapInspector](https://github.com/tapwork/HeapInspector-for-iOS) - HeapInspector是一个用于检测应用中的内存泄漏的开源调试工具。
 * [Crashlytics](http://try.crashlytics.com/) - Crashlytics 崩溃报告 崩溃日志   [使用说明](http://www.infoq.com/cn/articles/crashlytics-crash-statistics-tools) 。
 * [UIViewController-Swizzled](https://github.com/RuiAAPeres/UIViewController-Swizzled) - 把你进入的每一个controller的类名打出来,如果看一些特别复杂的项目的时候直接运行demo就可以知道执行次序了。
-* [snoop-it](https://code.google.com/p/snoop-it/) - snoop-it比UIViewController-Swizzled好用，代码托管在google上 。
+* [snoop-it](https://code.google.com/p/snoop-it/) - snoop-it比UIViewController-Swizzled好用，代码托管在google上。
+* [Versions](https://github.com/zenangst/Versions) - 版本比较小工具。
 
 ========
 #### AppleWatch
@@ -400,6 +401,8 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
 ========
 #### 美工资源
 * [TWG_Retina_Icons](https://github.com/markohlebar/Peckham) - 一套支持 Retina 高清屏的 iPhone 免费图标集。
+* [ASCIImage](https://github.com/cparnot/ASCIImage) - 使用 NSString 创建 image。
+
 
 #### 其他资源
 * [githuber](http://githuber.info/#/index) - 最好用的GitHub人才搜索工具。   
