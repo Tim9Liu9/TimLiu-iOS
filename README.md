@@ -434,7 +434,7 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
 * [Cosmos](http://ios-cosmos.com) - The iOS Cosmos：收录了IOS绝大部分的开源框架和工具。
 * [cocoacontrols](http://cocoacontrols.com) -  收集了很多UI控件效果代码，缺点是需要翻墙，而且代码分类不够好。
 * [lexrus](https://github.com/lexrus) -  lexrus国内出名的iOS开源coder，非常库的label动画、textfield动画。
-* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) -   iOS App 集合--国外人整理。 
+* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - iOS App集合，分：swift与Objective-C--国外人整理。 
 
 * [适合iOS开发者的15大网站推荐](http://www.csdn.net/article/2015-03-04/2824108-ios-developers-sites) -  适合 iOS 开发者的 15 大网站推荐 --- 英文网站。
 
