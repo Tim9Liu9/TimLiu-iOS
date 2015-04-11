@@ -348,6 +348,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### AppleWatch
 * [Tesla汽车AppleWatch app demo演示](https://github.com/eleks/rnd-apple-watch-tesla) - 通过AppleWatch控制特斯拉汽车，同时可以看到汽车的相关信息，比如剩余电量、可续行里程等，以及解锁/上锁车门、调节司机和乘客的四区域空调温度、开启车辆大灯、定位汽车等。[源码推荐说明](http://www.cocoachina.com/ios/20150205/11116.html)。 
 * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - WatchKit 开源小项目示例集锦。是不可多得地学习 WatchKit 的示例式教程（1.如何创建一个简单的交互式计数器；2.如何从手表上控制iOS app；3.如何在WatchKit app和iOS app之间共享数据；4.如何创建一个拥有不同背景色的数字时钟；5.展示不同的UI层；6.如何创建支持滑动手势的应用程序。）。 
+* [KYVoiceCurve](https://github.com/KittenYang/KYVoiceCurve) - 类似Apple Watch中语音的声音曲线动画。  
+
 
 ========
 #### VPN
@@ -440,6 +442,7 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
 * [code4app](http://www.code4app.com/) - 最多国人用的代码库。
 * [cocoachina](http://code.cocoachina.com/) - 国内最热门的iOS社区的代码库。
 * [awesome-ios](https://github.com/vsouza/awesome-ios) - 一个老外整理的，[中文版](http://app.memect.com/doc/ios.html)。
+* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - 收集了不少 iOS UI/UX 库, 包含了很多酷炫的动画效果。
 * [ios-cosmos](http://ios-cosmos.com/) - The iOS Cosmos：收录了IOS绝大部分的开源框架和工具。
 * [Awesome Haskell资料大全](https://haskell.zeef.com/konstantin.skipor#block_28362_basics) -    Awesome Haskell 资料大全：框架，库和软件。
 * [Cosmos](http://ios-cosmos.com) - The iOS Cosmos：收录了IOS绝大部分的开源框架和工具。
