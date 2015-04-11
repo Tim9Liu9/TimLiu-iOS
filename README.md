@@ -176,6 +176,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [RESideMenu](https://github.com/romaonthego/RESideMenu) - 侧开菜单，qq类似。
  * [KGFloatingDrawer](https://github.com/KyleGoddard/KGFloatingDrawer) - 侧滑菜单，qq类似，KyleGoddard/KGFloatingDrawer O网页链接：一款适合于大屏手机或平板的浮动抽屉式导航界面组件。效果很赞- 侧开菜单，qq类似（与RESideMenu类似）。
  
+ * [AIFlatSwitch](https://github.com/cocoatoucher/AIFlatSwitch) - 一款带平滑过渡动画的 Switch 组件类，类相同风格的 Menu/Close[HamburgerButton](https://github.com/fastred/HamburgerButton),类似相同风格的 Menu/Back[hamburger-button](https://github.com/robb/hamburger-button).
 
 ##### 其他动画
  * [popping](https://github.com/schneiderandre/popping) - popping是一个POP 使用实例工程 
@@ -444,6 +445,9 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - iOS App集合，分：swift与Objective-C--国外人整理。 
 
 * [适合iOS开发者的15大网站推荐](http://www.csdn.net/article/2015-03-04/2824108-ios-developers-sites) -  适合 iOS 开发者的 15 大网站推荐 --- 英文网站。
+
+* [Objective-C GitHub 排名前 100 项目简介](https://github.com/Aufree/trip-to-iOS/blob/master/Top-100.md) -  主要对当前 GitHub 排名前 100 的项目做一个简单的简介, 方便初学者快速了解到当前 Objective-C 在 GitHub 的情况。 
+
 
 
 ##### 中文开发博客列表
