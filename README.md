@@ -377,7 +377,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) - Swift 开发的 DesignerNews 客户端，看着美美的！
 * [KYWeibo](https://github.com/KittenYang/KYWeibo) - 调用新浪API自己写的第三方微博客户端。
 * [DouQu_IOS](https://github.com/li6185377/DouQu_IOS) - 逗趣IOS手机端（一款笑话软件）,拥有完整的功能的手机应用app 。
-
+* [IT江湖iOS客户端](https://github.com/itjhDev/itjh) - IT江湖iOS客户端。
 
 ========
 #### Xcode插件
