@@ -88,7 +88,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) - 可显示多行 placeholder 的 textView，可以在IB里面设置 -- swift。
 * [HHFlashSwitch](https://github.com/mrchenhao/HHFlashSwitch) - 一个另类的UISwitch，选择后，背景水波扩散变色效果。 
 * [UITextViewDIYEmojiExample](https://github.com/zekunyan/UITextViewDIYEmojiExample) - [UITextView编辑时插入自定义表情-简单的图文混编](http://tutuge.me/2015/03/07/UITextView%E7%BC%96%E8%BE%91%E6%97%B6%E6%8F%92%E5%85%A5%E8%87%AA%E5%AE%9A%E4%B9%89%E8%A1%A8%E6%83%85-%E7%AE%80%E5%8D%95%E7%9A%84%E5%9B%BE%E6%96%87%E6%B7%B7%E7%BC%96/)。 
-* [Shimmer](https://github.com/facebook/Shimmer) - BlingBling闪光效果。
+* [Shimmer](https://github.com/facebook/Shimmer) - BlingBling闪光效果，酷炫的Label的效果，可以用于加载等待提示。
 * [ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor) - 适用于iOS的富文本WYSIWYG编辑器，支持语法高亮和源码查看。ZSSRichTextEditor包含所有WYSIWYG标准的编辑器工具。
 * [RichEditorView](https://github.com/cjwirth/RichEditorView) - swift，一套可定制富文本编辑器组件及示例。功能完整、代码简练、实现逻辑巧妙（编辑器核心与 WebView 结合，采用 HTML5 contentEditable 编辑模式，执行JS 配套命令 execCommand 实现富文本编辑功能）。
 
@@ -137,7 +137,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 ##### 其他UI
  * [AwesomeMenu](https://github.com/levey/AwesomeMenu) - 最多人用的Path菜单。
- * [DCPathButton](https://github.com/Tangdixi/DCPathButton) - Path 4.0的弹出菜单，呼出或者关闭菜单时，多个小图标会分别按照逆时针和顺时针的方向进行滚动。
+ * [DCPathButton](https://github.com/Tangdixi/DCPathButton) - Path， 4.0的弹出菜单，呼出或者关闭菜单时，多个小图标会分别按照逆时针和顺时针的方向进行滚动。
  * [SphereMenu](https://github.com/itouch2/SphereMenu) - 利用UIDynamicAnimator的有趣的菜单，path类似。 
  * [TwitterPaggingViewer](https://github.com/xhzengAIB/TwitterPaggingViewer)  - 多个Tableview，左右滑动。
  * [CircularProgressControl](https://github.com/carantes/CircularProgressControl) - Circular Progress Control using CAShapeLayer ，环形进度控制条。
@@ -186,6 +186,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 ##### 其他动画
  * [popping](https://github.com/schneiderandre/popping) - popping是一个POP 使用实例工程 
  * [SinaMenuView](https://github.com/xhzengAIB/SinaMenuView) - 用POP动画引擎写的Sina微博的Menu菜单。
+ * [MMTweenAnimation](https://github.com/adad184/MMTweenAnimation) - facebook POP的自定义动画扩展(基于POPCustomAnimation) 提供10种函数式动画。
  * [ZQLRotateMenu](https://github.com/pingguo-zangqilong/ZQLRotateMenu) - 这是一个旋转视图的选择器。
  * [CoolLoadAniamtion](https://github.com/pingguo-zangqilong/CoolLoadAniamtion) - 一个简单但是效果不错的loading动画。
  * [SequenRotateAnimation](https://github.com/pingguo-zangqilong/SequenRotateAnimation) - 一个简单的loading次序动画。
@@ -199,6 +200,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [KYWaterWaveView](https://github.com/KittenYang/KYWaterWaveView) - 一个内置波浪动画的UIView，里面有鱼跳跃水溅起来的效果。
  * [KYPingTransition](https://github.com/KittenYang/KYPingTransition) - 实现圆圈放大放小的转场动画，可以根据自己的需要使用Paper中的弹性效果，有Material风格。
  * [KYNewtonCradleAnimiation](https://github.com/KittenYang/KYNewtonCradleAnimiation) - 牛顿摆动画。
+ * [LayerPlayer](https://github.com/scotteg/LayerPlayer) - 一款全面展示核心动画 API 示例项目（上架应用）。包括 CALayer, CAScrollLayer, CATextLayer, AVPlayerLayer, CAGradientLayer, CAReplicatorLayer, CATiledLayer, CAShapeLayer, CAEAGLLayer, CATransformLayer, CAEmitterLayer 等使用的互动演示。。
 
 ========
 #### 网络相关
@@ -256,6 +258,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [QRCodeReader.swift](https://github.com/yannickl/QRCodeReader.swift) - QRCodeReader.swift一款简单的 QR 二维码阅读组件及示例，提供前后相机切换功能。
 * [Parsimmon](https://github.com/ayanonagon/Parsimmon) - swift，小而美的语言学类库封装工具包。提供分词、标记词性、词形归并、朴素贝页斯分类、决策树等自然语言分析小工具。P.S. 英语分词效果好于中文，感兴趣的同学可以针对中文做一些优化开发。参考译文 NSHipster - [NSLinguistic​Tagger](http://nshipster.cn/nslinguistictagger/)。
 * [Password-keyboard](https://github.com/liuchunlao/Password-keyboard) - 随机变换数字位置的密码键盘。 模仿银行类应用在付款时输入的随机密码键盘。
+* [MKMapView-Extension](https://github.com/SemperIdem/MKMapView-Extension) - 这是关于 MKMapView 写的一个基于swift的扩展，可以扩展 MKMapView 的相关功能，减少复用代码量。。
 
 ========
 #### 数据库
@@ -263,6 +266,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [GXDatabaseUtils](https://github.com/Gerry1218/GXDatabaseUtils) - 在FMDB基础上的工具。
 * [realm-cocoa](https://github.com/realm/realm-cocoa) - Realm是一个真正为移动设备打造的数据库，同时支持Objective-C和Swfit。Realm宣称其相比Sqlite，在移动设备上有着更好的性能表现。
 * [Breeze](https://github.com/andrelind/Breeze) - 用Swift写的一个轻量级的CoreData管理工具，并且还支持iCloud 。
+* [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - Swift，更容易地访问 CoreData 对象封装类库。除了 CRUD，还提供指针定位，强大的排序、筛选，异步数据获取，以及独立线程后台存取数据。
 
 ========
 #### 缓存处理
@@ -308,6 +312,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [ICGVideoTrimmer](https://github.com/itsmeichigo/ICGVideoTrimmer) - ICGVideoTrimmer提供提供视频剪切的视图（类似系统相册中浏览视频时顶部那个条状视图）。左右两个边界选择器还能够自定义。
 * [IOS录音和播放功能demo](http://d.cocoachina.com/code/detail/285717) - 比较完整的ios录音和播放功能的实现。
 * [CameraManager](https://github.com/imaginary-cloud/CameraManager) - 相机管理封装类库。看着极好用的样子----swift。
+* [MCAudioInputQueue](https://github.com/msching/MCAudioInputQueue) - 简易录音类，基于AudioQueue的。
 
 ========
 #### 响应式框架
@@ -418,6 +423,7 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
 #### 美工资源
 * [TWG_Retina_Icons](https://github.com/markohlebar/Peckham) - 一套支持 Retina 高清屏的 iPhone 免费图标集。
 * [ASCIImage](https://github.com/cparnot/ASCIImage) - 使用 NSString 创建 image，[说明](http://cocoamine.net/blog/2015/03/20/replacing-photoshop-with-nsstring/)。
+* [my-sketch-colors](https://github.com/RayPS/my-sketch-colors) - 配色。
 
 
 #### 其他资源
