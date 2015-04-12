@@ -67,6 +67,7 @@
  * [FXBlurView](https://github.com/nicklockwood/FXBlurView) -be 支持iOS5.0以上版本，支持静态、动态模糊效果，继承与UIView的模糊特效。
  * [VVBlurPresentation](https://github.com/onevcat/VVBlurPresentation) -很简单易用的在原来viewconntroller基础上做模糊，然后present新的viewcontroller的。
  * [UICustomActionSheet](https://github.com/pchernovolenko/UICustomActionSheet) - 通过模糊背景来着重强调与菜单相关的元素--对话框 里面已经收藏。
+ * [SABlurImageView](https://github.com/szk-atmosphere/SABlurImageView) - 支持渐变动画效果的图像模糊化类库。P.S. 与前几天推存类库 SAHistoryNavigationViewController 是同一位作者。
 
 ##### AutoLayout
 * [Masonry](https://github.com/Masonry/Masonry) - Masonry是一个轻量级的布局框架，拥有自己的描述语法，采用更优雅的链式语法封装自动布局，简洁明了并具有高可读性（ [使用介绍1](http://adad184.com/2014/09/28/use-masonry-to-quick-solve-autolayout/)  [使用介绍2](http://ios.jobbole.com/81483/)）。
@@ -414,6 +415,8 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
 * [Alcatraz](http://alcatraz.io/) -使用Alcatraz来管理Xcode插件 [使用说明](http://tangqiaoboy.gitcafe.io/blog/2014/03/05/use-alcatraz-to-manage-xcode-plugins/) 。
 
 * [KSHObjcUML](https://github.com/kimsungwhee/KSHObjcUML) -KSHObjcUML 是一个 Objective-C 类引用关系图的 Xcode 插件。 
+
+* [ColorSense-for-Xcode](https://github.com/omz/ColorSense-for-Xcode) - 颜色插件，安装之后，就不用根据RGB选择颜色，直接从取色板中取颜色，会自动补齐RGB代码。。
 
 * [10款提高iOS开发效率的XCode插件](http://www.imooc.com/wenda/detail/237132) - 10款提高iOS开发效率的XCode插件：1. XcodeColors；5. ACCodeSnippetRepository；10. Dash for Xcode。 
 
