@@ -31,9 +31,10 @@
 - [图像浏览及处理](#图像浏览及处理)
 - [摄像照相视频音频处理](#摄像照相视频音频处理)
 - [响应式框架](#响应式框架)
-- [消息推送](#消息推送)
-    - [客户端](#客户端)
-    - [服务器端](#服务器端)
+- [消息相关](#消息相关)
+    - [消息推送客户端](#消息推送客户端)
+    - [消息推送服务器端](#消息推送服务器端)
+    - [通知相关](#通知相关)
 - [版本新API的Demo](#版本新API的Demo)
 - [代码安全与密码](#代码安全与密码)
 - [测试及调试](#测试及调试)
@@ -341,17 +342,21 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [BeeFramework](https://github.com/gavinkwoe/BeeFramework) -  与ReactiveCocoa类似，[BeeFramework用户指南 v1.0](http://www.lanrenios.com/tutorials/all/2012/1220/641.html)。
 * [Objective-Chain](https://github.com/iMartinKiss/Objective-Chain) - Objective-Chain是一个面向对象的响应式框架，作者表示该框架吸收了 ReactiveCocoa 的思想，并且想做得更面向对象一些。
 
+
 ========
-#### 消息推送
-##### 客户端
+#### 消息相关
+##### 消息推送客户端客户端
 * [SGPushDemo](https://github.com/sagiwei/SGPush/tree/master/SGPushDemo) - 消息推送客户端
 * [Orbiter](https://github.com/mattt/Orbiter) - 消息推送客户端:Push Notification Registration for iOS.
-* [JSQNotificationObserverKit](https://github.com/jessesquires/JSQNotificationObserverKit) - 一款轻量、易用的通知发送及响应框架类库。作者是知名开源项目 JSQMessagesViewController（Objective-C 版即时聊天）的作者 Jesse Squires.
-* [GLPubSub](https://github.com/Glow-Inc/GLPubSub) - 一个简短实用的 NSNotificationCenter 的封装。
 
-##### 服务器端
+##### 消息推送客户端服务器端
  * [javapns源代码](https://code.google.com/p/javapns/downloads/list) - 消息推送的java服务端代码，注意：DeviceToken中间不能有空格。
  * [pushMeBaby](https://github.com/stefanhafeneger/PushMeBaby) - Mac端消息推送端代码，注意：DeviceToken中间要有空格。
+
+##### 通知相关
+* [JSQNotificationObserverKit](https://github.com/jessesquires/JSQNotificationObserverKit) - 一款轻量、易用的通知发送及响应框架类库。作者是知名开源项目 JSQMessagesViewController（Objective-C 版即时聊天）的作者 Jesse Squires.
+* [GLPubSub](https://github.com/Glow-Inc/GLPubSub) - 一个简短实用的 NSNotificationCenter 的封装。
+* [Homeoff](https://github.com/lizyyy/Homeoff) - 用swift写了一个模仿Launcher通知中心快捷方式的应用。支持20个应用，并增加了一个返回到桌面来解放Home键的功能。
 
 ========
 #### 版本新API的Demo
