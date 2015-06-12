@@ -498,7 +498,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [IT江湖iOS客户端](https://github.com/itjhDev/itjh) - IT江湖iOS客户端。
 * [Eidolon](https://github.com/artsy/eidolon) - 艺术品拍卖的投标亭平台，用swift与反应式编程框架 ReactiveCocoa。
 * [CrazyPuzzle](https://github.com/nonstriater/CrazyPuzzle) - 模仿“看图猜成语”App，功能齐全，配有音效，效果很不错。游戏使用cocoa框架完成，没有使用cocos2d的框架。
-
+* [WhoCall](https://github.com/Tim9Liu9/WhoCall) - 谁CALL我，iOS来电信息语音提醒，无需越狱。（需要iOS 7.0及以上版本。)骚扰电话预警、来电归属地提醒、联系人姓名播报，这些有中国特色人性化的电话功能，iOS上也应该有。电话提醒、私有API。
+* [仿iOS猎豹垃圾清理(实现原理+源码)](http://www.devtf.cn/?p=562) -  仿iOS猎豹垃圾清理(实现原理+源码),用到私有API。
 
 ========
 #### Xcode插件
