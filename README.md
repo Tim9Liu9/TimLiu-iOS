@@ -263,8 +263,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [GiftCard-Implementation](https://github.com/MartinRGB/GiftCard-Implementation) - 购买的炫酷动画。
  * [iCarousel](https://github.com/nicklockwood/iCarousel) - iCarousel是一个类，它继承于UIView。用于简化实现各种类型的旋转木马(分页滚动视图）。
  * [HotGirls](https://github.com/zangqilong198812/HotGirls) - 卡片动画。
+ * [ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift) - swift 多变的卡片切换转场动画封装类库。
  * [QQPersonalInfoTransition](https://github.com/zangqilong198812/QQPersonalInfoTransition) - 仿照QQ的转场。
- 
+ * [KYAnimatedPageControl](https://github.com/KittenYang/KYAnimatedPageControl) - 除了滚动视图时PageControl会以动画的形式一起移动，点击目标页还可快速定位。支持两种样式：粘性小球和旋转方块。
+
 ========
 #### 网络相关
 ##### 网络连接
@@ -354,7 +356,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [DKNightVersion](https://github.com/Draveness/DKNightVersion) - 用最快的方式给你的应用加上夜间和白天的切换效果。 
 * [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) - 实用的多点触摸可视化组件。扩展并作用于 UIWindows，结构上提供了简单地针对触摸显示定制，比如触摸点的颜色。
 * [RegexKitLite](https://github.com/wezm/RegexKitLite) - 用来处理正则表达式。 
-
+* [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - 非官方 Xcode Server SDK 封装库。 P.S. 该 SDK 分离自之前推荐的由该作者开发的自动测试框架 [Buildasaur](https://github.com/czechboy0/Buildasaur)。
 
 ========
 #### 数据库
@@ -476,7 +478,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [MobileWebPageTest](http://code4app.com/ios/MobileWebPerformanceTest/5465d3e9933bf00c658b4f43) - MobileWebPageTest是用来测试移动网页性能的软件，它可以对页面的加载和渲染过程进行截屏，协助开发者分析出页面性能瓶颈。
 * [KKLog](https://github.com/Coneboy-k/KKLog) - 一个日志管理系统。
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - 相当于 CocoaLumberjack 或 Log4j 的 Swift 版本，功能上甚至更强大。另外，源代码中已经内含了完整的 API 文档，使用非常方便。
-
+[Buildasaur](https://github.com/czechboy0/Buildasaur) - 自动测试框架 Buildasaur。
 
 ========
 #### AppleWatch
