@@ -482,6 +482,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [KKLog](https://github.com/Coneboy-k/KKLog) - 一个日志管理系统。
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - 相当于 CocoaLumberjack 或 Log4j 的 Swift 版本，功能上甚至更强大。另外，源代码中已经内含了完整的 API 文档，使用非常方便。
 [Buildasaur](https://github.com/czechboy0/Buildasaur) - 自动测试框架 Buildasaur。
+[MMPlaceHolder](https://github.com/adad184/MMPlaceHolder) - 一行代码显示UIView的位置及相关参数。
 
 ========
 #### AppleWatch
