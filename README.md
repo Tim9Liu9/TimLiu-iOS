@@ -549,6 +549,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [Tropos](https://github.com/thoughtbot/Tropos) - Tropos, 由 thoughtbot 推出的一款用 Objective-C 写的开源天气类应用, 截至今天, thoughtbot 已在 GitHub 上贡献了 174 个开源项目, 实在令人敬佩。 
 * [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) - 它是我利用业余时间开发的基于MVVM和RAC的GitHub第三方开源客户端，是我的诚意之作。[AppStore地址](https://itunes.apple.com/cn/app/id961330940?mt=8)，欢迎下载使用GitBucket和收藏MVVMReactiveCocoa。 
 * [Tomate](https://github.com/dasdom/Tomate) - 这个圆盘式计时器让你更专注于工作或学习。P.S. App Store 上架收费应用（0.99 欧）。
+* [StoveFireiOSMenu](https://github.com/joeshang/StoveFireiOSMenu) - 炉火餐饮系统iPad点餐端。
 
 ========
 #### Xcode插件
