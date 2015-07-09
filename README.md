@@ -382,6 +382,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [SwiftSequence](https://github.com/oisdk/SwiftSequence) - 简洁、灵活、多变的操作 SequenceType 的类库（基于微框架（μframework）设计思想）。
 * [IDNFeedParser](https://github.com/photondragon/IDNFeedParser) - 一个简单易用的Rss解析库。
 * [CoreUmeng](https://github.com/nsdictionary/CoreUmeng) - 简单：友盟分享封装。
+* [Swifternalization](https://github.com/tomkowz/Swifternalization) - 一套实用的本地化工具库。使用教程及 API 文档完整。值得收入项目的“轮子”。
 
 ========
 #### 数据库
