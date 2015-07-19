@@ -579,7 +579,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### 好的文章
 * [自定义转场动画](http://www.jianshu.com/p/38cd35968864) - 3 种方法～ 关于自定义转场动画。
 * [iOS提高效率的方法和工具](http://lcepy.github.io/2015/07/14/iOS%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87%E7%9A%84%E6%96%B9%E6%B3%95%E5%92%8C%E5%B7%A5%E5%85%B7/) - iOS提高效率的方法和工具。 
-
+* [用 JSON 构建 API 的标准指南](http://jsonapi.org.cn/) - 用 JSON 构建 API 的标准指南。
 
 ========
 #### Xcode插件
