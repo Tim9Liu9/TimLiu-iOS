@@ -237,6 +237,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [GMStepper](https://github.com/gmertk/GMStepper) - swift 带动画效果、支持手势滑动操作的步进标签。
  * [TZStackView](https://github.com/tomvanzummeren/TZStackView) - OS 9 UIStackView 功能模拟实现于 iOS 7/ iOS 8 内。
  * [LayoutTrait](https://github.com/441088327/LayoutTrait) - swift 一个小类库。 做iPad 多任务分屏 适配的同学可以看一下。
+ * [HACursor](https://github.com/HAHAKea/HACursor) - HACursor，是一个对横向ScrollView中的视图进行管理的UI控件。只要几行代码就可以集成类似于网易新闻对主题页面进行排序，删除操作的功能。
+ * [Ruler](https://github.com/nixzhu/Ruler) - 尺子。
 
 ========
 #### 动画
