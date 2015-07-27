@@ -576,6 +576,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) - 它是我利用业余时间开发的基于MVVM和RAC的GitHub第三方开源客户端，是我的诚意之作。[AppStore地址](https://itunes.apple.com/cn/app/id961330940?mt=8)，欢迎下载使用GitBucket和收藏MVVMReactiveCocoa。 
 * [Tomate](https://github.com/dasdom/Tomate) - 这个圆盘式计时器让你更专注于工作或学习。P.S. App Store 上架收费应用（0.99 欧）。
 * [StoveFireiOSMenu](https://github.com/joeshang/StoveFireiOSMenu) - 炉火餐饮系统iPad点餐端。
+* [BaiduFM-Swift](https://github.com/belm/BaiduFM-Swift) - 百度FM, swift语言实现，基于最新xcode6.3+swift1.2,初步只是为了实现功能，代码比较粗燥，后面有时间会整理，支持Apple Watch。
 
 ========
 #### 好的文章
