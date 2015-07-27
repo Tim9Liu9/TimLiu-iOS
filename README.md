@@ -119,6 +119,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - swift 能够实现文字变形动画效果的Label，用Swift写的一个能够实现文字变形动画效果的Label，很炫。
 * [GJCFCoreText](https://github.com/zyprosoft/GJCFCoreText) - 图文混排。
 * [AttributedLabel](https://github.com/KyoheiG3/AttributedLabel) - 显示性能数量级 UILabel 的 AttributedLabel。无畏无惧、挑战权威。
+* [FFLabel](https://github.com/liufan321/FFLabel) - 自动检测 URLs, @username, #topic# 等关链词（提供响应扩展）。实用的标签文本小组件。
 
 ##### 图表
 * [PNChart](https://github.com/kevinzhow/PNChart) - 国内开源作者，动态的图表。
@@ -235,6 +236,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [QQBtn](https://github.com/ZhongTaoTian/QQBtn) - 仿QQ未读消息弹性按钮动画，达到和手机QQ未读信息一样的动画效果，效果基本实现。
  * [GMStepper](https://github.com/gmertk/GMStepper) - swift 带动画效果、支持手势滑动操作的步进标签。
  * [TZStackView](https://github.com/tomvanzummeren/TZStackView) - OS 9 UIStackView 功能模拟实现于 iOS 7/ iOS 8 内。
+ * [LayoutTrait](https://github.com/441088327/LayoutTrait) - swift 一个小类库。 做iPad 多任务分屏 适配的同学可以看一下。
 
 ========
 #### 动画
