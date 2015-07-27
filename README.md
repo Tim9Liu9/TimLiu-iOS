@@ -419,6 +419,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [TMCache](https://github.com/tumblr/TMCache) - TMCache 是 Tumblr 开源的一个基于 key/value 的数据缓存类库,可以用于缓存一些临时数据或者需要频繁加载的数据,比如某些下载的数据或者一些临时处理结果。
 * [JLKeychain](https://github.com/jl322137/JLKeychain) - 快捷使用keychain存储数据的类，使keychain像NSUserDefaults一样工作。
 * [sskeychain](https://github.com/soffes/sskeychain) - SSKeyChains对苹果安全框架API进行了简单封装,支持对存储在钥匙串中密码、账户进行访问,包括读取、删除和设置。
+* [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - 管理Keychain接入的小助手。
 
 ========
 #### PDF
@@ -540,6 +541,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 [使用Quick框架和Nimble来测试ViewControler](http://www.devtf.cn/?p=739) - Quick是一个用于创建BDD测试的框架。配合Nimbl，可以为你创建更符合预期目标的测试。
 * [fastlane](https://github.com/KrauseFx/fastlane) - 一套iOS开发和持续集成的命令行工具fastlane，可以用来快速搭建CI甚至自动提交的开发环境。这套工具中包括了上传ipa文件，自动截取多语言截屏，生成推送证书，管理产品证书等一系列实用工具。
 * [KIF](https://github.com/kif-framework/KIF) - 是一个开源的用户界面UI测试框架. 使用 KIF, 并利用 iOS中的辅助功能 API, 你将能够编写模拟用户输入，诸如点击，触摸和文本输入，自动化的UI测试.
+* [Quick](https://github.com/Quick/Quick) - 用于Swift中的单元测试（也可用于Objective-C），与Xcode整合在一起。如果你是Objective-C的粉丝，我建议用Specta代替这个，但是对Swift使用者来说，Quick是最佳选择。
 
 ========
 #### AppleWatch
