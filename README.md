@@ -261,6 +261,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) - 在应用中采用链式写出酷炫的动画效果, 使代码更加清晰易读，利用block实现的链式编程。
  * [WXGSlideMenuDemo](https://github.com/WXGBridgeQ/WXGSlideMenuDemo) - 个简单实现侧拉（侧滑）菜单的小demo，供初学者共同学习、练习使用。
  * [PKRevealController](https://github.com/pkluz/PKRevealController) - PKRevealController是一个可以滑动的侧边栏菜单（可向左、向右或者同时向两侧），只需手指轻轻一点（或者按一下按钮，但是这样滑动时不够炫酷）。
+ * [SwiftPages](https://github.com/GabrielAlva/SwiftPages) - 高可定制类似 Instagram 视图滑动切换功能类库。API 简单、易用。
 
 ##### gif动画
  * [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView-PlayGIF。
@@ -302,6 +303,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [QQPersonalInfoTransition](https://github.com/zangqilong198812/QQPersonalInfoTransition) - 仿照QQ的转场。
  * [KYAnimatedPageControl](https://github.com/KittenYang/KYAnimatedPageControl) - 除了滚动视图时PageControl会以动画的形式一起移动，点击目标页还可快速定位。支持两种样式：粘性小球和旋转方块。
 * [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle) - 【IFTTT开源Swift编写的帧动画框架--RazzleDazzle】RazzleDazzle 是IFTTT开源的一个iOS帧动画框架，非常适用于APP初次使用时的介绍和引导信息。JazzHands是UIKit一个简单的关键帧基础动画框架，可通过手势、scrollview、KVO等控制动画，被IFTTT应用在IFTTT for iPhone上。
+* [Presentation](https://github.com/hyperoslo/Presentation) - 一个类似RazzleDazzle的框架。
 
 ========
 #### 网络相关
