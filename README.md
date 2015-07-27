@@ -16,6 +16,7 @@
     - [其他UI](#其他UI)
 - [动画](#动画)
     - [侧滑与右滑返回手势](#侧滑与右滑返回手势)
+    - [gif动画](#gif动画)
     - [其他动画](#POP动画)
 - [网络相关](#网络相关)
     - [网络连接](#网络连接)
@@ -260,6 +261,11 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) - 在应用中采用链式写出酷炫的动画效果, 使代码更加清晰易读，利用block实现的链式编程。
  * [WXGSlideMenuDemo](https://github.com/WXGBridgeQ/WXGSlideMenuDemo) - 个简单实现侧拉（侧滑）菜单的小demo，供初学者共同学习、练习使用。
  * [PKRevealController](https://github.com/pkluz/PKRevealController) - PKRevealController是一个可以滑动的侧边栏菜单（可向左、向右或者同时向两侧），只需手指轻轻一点（或者按一下按钮，但是这样滑动时不够炫酷）。
+
+##### gif动画
+ * [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView-PlayGIF。
+ * [YLGIFImage](https://github.com/liyong03/YLGIFImage) - YLGIFImage。
+ * [YLGIFImage-Swift](https://github.com/liyong03/YLGIFImage-Swift) - YLGIFImage-Swift。
 
 ##### 其他动画
  * [popping](https://github.com/schneiderandre/popping) - popping是一个POP 使用实例工程 
