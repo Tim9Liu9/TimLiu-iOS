@@ -167,7 +167,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 ##### HUD与Toast
  * [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - 最多人用的loading。
- * [SVProgressHUD](https://github.com/TransitApp/SVProgressHUD) - SVProgressHUD的loading。
+ * [SVProgressHUD](https://github.com/TransitApp/SVProgressHUD) - SVProgressHUD的loading，如果你需要定制化的等待提示器，这个就是了（也许是最好的）。。
  * [ProgressHUD](https://github.com/relatedcode/ProgressHUD) - ProgressHUD的loading，使用最简单。
 
 ##### 对话框
@@ -256,6 +256,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [AIFlatSwitch](https://github.com/cocoatoucher/AIFlatSwitch) - 一款带平滑过渡动画的 Switch 组件类，类相同风格的 Menu/Back[HamburgerButton](https://github.com/fastred/HamburgerButton),类似相同风格的 Menu/Close[hamburger-button](https://github.com/robb/hamburger-button).
  * [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) - 在应用中采用链式写出酷炫的动画效果, 使代码更加清晰易读，利用block实现的链式编程。
  * [WXGSlideMenuDemo](https://github.com/WXGBridgeQ/WXGSlideMenuDemo) - 个简单实现侧拉（侧滑）菜单的小demo，供初学者共同学习、练习使用。
+ * [PKRevealController](https://github.com/pkluz/PKRevealController) - PKRevealController是一个可以滑动的侧边栏菜单（可向左、向右或者同时向两侧），只需手指轻轻一点（或者按一下按钮，但是这样滑动时不够炫酷）。
 
 ##### 其他动画
  * [popping](https://github.com/schneiderandre/popping) - popping是一个POP 使用实例工程 
