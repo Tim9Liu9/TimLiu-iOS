@@ -17,7 +17,7 @@
 - [动画](#动画)
     - [侧滑与右滑返回手势](#侧滑与右滑返回手势)
     - [gif动画](#gif动画)
-    - [其他动画](#POP动画)
+    - [其他动画](#其他动画)
 - [网络相关](#网络相关)
     - [网络连接](#网络连接)
     - [网络测试](#网络测试)
@@ -302,8 +302,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [Koloda](https://github.com/Yalantis/Koloda) - 基于卡片的 Tinder-style 动画效果示例。精细绝人。更赞的是额外附了详细开发教程 How We Built Tinder-Like Koloda Animation in Swift [网页链接](https://yalantis.com/blog/how-we-built-tinder-like-koloda-in-swift/) 。Yalantis 出品动画程序款款精品。
  * [QQPersonalInfoTransition](https://github.com/zangqilong198812/QQPersonalInfoTransition) - 仿照QQ的转场。
  * [KYAnimatedPageControl](https://github.com/KittenYang/KYAnimatedPageControl) - 除了滚动视图时PageControl会以动画的形式一起移动，点击目标页还可快速定位。支持两种样式：粘性小球和旋转方块。
-* [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle) - 【IFTTT开源Swift编写的帧动画框架--RazzleDazzle】RazzleDazzle 是IFTTT开源的一个iOS帧动画框架，非常适用于APP初次使用时的介绍和引导信息。JazzHands是UIKit一个简单的关键帧基础动画框架，可通过手势、scrollview、KVO等控制动画，被IFTTT应用在IFTTT for iPhone上。
-* [Presentation](https://github.com/hyperoslo/Presentation) - 一个类似RazzleDazzle的框架。
+ * [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle) - 【IFTTT开源Swift编写的帧动画框架--RazzleDazzle】RazzleDazzle 是IFTTT开源的一个iOS帧动画框架，非常适用于APP初次使用时的介绍和引导信息。JazzHands是UIKit一个简单的关键帧基础动画框架，可通过手势、scrollview、KVO等控制动画，被IFTTT应用在IFTTT for iPhone上。
+ * [Presentation](https://github.com/hyperoslo/Presentation) - 一个类似RazzleDazzle的框架。
 
 ========
 #### 网络相关
