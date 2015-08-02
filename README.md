@@ -240,6 +240,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [TZStackView](https://github.com/tomvanzummeren/TZStackView) - OS 9 UIStackView 功能模拟实现于 iOS 7/ iOS 8 内。
  * [LayoutTrait](https://github.com/441088327/LayoutTrait) - swift 一个小类库。 做iPad 多任务分屏 适配的同学可以看一下。
  * [HACursor](https://github.com/HAHAKea/HACursor) - HACursor，是一个对横向ScrollView中的视图进行管理的UI控件。只要几行代码就可以集成类似于网易新闻对主题页面进行排序，删除操作的功能。
+ * [ZTPageController](https://github.com/IOStao/ZTPageController) - 模仿网易新闻和其他新闻样式做的一个菜单栏，栏中有各自的控制器，其中有4中展示样式’网易style' ’搜狐style' ’腾讯style1' ’网易style2' 。 
  * [Ruler](https://github.com/nixzhu/Ruler) - 尺子。
 
 ========
