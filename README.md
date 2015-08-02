@@ -424,6 +424,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [LocationManager](https://github.com/intuit/LocationManager) - CoreLocation使用起来还是比较麻烦的，需要授权，判断系统版本等等，所以推荐使用第三方框架LocationManager，使用Block，十分简单！[iOS-CoreLocation：无论你在哪里，我都要找到你！](http://www.cocoachina.com/ios/20150721/12611.html) 。
 * [pangu.objective-c](https://github.com/Cee/pangu.objective-c) - 有多种语言实现版本～ Pangu.Objective-C：格式化中英文之间的空格（OC）。
 * [objection](https://github.com/atomicobject/objection) - 一个轻量级的依赖注入框架Objection。
+* [ControlOrientation](https://github.com/johnlui/Swift-On-iOS/tree/master/ControlOrientation/ControlOrientation) - 如何用代码控制以不同屏幕方向打开新页面【iOS】， [使用说明](http://lvwenhan.com/ios/458.html)。
 
 ========
 #### 数据库
