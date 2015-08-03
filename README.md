@@ -243,6 +243,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [HACursor](https://github.com/HAHAKea/HACursor) - HACursor，是一个对横向ScrollView中的视图进行管理的UI控件。只要几行代码就可以集成类似于网易新闻对主题页面进行排序，删除操作的功能。
  * [ZTPageController](https://github.com/IOStao/ZTPageController) - 模仿网易新闻和其他新闻样式做的一个菜单栏，栏中有各自的控制器，其中有4中展示样式’网易style' ’搜狐style' ’腾讯style1' ’网易style2' 。 
  * [Ruler](https://github.com/nixzhu/Ruler) - 尺子。
+ * [HUMSlider](https://github.com/justhum/HUMSlider) - HUMSlider是一款能够自动显示刻度记号的滑竿，滑动到某处，该处的刻度会自动上升，两边还能配置图像。支持代码或storyboard中实现。
 
 ========
 #### 动画
