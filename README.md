@@ -431,6 +431,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [pangu.objective-c](https://github.com/Cee/pangu.objective-c) - 有多种语言实现版本～ Pangu.Objective-C：格式化中英文之间的空格（OC）。
 * [objection](https://github.com/atomicobject/objection) - 一个轻量级的依赖注入框架Objection。
 * [ControlOrientation](https://github.com/johnlui/Swift-On-iOS/tree/master/ControlOrientation/ControlOrientation) - 如何用代码控制以不同屏幕方向打开新页面【iOS】， [使用说明](http://lvwenhan.com/ios/458.html)。
+* [iRate](https://github.com/nicklockwood/iRate) - 问卷调查。
+* [GameCenterManager](https://github.com/nihalahmed/GameCenterManager) - 在iOS上管理GameCenter vanilla并不算难，但是有了这个库会更简单也更快。好上加好不是更好么。
 
 ========
 #### 数据库
