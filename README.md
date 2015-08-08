@@ -252,7 +252,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [Ruler](https://github.com/nixzhu/Ruler) - 尺子。
  * [HUMSlider](https://github.com/justhum/HUMSlider) - HUMSlider是一款能够自动显示刻度记号的滑竿，滑动到某处，该处的刻度会自动上升，两边还能配置图像。支持代码或storyboard中实现。
  * [JDSelectedDemo](https://github.com/zhangli4659507/JDSelectedDemo) - 仿京东筛选菜单实现。
- * [LSPaomaView](https://github.com/liusen001/LSPaomaView) - 可循环滚动的较长文字，跑马灯，效果很好，一句话集成。
+ * [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) -  下拉列表暨导航标题组件。简单、直接、易用 -swift。
 
 ========
 #### 动画
@@ -328,6 +328,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [Presentation](https://github.com/hyperoslo/Presentation) - 一个类似RazzleDazzle的框架。
  * [FillableLoaders](https://github.com/poolqf/FillableLoaders) - 基于 CGPaths 可定制个性化填空式装载类库。附水波上涨式示例。
  * [SXWaveAnimate](https://github.com/dsxNiubility/SXWaveAnimate) - 实现非常美观的灌水动画。
+ * [LSPaomaView](https://github.com/liusen001/LSPaomaView) - 可循环滚动的较长文字，跑马灯，效果很好，一句话集成。
 
 ========
 #### 网络相关
