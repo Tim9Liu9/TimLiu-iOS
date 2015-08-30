@@ -469,6 +469,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [DownloadFontOnline](https://github.com/cgwangding/DownloadFontOnline) - 实现了在线下载一些字体的功能，不用在工程中导入字体库，下载的字体也不会保存在你的应用中，所以可以放心使用。修复了一下崩溃的bug。
 * [STClock](https://github.com/zhenlintie/STClock) - 仿锤子时钟。
 * [GitUp](https://github.com/git-up/GitUp) - GitUp是一个可视化的Git客户端，能够实时的进行编辑、合并、回滚等多种操作，更多功能，请下载体验。
+* [获取联系人信息，通讯录](http://code.cocoachina.com/detail/320392/) - 获取联系人信息，通讯录。
 
 ========
 #### 数据库
