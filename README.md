@@ -592,6 +592,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [appleSample](https://github.com/WildDylan/appleSample) - iOS 苹果官方Demo合集， [官方demo](https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code).
 * [iOS7-Sampler](https://github.com/shu223/iOS7-Sampler) - 整合了iOS7.0的一些十分有用的特性，比如：Dynamic Behaviors、碰撞检测、语音合成、视图切换、图像滤镜、三维地图、Sprite Kit（动画精灵）、Motion Effect（Parallax）、附近蓝牙或者wifi搜索连接、AirDrop、运动物体追踪（iPhone 5S以上，需要M7处理器）等等。对于日常的应用开发十分实用。 
 * [iOS8-Sampler](https://github.com/shu223/iOS8-Sampler) - 日本的shuさん制作的 iOS8 参考代码集。01.Audio Effects ；02.New Image Filters；03.Custom Filters；04.Metal Basic；05.Metal Uniform Streaming；06.SceneKit；07.HealthKit；08.TouchID；09.Visual Effects；10.WebKit；11.UIAlertController；12.User Notification；13.Pedometer；14.AVKit；15.Histogram；16.Code Generator；17.New Fonts；18.Popover；19.Accordion Fold Transition
+* [iOS-9-Sampler](https://github.com/shu223/iOS-9-Sampler) - 通过实例介绍了iOS 9 SDK中重要新特性的使用。
 * [MTSwift-Learning](https://github.com/MartinRGB/MTSwift-Learning) - 通过一些简单项目实战演练开始学习 Swift 。
 * [iOS8-day-by-day](https://github.com/shinobicontrols/iOS8-day-by-day) - swift。
 * [iOS9-day-by-day](https://github.com/shinobicontrols/iOS9-day-by-day) - swfit [iOS9 Day-by-Day :: Day 2 :: UI Testing](http://www.jianshu.com/p/039f8de6ee4d)。
@@ -688,7 +689,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 ========
 #### 好的文章
 * [自定义转场动画](http://www.jianshu.com/p/38cd35968864) - 3 种方法～ 关于自定义转场动画。
-* [iOS提高效率的方法和工具](http://lcepy.github.io/2015/07/14/iOS%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87%E7%9A%84%E6%96%B9%E6%B3%95%E5%92%8C%E5%B7%A5%E5%85%B7/) - iOS提高效率的方法和工具。 
+* [iOS提高效率的方法和工具](https://github.com/icepy/_posts/blob/master/iOS%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87%E7%9A%84%E6%96%B9%E6%B3%95%E5%92%8C%E5%B7%A5%E5%85%B7.md) - iOS提高效率的方法和工具。 
 * [用 JSON 构建 API 的标准指南](http://jsonapi.org.cn/) - 用 JSON 构建 API 的标准指南。
 
 ========
