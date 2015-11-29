@@ -26,6 +26,7 @@
     - [网络测试](#网络测试)
     - [WebView](#WebView)
 - [Model](#Model)
+- [通讯录](#通讯录)
 - [其他](#其他)
 - [数据库](#数据库)
 - [缓存处理](#缓存处理)
@@ -428,6 +429,11 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [protobuf-swift](https://github.com/alexeyxo/protobuf-swift) - Protocol Buffers 的 Swift 语言实现库。P.S. Protocol Buffers 是 Google 开源项目，主要功能是实现直接序列化结构化的对象数据，方便跨平台快速传递，开发者也可以直接修改 protobuf 中的数据。相比 XML 和 JSON，protobuf 解析更快，存储更小。
 * [JSONCodable](https://github.com/matthewcheok/JSONCodable) - 基于 Swift 2.0 新特性（Protocol Extensions and Error Handling）的JSON 解析类。
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - 使Swift的JSON解析变得简单。
+
+========
+#### 通讯录
+* [快速查找联系人](http://code.cocoachina.com/view/128245) - 类似微信联系人搜索的界面,快速查找联系人,并支持点击查询结果 。
+
 
 ========
 #### 其他
