@@ -504,6 +504,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [RunKit.swift](https://github.com/khoiln/RunKit) - 针对 GCD 框架的一个友好访问封装库（支持方法链式调用）。
 * [Plum-O-Meter](https://github.com/FlexMonkey/Plum-O-Meter) - swift 称重应用， (3D Touch之我见)[http://swift.gg/2015/10/23/3d-touch-impressions-and-thoughts/]。
 * [打开自带地图、百度地图、腾讯地图](http://code.cocoachina.com/view/128249) - 打开自带地图、百度地图、腾讯地图。
+* [batteryLevelTest](https://github.com/colin1994/batteryLevelTest) - runtime精准获取电池电量，[文档](http://www.jianshu.com/p/11c1afdf5415)。
 
 ========
 #### 数据库
