@@ -572,6 +572,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [LGPhotoBrowser](https://github.com/gang544043963/LGPhotoBrowser) - LGPhotoBrowser:相册选择/浏览器/照相机（仿微信）,包含三个模块：照片浏览器，相册选择器，照相机。
 * [PhotoBrowser](https://github.com/oscarWyz/PhotoBrowser) - 一个简单的好用的的图片浏览器。
 * [BeautyHour](https://github.com/xujingzhou/BeautyHour) - 完整应用，功能与“美图秀秀”雷同。
+* [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - 是用 Swift 写的类似 Apple TV Parallax 效果的视图。
 
 ========
 #### 摄像照相视频音频处理
