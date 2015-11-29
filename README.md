@@ -267,6 +267,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [JDSelectedDemo](https://github.com/zhangli4659507/JDSelectedDemo) - 仿京东筛选菜单实现。
  * [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) -  下拉列表暨导航标题组件。简单、直接、易用 -swift。
  * [3DTouchDemo](https://github.com/luzefeng/3DTouchDemo) - 详细介绍了每个参数的含义和3Dtouch的入口，保证包学包会。
+ * [仿LOL滚动视图](http://code.cocoachina.com/view/128287) - 仿LOL滚动视图。
 
 ========
 #### 动画
