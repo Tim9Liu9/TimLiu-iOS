@@ -282,6 +282,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [答题选择切换页](http://code.cocoachina.com/view/128281) - 将scrollview和tableview封装在一起，在初始化的时候简单的将数据带上，就可以一页一页的左右来回滑动。
  * [CharacterPickerView](https://github.com/alafighting/CharacterPickerView) - 可实现三级联动的选择器，高仿iOS的滚轮控件,可实现单项选择，并支持一二三级联动效果。
  * [SCTrelloNavigation](https://github.com/SergioChan/SCTrelloNavigation) - 类似trello的导航动效控件实现。
+ * [XTPaster](https://github.com/Akateason/XTPaster) - 贴纸功能出现在很多图片社交中, 就是图片上面贴图片, 对贴纸而言就是需要控制贴纸的位置,旋转,大小,[如何使用](http://www.jianshu.com/p/d873d348bbfb)。
 
 ========
 #### 动画
