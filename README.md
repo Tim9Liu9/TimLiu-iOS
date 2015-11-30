@@ -390,6 +390,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [TKRubberIndicator.swift](https://github.com/TBXark/TKRubberIndicator) - 一个很不错的 page control。
  * [渐变特效文字](http://code.cocoachina.com/view/127174) - 做了一个仿iPhone的移动滑块来解锁的渐变特效文字,还有一个类似ktv歌词显示的文字特效。
  * [TTGEmojiRate.swift](https://github.com/zekunyan/TTGEmojiRate) - TTGEmojiRate.swift以Emoji表情为基础绘图，[Swift开源项目: TTGEmojiRate的实现](http://tutuge.me/2015/10/25/ttgemojirate-lib/)。
+ * [HYAwesomeTransition](https://github.com/nathanwhy/HYAwesomeTransition) - 模仿格瓦拉的转场效果。
 
 ========
 #### 网络相关
