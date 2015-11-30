@@ -745,6 +745,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [CocoaChinaPlus](https://github.com/zixun/CocoaChinaPlus) - CocoaChina+是一款开源的第三方CocoaChina移动端。整个App都用Swift2.0编写(除部分第三方OC代码外，比如JPush和友盟)。
 * [高仿斗鱼TV](http://code.cocoachina.com/view/128246) - 高仿斗鱼TV，点击头部滚动视图可以播放视频。
 * [LXZEALER](https://github.com/LonelyTown/LXZEALER) - 模仿着做了zealer客户端,App里几乎所有请求都是Post,所以内容都是固定的URL加载的,登录功能只做了微博的第三方登录。
+* [ShiXiSeng_ios](https://github.com/jacksonly/ShiXiSeng_ios) - 完整app的UI框架。
 
 ========
 #### 好的文章
