@@ -701,7 +701,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [Sleipnir](https://github.com/railsware/Sleipnir) - Swift的测试框架。
 * [kiwi-bdd](https://github.com/kiwi-bdd/Kiwi/wiki) - TDD或BDD，objective-c语言的测试框架，最流行的BDD测试框架了，Kiwi最受欢迎（根据github上的star数来推断，行为描述和期望写起来也比较易懂，至少我是这么认为的） [iOS开发中的测试框架](http://www.jianshu.com/p/7e3f197504c1#)。
 * [specta](https://github.com/specta/specta) -  TDD或BDD，objective-c语言的测试框架，用的人多。
-* [cedar](  https://github.com/pivotal/cedar) -  TDD或BDD，objective-c语言的测试框架，用的人少。
+* [cedar](https://github.com/pivotal/cedar) -  TDD或BDD，objective-c语言的测试框架，用的人少。
+* [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - 能够帮助 iOS 开发者们精确的测量视图, 可直接在调试应用中查看具体某个视图的坐标, 宽高等参数。
 
 ========
 #### AppleWatch
