@@ -384,6 +384,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [CardsAnimationDemo]https://github.com/adow/CardsAnimationDemo) - swift， [《使用 UICollectionView 实现的一个卡片动画》](http://swiftcn.io/topics/64?f=w)不是直接操作所有 UIView 和 CALayer 的 transform3D 属性来实现整个效果的，而是使用 UICollectionView 来完成所有的视图管理和实现。。
  * [TKRubberIndicator.swift](https://github.com/TBXark/TKRubberIndicator) - 一个很不错的 page control。
  * [渐变特效文字](http://code.cocoachina.com/view/127174) - 做了一个仿iPhone的移动滑块来解锁的渐变特效文字,还有一个类似ktv歌词显示的文字特效。
+ * [TTGEmojiRate.swift](https://github.com/zekunyan/TTGEmojiRate) - TTGEmojiRate.swift以Emoji表情为基础绘图，[Swift开源项目: TTGEmojiRate的实现](http://tutuge.me/2015/10/25/ttgemojirate-lib/)。
 
 ========
 #### 网络相关
