@@ -133,7 +133,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - 标准的UITextField有些枯燥么？来认识一下TextFieldEffects吧！废话不多说，只要看几个例子,是啊，都是些简单的dropin控制器。甚至可以在storyboard中使用IBDesignables。
 * [AutocompleteField](https://github.com/filipstefansson/AutocompleteField) - 可应用于 iOS 应用中文字输入框自动补全的场景, 兼容到 iOS 8。
 * [Splitflap.swift](https://github.com/yannickl/Splitflap) - 可用于快速给 iOS 应用创建文字翻转的动画效果。
-
+* [WordPress-Editor-iOS](https://github.com/wordpress-mobile/WordPress-Editor-iOS) -一个文本编辑器 简书和新浪博客都在用。
 
 ##### 图表
 * [PNChart](https://github.com/kevinzhow/PNChart) - 国内开源作者，动态的图表。
