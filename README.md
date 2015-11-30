@@ -692,9 +692,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [MobileWebPageTest](http://code4app.com/ios/MobileWebPerformanceTest/5465d3e9933bf00c658b4f43) - MobileWebPageTest是用来测试移动网页性能的软件，它可以对页面的加载和渲染过程进行截屏，协助开发者分析出页面性能瓶颈。
 * [KKLog](https://github.com/Coneboy-k/KKLog) - 一个日志管理系统。
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - 相当于 CocoaLumberjack 或 Log4j 的 Swift 版本，功能上甚至更强大。另外，源代码中已经内含了完整的 API 文档，使用非常方便。
-[Buildasaur](https://github.com/czechboy0/Buildasaur) - 自动测试框架 Buildasaur。
-[MMPlaceHolder](https://github.com/adad184/MMPlaceHolder) - 一行代码显示UIView的位置及相关参数。
-[使用Quick框架和Nimble来测试ViewControler](http://www.devtf.cn/?p=739) - Quick是一个用于创建BDD测试的框架。配合Nimbl，可以为你创建更符合预期目标的测试。
+* [Buildasaur](https://github.com/czechboy0/Buildasaur) - 自动测试框架 Buildasaur。
+* [使用Quick框架和Nimble来测试ViewControler](http://www.devtf.cn/?p=739) - Quick是一个用于创建BDD测试的框架。配合Nimbl，可以为你创建更符合预期目标的测试。
 * [fastlane](https://github.com/KrauseFx/fastlane) - 一套iOS开发和持续集成的命令行工具fastlane，可以用来快速搭建CI甚至自动提交的开发环境。这套工具中包括了上传ipa文件，自动截取多语言截屏，生成推送证书，管理产品证书等一系列实用工具。
 * [KIF](https://github.com/kif-framework/KIF) - 是一个开源的用户界面UI测试框架. 使用 KIF, 并利用 iOS中的辅助功能 API, 你将能够编写模拟用户输入，诸如点击，触摸和文本输入，自动化的UI测试.
 * [Quick](https://github.com/Quick/Quick) - 用于Swift中的单元测试（也可用于Objective-C），与Xcode整合在一起。如果你是Objective-C的粉丝，我建议用Specta代替这个，但是对Swift使用者来说，Quick是最佳选择。
@@ -703,6 +702,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [specta](https://github.com/specta/specta) -  TDD或BDD，objective-c语言的测试框架，用的人多。
 * [cedar](https://github.com/pivotal/cedar) -  TDD或BDD，objective-c语言的测试框架，用的人少。
 * [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - 能够帮助 iOS 开发者们精确的测量视图, 可直接在调试应用中查看具体某个视图的坐标, 宽高等参数。
+* [MMPlaceHolder](https://github.com/adad184/MMPlaceHolder) - 一行代码显示UIView的位置及相关参数。
+* [XXPlaceHolder.swift](https://github.com/adad184/XXPlaceHolder) - MMPlaceHolder的swift版本。 
 
 ========
 #### AppleWatch
