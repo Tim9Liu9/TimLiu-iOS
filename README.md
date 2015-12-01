@@ -793,6 +793,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [LXZEALER](https://github.com/LonelyTown/LXZEALER) - 模仿着做了zealer客户端,App里几乎所有请求都是Post,所以内容都是固定的URL加载的,登录功能只做了微博的第三方登录。
 * [ShiXiSeng_ios](https://github.com/jacksonly/ShiXiSeng_ios) - 完整app的UI框架。
 * [Coding-iPad](https://github.com/Coding/Coding-iPad) - Coding-iPad 是@Coding的官方 iPad 客户端, 又是一个完整的开源应用。
+* [SimpleMemo](https://github.com/likumb/SimpleMemo) - 易便签已经转到Swift2.0，全面适配iOS9和Watch OS2，并支持iPhone6s和iPhone6sPlus的3D Touch功能，包括图标快捷键和内容预览。。
 
 ========
 #### 好的文章
