@@ -664,13 +664,14 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [KRVideoPlayer](https://github.com/36Kr-Mobile/KRVideoPlayer) - 类似Weico的播放器，支持竖屏模式下全屏播放。
  * [自定义视频播放器AVPlayer](http://code.cocoachina.com/view/128253) - 利用系统类AVPlayer实现完全自定义视频播放器，显示播放时间，缓存等功能。代码清晰，注释详细。
  * [VideoBeautify](https://github.com/xujingzhou/VideoBeautify) - 功能酷似美拍,秒拍等应用的源码：对视频进行各种美化处理，采用主题形式进行分类，内含各种滤镜，动画特效和音效等。
- * [HTY360Player](https://github.com/hanton/HTY360Player) - 是一款提供在 iOS 中使用 360 度无死角拖拽视频进行不同角度播放的视频播放器。 
+ * [HTY360Player](https://github.com/hanton/HTY360Player) - 是一款提供在 iOS 中使用 360 度无死角拖拽视频进行不同角度播放的视频播放器。
  * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) - ALCameraViewController 摄像头视图控制器（含可定制照片选择器，图片简单裁切功能）及演示。
  * [YYWebImage](https://github.com/ibireme/YYWebImage/) - 一个图片加载库 YYWebImage，支持 APNG、WebP、GIF 播放，支持渐进式图片加载，更高性能的缓存，更多图像处理方法，可以替代 SDWebImage 等开源库，[相关文章](http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/)。
  * [recordDemo.swift](https://github.com/lfb-cd/recordDemo) - 一个Swift语言实现直接可以用的录音Demo，[实现说明](http://www.jianshu.com/p/f0b88355d7cb)。
  * [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro) - 集成 LastFM 的专业电台应用（基于 Swift 2.0）。
  * [Eleven](https://github.com/coderyi/Eleven) - Eleven Player - 一个使用 FFmpeg 实现的简单强大的 iOS 开源播放器。 
  * [mobileplayer-ios.swift](https://github.com/mobileplayer/mobileplayer-ios) - 很不错的高度可定制播放器项目。 
+ * [iFrameExtractor](https://github.com/lajos/iFrameExtractor) - 开源视频播放器， ffmpeg在iOS的使用-iFrameExtractor源码解析，[文章](http://ios.jobbole.com/82408/)。
 
 ========
 #### 响应式框架
