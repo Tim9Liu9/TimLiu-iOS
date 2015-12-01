@@ -570,8 +570,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [BluetoothKit.swift](https://github.com/rasmusth/BluetoothKit) - 基于 CoreBluetooth API 实现iOS/OS X 设备间蓝牙通讯封装类库。功能强大、传输稳定，示例完整，很酷。
  * [CoreDataStack.swift](https://github.com/bignerdranch/CoreDataStack) - 存储栈。
  * [SYNQueue.swift](https://github.com/THREDOpenSource/SYNQueue) - 执行队列类库。
- * [DDMathParser.swift](https://github.com/davedelong/DDMathParser) - 相比 NSExpression 和 GCMathPaser，功能更强大的数学表达式解析器。。
-
+ * [DDMathParser.swift](https://github.com/davedelong/DDMathParser) - 相比 NSExpression 和 GCMathPaser，功能更强大的数学表达式解析器。
+ * [RateLimit.swift](https://github.com/soffes/RateLimit) - 简单、实用定时执行任务工具类库。
 
 ========
 #### 数据库
