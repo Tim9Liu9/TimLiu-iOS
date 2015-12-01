@@ -304,6 +304,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [LLPieCharts](https://github.com/Lves/LLPieCharts) - LLPieCharts iOS 绘制饼图，[教程](http://www.lvesli.com/?p=339)。
  * [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) - BEMCheckBox 是一个用于 iOS 应用上构建漂亮, 高度可定制化动画效果的复选框类库, 最低支持到 iOS 7 系统, 有多种不同风格的动画效果可供选择。
  * [STPopup](https://github.com/kevin0571/STPopup) - 提供了一个可在 iPhone 和 iPad 上使用的具有 UINavigationController 弹出效果的 STPopupController 类, 并能在 Storyboard 上很好的工。
+ * [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) - 通过几条线段实现的非常Q萌的动画按钮效果。
 
 ========
 #### 动画
