@@ -658,6 +658,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [recordDemo.swift](https://github.com/lfb-cd/recordDemo) - 一个Swift语言实现直接可以用的录音Demo，[实现说明](http://www.jianshu.com/p/f0b88355d7cb)。
 * [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro) - 集成 LastFM 的专业电台应用（基于 Swift 2.0）。
 * [Eleven](https://github.com/coderyi/Eleven) - Eleven Player - 一个使用 FFmpeg 实现的简单强大的 iOS 开源播放器。 
+* [mobileplayer-ios.swift](https://github.com/mobileplayer/mobileplayer-ios) - 很不错的高度可定制播放器项目。 
 
 ========
 #### 响应式框架
