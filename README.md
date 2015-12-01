@@ -774,6 +774,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [高仿斗鱼TV](http://code.cocoachina.com/view/128246) - 高仿斗鱼TV，点击头部滚动视图可以播放视频。
 * [LXZEALER](https://github.com/LonelyTown/LXZEALER) - 模仿着做了zealer客户端,App里几乎所有请求都是Post,所以内容都是固定的URL加载的,登录功能只做了微博的第三方登录。
 * [ShiXiSeng_ios](https://github.com/jacksonly/ShiXiSeng_ios) - 完整app的UI框架。
+* [Coding-iPad](https://github.com/Coding/Coding-iPad) - Coding-iPad 是@Coding的官方 iPad 客户端, 又是一个完整的开源应用。
 
 ========
 #### 好的文章
