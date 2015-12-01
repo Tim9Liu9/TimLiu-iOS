@@ -177,7 +177,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) - 皮筋式弹性缩放工具栏示例及演示。
  * [横向展示文本内容的自定义cell](http://d.cocoachina.com/code/detail/298409) - 可以横向展示文本内容的自定义cell，根据文本无限滚动。
  * [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) - UITableView-FDTemplateLayoutCell 是一个方便缓存 UITableViewCell 的高度的框架。
- * [ExpandingStackCells](https://github.com/jozsef-vesza/ExpandingStackCells) - 采用 UIStackView 实现表格单元格扩展内容显示示例及解决方案。 
+ * [ExpandingStackCells](https://github.com/jozsef-vesza/ExpandingStackCells) - 采用 UIStackView 实现表格单元格扩展内容显示示例及解决方案。
+ * [FDStackView](https://github.com/forkingdog/FDStackView) - 可以将 UIStackView 的最低支持版本拉低到 iOS6，无需配置，没有代码侵染，扔到工程里后直接用系统 UIStackView 的 API 即可，同时兼容 Storyboard。 
  * [Sapporo](https://github.com/nghialv/Sapporo) - swift 单元格模型驱动的集合视图管理器组件。又一个超实用的“轮子”。
  * [MDIHorizontalSectionTableViewController](https://github.com/WeeTom/MDIHorizontalSectionTableViewController) - 根据产品需求开源了一个交互项目，可以理解为横向Section的TableView，section和cell同时支持拖拽，后续安卓版本也会开源出来。
  * [JZNavigationExtension](https://github.com/JazysYu/JZNavigationExtension) - 多功能导航控制器，可以透明返回栏。
