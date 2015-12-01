@@ -562,6 +562,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth) - 是一个非常容易使用的蓝牙库, 适用于 iOS 和 Mac OS, 基于原生 CoreBluetooth 框架封装, 可以帮开发者们更简单地使用 CoreBluetooth API, 使用链式方法体, 使得代码更简洁、优雅。
 * [BluetoothKit.swift](https://github.com/rasmusth/BluetoothKit) - 基于 CoreBluetooth API 实现iOS/OS X 设备间蓝牙通讯封装类库。功能强大、传输稳定，示例完整，很酷。
 * [CoreDataStack.swift](https://github.com/bignerdranch/CoreDataStack) - 存储栈。
+* [SYNQueue.swift](https://github.com/THREDOpenSource/SYNQueue) - 执行队列类库。
 
 ========
 #### 数据库
