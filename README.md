@@ -561,6 +561,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [DDSlackFeedback](https://github.com/deepdevelop/DDSlackFeedback) - 用这个接口实现的摇一摇上传文字或者截屏反馈到你的 Slack channel，特别适合测试 app 的时候用，集成也很简单。
 * [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth) - 是一个非常容易使用的蓝牙库, 适用于 iOS 和 Mac OS, 基于原生 CoreBluetooth 框架封装, 可以帮开发者们更简单地使用 CoreBluetooth API, 使用链式方法体, 使得代码更简洁、优雅。
 * [BluetoothKit.swift](https://github.com/rasmusth/BluetoothKit) - 基于 CoreBluetooth API 实现iOS/OS X 设备间蓝牙通讯封装类库。功能强大、传输稳定，示例完整，很酷。
+* [CoreDataStack.swift](https://github.com/bignerdranch/CoreDataStack) - 存储栈。
 
 ========
 #### 数据库
@@ -570,7 +571,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [Breeze](https://github.com/andrelind/Breeze) - 用Swift写的一个轻量级的CoreData管理工具，并且还支持iCloud 。
 * [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - Swift，更容易地访问 CoreData 对象封装类库。除了 CRUD，还提供指针定位，强大的排序、筛选，异步数据获取，以及独立线程后台存取数据。
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) -  Core Data 管理类库。 其中事务管理及查询是其比较大的亮点，整套 API 功能完整。
-* MagicRecord
 * [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) - MagicalRecord就像是给Core Data提供了一层外包装，隐藏掉所有不相关的东西。 其中事务管理及查询是其比较大的亮点，整套 API 功能完整。
 * [Presentation](https://github.com/hyperoslo/Presentation) - 重量级好项目 Presentation，它可以方便你制作定制的动画式教程、Release Notes、个性化演讲稿等。
 * [CoreValue](https://github.com/terhechte/CoreValue) - Swift 2 版 Core Data 封装库。相比另外两个 [SwiftRecord](https://github.com/arkverse/SwiftRecord)和 [CoreStore](https://github.com/JohnEstropia/CoreStore)更轻量。
