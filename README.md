@@ -306,6 +306,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [STPopup](https://github.com/kevin0571/STPopup) - 提供了一个可在 iPhone 和 iPad 上使用的具有 UINavigationController 弹出效果的 STPopupController 类, 并能在 Storyboard 上很好的工。
  * [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) - 通过几条线段实现的非常Q萌的动画按钮效果。
  * [ZSeatSelector](https://github.com/richzertuche/ZSeatSelector) - 电影院位置排座位。
+ * [CustomSearchBar](https://github.com/zangqilong198812/CustomSearchBar) - 自定义searchbar,类似于instagram的搜索框效果。
 
 ========
 #### 动画
