@@ -403,6 +403,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [TaskSwitcherDemon](https://github.com/Glow-Inc/TaskSwitcherDemon) -  是仿造iOS9的Task Switcher做出来的动画效果, 具体的实现思路可参照[这篇文章](http://tech.glowing.com/cn/implement-ios9-task-switcher-animation/)。
  * [CoreAnimationCode.swift](https://github.com/lzwjava/CoreAnimationCode) - 提供了 "iOS Core Animation Advanced Techniques" 书籍中的代码实例, 方便开发者们进行参考学习。
  * [UIViewXXYBoom.swift](https://github.com/xxycode/UIViewXXYBoom) - 一个炫酷好玩的爆炸效果，[如何实现这个效果](http://xxycode.com/ru-he-zhi-zuo-ge-xuan-ku-hao-wan-de-bao-zha-xiao-guo-2/)。
+ * [ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift) - [ZLSwipeableView](https://github.com/zhxnlai/ZLSwipeableView) - ZLSwipeableViewSwift在Tinder and Potluck中的动画效果实现思路（连续卡片翻页效果），最贴心的是作者提供了OC和Swift两个版本来供开发者使用，非常丝滑顺畅的效果。
 
 ========
 #### 网络相关
