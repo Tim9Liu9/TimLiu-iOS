@@ -641,8 +641,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [SKPhotoBrowser.swift](https://github.com/xujingzhou/BeautyHour) - swift中规中矩、实用的图片浏览类库。示例也很完整。
  * [Nuke.swift](https://github.com/kean/Nuke) - 完整、强大、实用的图片管理类库。主要功能包括可定制装载，缓存，滤镜及尺寸变换。
  * [DNImagePicker](https://github.com/AwesomeDennis/DNImagePicker) - 类似wechat的图片选择。
-
-DNImagePicker
+ * [CocoaPicker](https://github.com/lioonline/CocoaPicker) - 仿QQ图片选择器。
 
 ========
 #### 摄像照相视频音频处理
