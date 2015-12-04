@@ -578,6 +578,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [iOS-Categories](https://github.com/shaojiankui/IOS-Categories) - 收集了许多有助于开发的iOS扩展,各种category分类。
  * [YYCategories](https://github.com/ibireme/YYCategories) - 功能丰富的 Category 类型工具库。
  * [YYAsyncLayers](https://github.com/ibireme/YYAsyncLayers) -  iOS 异步绘制与显示的工具。
+ * [YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool) -  iOS 全局并发队列管理工具。
 
 ========
 #### 数据库
