@@ -137,7 +137,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - 标准的UITextField有些枯燥么？来认识一下TextFieldEffects吧！废话不多说，只要看几个例子,是啊，都是些简单的dropin控制器。甚至可以在storyboard中使用IBDesignables。
  * [AutocompleteField](https://github.com/filipstefansson/AutocompleteField) - 可应用于 iOS 应用中文字输入框自动补全的场景, 兼容到 iOS 8。
  * [Splitflap.swift](https://github.com/yannickl/Splitflap) - 可用于快速给 iOS 应用创建文字翻转的动画效果。
- * [WordPress-Editor-iOS](https://github.com/wordpress-mobile/WordPress-Editor-iOS) -一个文本编辑器 简书和新浪博客都在用。
+ * [WordPress-Editor-iOS](https://github.com/wordpress-mobile/WordPress-Editor-iOS) - 一个文本编辑器 简书和新浪博客都在用。
+ * [YYText](https://github.com/ibireme/YYText) - 功能强大的 iOS 富文本框架。
 
 ##### 图表
  * [PNChart](https://github.com/kevinzhow/PNChart) - 国内开源作者，动态的图表。
@@ -581,7 +582,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [YYAsyncLayers](https://github.com/ibireme/YYAsyncLayers) -  iOS 异步绘制与显示的工具。
  * [YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool) -  iOS 全局并发队列管理工具。
  * [YYKeyboardManager](https://github.com/ibireme/YYKeyboardManager) -   iOS 键盘监听管理工具。
- * [YYCache](https://github.com/ibireme/YYCache) - 高性能的 iOS 缓存框架。
+
 
 ========
 #### 数据库
@@ -604,6 +605,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [JLKeychain](https://github.com/jl322137/JLKeychain) - 快捷使用keychain存储数据的类，使keychain像NSUserDefaults一样工作。
  * [sskeychain](https://github.com/soffes/sskeychain) - SSKeyChains对苹果安全框架API进行了简单封装,支持对存储在钥匙串中密码、账户进行访问,包括读取、删除和设置。
  * [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - 管理Keychain接入的小助手。
+ * [YYCache](https://github.com/ibireme/YYCache) - 高性能的 iOS 缓存框架。
 
 ========
 #### PDF
