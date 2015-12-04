@@ -309,6 +309,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) - 通过几条线段实现的非常Q萌的动画按钮效果。
  * [ZSeatSelector](https://github.com/richzertuche/ZSeatSelector) - 电影院位置排座位。
  * [CustomSearchBar](https://github.com/zangqilong198812/CustomSearchBar) - 自定义searchbar,类似于instagram的搜索框效果。
+ * [LNPopupController](https://github.com/LeoNatan/LNPopupController) - AppleMusic式pop up，弹出是页面，可以上下拉动。
 
 ========
 #### 动画
