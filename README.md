@@ -579,6 +579,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [YYCategories](https://github.com/ibireme/YYCategories) - 功能丰富的 Category 类型工具库。
  * [YYAsyncLayers](https://github.com/ibireme/YYAsyncLayers) -  iOS 异步绘制与显示的工具。
  * [YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool) -  iOS 全局并发队列管理工具。
+ * [YYKeyboardManager](https://github.com/ibireme/YYKeyboardManager) -   iOS 键盘监听管理工具。
 
 ========
 #### 数据库
