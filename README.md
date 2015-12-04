@@ -489,6 +489,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [JSONNeverDie.swift](https://github.com/johnlui/JSONNeverDie) - JSON 到 Model 类的自动映射工具。
  * [Fuzi.swift](https://github.com/cezheng/Fuzi) - Swift实现的轻量快速的 XML/HTML 解析器。
  * [SWXMLHash.swift](https://github.com/drmohundro/SWXMLHash) - 易用的 XML 解析类库。非常实用的“轮子”。
+ * [YYModel](https://github.com/ibireme/YYModel) - 高性能的 iOS JSON 模型框架。
 
 ========
 #### 通讯录
