@@ -608,8 +608,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [FLAnimatedImage](https://github.com/liric28/FLAnimatedImage) - gif播放处理的工具。
  * [CLImageEditor](https://github.com/yackle/CLImageEditor) - 超强的图片编辑库，快速帮你实现旋转，防缩，滤镜等等一系列麻烦的事情。
  * [ios-image-filters](https://github.com/esilverberg/ios-image-filters) - 图像滤镜，库比较旧了，很容易崩溃。 
- * [XBImageFilters](https://github.com/xissburg/XBImageFilters) - 图像滤镜，。
- * [VIPhotoView](https://github.com/vitoziv/VIPhotoView) - 用于展示图片的工具类，因为是个 View，所以你可以放在任何地方显示。支持旋转，双击指定位置放大等。
+ * [XBImageFilters](https://github.com/xissburg/XBImageFilters) - 图像滤镜。
  * [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) - 一个非常不错的照片浏览器，在github的star接近3000个，[解决MWPhotoBrowser中的SDWebImage加载大图导致的内存警告问题](http://www.superqq.com/blog/2015/01/22/jie-jue-mwphotobrowserzhong-de-sdwebimagejia-zai-da-tu-dao-zhi-de-nei-cun-jing-gao-wen-ti/)。
  * [core-image-explorer](https://github.com/objcio/issue-21-core-image-explorer) -  Core Image 滤镜处理图片-- swift ，[Core Image 介绍](http://objccn.io/issue-21-6/)。 
  * [CoreImageShop](https://github.com/rFlex/CoreImageShop) - CoreImageShop图片滤镜处理-- Mac app that let you create a complete Core Image Filter usable on iOS using SCRecorder。
@@ -642,6 +641,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [DNImagePicker](https://github.com/AwesomeDennis/DNImagePicker) - 类似wechat的图片选择。
  * [CocoaPicker](https://github.com/lioonline/CocoaPicker) - 仿QQ图片选择器（OC）。
  * [JFImagePickerController](https://github.com/johnil/JFImagePickerController) - vvebo作者：多选照片、预览已选照片、针对超大图片优化。
+ * [VIPhotoView](https://github.com/vitoziv/VIPhotoView) - 图片浏览，用于展示图片的工具类，因为是个 View，所以你可以放在任何地方显示。支持旋转，双击指定位置放大等。
+ * [AGImagePickerController](https://github.com/SpringOx/AGImagePickerController) - 是一个图片选择器，支持图片多选，支持大图横滑预览，支持放大预览，支持横竖屏，支持所有的iOS设备。
 
 ========
 #### 摄像照相视频音频处理
