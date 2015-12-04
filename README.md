@@ -824,7 +824,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [CocoaChinaPlus](https://github.com/zixun/CocoaChinaPlus) - CocoaChina+是一款开源的第三方CocoaChina移动端。整个App都用Swift2.0编写(除部分第三方OC代码外，比如JPush和友盟)。
  * [高仿斗鱼TV](http://code.cocoachina.com/view/128246) - 高仿斗鱼TV，点击头部滚动视图可以播放视频。
  * [LXZEALER](https://github.com/LonelyTown/LXZEALER) - 模仿着做了zealer客户端,App里几乎所有请求都是Post,所以内容都是固定的URL加载的,登录功能只做了微博的第三方登录。
- * [ShiXiSeng_ios](https://github.com/jacksonly/ShiXiSeng_ios) - 完整app的UI框架。
+ * [ShiXiSeng_ios](https://github.com/pengleelove/ShiXiSeng_ios) - 完整app的UI框架。
  * [Coding-iPad](https://github.com/Coding/Coding-iPad) - Coding-iPad 是@Coding的官方 iPad 客户端, 又是一个完整的开源应用。
  * [SimpleMemo](https://github.com/likumb/SimpleMemo) - 易便签已经转到Swift2.0，全面适配iOS9和Watch OS2，并支持iPhone6s和iPhone6sPlus的3D Touch功能，包括图标快捷键和内容预览。
  * [XXYAudioEngine.swift](https://github.com/xxycode/XXYAudioEngine) - 基于NSURLSession 和 AVAudoPlayer的在线音乐的工具，可以把音乐保存在本地，也可以支持后台播放，后台下载，最低支持iOS7，swift版本1.2。
