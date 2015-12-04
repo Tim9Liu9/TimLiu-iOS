@@ -577,6 +577,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [RateLimit.swift](https://github.com/soffes/RateLimit) - 简单、实用定时执行任务工具类库。
  * [iOS-Categories](https://github.com/shaojiankui/IOS-Categories) - 收集了许多有助于开发的iOS扩展,各种category分类。
  * [YYCategories](https://github.com/ibireme/YYCategories) - 功能丰富的 Category 类型工具库。
+ * [YYAsyncLayers](https://github.com/ibireme/YYAsyncLayers) -  iOS 异步绘制与显示的工具。
 
 ========
 #### 数据库
