@@ -310,7 +310,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [ZSeatSelector](https://github.com/richzertuche/ZSeatSelector) - 电影院位置排座位。
  * [CustomSearchBar](https://github.com/zangqilong198812/CustomSearchBar) - 自定义searchbar,类似于instagram的搜索框效果。
  * [LNPopupController](https://github.com/LeoNatan/LNPopupController) - AppleMusic式pop up，弹出是页面，可以上下拉动。
-
+ * [DGRunkeeperSwitch](https://github.com/gontovnik/DGRunkeeperSwitch/) - 动画segment，节选器。
 ========
 #### 动画
  * [Core Animation笔记，基本的使用方法](http://www.starming.com/index.php?v=index&view=62) - Core Animation笔记，基本的使用方法：1.基本动画，2.多步动画，3.沿路径的动画，4.时间函数，5.动画组。
