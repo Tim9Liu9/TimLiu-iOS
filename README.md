@@ -596,6 +596,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [shoppingCart-demo](https://github.com/DrYrw/shoppingCart-demo) - 一个简单的购物车功能实现demo。
  * [OC_ShoppingCart_Demo](https://github.com/ZyZwei/OC_ShoppingCart_Demo) - 简单实现购物车常见的筛选功能。
  * [XNQShoppingTrolley](https://github.com/342261733/XNQShoppingTrolley) - 购物车功能 基本功能仿照淘宝的购物车。
+ * [MVVM KVO购物车](http://code.cocoachina.com/view/128713) - MVVM KVO 购物车(一处计算总价钱)。
 
 ========
 #### 数据库
