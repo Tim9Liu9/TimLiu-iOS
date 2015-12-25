@@ -595,6 +595,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [shoppingCart2](https://github.com/spxvszero/ShoppingCart) - 一个购物车demo，包含购物车动画效果、购物车多选、删除、编辑等功能。
  * [shoppingCart-demo](https://github.com/DrYrw/shoppingCart-demo) - 一个简单的购物车功能实现demo。
  * [OC_ShoppingCart_Demo](https://github.com/ZyZwei/OC_ShoppingCart_Demo) - 简单实现购物车常见的筛选功能。
+ * [XNQShoppingTrolley](https://github.com/342261733/XNQShoppingTrolley) - 购物车功能 基本功能仿照淘宝的购物车。
 
 ========
 #### 数据库
