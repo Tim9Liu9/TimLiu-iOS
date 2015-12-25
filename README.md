@@ -589,6 +589,11 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool) -  iOS 全局并发队列管理工具。
  * [YYKeyboardManager](https://github.com/ibireme/YYKeyboardManager) -   iOS 键盘监听管理工具。
  * [shoppingCart.swift](https://github.com/6ag/shoppingCart) - swift的购物车demo，采用纯代码UI，autolayout自动布局，core animation动画效果。
+ * [ShoppingCartExample](https://github.com/gbaldera/ShoppingCartExample) - 购物车最多star demo。
+ * [shoppingCart1](https://github.com/yhangeline/shoppingCart) - 仿美团购物车效果。
+ * [shoppingCart2](https://github.com/spxvszero/ShoppingCart) - 一个购物车demo，包含购物车动画效果、购物车多选、删除、编辑等功能。
+ * [shoppingCart-demo](https://github.com/DrYrw/shoppingCart-demo) - 一个简单的购物车功能实现demo。
+ * [OC_ShoppingCart_Demo](https://github.com/ZyZwei/OC_ShoppingCart_Demo) - 简单实现购物车常见的筛选功能。
 
 ========
 #### 数据库
