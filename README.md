@@ -588,7 +588,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [YYAsyncLayers](https://github.com/ibireme/YYAsyncLayers) -  iOS 异步绘制与显示的工具。
  * [YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool) -  iOS 全局并发队列管理工具。
  * [YYKeyboardManager](https://github.com/ibireme/YYKeyboardManager) -   iOS 键盘监听管理工具。
-
+ * [shoppingCart.swift](https://github.com/6ag/shoppingCart) - swift的购物车demo，采用纯代码UI，autolayout自动布局，core animation动画效果。
 
 ========
 #### 数据库
