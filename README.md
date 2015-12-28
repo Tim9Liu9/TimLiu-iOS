@@ -902,6 +902,7 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
  * [SCXcodeMiniMap](https://github.com/stefanceriu/SCXcodeMiniMap) - Xcode迷你小地图-SCXcodeMiniMap。
  * [xTransCodelation](http://code.cocoachina.com/detail/316095/xTransCodelation/) - XCODE中英文翻译插件，提供API查询模式和网页模式，都是利用的百度翻译。另外集成了一个可以一键关闭其他所有APP的实用功能，方便开发者！
  * [SuggestedColors](https://github.com/jwaitzel/SuggestedColors/) - Xcode 插件SuggestedColors，用于 IB颜色设置 辅助插件，非常好用。
+ * [Colors](https://github.com/paulot/Colorsp) - 打印彩色字符串，可以修改 Swift 中终端输出的字符串颜色，有趣的小工具。。
 
 ========
 #### 美工资源
