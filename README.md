@@ -983,6 +983,7 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
 [南峰子的技术博客](http://southpeak.github.io/) | 南峰子的技术博客。
 [唐巧的技术博客](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
 [OneV's Den](http://onevcat.com) | <http://onevcat.com/atom.xml>
+[objc 中国](http://objccn.io/) | 为中国 Objective-C 社区带来最佳实践和先进技术。
 [破船之家](http://beyondvincent.com) | <http://beyondvincent.com/atom.xml>
 [NSHipster](http://nshipster.cn) | <http://nshipster.cn/feed.xml>
 [Limboy 无网不剩](http://blog.leezhong.com/) | <http://feeds.feedburner.com/lzyy>
