@@ -709,6 +709,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [Eleven](https://github.com/coderyi/Eleven) - Eleven Player - 一个使用 FFmpeg 实现的简单强大的 iOS 开源播放器。 
  * [mobileplayer-ios.swift](https://github.com/mobileplayer/mobileplayer-ios) - 很不错的高度可定制播放器项目。 
  * [iFrameExtractor](https://github.com/lajos/iFrameExtractor) - 开源视频播放器， ffmpeg在iOS的使用-iFrameExtractor源码解析，[文章](http://ios.jobbole.com/82408/)。
+ * [Periscope-VideoViewController.swift](https://github.com/gontovnik/Periscope-VideoViewController) - 简洁实用的视频快进、倒带控制视图类库。
 
 ========
 #### 响应式框架
