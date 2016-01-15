@@ -961,6 +961,7 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
  * [swift-http](https://github.com/huytd/swift-http) - Swift HTTP Server，又一个 Swift 服务器，最大的亮点是支持 Docker 部署。
 
 ##### 他人开源总结
+ * [awesome-osx](https://github.com/iCHAIT/awesome-osx) - Awesome OS X。
  * [code4app](http://www.code4app.com/) - 最多国人用的代码库。
  * [cocoachina](http://code.cocoachina.com/) - 国内最热门的iOS社区的代码库。
  * [awesome-ios](https://github.com/vsouza/awesome-ios) - 一个老外整理的，[中文版](http://app.memect.com/doc/ios.html)。
