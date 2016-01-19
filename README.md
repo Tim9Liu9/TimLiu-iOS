@@ -766,6 +766,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [PCGestureUnlock](https://github.com/iosdeveloperpanc/PCGestureUnlock) - 目前最全面最高仿支付宝的手势解锁，而且提供方法进行参数修改，能解决项目开发中所有手势解锁的开发。
  * [ICPayPassWordDemo](https://github.com/icoder20150719/ICPayPassWordDemo) - CPayPassWordDemo，一个模仿支付宝支付密码输入对话框小demo。
  * [RSAESCryptor](https://github.com/bigsan/RSAESCryptor) - 加密 RSA+AES Encryption/Decryption library for iOS. This library uses 2048-bit RSA and 256-bit key with 128-bit block size AES for encryption/decryption。
+ * [WJTouchID](https://github.com/bringbird/WJTouchID) - 用法简单的TouchID验证框架：两行代码搞定。
 
 ========
 #### 测试及调试
