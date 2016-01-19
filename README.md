@@ -83,6 +83,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
  * [WaveRefresh](https://github.com/alienjun/WaveRefresh) - 下拉刷新水波纹动画。
  * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - 是一款带有弹性效果的 iOS 下拉刷新组件。
  * [CALayerAnimationDemoh](https://github.com/wuwen1030/CALayerAnimationDemoh) - 双向注水动画下拉刷新组件,使用CALayer的mask实现。
+ * [BanTangAnimation](https://github.com/zangqilong198812/BanTangAnimation) - 半塘下拉刷新的原理。简单来说是利用CGGlyph，字符图形转换成cgpath，然后绘制strokeEnd动画。把timeoffset和scrolloffset结合就行了。
 
 ##### 模糊效果
  * [FXBlurView](https://github.com/nicklockwood/FXBlurView) - 是一个UIView子类，支持iOS5.0以上版本，支持静态、动态模糊效果，继承与UIView的模糊特效。
