@@ -676,6 +676,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [YYImage](https://github.com/ibireme/YYImage) - 功能强大的 iOS 图像框架，支持大部分动画图像、静态图像的播放/编码/解码。
  * [PagingView.swift](https://github.com/KyoheiG3/PagingView) - 注重细节的自动布局分页视图组件。
  * [TZImagePickerController](https://github.com/banchichen/TZImagePickerController) - 一个支持多选、选原图和视频的图片选择器，同时有预览功能，适配了iOS6789系统。[教程](http://www.cocoachina.com/ios/20160112/14942.html).
+ * [更换头像](http://code.cocoachina.com/view/129134) - 用户选取从相机或者相册获取图片，并且显示在View上。
 
 ========
 #### 摄像照相视频音频处理
