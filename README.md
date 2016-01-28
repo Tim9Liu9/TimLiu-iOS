@@ -324,6 +324,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [YXFilmSelectView](https://github.com/yixiangboy/YXFilmSelectView) - 仿造时光网选择电影票的UI而开发的一个自定义View。
  * [FJTagCollectionView](http://code.cocoachina.com/view/129152) - 标签（适配宽度）。
  * [Gecco.Swift](https://github.com/yukiasai/Gecco) - Gecco.Swift 是一款支持对视图进行局部高亮的 Swift 库, 帮助 iOS 开发者快速创建产品的新手指导界面。
+ * [DFTimelineView](https://github.com/anyunzhong/DFTimelineView) - DFTimelineView仿微信朋友圈 时间轴。
 
 ========
 #### 动画
