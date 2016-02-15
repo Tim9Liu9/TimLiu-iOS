@@ -509,6 +509,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [SWXMLHash.swift](https://github.com/drmohundro/SWXMLHash) - 易用的 XML 解析类库。非常实用的“轮子”。
  * [YYModel](https://github.com/ibireme/YYModel) - 高性能的 iOS JSON 模型框架。
  * [TidyJSON.swift](https://github.com/benloong/TidyJSON) - TidyJSON.swift一款简单、易用、明了的 JSON 解析小类库。
+ * [PMJSON.swift](https://github.com/postmates/PMJSON) - PMJSON.swift简单、实用、高效的 JSON 解析类库。
 
 ========
 #### 通讯录
