@@ -199,7 +199,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [ReorderableGridView-Swift](https://github.com/cemolcay/ReorderableGridView-Swift) - 拖拽排序卡片。
  * [LGSettingView](https://github.com/LiGoEX/LGSettingView) - LGSettingView仅需三句代码即可快速集成设置界面，免去每次开发新应用都要重新布置设置界面的烦恼。
  * [微博cell自动布局](http://code.cocoachina.com/view/129212) - 使用autoLayout对微博的cell进行自动布局，自适应cell的高度。
- * [TreeTableView](https://github.com/TyroneWing/TreeTableView) - TreeView 模仿好友列表的实现方式。
+ * [TreeTableView](https://github.com/TyroneWing/TreeTableView) - ZYTreeTableView：TreeView 模仿好友列表的实现方式。
 
 ##### 隐藏与显示
  * [SlideTapBar](http://d.cocoachina.com/code/detail/286102) - 滚动栏菜单，向上滚动时隐藏tabbar，向下滚动马上显示tabbar。
@@ -732,6 +732,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [iFrameExtractor](https://github.com/lajos/iFrameExtractor) - 开源视频播放器， ffmpeg在iOS的使用-iFrameExtractor源码解析，[文章](http://ios.jobbole.com/82408/)。
  * [Periscope-VideoViewController.swift](https://github.com/gontovnik/Periscope-VideoViewController) - 简洁实用的视频快进、倒带控制视图类库。
  * [AudioKit.swift](https://github.com/audiokit/AudioKit) - 音频合成、加工及分析平台（支持 iOS、OS X、tvOS）框架库。无论其易用性，还是功能性及专业性。
+ * [MusicPlayert](https://github.com/menxu/MusicPlayert) - MusicPlayert本地音乐播放+音乐信息显示+在线歌词搜索显示（千千静听服务器）。
 
 ========
 #### 响应式框架
