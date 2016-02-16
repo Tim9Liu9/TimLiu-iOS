@@ -734,6 +734,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [AudioKit.swift](https://github.com/audiokit/AudioKit) - 音频合成、加工及分析平台（支持 iOS、OS X、tvOS）框架库。无论其易用性，还是功能性及专业性。
  * [MusicPlayert](https://github.com/menxu/MusicPlayert) - MusicPlayert本地音乐播放+音乐信息显示+在线歌词搜索显示（千千静听服务器）。
  * [MusicPlayert](https://github.com/liuFangQiang/MusicPlayer) - MusicPlayert音乐播放器，用reveal可以查看层次关系，主要实现了歌词的同步显示。
+ * [音乐播放器](http://code.cocoachina.com/view/129435) - 音乐播放器：显示歌词。
 
 ========
 #### 响应式框架
