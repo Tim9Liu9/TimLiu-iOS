@@ -199,6 +199,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [ReorderableGridView-Swift](https://github.com/cemolcay/ReorderableGridView-Swift) - 拖拽排序卡片。
  * [LGSettingView](https://github.com/LiGoEX/LGSettingView) - LGSettingView仅需三句代码即可快速集成设置界面，免去每次开发新应用都要重新布置设置界面的烦恼。
  * [微博cell自动布局](http://code.cocoachina.com/view/129212) - 使用autoLayout对微博的cell进行自动布局，自适应cell的高度。
+ * [TreeTableView](https://github.com/TyroneWing/TreeTableView) - TreeView 模仿好友列表的实现方式。
 
 ##### 隐藏与显示
  * [SlideTapBar](http://d.cocoachina.com/code/detail/286102) - 滚动栏菜单，向上滚动时隐藏tabbar，向下滚动马上显示tabbar。
