@@ -700,6 +700,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [更换头像](http://code.cocoachina.com/view/129134) - 用户选取从相机或者相册获取图片，并且显示在View上。
  * [DouBanMeinv.swift](https://github.com/luzefeng/DouBanMeinv) - 抓取豆瓣美女图片，瀑布流显示。
  * [ZZPhotoKit](https://github.com/ACEYL/ZZPhotoKit) - 基于Photos和AVFoundation框架开源，相册多选与相机连拍。
+ * [SwViewCapture.swift](https://github.com/startry/SwViewCapture) - SwViewCapture.swift一个用起来还不错的iOS截图库.(支持截取所有内容, 适用于所有ScrollView组成的视图, 包括WebView)。
 
 ========
 #### 摄像照相视频音频处理
