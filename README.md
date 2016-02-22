@@ -506,6 +506,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [Swifton](https://github.com/necolt/Swifton) - Swifton是一个优秀的Swift on Rails 的Web Framework。
  * [Taylor.swift](https://github.com/izqui/Taylor) - Taylor一个swift的轻量级的http服务器的库。
  * [NetworkObjects.swift](https://github.com/colemancda/NetworkObjects) - NetworkObjects.swift轻量版HttpServer框架，跨平台解决方案。
+ * [vapor.swift](https://github.com/qutheory/vapor) - vapor.swift：swift的服务器库 vapor。
 
 ========
 ##### WebView
