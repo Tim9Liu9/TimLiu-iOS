@@ -493,7 +493,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 ##### 网页框架
  * [Perfect](https://github.com/PerfectlySoft/Perfect) - Perfect 致力于 Swift 服务端应用，从打造专业应用服务器开始。
  * [swift-http](https://github.com/huytd/swift-http) - Swift HTTP Server，又一个 Swift 服务器，最大的亮点是支持 Docker 部署。
- * [Swifton](https://github.com/necolt/Swifton) - Swifton是一个优秀的Ruby on Rails 的Web Framework。
+ * [Swifton](https://github.com/necolt/Swifton) - Swifton是一个优秀的Swift on Rails 的Web Framework。
+ * [Taylor](https://github.com/izqui/Taylor) - Taylor一个swift的轻量级的http服务器的库。
 
 ========
 ##### WebView
