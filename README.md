@@ -370,6 +370,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView-PlayGIF。
  * [YLGIFImage](https://github.com/liyong03/YLGIFImage) - YLGIFImage。
  * [YLGIFImage-Swift](https://github.com/liyong03/YLGIFImage-Swift) - YLGIFImage-Swift。
+ * [gifu.Swift](https://github.com/kaishin/gifu) - gifu.Swift高性能GIF显示类库。
  * [droptogif](https://github.com/mortenjust/droptogif) -  droptogif视频拖拽到应用窗口后自动转换为 GIF 动画（其转换进程动画效果也超赞）。
 
 ##### 其他动画
