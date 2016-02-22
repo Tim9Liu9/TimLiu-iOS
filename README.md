@@ -938,6 +938,8 @@ SwiftWeather
  * [iOS提高效率的方法和工具](https://github.com/icepy/_posts/blob/master/iOS%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87%E7%9A%84%E6%96%B9%E6%B3%95%E5%92%8C%E5%B7%A5%E5%85%B7.md) - iOS提高效率的方法和工具。 
  * [用 JSON 构建 API 的标准指南](http://jsonapi.org.cn/) - 用 JSON 构建 API 的标准指南。
  * [RxSwift入坑手册](http://blog.callmewhy.com/2015/09/21/rxswift-getting-started-0/) - RxSwift入坑手册。
+ * [iOS创建半透明ViewController](http://miketech.it/ios-transparent-viewcontroller/) - iOS创建半透明ViewController。
+ * [Xcode使用技巧](http://www.jianshu.com/p/cda4b0fe07e0) - SwiftGG 交流分享：Xcode使用技巧。
 
 ========
 #### Xcode插件
