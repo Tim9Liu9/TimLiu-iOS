@@ -654,6 +654,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [SwiftForms](https://github.com/ortuman/SwiftForms) - SwiftForms表单递交库，快速开发利器。
  * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design-Patterns-In-Swift如何使用常用设计模式及示例。
  * [Dollar.swift](https://github.com/ankurp/Dollar) - Dollar.swift是一个Swift库，无需扩展任何内置对象就为Swift语言提供有效的函数式编程辅助方法，类似于Lo-Dash或JavaScript中的Underscore。而Cent则是通过扩展功能来扩展Swift中的特定对象类型。
+ * [PathKit.swift](https://github.com/kylef/PathKit) - PathKit.swift小而美的路径管理类。
 
 ========
 #### 数据库
