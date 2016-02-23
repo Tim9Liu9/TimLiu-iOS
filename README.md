@@ -829,6 +829,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [ICPayPassWordDemo](https://github.com/icoder20150719/ICPayPassWordDemo) - CPayPassWordDemo，一个模仿支付宝支付密码输入对话框小demo。
  * [RSAESCryptor](https://github.com/bigsan/RSAESCryptor) - 加密 RSA+AES Encryption/Decryption library for iOS. This library uses 2048-bit RSA and 256-bit key with 128-bit block size AES for encryption/decryption。
  * [WJTouchID](https://github.com/bringbird/WJTouchID) - 用法简单的TouchID验证框架：两行代码搞定。
+ * [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - OAuthSwift国外主流网站OAuth授权类库。
 
 ========
 #### 测试及调试
