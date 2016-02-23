@@ -406,6 +406,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [PPDragDropBadgeView](https://github.com/smallmuou/PPDragDropBadgeView) - 实现了类似于QQ 5.0 水滴拖拽效果. 支持iOS 5.0+ ARC，气泡能够带有数字标识，同时支持消失block方法。消失时还带有消失效果动画。
  * [GiftCard-Implementation](https://github.com/MartinRGB/GiftCard-Implementation) - 购买的炫酷动画。
  * [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) - 无限循环自动图片轮播器(一步设置即可使用)。
+ * [HYBLoopScrollView](https://github.com/CoderJackyHuang/HYBLoopScrollView) - HYBLoopScrollView实现自动循环滚动，一般用于展示广告页。微信在贴纸宣传处就使用了轮播。
  * [BuildAnInfiniteCarousel](https://github.com/johnlui/Swift-On-iOS/tree/master/BuildAnInfiniteCarousel) - 自己动手造无限循环图片轮播，[教程](https://autolayout.club/2015/10/29/%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E9%80%A0%E6%97%A0%E9%99%90%E5%BE%AA%E7%8E%AF%E5%9B%BE%E7%89%87%E8%BD%AE%E6%92%AD/)。
  * [iCarousel](https://github.com/nicklockwood/iCarousel) - iCarousel是一个类，它继承于UIView。用于简化实现各种类型的旋转木马(分页滚动视图），无限轮播 ，[iOS开发之多图片无缝滚动组件封装与使用](http://www.cocoachina.com/ios/20150828/13198.html)。
  * [KIPageView](https://github.com/smartwalle/KIPageView) - 无限循环PageView，横向TableView，无限轮播。
