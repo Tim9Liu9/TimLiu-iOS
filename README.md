@@ -502,6 +502,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [NetReachability](https://github.com/crazypoo/SimpleCarrie) - swift2.0 简单的方法检查网络连接的连通性，提供通知中心集成接口。 
  * [NetworkEye](https://github.com/coderyi/NetworkEye) - 一个网络调试库，可以监控App内HTTP请求并显示请求相关的详细信息，方便App开发的网络调试。 
  * [SimpleBS.swift](https://github.com/bin1991/SimpleBS) - 网络测试小工具。
+ * [RealReachability](https://github.com/dustturtle/RealReachability) - iOS下的实际网络连接状态检测，解决“如何判断设备是否真正连上互联网？而不是只有网络连接”的问题。
 
 ========
 ##### 网页框架
