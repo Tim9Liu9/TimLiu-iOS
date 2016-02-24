@@ -502,7 +502,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [NetReachability](https://github.com/crazypoo/SimpleCarrie) - swift2.0 简单的方法检查网络连接的连通性，提供通知中心集成接口。 
  * [NetworkEye](https://github.com/coderyi/NetworkEye) - 一个网络调试库，可以监控App内HTTP请求并显示请求相关的详细信息，方便App开发的网络调试。 
  * [SimpleBS.swift](https://github.com/bin1991/SimpleBS) - 网络测试小工具。
- * [RealReachability](https://github.com/dustturtle/RealReachability) - iOS下的实际网络连接状态检测，解决“如何判断设备是否真正连上互联网？而不是只有网络连接”的问题。
+ * [RealReachability](https://github.com/dustturtle/RealReachability) - [iOS下的实际网络连接状态检测](http://www.cocoachina.com/ios/20160224/15407.html)，解决“如何判断设备是否真正连上互联网？而不是只有网络连接”的问题。
 
 ========
 ##### 网页框架
@@ -786,6 +786,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [MusicPlayert](https://github.com/liuFangQiang/MusicPlayer) - MusicPlayert音乐播放器，用reveal可以查看层次关系，主要实现了歌词的同步显示。
  * [音乐播放器](http://code.cocoachina.com/view/129435) - 音乐播放器：显示歌词。
  * [TBPlayer](https://github.com/suifengqjn/TBPlayer) - 视频变下变播，把播放器播放过的数据流缓存到本地，支持拖动。采用avplayer。[实现说明](http://www.jianshu.com/p/990ee3db0563)
+ * [WMPlayer](https://github.com/zhengwenming/WMPlayer) - WMPlayer视频播放器，AVPlayer的封装，继承UIView，想怎么玩就怎么玩。支持播放mp4、m3u8、3gp、mov，网络和本地视频同时支持。全屏和小屏播放同时支持。 cell中播放视频，全屏小屏切换自如。
 
 ========
 #### 响应式框架
