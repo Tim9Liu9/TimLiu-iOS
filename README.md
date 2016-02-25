@@ -210,7 +210,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 ##### 隐藏与显示
  * [SlideTapBar](http://d.cocoachina.com/code/detail/286102) - 滚动栏菜单，向上滚动时隐藏tabbar，向下滚动马上显示tabbar。
  * [FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) - 可折叠Tab Bar和Tab Bar Controller。
- * [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) - LTNavigationBar为app导航栏添加动态着色效果，可自定义其背景色。Demo包含：1.变换背景色；2.滚动视图，导航栏和状态栏重叠。
+ * [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) - LTNavigationBar为app导航栏添加动态着色效果，可自定义其背景色。Demo包含：1.变换背景色；2.滚动视图，导航栏和状态栏重叠。[实现教程](http://tech.glowing.com/cn/change-uinavigationbar-backgroundcolor-dynamically/)
  * [BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar) - 固定Header的效果库，一个拥有非常灵活高度的标题栏，可以为使用软件的用户提供更多的阅读和滑动空间，现在已经被众多app所采用。
 
 ##### HUD与Toast
