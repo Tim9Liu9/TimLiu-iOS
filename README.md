@@ -669,7 +669,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [Euler.swift](https://github.com/mattt/Euler) - Euler.swift直观、简洁的数学表达式∛27÷3+∑[3,1,2]。
  * [Siren.swift](https://github.com/ArtSabintsev/Siren) - Siren.swift当应用更新时，通知用户并提供App Store链接。
  * [Demo_ProductDetailScroll](https://github.com/nutletor/Demo_ProductDetailScroll) - Demo_ProductDetailScroll ：仿京东商品详情滚动翻页。
- * [BGTaobao](https://github.com/huangzhibiao/-) - ios 高仿淘宝/京东详情页。
+ * [BGTaobao](https://github.com/huangzhibiao/-) - ios 高仿淘宝/京东详情页 - 集合各种测试框架。
+ * [CartDemo](https://github.com/LQQZYY/CartDemo) - CartDemo比较完整的购物车界面及逻辑,商品展示,多选,单选,全选及滑动删除,价格计算。
 
 ========
 #### 数据库
