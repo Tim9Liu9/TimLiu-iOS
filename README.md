@@ -974,6 +974,8 @@ SwiftWeather
  * [Xcode使用技巧](http://www.jianshu.com/p/cda4b0fe07e0) - SwiftGG 交流分享：Xcode使用技巧。
  * [iOS蓝牙开发（四）：BabyBluetooth蓝牙库介绍](http://www.cocoachina.com/ios/20160219/15301.html) - [iOS蓝牙开发（一）蓝牙相关基础知识](http://www.cocoachina.com/ios/20150915/13454.html),[iOS蓝牙开发（二）：iOS连接外设的代码实现](http://www.cocoachina.com/ios/20160217/15294.html),[iOS蓝牙开发（三）：App作为外设被连接的实现](http://www.cocoachina.com/ios/20160218/15299.html)。
  * [统计项目中图片使用情况](http://blog.adorkabledean.cn/blog/20151027/tong-ji-xiang-mu-zhong-tu-pian-shi-yong-qing-kuang/) - 统计项目中图片使用情况;工具：[Unused](http://jeffhodnett.github.io/Unused/):找出项目中未使用的图片, Unused 的基础上改了一下的[LSUnusedResources](https://github.com/tinymind/LSUnusedResources);工具：[ImageOptim](https://imageoptim.com/) 图片保真压缩。【iOS图片压缩工具】效率最高的是[tiny-png](http://www.alfredforum.com/topic/1520-tiny-png-workflow-updated-to-v12/):在线压缩，前500张免费。
+ * [iOS推送之远程推送](http://ios.jobbole.com/83952/) 、[iOS推送之本地推送](http://ios.jobbole.com/83949/)。
+ * [动态部署方案](http://www.cocoachina.com/ios/20151019/13761.html)  - iOS应用架构谈动态部署方案。
 
 ========
 #### Xcode插件
