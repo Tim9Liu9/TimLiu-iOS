@@ -448,6 +448,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [hamburger-button.swift](https://github.com/robb/hamburger-button) - hamburger-button.swift一个汉堡包动画关闭按钮。
  * [HamburgerButton.swift](https://github.com/fastred/HamburgerButton) - HamburgerButton.swift一个汉堡包动画返回按钮。
  * [MDCSwipeToChooseView](https://github.com/modocache/MDCSwipeToChoose) - MDCSwipeToChooseView翻牌子效果。
+ * [STLBGVideo](https://github.com/StoneLeon/STLBGVideo) - STLBGVideo让您的视图控制器的自定义backgroundvideo,[实现说明1](http://www.jianshu.com/p/c4704c086b67)、[实现说明2](http://www.jianshu.com/p/3dcebf0493d1)。
 
 ========
 #### 网络相关
