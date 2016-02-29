@@ -966,8 +966,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [SwiftWeather](https://github.com/JakeLin/SwiftWeather) - SwiftWeather清新淡雅持续改进天气预报项目。
  * [Phonetic.swift](https://github.com/iAugux/Phonetic) - Phonetic一个 iOS 版的 Phonetic Contacts，功能很多，其中昵称功能非常实用，已在 GitHub 开源并上架 App Store。
  * [edhita.swift](https://github.com/tnantoka/edhita) - edhita.swift支持Markdown, HTML预览的文本编辑器。
+ * [PilesSugar.swift](https://github.com/cornerAnt/PilesSugar) - PilesSugar.swift:Swift高仿项目,堆糖。
 
-SwiftWeather
 ========
 #### 好的文章
  * [自定义转场动画](http://www.jianshu.com/p/38cd35968864) - 3 种方法～ 关于自定义转场动画。
