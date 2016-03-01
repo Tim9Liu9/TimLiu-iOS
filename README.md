@@ -28,7 +28,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
     - [WebView与WKWebView](#WebView与WKWebView)
 - [Model](#Model)
 - [通讯录](#通讯录)
-- [其他](#其他)
+- [其他库](#其他库)
 - [数据库](#数据库)
 - [缓存处理](#缓存处理)
 - [PDF](#PDF)
@@ -556,7 +556,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 
 ========
-#### 其他
+#### 其他库
  * [DateTimeKit](https://github.com/exsortis/DateTimeKit) - 一个超赞的时间处理的库，Joda-Time ！ 他能帮你轻松处理时区，处理时间加减，计算到期时间等等场景下的问题。
  * [SwiftDate](https://github.com/malcommac/SwiftDate) - 特别完整、强大的日期时间操作管理类库。它几乎涵盖了已知开源日期类库所有优秀特性。 他能帮你轻松处理时区，处理时间加减，计算到期时间等等场景下的问题。
  * [iOS私有API](https://github.com/nst/iOS-Runtime-Headers) - 私有API，绿色 == public，红色 == private，蓝色 == dylib。
@@ -678,6 +678,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [BGTaobao](https://github.com/huangzhibiao/-) - ios 高仿淘宝/京东详情页 - 集合各种测试框架。
  * [CartDemo](https://github.com/LQQZYY/CartDemo) - CartDemo比较完整的购物车界面及逻辑,商品展示,多选,单选,全选及滑动删除,价格计算。
  * [JLRoutes](https://github.com/joeldev/JLRoutes) - JLRoutes好用的URL map库，它的作用是让按钮的点击像网页里的链接一样，只是触发了某个URL，而没有像pushViewController这样的行为，实现解耦。
+ * [BTree.swift](https://github.com/lorentey/BTree) - BTree.swift:相对于标准集合类型具有更优执行性能的基于B-Tree的优化集合类型实现类库。
 
 ========
 #### 数据库
