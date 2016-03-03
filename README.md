@@ -209,6 +209,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [TreeTableView](https://github.com/TyroneWing/TreeTableView) - ZYTreeTableView：TreeView 模仿好友列表的实现方式。
  * [ZWSlideViewController](https://github.com/squarezw/ZWSlideViewController) - ZWSlideViewController多页滑动视图控制器（类似新闻类门户APP）,可以用最简单的继承方法使用，也可以不用继承，只用菜单或主视图页面，可实现丰富的定制，可以使用在多种不同形态的APP下，还可以将其做为多页或多图的滑动介绍。
  * [ZYThumbnailTableView.swift](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - 可展开型预览TableView，开放接口，完全自由定制。[实现教程](http://zyden.vicp.cc/zythumbnailtableview/) 
+ * [XWCatergoryView](https://github.com/wazrx/XWCatergoryView) - 一个轻量级的顶部分类视图控件，只需要通过简单的设置，你就可以快速集成该控件， 控件目前暂时有底部横条移动，椭圆背景移动，文字缩放，文字颜色变化，和文字颜色渐变五种效果，五种效果可以叠加使用也可以单一使用。[实现教程](http://www.jianshu.com/p/274d19f97564)
 
 ##### 隐藏与显示
  * [SlideTapBar](http://d.cocoachina.com/code/detail/286102) - 滚动栏菜单，向上滚动时隐藏tabbar，向下滚动马上显示tabbar。
