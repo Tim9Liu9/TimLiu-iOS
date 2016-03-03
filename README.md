@@ -207,7 +207,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [微博cell自动布局](http://code.cocoachina.com/view/129212) - 使用autoLayout对微博的cell进行自动布局，自适应cell的高度。
  * [TreeTableView](https://github.com/TyroneWing/TreeTableView) - ZYTreeTableView：TreeView 模仿好友列表的实现方式。
  * [ZWSlideViewController](https://github.com/squarezw/ZWSlideViewController) - ZWSlideViewController多页滑动视图控制器（类似新闻类门户APP）,可以用最简单的继承方法使用，也可以不用继承，只用菜单或主视图页面，可实现丰富的定制，可以使用在多种不同形态的APP下，还可以将其做为多页或多图的滑动介绍。
- * [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - 可展开型预览TableView，开放接口，完全自由定制。[实现教程](http://zyden.vicp.cc/zythumbnailtableview/) 
+ * [ZYThumbnailTableView.swift](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - 可展开型预览TableView，开放接口，完全自由定制。[实现教程](http://zyden.vicp.cc/zythumbnailtableview/) 
 
 ##### 隐藏与显示
  * [SlideTapBar](http://d.cocoachina.com/code/detail/286102) - 滚动栏菜单，向上滚动时隐藏tabbar，向下滚动马上显示tabbar。
@@ -453,6 +453,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [HamburgerButton.swift](https://github.com/fastred/HamburgerButton) - HamburgerButton.swift一个汉堡包动画返回按钮。
  * [MDCSwipeToChooseView](https://github.com/modocache/MDCSwipeToChoose) - MDCSwipeToChooseView翻牌子效果。
  * [STLBGVideo](https://github.com/StoneLeon/STLBGVideo) - STLBGVideo让您的视图控制器的自定义backgroundvideo,[实现说明1](http://www.jianshu.com/p/c4704c086b67)、[实现说明2](http://www.jianshu.com/p/3dcebf0493d1)。
+ * [Advance.swift](https://github.com/storehouse/Advance) - 简单易用、功能强大的动画框架库。在手势交互、帧动画、自定义动画及仿真类型将是不错的选择。
 
 ========
 #### 网络相关
