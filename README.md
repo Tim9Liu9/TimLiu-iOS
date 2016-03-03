@@ -991,7 +991,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [iOS推送之远程推送](http://ios.jobbole.com/83952/) 、[iOS推送之本地推送](http://ios.jobbole.com/83949/)。
  * [动态部署方案](http://www.cocoachina.com/ios/20151019/13761.html)  - iOS应用架构谈动态部署方案。
  * [awesome-github](https://github.com/AntBranch/awesome-github)  - awesome-github:收集这个列表，只是为了更好地使用亲爱的GitHub。
-    
+ * [ReactiveCocoa 4 文档翻译目录](http://www.jianshu.com/p/fccba7be1ca1)  - ReactiveCocoa 4 文档翻译目录。    
+
 ========
 #### Xcode插件
  * [iOS开发进阶，从Xcode开始](http://www.cocoachina.com/special/xcode/) - 学习使用Xcode构建出色的应用程序！
