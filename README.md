@@ -686,6 +686,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [CartDemo](https://github.com/LQQZYY/CartDemo) - CartDemo比较完整的购物车界面及逻辑,商品展示,多选,单选,全选及滑动删除,价格计算。
  * [JLRoutes](https://github.com/joeldev/JLRoutes) - JLRoutes好用的URL map库，它的作用是让按钮的点击像网页里的链接一样，只是触发了某个URL，而没有像pushViewController这样的行为，实现解耦。
  * [BTree.swift](https://github.com/lorentey/BTree) - BTree.swift:相对于标准集合类型具有更优执行性能的基于B-Tree的优化集合类型实现类库。
+ * [PromiseKit](https://github.com/mxcl/PromiseKit) - 同时支持 Swift 及 Objective-C 的 Promise 类库。。
 
 ========
 #### 数据库
