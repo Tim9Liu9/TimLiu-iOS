@@ -1003,6 +1003,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [awesome-github](https://github.com/AntBranch/awesome-github)  - awesome-github:收集这个列表，只是为了更好地使用亲爱的GitHub。
  * [ReactiveCocoa 4 文档翻译目录](http://www.jianshu.com/p/fccba7be1ca1)  - ReactiveCocoa 4 文档翻译目录。    
  * [Swift编程的15个技巧](http://geek.csdn.net/news/detail/58593)  - Swift编程的15个技巧。 
+ * [每个Xcode开发者应该知道的七个使用技巧](http://www.cocoachina.com/ios/20160304/15558.html)  - 每个Xcode开发者应该知道的七个使用技巧。 
 
 ========
 #### Xcode插件
@@ -1044,7 +1045,7 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
 
  * [ColorSense-for-Xcode](https://github.com/omz/ColorSense-for-Xcode) - 颜色插件，安装之后，就不用根据RGB选择颜色，直接从取色板中取颜色，会自动补齐RGB代码。
 
- * [10款提高iOS开发效率的XCode插件](http://www.imooc.com/wenda/detail/237132) - 10款提高iOS开发效率的XCode插件：1. XcodeColors；5. ACCodeSnippetRepository；10. Dash for Xcode。 
+ * [10款提高iOS开发效率的XCode插件](http://www.codeceo.com/article/10-ios-xcode-plugins.html) - 10款提高iOS开发效率的XCode插件：1. XcodeColors；5. ACCodeSnippetRepository；10. [Dash for Xcode](https://github.com/omz/Dash-Plugin-for-Xcode)。 
 
  * [ZLGotoSandboxPlugin](https://github.com/MakeZL/ZLGotoSandboxPlugin) - 支持Xcode快捷键了跳转当前应用沙盒了！快捷键是 Shift+Common+w。 
 
