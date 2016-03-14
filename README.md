@@ -343,6 +343,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [Gecco.Swift](https://github.com/yukiasai/Gecco) - Gecco.Swift 是一款支持对视图进行局部高亮的 Swift 库, 帮助 iOS 开发者快速创建产品的新手指导界面。
  * [DFTimelineView](https://github.com/anyunzhong/DFTimelineView) - DFTimelineView仿微信朋友圈 时间轴。
 * [AsyncDisplayKit.swift](https://github.com/facebook/AsyncDisplayKit) - AsyncDisplayKit.swift是 facebook的提供异步的界面高流畅性切换及更灵敏的响应框架。
+ * [SubtleVolume.swift](https://github.com/andreamazz/SubtleVolume) - 更隐蔽的系统音量替代指示器。
 
 ========
 #### 动画
