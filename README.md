@@ -212,6 +212,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [ZYThumbnailTableView.swift](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - 可展开型预览TableView，开放接口，完全自由定制。[实现教程](http://zyden.vicp.cc/zythumbnailtableview/) 
  * [XWCatergoryView](https://github.com/wazrx/XWCatergoryView) - 一个轻量级的顶部分类视图控件，只需要通过简单的设置，你就可以快速集成该控件， 控件目前暂时有底部横条移动，椭圆背景移动，文字缩放，文字颜色变化，和文字颜色渐变五种效果，五种效果可以叠加使用也可以单一使用。[实现教程](http://www.jianshu.com/p/274d19f97564)
  * [jingDongFenLei](http://code.cocoachina.com/view/129675) - 简单仿写京东分类中的多级分类页面。
+ * [WHC_CollectionViewFramework.swift](https://github.com/netyouli/WHC_CollectionViewFramework) - 高仿支付宝可拖拽排序编辑动画效果cell的CollectionView集合视图。
 
 ##### 隐藏与显示
  * [SlideTapBar](http://d.cocoachina.com/code/detail/286102) - 滚动栏菜单，向上滚动时隐藏tabbar，向下滚动马上显示tabbar。
