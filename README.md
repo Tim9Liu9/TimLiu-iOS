@@ -697,6 +697,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [PromiseKit](https://github.com/mxcl/PromiseKit) - 同时支持 Swift 及 Objective-C 的 Promise 类库。
  * [ZipArchive](https://github.com/ZipArchive/ZipArchive) - 适用iOS和OS X的解压库。
  * [Duration.swift](https://github.com/SwiftStudies/Duration) - 测量代码片段执行时间工具类库（Swift）。
+ * [Bolts-Swift](https://github.com/BoltsFramework/Bolts-Swift) - 全平台（所有支持 Swift 的设备）任务管理 futures/promises 异步实现类库。
 
 ========
 #### 数据库
