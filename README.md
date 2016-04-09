@@ -218,6 +218,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [SwipeViewController.swift](https://github.com/fortmarek/SwipeViewController) - 一款好用的页面滑动和标签选项卡类库及示例。功能相当于 Objective-C 版 RKSwipeBetweenViewControllers。
  * [RKSwipeBetweenViewControllers](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers) - 页面滑动和标签选项卡类库。
  * [FriendSearch](http://www.cocoachina.com/ios/20160407/15870.html) - 两种UI的搜索，搜索的算法可以满足中英文互搜，联想搜索等，其中还包含对一组数据自动进行按字母分组等功能。
+ * [YX_UITableView_IN_UITableView](https://github.com/yixiangboy/YX_UITableView_IN_UITableView) - UITableview嵌套UITableView案例实践（仿淘宝商品详情页实现），[项目讲解](http://blog.csdn.net/yixiangboy/article/details/51009010)。
 
 ##### 隐藏与显示
  * [SlideTapBar](http://d.cocoachina.com/code/detail/286102) - 滚动栏菜单，向上滚动时隐藏tabbar，向下滚动马上显示tabbar。
