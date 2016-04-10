@@ -5,7 +5,7 @@
 ## github搜索：[https://github.com/search](https://github.com/search)
 
 ##  目录
-- [UI相关](#UI相关)
+- [关于UI](#关于UI)
     - [下拉刷新](#下拉刷新)
     - [模糊效果](#模糊效果)
     - [AutoLayout相关](#AutoLayout相关)
@@ -58,7 +58,7 @@
 
 ## 具体内容
 
-### UI相关
+### 关于UI
 #### 下拉刷新
  * [EGOTableViewPullRefresh](https://github.com/enormego/EGOTableViewPullRefresh) - 最早的下拉刷新控件。
  * [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) - 下拉刷新控件。 
