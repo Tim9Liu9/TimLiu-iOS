@@ -5,10 +5,10 @@
 ## github搜索：[https://github.com/search](https://github.com/search)
 
 ##  目录
-- [关于UI](#关于UI)
+- [UI](#UI)
     - [下拉刷新](#下拉刷新)
     - [模糊效果](#模糊效果)
-    - [关于AutoLayout](#关于AutoLayout)
+    - [AutoLayout](#AutoLayout)
     - [富文本](#富文本)
     - [图表](#图表)
     - [表相关与Tabbar](#表相关与Tabbar) 
@@ -57,7 +57,7 @@
     - [开发博客列表](#开发博客列表)
 - [物联网](#物联网)
 
-### 关于UI
+### UI
 #### 下拉刷新
  * [EGOTableViewPullRefresh](https://github.com/enormego/EGOTableViewPullRefresh) - 最早的下拉刷新控件。
  * [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) - 下拉刷新控件。 
@@ -94,7 +94,7 @@
  * [SABlurImageView](https://github.com/szk-atmosphere/SABlurImageView) - 支持渐变动画效果的图像模糊化类库。P.S. 与前几天推存类库 SAHistoryNavigationViewController 是同一位作者。
  * [Blurable.swift](https://github.com/FlexMonkey/Blurable) - swift模糊组件。
 
-#### AutoLayout相关
+#### AutoLayout
  * [Masonry](https://github.com/Masonry/Masonry) - Masonry是一个轻量级的布局框架，拥有自己的描述语法，采用更优雅的链式语法封装自动布局，简洁明了并具有高可读性（ [使用介绍1](http://adad184.com/2014/09/28/use-masonry-to-quick-solve-autolayout/)  [使用介绍2](http://ios.jobbole.com/81483/)），[iOS自适应前段库-Masonry的使用](http://www.cocoachina.com/ios/20150702/12217.html)），[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900)。[使用DEMO](https://github.com/lcddhr/DDMasonryTest) 视图居中显示、子视图含边距、视图等距离摆放、计算ScrollView的contentsize。
  * [Classy](https://github.com/cloudkite/Classy/) - Classy是一个能与UIKit无缝结合stylesheet(样式)系统。它借鉴CSS的思想，但引入新的语法和命名规则，[Classy官网](http://classy.as/getting-started/)，[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900)。
  * [ClassyLiveLayout](https://github.com/olegam/ClassyLiveLayout) - ClassyLiveLayout通过结合Classy stylesheets与Masonry一起使用，能够在运行的模拟器中微调Auto Layout约束实时显示效果的工具，[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900)。
