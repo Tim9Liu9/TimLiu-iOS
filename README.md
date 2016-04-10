@@ -4,6 +4,11 @@
 
 ## github搜索：[https://github.com/search](https://github.com/search)
 
+## 优秀资源汇总
+* [iOS学习资源汇总](http://www.jianshu.com/p/b7c4a787a597) 
+* [iOS开源库排名](https://github.com/search?l=Objective-C&o=desc&q=stars%3A%3E1&s=stars&type=Repositories)
+* [iOS开源库汇总](http://github.ibireme.com/github/list/ios/) 
+
 ##  目录
 - [UI](#UI)
     - [下拉刷新](#下拉刷新)
