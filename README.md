@@ -56,6 +56,7 @@
     - [他人开源总结](#他人开源总结)
     - [开发博客列表](#开发博客列表)
 - [物联网](#物联网)
+- [版本控制](#版本控制)
 
 ### UI
 #### 下拉刷新
@@ -1189,3 +1190,6 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
 
 ### 物联网
  * [awesome-iot](https://github.com/phodal/awesome-iot) - 这份物联网学习参考大全太给力。从物联网协议、嵌入式系统、相关开源库、相关书籍、博客、学习笔记、标准应有尽有。
+
+### 版本控制
+* [Git教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
