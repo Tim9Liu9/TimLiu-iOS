@@ -5,10 +5,10 @@
 ## github搜索：[https://github.com/search](https://github.com/search)
 
 ##  目录
-- [UI](#UI)
+- [UI相关](#UI相关)
     - [下拉刷新](#下拉刷新)
     - [模糊效果](#模糊效果)
-    - [AutoLayout](#AutoLayout)
+    - [AutoLayout相关](#AutoLayout相关)
     - [富文本](#富文本)
     - [图表](#图表)
     - [表相关与Tabbar](#表相关与Tabbar) 
@@ -27,12 +27,12 @@
     - [网络测试](#网络测试)
     - [网页框架](#网页框架)
     - [WebView与WKWebView](#WebView与WKWebView)
-- [Model](#Model)
+- [Model相关](#Model相关)
 - [通讯录](#通讯录)
 - [其他库](#其他库)
 - [数据库](#数据库)
 - [缓存处理](#缓存处理)
-- [PDF](#PDF)
+- [PDF相关](#PDF相关)
 - [图像浏览及处理](#图像浏览及处理)
 - [摄像照相视频音频处理](#摄像照相视频音频处理)
 - [响应式框架](#响应式框架)
@@ -44,21 +44,21 @@
 - [代码安全与密码](#代码安全与密码)
 - [测试及调试](#测试及调试)
 - [动态更新](#动态更新)
-- [AppleWatch](#AppleWatch)
+- [AppleWatch相关](#AppleWatch相关)
 - [完整项目](#完整项目)
 - [好的文章](#好的文章)
-- [VPN](#VPN)
+- [VPN相关](#VPN相关)
 - [Xcode插件](#Xcode插件)
 - [美工资源](#美工资源)
 - [开发资源](#开发资源)
     - [开发资料](#开发资料)
-    - [swift](#swift)
+    - [swift相关](#swift相关)
     - [他人开源总结](#他人开源总结)
     - [开发博客列表](#开发博客列表)
 
 ## 具体内容
 
-### UI
+### UI相关
 #### 下拉刷新
  * [EGOTableViewPullRefresh](https://github.com/enormego/EGOTableViewPullRefresh) - 最早的下拉刷新控件。
  * [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) - 下拉刷新控件。 
@@ -95,7 +95,7 @@
  * [SABlurImageView](https://github.com/szk-atmosphere/SABlurImageView) - 支持渐变动画效果的图像模糊化类库。P.S. 与前几天推存类库 SAHistoryNavigationViewController 是同一位作者。
  * [Blurable.swift](https://github.com/FlexMonkey/Blurable) - swift模糊组件。
 
-#### AutoLayout
+#### AutoLayout相关
  * [Masonry](https://github.com/Masonry/Masonry) - Masonry是一个轻量级的布局框架，拥有自己的描述语法，采用更优雅的链式语法封装自动布局，简洁明了并具有高可读性（ [使用介绍1](http://adad184.com/2014/09/28/use-masonry-to-quick-solve-autolayout/)  [使用介绍2](http://ios.jobbole.com/81483/)），[iOS自适应前段库-Masonry的使用](http://www.cocoachina.com/ios/20150702/12217.html)），[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900)。[使用DEMO](https://github.com/lcddhr/DDMasonryTest) 视图居中显示、子视图含边距、视图等距离摆放、计算ScrollView的contentsize。
  * [Classy](https://github.com/cloudkite/Classy/) - Classy是一个能与UIKit无缝结合stylesheet(样式)系统。它借鉴CSS的思想，但引入新的语法和命名规则，[Classy官网](http://classy.as/getting-started/)，[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900)。
  * [ClassyLiveLayout](https://github.com/olegam/ClassyLiveLayout) - ClassyLiveLayout通过结合Classy stylesheets与Masonry一起使用，能够在运行的模拟器中微调Auto Layout约束实时显示效果的工具，[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900)。
@@ -549,7 +549,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [IOSCallJsOrJsCallIOS](https://github.com/CoderJackyHuang/IOSCallJsOrJsCallIOS) - IOSCallJsOrJsCallIOS：利用iOS7.0后出来的JavaScriptCore framework，webview与Js交互是常见的需求。OC版本与swift版本。[《OC JavaScriptCore与js交互》](http://www.henishuo.com/oc-js/),[《Swift JavaScriptCore与js交互》](http://www.henishuo.com/swift-js/)。 
  * [WKWebViewTestDemo.swift](https://github.com/CoderJackyHuang/WKWebViewTestDemo) - WKWebViewTestDemo：WKWebView新特性及JS交互,[文章讲解](http://www.henishuo.com/wkwebview-js/)。 
 
-### Model
+### Model相关
  * [JSONKit](https://github.com/johnezang/JSONKit) - JSONKit库是非常简单易用而且效率又比较高的，重要的JSONKit适用于ios 5.0以下的版本,使用JSONKit库来解析json文件，只需要下载JSONKit.h 和JSONKit.m添加到工程中；然后加入libz.dylib即可。
  * [JSONModel](https://github.com/icanzilb/JSONModel) - 解析服务器返回的Json数据的库,[JSONModel源码解析一](http://www.jianshu.com/p/3d795ea37835)。
  * [Mantle](https://github.com/Mantle/Mantle) - Mantle主要用来将JSON数据模型化为OC对象, 大系统中使用。[为什么选择Mantle](http://www.iwangke.me/2014/10/13/Why-Changba-iOS-choose-Mantle/)。
@@ -728,7 +728,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [YYCache](https://github.com/ibireme/YYCache) - 高性能的 iOS 缓存框架。
  * [RuntimeDemo](https://github.com/CoderJackyHuang/RuntimeDemo) - runtime自动归档/解档,[源码分析](http://www.henishuo.com/runtime-archive-unarchive-automaticly/)。
 
-### PDF
+### PDF相关
  * [Reader](https://github.com/vfr/Reader) - Reader可提供类似iBooks的文档导航，支持屏幕旋转和所有方向，并通过密码保护加密PDF文件，支持PDF链接和旋转页面。
 
 ### 图像浏览及处理
@@ -912,7 +912,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [JSPatch](https://github.com/bang590/JSPatch) - JSPatch 是一个开源项目(Github链接)，只需要在项目里引入极小的引擎文件，就可以使用 JavaScript 调用任何 Objective-C 的原生接口，替换任意 Objective-C 原生方法。目前主要用于下发 JS 脚本替换原生 Objective-C 代码，实时修复线上 bug。[官网](https://github.com/bang590/JSPatch)。
  * [CTJSBridge](https://github.com/casatwy/CTJSBridge) - JCTJSBridge：a javascript bridge for iOS app to interact with h5 web view。
 
-### AppleWatch
+### AppleWatch相关
  * [Tesla汽车AppleWatch app demo演示](https://github.com/eleks/rnd-apple-watch-tesla) - 通过AppleWatch控制特斯拉汽车，同时可以看到汽车的相关信息，比如剩余电量、可续行里程等，以及解锁/上锁车门、调节司机和乘客的四区域空调温度、开启车辆大灯、定位汽车等。[源码推荐说明](http://www.cocoachina.com/ios/20150205/11116.html)。 
  * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - WatchKit 开源小项目示例集锦。是不可多得地学习 WatchKit 的示例式教程（1.如何创建一个简单的交互式计数器；2.如何从手表上控制iOS app；3.如何在WatchKit app和iOS app之间共享数据；4.如何创建一个拥有不同背景色的数字时钟；5.展示不同的UI层；6.如何创建支持滑动手势的应用程序。）。 
  * [KYVoiceCurve](https://github.com/KittenYang/KYVoiceCurve) - 类似Apple Watch中语音的声音曲线动画。  
@@ -1095,7 +1095,7 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
 * [禅与 Objective-C 编程艺术](https://github.com/oa414/objc-zen-book-cn) - 禅与 Objective-C 编程艺术 （Zen and the Art of the Objective-C Craftsmanship 中文翻译）。
 * [Objective-C编码规范：26个方面解决iOS开发问题](http://www.imooc.com/article/1216) - 【Objective-C编码规范：26个方面解决iOS开发问题：“我们制定Objective-C编码规范的原因是我们能够在我们的书，教程和初学者工具包的代码保持优雅和一致。”今天分享的规范来自raywenderlich.com团队成员共同完成的，希望对学习OC的朋友们有所指导和帮助。
 
-##### swift
+##### swift相关
  * [Swift 开源项目精选－v1.0](http://dev.swiftguide.cn/archive/featured-open-source-projects-in-swift_v1.0.html) - Swift 开源项目精选－v1.0。
  * [Swift开源项目精选](https://github.com/ipader/SwiftGuide/blob/master/Featured.md) - Swift开源项目精选--推荐，每周都有更新。
  * [Swift中文指南](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) - 中文版Apple官方Swift教程《The Swift Programming Language》，[老码版本](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/)  [历史版本更新说明](http://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/chapter1/03_revision_history.html)。 
