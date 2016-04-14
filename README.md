@@ -359,6 +359,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [AsyncDisplayKit.swift](https://github.com/facebook/AsyncDisplayKit) - AsyncDisplayKit.swift是 facebook的提供异步的界面高流畅性切换及更灵敏的响应框架。
  * [SubtleVolume.swift](https://github.com/andreamazz/SubtleVolume) - 更隐蔽的系统音量替代指示器。
  * [InkKit.swift](https://github.com/shaps80/InkKit) - 该类库帮助开发者绘制简单图形更容易。
+ * [HYBImageCliped](https://github.com/CoderJackyHuang/HYBImageCliped) - 可给任意继承UIView的控件添加任意多个圆角、可根据颜色生成图片且可带任意个圆角、给UIButton设置不同状态下的图片且可带任意圆角、给UIImageView设置任意图片，支持带圆角或者直接生成圆形。
 
 ========
 #### 动画
