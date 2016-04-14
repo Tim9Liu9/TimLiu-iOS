@@ -482,6 +482,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [ZFCityGuides](https://github.com/WZF-Fei/ZFCityGuides) - 实现City Guides的动画效果，数字动态变化的动画效果。
  * [NumberMorphView.swift](https://github.com/me-abhinav/NumberMorphView) - 可爱的数字补间（变身）动画类库。
  * [DisplaySwitcher.swift](https://github.com/Yalantis/DisplaySwitcher) - 两个集合视图在不同布局（平铺和列表）间平滑切换。Yalantis 出品。
+ * [DynamicButton.swift](https://github.com/yannickl/DynamicButton) - 一套完整、且带动画过渡的图标按钮库。
 
 ========
 #### 网络相关
