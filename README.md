@@ -939,7 +939,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [ipapy](https://github.com/hades0918/ipapy) - iOS项目自动打包脚本，并且上传到fir.im，然后发送邮件给测试人员。
  * [fbretaincycledetector](https://github.com/facebook/fbretaincycledetector) - Facebook出品,通过Runtime监测循环引用。
  * [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) - Facebook出品,内存检测库。
- 
+ * [FBAllocationTracker](https://github.com/facebook/FBAllocationTracker) - Facebook出品,跟踪oc对象的分配情况。
+
 ========
 #### 动态更新
  * [waxPatch](https://github.com/mmin18/WaxPatch) - 大众点评的屠毅敏同学在基于[wax](https://github.com/probablycorey/wax)的基础上写了waxPatch，这个工具的主要原理是通过lua来针对objc的方法进行替换，由于lua本身是解释型语言，可以通过动态下载得到，因此具备了一定的动态部署能力。
