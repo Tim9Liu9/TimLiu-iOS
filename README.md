@@ -1177,6 +1177,7 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
  * [Github-iOS备忘](http://github.ibireme.com/github/list/ios/) -整理了比较常用的iOS第三方组件，以及github上的统计。
  * [超全！整理常用的iOS第三方资源](http://www.cocoachina.com/ios/20160121/14988.html) - 超全！整理常用的iOS第三方资源。
  * [MyGithubMark](https://github.com/JanzTam/MyGithubMark) - Github上的iOS资料-个人记录（持续更新）。
+ * [Github 上的 iOS 开源项目](http://ios.jobbole.com/84684/) - Github 上的 iOS 开源项目总结。
 
 
 ##### 开发博客列表
