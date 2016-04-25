@@ -231,7 +231,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [HYNavBarHidden](https://github.com/HelloYeah/HYNavBarHidden) - 导航条滚动透明，超简单好用的监听滚动,导航条渐隐的UI效果实现。
  * [BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar) - 固定Header的效果库，一个拥有非常灵活高度的标题栏，可以为使用软件的用户提供更多的阅读和滑动空间，现在已经被众多app所采用。
  * [JXT_iOS_Demos](https://github.com/kukumaluCN/JXT_iOS_Demos) - AboutNavigationBar:一些关于navigationBar的非常规的但是较为实用的操作，包括利用毛玻璃、动态透明、动态隐藏，以及头视图的动态缩放，并同时涉及了statusBar的动态设置（换色）。[教程](http://www.jianshu.com/p/b2585c37e14b)。
- * [NavTopImage.swift](https://github.com/itjhDev/NavTopImage) - NavigationController动态缩放titleView。[教程](https://itjh.net/2016/04/23/NavigationController-titleView-scroll/)。
+ * [NavigationBarScaleViewDemo](https://github.com/CoderJackyHuang/NavigationBarScaleViewDemo) - iOS导航条自由缩放头像效果。[原理剖析](http://www.henishuo.com/nav-photo-scale/)。
+
 
 ##### HUD与Toast
  * [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - 最多人用的loading。
