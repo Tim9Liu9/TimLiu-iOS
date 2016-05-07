@@ -856,6 +856,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [IWatch](https://github.com/280772270/IWatch) - 一个视频日报类的app 播放器用到了AVFoudation。
  * [SkfSwiftCammer](https://github.com/wubianxiaoxian/SkfSwiftCammer) - 一个相机demo，在oc里面调用了swift。
  * [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - 基于AVPlayer，支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。
+ * [BMPlayer.swift](https://github.com/BrikerMan/BMPlayer) - 基于 AVPlayer 使用 Swift 封装的视频播放器，方便快速集成,支持横屏、竖屏，上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。
 
 ========
 #### 响应式框架
