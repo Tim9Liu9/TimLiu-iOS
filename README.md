@@ -821,7 +821,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [ffmpeg](http://ffmpeg.org/) - ffmpeg官网，[FFmpeg在iOS上完美编译](http://www.cocoachina.com/ios/20150514/11827.html)。
  * [VLC](http://www.videolan.org/) - VCL官网,[VLC for iOS 2.7.2 source code](https://www.videolan.org/vlc/download-ios.html)。 
  * [kxmovie](https://github.com/kolyvan/kxmovie) - 使用ffmpeg的影片播放器，[修改说明](http://www.cocoachina.com/bbs/read.php?tid=145575)， [修改代码](https://github.com/kinglonghuang)，[基于FFmpeg的kxMoive艰难的编译运行](https://github.com/namebryant/FFmpeg-Compilation)。
- * [ijkplayer](https://github.com/Bilibili/ijkplayer) - B站开源的视频播放器，支持Android和iOS。 
+ * [ijkplayer](https://github.com/Bilibili/ijkplayer) - B站开源的视频播放器，支持Android和iOS。 [iOS中集成ijkplayer视频直播框架](http://www.jianshu.com/p/1f06b27b3ac0)。
  * [StreamingKit](https://github.com/tumtumtum/StreamingKit) - StreamingKit流媒体音乐播放器。 
  * [FreeStreamer](https://github.com/muhku/FreeStreamer) - FreeStreamer流媒体音乐播放器，cpu占用非常小。
  * [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer) - DOUAudioStreamer豆瓣的音乐流媒体播放器。
@@ -1172,6 +1172,7 @@ http://tangqiaoboy.gitcafe.io/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dep
  * [MyGithubMark](https://github.com/JanzTam/MyGithubMark) - Github上的iOS资料-个人记录（持续更新）。
  * [Github 上的 iOS 开源项目](http://ios.jobbole.com/84684/) - Github 上的 iOS 开源项目总结。
  * [iOS资源大全中文版](https://github.com/jobbole/awesome-ios-cn) - iOS资源大全中文版。
+ * [iOSCookies.swift](http://www.ioscookies.com/) - 外国开发者弄了个Swift开源库、开源Apps等超全资源整合网站！不得不说真用心啊！
 
 ##### 开发博客列表
  * [唐巧整理](https://github.com/tangqiaoboy/iOSBlogCN) - 猿题库唐巧整理。
