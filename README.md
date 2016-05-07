@@ -86,7 +86,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
  * [WaveRefresh](https://github.com/alienjun/WaveRefresh) - 下拉刷新水波纹动画。
  * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - 是一款带有弹性效果的 iOS 下拉刷新组件。
  * [CALayerAnimationDemoh](https://github.com/wuwen1030/CALayerAnimationDemoh) - 双向注水动画下拉刷新组件,使用CALayer的mask实现。
- * [BanTangAnimation](https://github.com/zangqilong198812/BanTangAnimation) - 半塘下拉刷新的原理。简单来说是利用CGGlyph，字符图形转换成cgpath，然后绘制strokeEnd动画。把timeoffset和scrolloffset结合就行了。
+ * [BanTangAnimation](https://github.com/zangqilong198812/BanTangAnimation) - 半糖下拉刷新的原理。简单来说是利用CGGlyph，字符图形转换成cgpath，然后绘制strokeEnd动画。把timeoffset和scrolloffset结合就行了。
 
 ##### 模糊效果
  * [FXBlurView](https://github.com/nicklockwood/FXBlurView) - 是一个UIView子类，支持iOS5.0以上版本，支持静态、动态模糊效果，继承与UIView的模糊特效。
@@ -1060,7 +1060,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [SoundCloudSwift](https://github.com/pepibumur/SoundCloudSwift) - SoundCloud的Swift版本，采用Swift2.0，Reactive API with ReactiveCocoa 4.0。
  * [LeagueofLegends](https://github.com/HarrisHan/LeagueofLegends) - 一个关于英雄联盟的完整iOS开源项目，接口均来自多玩，腾讯各大游戏平台。
  * [Coderpursue.swift](https://github.com/wenghengcong/Coderpursue) - 一款 Github 第三方客户端，使用最新 Swift 语言编写。
-
+ * [BTApp](https://github.com/Ryan0520/BTApp) - BTApp 仿半糖 iOS App 的 Demo 应用。
  * [iOS完整App资源收集](http://www.henishuo.com/ios-app-fully-code/) - iOS开发学习者都希望得到实战训练，但是很多资料都是只有一小部分代码，并不能形成完成的App，笔者在此处收集了很多开源的完整的App，都有源代码哦！--标哥的技术博客
 
 ========
