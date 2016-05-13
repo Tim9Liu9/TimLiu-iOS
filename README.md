@@ -378,6 +378,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [LeeGo.swift](https://github.com/wangshengjia/LeeGo) - 带来更 声明式的，可配置的和易复用的UI开发方式，让UI开发变得像玩乐高积木一样简单直观，某种程度上取代ComponentKit。
  * [Caishen.swift](https://github.com/prolificinteractive/Caishen) - 简易、实用的付款输入及校验 UI 组件。
  * [SwiftTweaks](https://github.com/Khan/SwiftTweaks) - 不用重新编译即可调整 UI 配置（按钮颜色、背景、动画延迟，简单布局等）的解决方案库。实现了发布生产版本前 UI 的简单配置，省却反复调试代码的麻烦。类似 OC 版 Facebook Tweats。
+* [StackViewController](https://github.com/seedco/StackViewController) - 方便 iOS 开发者使用 UIStackView 构建表单或其它静态内容视图。
 
 ========
 #### 动画
@@ -511,7 +512,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [INPopoverController](https://github.com/indragiek/INPopoverController) - OS X可自由定制的  Popover 视图。
  * [WZXJianShuPopDemo](https://github.com/Wzxhaha/WZXJianShuPopDemo) - 仿简书、淘宝等等的View弹出效果，已封装好，使用简单。[实现原理](http://www.jianshu.com/p/a697d2a38b3c)
  * [PeekPop.swift](https://github.com/marmelroy/PeekPop) - 3DTouch动画组件。
-
+ 
 ========
 #### 网络相关
 ##### 网络连接
