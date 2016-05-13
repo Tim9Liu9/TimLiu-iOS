@@ -747,7 +747,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [CartDemo](https://github.com/LQQZYY/CartDemo) - CartDemo比较完整的购物车界面及逻辑,商品展示,多选,单选,全选及滑动删除,价格计算。
  * [JLRoutes](https://github.com/joeldev/JLRoutes) - JLRoutes好用的URL map库，它的作用是让按钮的点击像网页里的链接一样，只是触发了某个URL，而没有像pushViewController这样的行为，实现解耦。
  * [BTree.swift](https://github.com/lorentey/BTree) - BTree.swift:相对于标准集合类型具有更优执行性能的基于B-Tree的优化集合类型实现类库。
- * [PromiseKit](https://github.com/mxcl/PromiseKit) - 同时支持 Swift 及 Objective-C 的 Promise 类库。
+ * [PromiseKit](https://github.com/mxcl/PromiseKit) - 同时支持 Swift 及 Objective-C 的 Promise 类库，异步编程类库 提供了很多实用的异步函数 让异步编程更简单。
  * [ZipArchive](https://github.com/ZipArchive/ZipArchive) - 适用iOS和OS X的解压库。
  * [Duration.swift](https://github.com/SwiftStudies/Duration) - 测量代码片段执行时间工具类库（Swift）。
  * [Bolts-Swift](https://github.com/BoltsFramework/Bolts-Swift) - 全平台（所有支持 Swift 的设备）任务管理 futures/promises 异步实现类库。
@@ -755,6 +755,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [AIToolbox.swift](https://github.com/KevinCoble/AIToolbox) - AI 主流模块集工具箱库。其中涉及 AI 知识实在广阔又高端。
  * [HWChangeFont](https://github.com/Loveway/HWChangeFont) - 利用runtime一键改变字体。[教程](http://www.jianshu.com/p/b9fdd17c525e)。
  * [RuntimeSummary](https://github.com/Tuccuay/RuntimeSummary) - 一个集合了常用 Objective-C Runtime 使用方法的 Playground。
+ * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - 对Swift标准库， Foundation， UIKit 提供了很多高级扩展函数。
 
 ========
 #### 数据库
