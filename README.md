@@ -941,6 +941,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [RSAESCryptor](https://github.com/bigsan/RSAESCryptor) - 加密 RSA+AES Encryption/Decryption library for iOS. This library uses 2048-bit RSA and 256-bit key with 128-bit block size AES for encryption/decryption。
  * [WJTouchID](https://github.com/bringbird/WJTouchID) - 用法简单的TouchID验证框架：两行代码搞定。
  * [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - OAuthSwift国外主流网站OAuth授权类库。
+ * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - swift加密库, 支持md5,sha1,sha224,sha256...。
 
 ========
 #### 测试及调试
