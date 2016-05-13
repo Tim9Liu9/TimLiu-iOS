@@ -758,6 +758,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [HWChangeFont](https://github.com/Loveway/HWChangeFont) - 利用runtime一键改变字体。[教程](http://www.jianshu.com/p/b9fdd17c525e)。
  * [RuntimeSummary](https://github.com/Tuccuay/RuntimeSummary) - 一个集合了常用 Objective-C Runtime 使用方法的 Playground。
  * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - 对Swift标准库， Foundation， UIKit 提供了很多高级扩展函数。
+ * [TempiBeatDetection.swift](https://github.com/jscalo/TempiBeatDetection) - Swift 语言写的音乐节奏节拍检测库。
 
 ========
 #### 数据库
