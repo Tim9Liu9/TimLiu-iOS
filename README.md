@@ -508,6 +508,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [Interpolate.swift](https://github.com/marmelroy/Interpolate) - 手势驱动交互式转场动画框架库。这个很专业，且非常有意思。
  * [INPopoverController](https://github.com/indragiek/INPopoverController) - OS X可自由定制的  Popover 视图。
  * [WZXJianShuPopDemo](https://github.com/Wzxhaha/WZXJianShuPopDemo) - 仿简书、淘宝等等的View弹出效果，已封装好，使用简单。[实现原理](http://www.jianshu.com/p/a697d2a38b3c)
+ * [PeekPop.swift](https://github.com/marmelroy/PeekPop) - 3DTouch动画组件。
 
 ========
 #### 网络相关
