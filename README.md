@@ -845,6 +845,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [ZZPhotoKit](https://github.com/ACEYL/ZZPhotoKit) - 基于Photos和AVFoundation框架开源，相册多选与相机连拍。
  * [SwViewCapture.swift](https://github.com/startry/SwViewCapture) - SwViewCapture.swift一个用起来还不错的iOS截图库.(支持截取所有内容, 适用于所有ScrollView组成的视图, 包括WebView)。
  * [BeautifyFaceDemo](https://github.com/Guikunzhi/BeautifyFaceDemo) - 一个基于 GPUImage 的实时直播磨皮滤镜的开源实现,主要功能脸部去斑磨皮！
+ * [preview-transition.swift](https://github.com/Ramotion/preview-transition) - 通过向导式代码实现步骤，实现完整、自然流畅的图片预览及转场功能。
+
 
 ========
 #### 摄像照相视频音频处理
