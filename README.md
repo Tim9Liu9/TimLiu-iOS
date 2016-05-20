@@ -432,6 +432,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [ZQLRotateMenu](https://github.com/pingguo-zangqilong/ZQLRotateMenu) - 这是一个旋转视图的选择器。
  * [CoolLoadAniamtion](https://github.com/pingguo-zangqilong/CoolLoadAniamtion) - 一个简单但是效果不错的loading动画。
  * [SequenRotateAnimation](https://github.com/pingguo-zangqilong/SequenRotateAnimation) - 一个简单的loading次序动画。
+ * [ParticlesLoadingView.swift](https://github.com/BalestraPatrick/ParticlesLoadingView) - 通过 SpriteKit 内置工具粒子动画实现酷炫的可定制装载动画。loading动画。
  * [SYAppStart](https://github.com/441088327/SYAppStart) - App启动插画的自定义过度。
  * [VJDeviceSpecificMedia](https://github.com/victorjiang/UIImage-VJDeviceSpecificMedia/) - [如何根据设备选择不同尺寸的图片](http://www.imooc.com/wenda/detail/249271) 可以通过设置不同尺寸设备的LaunchImage，来使得App适配这些设备，要是在不同不同尺寸设备上使用不同大小的图片，则需要在代码中一一判断，然后加载。 
  * [RMParallax](https://github.com/michaelbabiy/RMParallax) - RMParallax是一个app启动页引导开源项目，除了细微的翻页视差效果，描述文本的过渡也非常美观（版本新特性、导航页、引导页）。
