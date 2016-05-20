@@ -44,9 +44,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [测试及调试](#测试及调试)
 - [动态更新](#动态更新)
 - [AppleWatch](#AppleWatch)
+- [VPN](#VPN)
 - [完整项目](#完整项目)
 - [好的文章](#好的文章)
-- [VPN](#VPN)
 - [Xcode插件](#Xcode插件)
 - [美工资源](#美工资源)
 - [开发资源](#开发资源)
@@ -1122,6 +1122,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [每个Xcode开发者应该知道的七个使用技巧](http://www.cocoachina.com/ios/20160304/15558.html) - 每个Xcode开发者应该知道的七个使用技巧。 
  * [腾讯力作！超实用的iOS 9人机界面指南](http://blog.jobbole.com/94261/) - 腾讯力作！超实用的iOS 9人机界面指南。    
  * [iOS开发-超链接富文本案](http://ios.jobbole.com/84956/) - iOS开发-超链接富文本。
+ * [UIView+RedPoint实现底部UITabBarItem和控件的右上角显示和隐藏红点/数字的需求](https://segmentfault.com/a/1190000005112043) - 
 
 ========
 #### Xcode插件
