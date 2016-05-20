@@ -367,6 +367,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [CustomSearchBar](https://github.com/zangqilong198812/CustomSearchBar) - 自定义searchbar,类似于instagram的搜索框效果。
  * [LNPopupController](https://github.com/LeoNatan/LNPopupController) - AppleMusic式pop up，弹出是页面，可以上下拉动。
  * [DGRunkeeperSwitch](https://github.com/gontovnik/DGRunkeeperSwitch/) - 动画segment，节选器。
+ * [DynamicMaskSegmentSwitch](https://github.com/KittenYang/DynamicMaskSegmentSwitch) - 一个简单有趣的 SegmentedControl 节选器。
  * [SMSegmentView.swift](https://github.com/sima-11/SMSegmentView) - 高可定制化，既支持横向，也支持纵向布局的图文 Segment Control 组件，节选器。
  * [YXFilmSelectView](https://github.com/yixiangboy/YXFilmSelectView) - 仿造时光网选择电影票的UI而开发的一个自定义View。
  * [FJTagCollectionView](http://code.cocoachina.com/view/129152) - 标签（适配宽度）。
