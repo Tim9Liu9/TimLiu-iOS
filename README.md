@@ -378,7 +378,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [InkKit.swift](https://github.com/shaps80/InkKit) - 该类库帮助开发者绘制简单图形更容易。
  * [HYBImageCliped](https://github.com/CoderJackyHuang/HYBImageCliped) - 可给任意继承UIView的控件添加任意多个圆角、可根据颜色生成图片且可带任意个圆角、给UIButton设置不同状态下的图片且可带任意圆角、给UIImageView设置任意图片，支持带圆角或者直接生成圆形。
  * [SwiftSVG](https://github.com/mchoe/SwiftSVG) - 支持多种接口（String, NS/UIBezierPath, CAShapeLayer, and NS/UIView）绘制 SVG 类库。
- * [LeeGo.swift](https://github.com/wangshengjia/LeeGo) - 带来更 声明式的，可配置的和易复用的UI开发方式，让UI开发变得像玩乐高积木一样简单直观，某种程度上取代ComponentKit。
+ * [LeeGo.swift](https://github.com/wangshengjia/LeeGo) - 带来更 声明式的，可配置的和易复用的UI开发方式，让UI开发变得像玩乐高积木一样简单直观，某种程度上取代ComponentKit。[用 struct 和 enum 来构建你的整套 UI](http://allblue.me/swift/2016/05/26/LeeGo-chinese-version/)
  * [Caishen.swift](https://github.com/prolificinteractive/Caishen) - 简易、实用的付款输入及校验 UI 组件。
  * [SwiftTweaks](https://github.com/Khan/SwiftTweaks) - 不用重新编译即可调整 UI 配置（按钮颜色、背景、动画延迟，简单布局等）的解决方案库。实现了发布生产版本前 UI 的简单配置，省却反复调试代码的麻烦。类似 OC 版 Facebook Tweats。
 * [StackViewController](https://github.com/seedco/StackViewController) - 方便 iOS 开发者使用 UIStackView 构建表单或其它静态内容视图。
