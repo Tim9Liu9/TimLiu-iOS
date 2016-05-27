@@ -516,7 +516,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [INPopoverController](https://github.com/indragiek/INPopoverController) - OS X可自由定制的  Popover 视图。
  * [WZXJianShuPopDemo](https://github.com/Wzxhaha/WZXJianShuPopDemo) - 仿简书、淘宝等等的View弹出效果，已封装好，使用简单。[实现原理](http://www.jianshu.com/p/a697d2a38b3c)
  * [PeekPop.swift](https://github.com/marmelroy/PeekPop) - 3DTouch动画组件。
- 
+ * [fantastic-ios-animation.swift](https://github.com/onmyway133/fantastic-ios-animation) - 基于 UI 组件类别分类，且带精彩动画效果的 iOS 组件库集合。
+
 ========
 #### 网络相关
 ##### 网络连接
