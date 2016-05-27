@@ -135,7 +135,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [DTCoreText](https://github.com/Cocoanetics/DTCoreText) - 可以解析HTML与CSS最终用CoreText绘制出来，通常用于在一些需要显示富文本的场景下代替低性能的UIWebView。[DTCoreText源码解析](http://blog.cnbang.net/tech/2630/)。
  * [CSGrowingTextView](https://github.com/cloverstudio/CSGrowingTextView) - 用作即时通讯文本框和评论文本框使用，可以显示多行输入。 
  * [MarkdownTextView](https://github.com/indragiek/MarkdownTextView) - 显示Markdown的TextView。
- * [SwiftyMarkdown](https://github.com/SimonFairbairn/SwiftyMarkdown) - 用swift写的markdown解析库。
+ * [SwiftyMarkdown.swift](https://github.com/SimonFairbairn/SwiftyMarkdown) - 用swift写的markdown解析库。
+ * [Marklight.swift](https://github.com/macteo/Marklight) - Markdown 语法高亮显示编辑库（Swift）。
  * [高仿微信限定行数文字内容](http://d.cocoachina.com/code/detail/300299) - 采用Autolayout高仿微信纯文字限定行数。
  * [FuriganaTextView](https://github.com/lingochamp/FuriganaTextView) - 实现复杂的日文韩文排版。
  * [ParkedTextField](https://github.com/gmertk/ParkedTextField) - 带固定文本的输入组件。 
