@@ -1067,6 +1067,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 ========
 #### 完整项目
+ * [GSD_WeiXin](https://github.com/gsdios/GSD_WeiXin) 高仿微信
  * [v2ex](https://github.com/singro/v2ex) - v2ex 的客户端，新闻、论坛。
  * [V2ex-Swift](https://github.com/Finb/V2ex-Swift) - 用 Swift 写的 V2EX 客户端。
  * [iBBS-Swift](https://github.com/iAugux/iBBS-Swift) - “新手开源一个用Swift（2.0）写的论坛客户端”。[BBS 服务端](http://obbs.sinaapp.com/)。 
