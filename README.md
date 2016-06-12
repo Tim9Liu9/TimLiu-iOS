@@ -794,6 +794,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [Algorithm.swift](https://github.com/genadyo/Lyft) - 算法和概率模型工具集。（作者 Daniel Dahan）
  * [GCDThrottle](https://github.com/cyanzhong/GCDThrottle) - 限制频率过高的调用GCD多线程。
  * [Spots.swift](https://github.com/hyperoslo/Spots) - 一套为了加速开发效率、将 view models 采用 JSON 格式存储于云端 view controller 框架库。
+ * [PinpointKit.swift](https://github.com/Lickability/PinpointKit) - 简单的手势动作快速触发反馈组件。主要功能包含自动截屏、附加说明和日志。支持添加可定制箭头、着重框、文本、模糊打码等常用快照编辑功能。它非常适合开发过程中测试人员反馈缺陷。
 
 ========
 #### 数据库
