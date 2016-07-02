@@ -438,7 +438,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [SwiftyGif](https://github.com/kirualex/SwiftyGif) - 高性能 Gif 播放引擎。
  * [PHImageKit.swift](https://github.com/producthunt/PHImageKit) - 出自 Product Hunter 开发小组的带下载、缓存的 GIF 播放组件库。使用简单又方便。
 
-##### 动画引擎 [pop](https://github.com/facebook/pop) facebook出品的非常赞的动画引擎.
 ##### 其他动画
  * [popping](https://github.com/schneiderandre/popping) - popping是一个POP 使用实例工程 
  * [PopMenu](https://github.com/xhzengAIB/PopMenu) - 用POP动画引擎写的Sina微博的Menu菜单。
@@ -530,6 +529,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [WZXJianShuPopDemo](https://github.com/Wzxhaha/WZXJianShuPopDemo) - 仿简书、淘宝等等的View弹出效果，已封装好，使用简单。[实现原理](http://www.jianshu.com/p/a697d2a38b3c)
  * [PeekPop.swift](https://github.com/marmelroy/PeekPop) - 3DTouch动画组件。
  * [fantastic-ios-animation.swift](https://github.com/onmyway133/fantastic-ios-animation) - 基于 UI 组件类别分类，且带精彩动画效果的 iOS 组件库集合。
+ * [pop](https://github.com/facebook/pop) - facebook出品的非常赞的动画引擎。
 
 ========
 #### 网络相关
