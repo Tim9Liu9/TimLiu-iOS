@@ -1,16 +1,14 @@
-# TimLiu-iOS Objective-C版本 持续更新。。。
+# TimLiu-iOS iOS开发常用三方库、插件、知名博客等等，期待大家和我们一起共同维护，同时也期望大家随时能提出宝贵的意见。 持续更新。。。
+# 版本：Objective-C
 github排名 [https://github.com/trending](https://github.com/trending),github搜索：[https://github.com/search](https://github.com/search)
 
-iOS开发常用三方库、插件、知名博客等等，大家可以一览无余了，期待大家和我们一起共同维护，同时也期望大家随时能提出宝贵的意见。
-
-版本说明：
 
 主要工作说明：
   1. 重新整理了Xcode好用的插件，信息更详细和完整，直接搜索@“Xcode插件@”。（已经完成）
 
-
 使用方法：根据目录关键字搜索，记得包含@，以保证搜索目录关键字的唯一性。
 
+问题反馈：请广大网友只按照目录结构（即使目录结构有问题）添加三方库，并pull request。目录问题大家提出issues后楼主会及时更改的。
 
 ###  目录
 - [Github用法@](Github用法@)
