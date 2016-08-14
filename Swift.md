@@ -42,7 +42,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [网络聊天@](#网络聊天@)
   - [网络测试@](#网络测试@)
   - [网页框架@](#网页框架@)
-- [Model三方库@](#Model三方库@)
+- [网络解析@](网络解析@)
 - [开发资料@](#开发资料@)
   - [学习资料@](学习资料@)
   - [GitHub@](#GitHub用法@)
@@ -323,6 +323,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 
 #### Model@
+* [Decodable](https://github.com/Anviking/Decodable) - Swift 2 JSON parsing done (more) right :large_orange_diamond:
+* [Jay](https://github.com/czechboy0/Jay) - Pure-Swift JSON parser & formatter. Linux & OS X ready. :large_orange_diamond:
+* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift. :large_orange_diamond:
 * [XMLDictionary](https://github.com/nicklockwood/XMLDictionary) - ios与mac os平台下xml与NSDictionary相互转化开源类库。
 * [AEXML.swift](https://github.com/tadija/AEXML) - AEXML.swift简单又易于的XML解析类及示例。
 * [CFRuntime](https://github.com/CoderMJLee/MJExtension) - “Swift 版的 MJExtension，运行时、反射与一键字典模型互转”。
