@@ -45,6 +45,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [网页框架@](#网页框架@)
 - [Model三方库@](#Model三方库@)
 - [开发资料@](#开发资料@)
+  - [播客@](播客@)
   - [学习资料@](学习资料@)
   - [他人开源总结@](#他人开源总结@)
   - [开发博客列表@](#开发博客列表@)
@@ -352,7 +353,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [MMProgressHUD](https://github.com/mutualmobile/MMProgressHUD) - 设置HUD出现和消失的方式（包括上下、左右、淡入淡出、放大缩小等等），设置HUD的内容（可以在HUD中加入帧动画、动态图片等等），设置HUD出现时的底部覆盖层颜色，等等。总而言之，这是一份集大成的HUD代码。慢慢看视频吧，囊括了所有效果。
 * [WSProgressHUD](https://github.com/devSC/WSProgressHUD) - 一个小巧精致的HUD,支持添加到自定义View上, 还有更多小细节.。
 * [PreLoader](https://github.com/liuzhiyi1992/PreLoader) - 一个很有意思的HUD loading ，通过运动污点和固定污点之间的粘黏动画吸引用户的眼球跟踪，能有效分散等待注意力。[PreLoader的实现讲解](http://www.cocoachina.com/ios/20160427/16029.html)
-
+* [FillableLoaders](https://github.com/poolqf/FillableLoaders) - 自定义加载进度UI-Completely customizable progress based loaders drawn using custom CGPaths written in Swift :large_orange_diamond:
 ##### 对话框@
 * [LCActionSheet](https://github.com/iTofu/LCActionSheet) 一款简约而不失强大的 ActionSheet，微信和微博都采取了极其类似的样式。
 * [WCAlertView](https://github.com/m1entus/WCAlertView) - 自定义的对话框。
@@ -405,8 +406,9 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 ##### 日历@
 
 * [MSSCalendar](https://github.com/MSS0306/MSSCalendar) A simple iOS Calendar 高性能日历控件（类似去哪网）
+* [Calendar](https://github.com/jumartin/Calendar) - 日历、行程安排类的View和控制器。A set of views and controllers for displaying and scheduling events on iOS
 
-##### 其他UI@
+##### Activity Indicator@
 * [AwesomeMenu](https://github.com/levey/AwesomeMenu) - 最多人用的Path菜单。
 * [DCPathButton](https://github.com/Tangdixi/DCPathButton) - Path，4.0的弹出菜单，呼出或者关闭菜单时，多个小图标会分别按照逆时针和顺时针的方向进行滚动。
 * [SphereMenu](https://github.com/itouch2/SphereMenu) - 利用UIDynamicAnimator的有趣的菜单，path类似。
@@ -827,7 +829,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [XHImageViewer] (https://github.com/JackTeam/XHImageViewer) XHImageViewer is images viewer, zoom image.
 
 
-
 #### 摄像照相视频音频处理@
 * A-[WMPlayer](https://github.com/zhengwenming/WMPlayer) - WMPlayer视频播放器，AVPlayer的封装，继承UIView，想怎么玩就怎么玩。支持播放mp4、m3u8、3gp、mov，网络和本地视频同时支持。全屏和小屏播放同时支持。 cell中播放视频，全屏小屏切换自如。
 * [HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo) iOS端视频弹幕
@@ -873,6 +874,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [520Linkee](https://github.com/GrayJIAXU/520Linkee) 本项目实现了作为一个直播App的基本功能，比如本地视频流采集、播放、美颜、礼物、点赞出心等。
 
 ##### 视频@
+* [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - 基于AVPlayer，支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。
 * [MRVLCPlayer](https://github.com/Maru-zhang/MRVLCPlayer) - 相信Mac用户都很熟悉一款VLC播放器，这款播放器在Mac上表现异常优异，支持的格式几乎涵盖了所有格式（就是这么屌！）。没错，就是它创造者--VideoLAN，开源了一款牛逼的视频播放框架MobileVLCKit！[介绍信息：] (http://gold.xitu.io/entry/578c304b2e958a0054320503?from=singlemessage&isappinstalled=1)
 * [plask](https://github.com/deanm/plask) Plask is a multimedia programming environment.
 
@@ -1094,7 +1096,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [iOS-Categories](https://github.com/shaojiankui/IOS-Categories) - 收集了许多有助于开发的iOS扩展,各种category分类。
 * [cocoacats](http://cocoacats.com/) - 【分类汇总】里面收集了 iOS 中常用的分类文件，一直在更新。
 * [libextobjc](https://github.com/jspahrsummers/libextobjc Libextobjc是一个非常强大的Objective-C库的扩展,为Objective-C提供诸如Safe categories、Concrete protocols、简单和安全的key paths以及简单使用block中的弱变量等功能。libextobjc非常模块化，只需要一个或者两个依赖就能使用大部分类和模块。
-
+* [SFJumpToLine](https://github.com/sferrini/SFJumpToLine) Xcode plugin that moves the instruction pointer to the selected line
 
 #### 美工资源@
 * [TWG_Retina_Icons](https://github.com/markohlebar/Peckham) - 一套支持 Retina 高清屏的 iPhone 免费图标集。
@@ -1113,6 +1115,18 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 
 ######### 开发资料@
+
+#### 播客@
+
+* [The Ray Wenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
+* [Debug](http://www.imore.com/debug)
+* [iDeveloper](http://blog.ideveloper.co/)
+* [App Story](http://www.appstorypodcast.com)
+* [Mobile Couch](http://mobilecouch.co/)
+* [iOS Bytes](https://iosbytes.codeschool.com/)
+* [iPhreaks](https://devchat.tv/iphreaks)
+* [Under the Radar](https://www.relay.fm/radar)
+
 #### 学习资料@
 
 * [objc-zen-book-cn](https://github.com/oa414/objc-zen-book-cn) 禅与 Objective-C 编程艺术 （Zen and the Art of the Objective-C Craftsmanship 中文翻译）
