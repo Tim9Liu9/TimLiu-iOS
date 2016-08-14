@@ -29,6 +29,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [状态栏@](#状态栏@)
   - [导航栏@](#导航栏@)
   - [设置@](#设置@)
+  - [Switch@](Switch@)
   - [其他UI@](#其他UI@)
 - [动画@](#动画@)
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势@)
@@ -388,6 +389,12 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 ##### 设置@
 
 * [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit) InAppSettingsKit 是一款功能强大的ios设置组件，可以满足各种各样的app设置需求。
+* [ViralSwitch](https://github.com/andreamazz/ViralSwitch) A UISwitch that infects its superview with its tint color.
+
+
+##### Switch@
+
+* [JTMaterialSwitch](https://github.com/JunichiT/JTMaterialSwitch) A Customizable Switch UI for iOS, Inspired from Google's Material Design
 
 ##### 日历@
 
@@ -1076,7 +1083,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 ##### Cagegory@
 
 * [JKCategories](https://github.com/shaojiankui/JKCategories) 非常棒的分类
-* [NullSafe](https://github.com/nicklockwood/NullSafe) NullSafe is a simple category on NSNull that returns nil for any unrecognised messages instead of throwing an exception pod 'NullSafe', '~> 1.2.2'
+* [NullSafe](https://github.com/nicklockwood/NullSafe) NullSafe is a simple category on NSNull that returns nil for any unrecognised messages instead of throwing an exception pod 'NullSafe', '~> 1.2.2' 用于防止项目中数组为空时越界访问崩溃。
 * [iOS-Categories](https://github.com/shaojiankui/IOS-Categories) - 收集了许多有助于开发的iOS扩展,各种category分类。
 * [cocoacats](http://cocoacats.com/) - 【分类汇总】里面收集了 iOS 中常用的分类文件，一直在更新。
 * [libextobjc](https://github.com/jspahrsummers/libextobjc Libextobjc是一个非常强大的Objective-C库的扩展,为Objective-C提供诸如Safe categories、Concrete protocols、简单和安全的key paths以及简单使用block中的弱变量等功能。libextobjc非常模块化，只需要一个或者两个依赖就能使用大部分类和模块。
@@ -1199,7 +1206,6 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 #### 学习笔记@
 * [iOS-Note](https://github.com/seedante/iOS-Note)A@ 非常好的学习笔记，主要目录1.Core Data 笔记2.Photos 笔记3.转场动画详解4.自定义容器控制器转场5.交互式动画
 * [growth-ebook](https://github.com/phodal/growth-ebook) Growth Engineering: The Definitive Guide。全栈增长工程师指南
-
 
 #### 设计@
 * [design-resource](https://github.com/timmy3131/design-resource) 设计师资源列表
