@@ -92,6 +92,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [my-git](https://github.com/xirong/my-git)有关 git 的学习资料
 
 ##### 完整App@
+* [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native)用 React Native 完成的 HackerNews 客户端。
 * [WeChat](https://github.com/zhengwenming/WeChat) 实现类似微信朋友圈或者QQ空间，评论回复，九宫格布局。处理键盘弹出后定位到当前点击的被评论人处。另：滑动时候FPS在57-60之间，纵享丝滑！
 * [Coding-iOS](https://github.com/Coding/Coding-iOS) - Coding iOS 客户端源代码
 * [Voice2Note](https://github.com/liaojinxing/Voice2Note) - 懒人笔记iOS客户端
@@ -505,6 +506,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [droptogif](https://github.com/mortenjust/droptogif) -  droptogif视频拖拽到应用窗口后自动转换为 GIF 动画（其转换进程动画效果也超赞）。
 
 ##### 其他动画@
+* [MMTweenAnimation](https://github.com/adad184/MMTweenAnimation)一个基于 POP 的扩展，提供了 10 种自定义的动效。
 * [pop](https://github.com/facebook/pop) - facebook出品的非常赞的动画引擎。
 * [Core Animation笔记，基本的使用方法](http://www.starming.com/index.php?v=index&view=62) - Core Animation笔记，基本的使用方法：1.基本动画，2.多步动画，3.沿路径的动画，4.时间函数，5.动画组。
 * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) - [iOS Animation 主流炫酷动画框架(特效)收集整理](https://github.com/sxyx2008/DevArticles/issues/91) 收集整理了下iOS平台下比较主流炫酷的几款动画框架。
@@ -770,6 +772,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 
 #### 图像浏览及处理@
+* [RMPZoomTransitionAnimator](https://github.com/recruit-mp/RMPZoomTransitionAnimator)一个放大缩小的动效开源库，可以实现图片的放大缩小效果。
 * [FLAnimatedImage](https://github.com/liric28/FLAnimatedImage) - gif播放处理的工具。
 * [CLImageEditor](https://github.com/yackle/CLImageEditor) - 超强的图片编辑库，快速帮你实现旋转，防缩，滤镜等等一系列麻烦的事情。
 * [ios-image-filters](https://github.com/esilverberg/ios-image-filters) - 图像滤镜，库比较旧了，很容易崩溃。
@@ -1194,7 +1197,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 [ibireme伽蓝之堂](http://blog.ibireme.com/) | <http://blog.ibireme.com/feed/>
 
 #### 学习笔记@
-* A-[iOS-Note](https://github.com/seedante/iOS-Note) 非常好的学习笔记，主要目录1.Core Data 笔记2.Photos 笔记3.转场动画详解4.自定义容器控制器转场5.交互式动画
+* [iOS-Note](https://github.com/seedante/iOS-Note)A@ 非常好的学习笔记，主要目录1.Core Data 笔记2.Photos 笔记3.转场动画详解4.自定义容器控制器转场5.交互式动画
 * [growth-ebook](https://github.com/phodal/growth-ebook) Growth Engineering: The Definitive Guide。全栈增长工程师指南
 
 
