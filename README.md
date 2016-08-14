@@ -45,7 +45,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [Model三方库@](#Model三方库@)
 - [开发资料@](#开发资料@)
   - [学习资料@](学习资料@)
-  - [GitHub@](#GitHub用法@)
   - [他人开源总结@](#他人开源总结@)
   - [开发博客列表@](#开发博客列表@)
   - [学习笔记、书籍@](#学习笔记、书籍@)
@@ -89,6 +88,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 ##### Github用法@
 
+* [git-recipes](https://github.com/geeeeeeeeek/git-recipes)  Git recipes in Chinese. 高质量的Git中文教程.
 * [lark](https://github.com/larkjs/lark/wiki/怎样贡献代码) 怎样在Github上面贡献代码
 * [my-git](https://github.com/xirong/my-git)有关 git 的学习资料
 
