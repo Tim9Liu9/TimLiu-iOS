@@ -29,7 +29,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [状态栏@](#状态栏@)
   - [导航栏@](#导航栏@)
   - [设置@](#设置@)
-  - [Switch@](Switch@)
+  - [Switch@](#Switch@)
+  - [主题@](#主题)
   - [其他UI@](#其他UI@)
 - [动画@](#动画@)
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势@)
@@ -397,6 +398,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [JTMaterialSwitch](https://github.com/JunichiT/JTMaterialSwitch) A Customizable Switch UI for iOS, Inspired from Google's Material Design
 
+##### 主题@
+
+* [LEETheme](https://github.com/lixiang1994/LEETheme) 优雅的主题管理库- 一行代码完成多样式切换
+
 ##### 日历@
 
 * [MSSCalendar](https://github.com/MSS0306/MSSCalendar) A simple iOS Calendar 高性能日历控件（类似去哪网）
@@ -763,6 +768,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 ##### 数据存储@
 
 * [CoreModel](https://github.com/CharlinFeng/CoreModel) Replace CoreData
+* [WHC_ModelSqliteKit](https://github.com/netyouli/WHC_ModelSqliteKit) 专业的数据库存储解决方案
 
 #### 缓存处理@
 * [YTKKeyValueStore](https://github.com/yuantiku/YTKKeyValueStore) - Key-Value存储工具类，[说明](http://tangqiaoboy.gitcafe.io/blog/2014/10/03/opensouce-a-key-value-storage-tool/)。
