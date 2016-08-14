@@ -60,6 +60,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [数据存储@](#数据存储@)
   - [缓存处理@](#缓存处理@)
   - [数据库@](#数据库@)
+  - [CoreData@](CareData@)
 - [WebView与WKWebView@](#WebView与WKWebView@)
 - [游戏@](#cocos2d-objc@)
 - [FaceBook@](#iOS库)
@@ -422,6 +423,16 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 ##### 数据存储@
 
+#### 缓存处理@
+* [Cache.swift](https://github.com/soffes/Cache) - 一款简单、易用的缓存库。支持 MemoryCache, DiskCache 以及前两项组合的 MultiCache。
+* [Cache.swift](https://github.com/hyperoslo/Cache) - Nothing but Cache。
+* [AwesomeCache.swift](https://github.com/aschuch/AwesomeCache) - Delightful on-disk cache (written in Swift)。
+* [Track.swift](https://github.com/maquannene/Track) - 基于文件系统和链表的 Cache。分为 Disk 和 Memory，线程安全，支持 LRU 淘汰，性能尚可。
+
+#### CoreData@
+
+* [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack :large_orange_diamond:
+
 #### 数据库@
 * [RealmIncrementalStore.swift](https://github.com/eure/RealmIncrementalStore) - RealmIncrementalStore.swift:集 Realm 数据库和 CoreData 对象模型两者优势的 Realm 数据库访问类库。
 * [Breeze](https://github.com/andrelind/Breeze) - 用Swift写的一个轻量级的CoreData管理工具，并且还支持iCloud 。
@@ -431,12 +442,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [swiftydb](http://www.appcoda.com/swiftydb/) - 是一个第三方 SQLite 工具，能够大大简化数据库操作。如果你不放心 Realm，那就用 SwiftyDB 吧。[使用教程](http://swift.gg/2016/05/17/swiftydb/)、[demo](https://github.com/appcoda/SwiftyDB-Demo)
 * [Graph.swift](https://github.com/CosmicMind/Graph) - 设计新颖、使用简单基于 Core Data 的数据驱动框架库 （作者Daniel Dahan）。
 * [SwiftStore](https://github.com/hemantasapkota/SwiftStore) - Key-Value store for Swift backed by LevelDB :large_orange_diamond:
-
-#### 缓存处理@
-* [Cache.swift](https://github.com/soffes/Cache) - 一款简单、易用的缓存库。支持 MemoryCache, DiskCache 以及前两项组合的 MultiCache。
-* [Cache.swift](https://github.com/hyperoslo/Cache) - Nothing but Cache。
-* [AwesomeCache.swift](https://github.com/aschuch/AwesomeCache) - Delightful on-disk cache (written in Swift)。
-* [Track.swift](https://github.com/maquannene/Track) - 基于文件系统和链表的 Cache。分为 Disk 和 Memory，线程安全，支持 LRU 淘汰，性能尚可。
 
 #### PDF@
 
