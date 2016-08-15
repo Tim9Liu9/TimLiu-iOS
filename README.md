@@ -654,10 +654,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 ##### 网络解析@
 
-##### CSV
-* [CSwiftV](https://github.com/Daniel1of1/CSwiftV) - A csv parser written in swift conforming to rfc4180 :large_orange_diamond:
-* [SwiftCSV](https://github.com/naoty/SwiftCSV) - CSV parser for Swift :large_orange_diamond:
-
 #### JSON@
 * [MJExtension](https://github.com/CoderMJLee/MJExtension) - 用于json转model进行使用，转换效率很高，使用也比较简单，只要前后台约定好，json直接就转成了model。
 * [YYModel](https://github.com/ibireme/YYModel) - High performance model framework for iOS/OSX.
