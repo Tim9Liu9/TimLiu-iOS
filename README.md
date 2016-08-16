@@ -30,7 +30,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [导航栏@](#导航栏@)
   - [设置@](#设置@)
   - [Switch@](#Switch@)
-  - [主题@](#主题)
+  - [主题@](#主题@)
+  - [电影选座@](#电影选座)
   - [其他UI@](#其他UI@)
 - [动画@](#动画@)
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势@)
@@ -410,6 +411,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 ##### 主题@
 
 * [LEETheme](https://github.com/lixiang1994/LEETheme) 优雅的主题管理库- 一行代码完成多样式切换
+
+##### 电影选座@
+
+* [ZFSeatsSelection](https://github.com/ZFbaby/ZFSeatsSelection) 高仿猫眼电影选座（选票）模块（High imitation opal film seat selection (vote) module）
 
 ##### 日历@
 
@@ -1171,7 +1176,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [kitematic](https://github.com/docker/kitematic) - Mac 上使用 Docker 最简单的方案。
 
 
-######### 开发资料@
+##### 开发资料@
 
 #### 播客@
 
