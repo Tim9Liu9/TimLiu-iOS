@@ -1186,6 +1186,8 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 #### 学习资料@
 
+* [growth-ebook](https://github.com/phodal/growth-ebook) Growth Engineering: The Definitive Guide。全栈增长工程师指南
+* [ideabook](https://github.com/phodal/ideabook)一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
 * [objc-zen-book-cn](https://github.com/oa414/objc-zen-book-cn) 禅与 Objective-C 编程艺术 （Zen and the Art of the Objective-C Craftsmanship 中文翻译）
 * [Show](https://github.com/CharlinFeng/Show) 成都地区一个公司开源项目目录
 * A-[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)  GitHub上所有Awesome Awesomeness 系列集合. 这个系列集合收集上GitHub上优秀的开源项目、框架、书籍、网站、类库等实用资源的集合。
@@ -1283,7 +1285,6 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 #### 学习笔记@
 * [iOS-Note](https://github.com/seedante/iOS-Note)A@ 非常好的学习笔记，主要目录1.Core Data 笔记2.Photos 笔记3.转场动画详解4.自定义容器控制器转场5.交互式动画
-* [growth-ebook](https://github.com/phodal/growth-ebook) Growth Engineering: The Definitive Guide。全栈增长工程师指南
 
 #### 设计@
 * [design-resource](https://github.com/timmy3131/design-resource) 设计师资源列表
