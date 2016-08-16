@@ -65,6 +65,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [数据存储@](#数据存储@)
   - [缓存处理@](#缓存处理@)
   - [数据库@](#数据库@)
+  - [序列化@][#序列化@]
 - [WebView与WKWebView@](#WebView与WKWebView@)
 - [游戏@](#cocos2d-objc@)
 - [FaceBook@](#iOS库)
@@ -663,10 +664,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [RFJModel](https://github.com/refusebt/RFJModel) - RFJModel是一个IOS类库，可以将JSON字典自动装填到OBJC对象。相比JSONModel有一些非常好的特性，使用上也比较简单。
 * [XMLDictionary](https://github.com/nicklockwood/XMLDictionary) - ios与mac os平台下xml与NSDictionary相互转化开源类库。
 * [DDModel](https://github.com/openboy2012/DDModel) - 快速搭建项目Model层，支持ORM映射关系，能从JSON/XML直接实例一个Model对象。支持SQLite本地数据持久化，封装了HTTP， 减少HTTP代码与UIViewController的代码耦合，支持Cache；类似RESTKit、Mantle的功能；使用该类库以后简化了网络层的开发工作，把更多的精力放在UI上面；目前只支持GET/POST方法的请求。使用到的第三方库有：1.SQLitePersistentObject; 2.JTObjectMapping; 3.AFNetworking; 4.XMLDictionary;
-* [TouchJSON](https://github.com/TouchCode/TouchJSON) - A humane JSON Objective-C un-framework.
-* [JSON-Framework](https://github.com/stig/json-framework) -  This framework implements a strict JSON parser and generator in Objective-C.
-* [Groot](https://github.com/gonzalezreal/Groot) - Convert JSON dictionaries and arrays to and from Core Data managed objects.
-* [KZPropertyMapper](https://github.com/krzysztofzablocki/KZPropertyMapper) - Data mapping and validation with minimal amount of code.
+* [TouchJSON](https://github.com/TouchCode/TouchJSON) - JSon解析库(早已停止更新)
+* [JSON-Framework](https://github.com/stig/json-framework) -  JSON解析库
+* [Groot](https://github.com/gonzalezreal/Groot) - From JSON to Core Data and back.
+* [KZPropertyMapper](https://github.com/krzysztofzablocki/KZPropertyMapper) - 可以帮助你在对象与Array、Dict数据间进行转换，尤其适用于将json对象转换成objective-c中的实体对象。作者还写了一篇文章[stop-writing-data-parsing-code-in-your-apps](http://merowing.info/2013/07/stop-writing-data-parsing-code-in-your-apps/)介绍它的使用。
 * [FastEasyMapping](https://github.com/Yalantis/FastEasyMapping) - Serialize & deserialize JSON fast.
 * [OCMapper](https://github.com/aryaxt/OCMapper) - Objective-C & Swift library to easily map NSDictionary to model objects. :large_orange_diamond:
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - A framework written in Swift that makes it easy for you to convert your Model objects (Classes and Structs) to and from JSON. :large_orange_diamond:
@@ -815,14 +816,15 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [FMDB](https://github.com/ccgus/fmdb) - sqlite的工具， [多线程FMDatabaseQueue实例](https://github.com/tangqiaoboy/FmdbSample)，[FMDB数据库的使用演示和封装工具类](https://github.com/liuchunlao/LVDatabaseDemo)，[基于fmdb 的基本操作](http://code.cocoachina.com/view/128312) 通过 fmdb 进行的数据库的 基本操作(增删改查 )查找是使用 UISearchBar 和UISearchDisplayController 进行混合使用。
 * [GXDatabaseUtils](https://github.com/Gerry1218/GXDatabaseUtils) - 在FMDB基础上的工具。
 * [GKDatabase](https://github.com/ChrisCaixx/GKDatabase) -基于SQLite3简单封装了下,实现了一行代码解决增删改查等常用的功能!并没有太过高深的知识,主要用了runtime和KVC:请看Demo~ 原理篇请看这里:[简书地址](http://www.jianshu.com/p/0e598147debc)
-
-
 * [CoreStore](https://github.com/AfryMask/AFBrushBoard) -  Core Data 管理类库。 其中事务管理及查询是其比较大的亮点，整套 API 功能完整。
 * [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) - CoreData第一库，MagicalRecord就像是给Core Data提供了一层外包装，隐藏掉所有不相关的东西。 其中事务管理及查询是其比较大的亮点，整套 API 功能完整。
 * [mogenerator](http://rentzsch.github.io/mogenerator/) - mogenerator为你定义了的Core Data生成默认的数据类。与xCode不一样的是(xCode一个Entity只生成一个NSManagedObject的子类)，mogenerator会为每一个Entity生成两个类。一个为机器准备，一个为人类准备。为机器准备的类一直去匹配data model。为人类准备的类就给你轻松愉快的去修改和保存。
 * [Presentation](https://github.com/hyperoslo/Presentation) - 重量级好项目 Presentation，它可以方便你制作定制的动画式教程、Release Notes、个性化演讲稿等。
 * [SQLCipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher使用256-bit AES加密，SQLCipher分为收费版本和免费版本。[官方教程](https://www.zetetic.net/sqlcipher/ios-tutorial/)， [加密你的SQLite](http://foggry.com/blog/2014/05/19/jia-mi-ni-de-sqlite/) - 各种sqlite数据库加密介绍。 [SQLCipherDemo下载](http://download.csdn.net/detail/wzzvictory_tjsd/7379055) 。
 
+#### 序列化@
+
+* [FastCoding](https://github.com/nicklockwood/FastCoding) 是用来替代OSX及iOS中默认的序列化实现。它结构简单（仅头文件和.m文件两个）、支持ARC，线程安全，速度较内置实现更快。下次做项目的时候可以试着用用。
 
 ##### 数据存储@
 
