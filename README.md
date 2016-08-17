@@ -34,6 +34,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [Switch@](#Switch@)
   - [主题@](#主题@)
   - [电影选座@](#电影选座)
+  - [瀑布流@](#瀑布流@)
   - [其他UI@](#其他UI@)
 - [动画@](#动画@)
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势@)
@@ -417,6 +418,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 ##### 电影选座@
 
 * [ZFSeatsSelection](https://github.com/ZFbaby/ZFSeatsSelection) 高仿猫眼电影选座（选票）模块（High imitation opal film seat selection (vote) module）
+
+##### 瀑布流@
+
+* [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout) 赞 UICollectionViewLayout的一个子类，尽可能地模仿了UICollectionViewFlowLayout的用法，灵感来源于Pinterest，同时还兼容PSTCollectionView。
 
 ##### 日历@
 
