@@ -13,12 +13,12 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 问题反馈：请广大网友只按照目录结构（即使目录结构有问题）添加三方库，并pull request。目录问题大家提出issues后楼主会及时更改的。
 
 ###  目录
-- [Github用法@](Github用法)
+- [Github用法@](#Github用法)
 - [完整App@](#完整App)
 - [App框架@](#App框架)
   - [响应式框架@](#响应式框架)
 - [UI@](#UI)
-  - [日历三方库@](日历三方库)
+  - [日历三方库@](#日历三方库)
   - [下拉刷新@](#下拉刷新)
   - [模糊效果@](#模糊效果)
   - [富文本@](#富文本)
