@@ -423,7 +423,12 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout) 赞 UICollectionViewLayout的一个子类，尽可能地模仿了UICollectionViewFlowLayout的用法，灵感来源于Pinterest，同时还兼容PSTCollectionView。
 
-##### 日历@
+
+#### 其他UI@
+
+* [drawablebubble](https://github.com/KittenYang/KYCuteView)QQ中未读气泡拖拽消失的实现分析[分析文章](http://kittenyang.com/drawablebubble/)
+
+#### 日历@
 
 * [MSSCalendar](https://github.com/MSS0306/MSSCalendar) A simple iOS Calendar 高性能日历控件（类似去哪网）
 * [Calendar](https://github.com/jumartin/Calendar) - 日历、行程安排类的View和控制器。A set of views and controllers for displaying and scheduling events on iOS
