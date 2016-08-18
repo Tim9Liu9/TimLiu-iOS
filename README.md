@@ -103,6 +103,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [git-recipes](https://github.com/geeeeeeeeek/git-recipes)  Git recipes in Chinese. 高质量的Git中文教程.
 * [lark](https://github.com/larkjs/lark/wiki/怎样贡献代码) 怎样在Github上面贡献代码
 * [my-git](https://github.com/xirong/my-git)有关 git 的学习资料
+* [gitignore](https://github.com/github/gitignore) 非常赞 有用的.gitignore模板集合，包含了各种语言.
 
 #### 完整App@
 * [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native)用 React Native 完成的 HackerNews 客户端。
