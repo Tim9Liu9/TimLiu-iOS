@@ -106,7 +106,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 完整App@
 * [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native)用 React Native 完成的 HackerNews 客户端。
 * [WeChat](https://github.com/zhengwenming/WeChat) 实现类似微信朋友圈或者QQ空间，评论回复，九宫格布局。处理键盘弹出后定位到当前点击的被评论人处。另：滑动时候FPS在57-60之间，纵享丝滑！
-* [Bilibili_Wuxianda](https://github.com/MichaelHuyp/Bilibili_Wuxianda)赞 高仿Bilibili客户端 
+* [Bilibili_Wuxianda](https://github.com/MichaelHuyp/Bilibili_Wuxianda)赞 高仿Bilibili客户端
 * [Coding-iOS](https://github.com/Coding/Coding-iOS) - Coding iOS 客户端源代码
 * [Voice2Note](https://github.com/liaojinxing/Voice2Note) - 懒人笔记iOS客户端
 * [Coding-iOS](https://github.com/Coding/Coding-iOS) - Coding iOS 客户端源代码
@@ -346,6 +346,9 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [FriendSearch](http://www.cocoachina.com/ios/20160407/15870.html) - 两种UI的搜索，搜索的算法可以满足中英文互搜，联想搜索等，其中还包含对一组数据自动进行按字母分组等功能。
 * [YX_UITableView_IN_UITableView](https://github.com/yixiangboy/YX_UITableView_IN_UITableView) - UITableview嵌套UITableView案例实践（仿淘宝商品详情页实现），[项目讲解](http://blog.csdn.net/yixiangboy/article/details/51009010)。
 * [TYPagerController](https://github.com/12207480/TYPagerController) - 简单，支持定制，页面控制器,可以滚动内容和标题栏,包含多种style。
+* [YZHeaderScaleImage](https://github.com/iThinkerYZ/YZHeaderScaleImage)一行代码快速集成tableView中头部缩放视图
+
+
 
 ##### 隐藏与显示@
 * [SlideTapBar](http://d.cocoachina.com/code/detail/286102) - 滚动栏菜单，向上滚动时隐藏tabbar，向下滚动马上显示tabbar。
