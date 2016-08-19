@@ -355,6 +355,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout)UICollectionView的高级使用方法哦SFFocusViewLayou
 * [RACollectionViewReorderableTripletLayout](https://github.com/ra1028/RACollectionViewReorderableTripletLayout)自定义的CollectionView布局，可以通过拖动进行cell的重新排序。
+* [CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu)CollectionView做的两级菜单，可以折叠第二级菜单
 
 #### 隐藏与显示@
 * [SlideTapBar](http://d.cocoachina.com/code/detail/286102) - 滚动栏菜单，向上滚动时隐藏tabbar，向下滚动马上显示tabbar。
