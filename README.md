@@ -120,7 +120,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS) - Objective-C写的XMPP聊天应用
 * [FirebaseChat](https://github.com/relatedcode/FirebaseChat) - Objective-C写的完整的聊天应用
 * [Meizi](https://github.com/Sunnyyoung/Meizi) - 豆瓣妹子图iOS客户端
-* A-[PlainReader](https://github.com/guojiubo/PlainReader) 简阅是一款 iOS(iPhone + iPad) 新闻类客户端，内容抓取自 cnBeta.COM。在售期间倍受好评，但由于版权问题已于今年一月从 AppStore 下架，下架至今，每天仍有几千人在使用这款 App。
+* [PlainReader](https://github.com/guojiubo/PlainReader) 简阅是一款 iOS(iPhone + iPad) 新闻类客户端，内容抓取自 cnBeta.COM。在售期间倍受好评，但由于版权问题已于今年一月从 AppStore 下架，下架至今，每天仍有几千人在使用这款 App。
 * [ECMobile_iOS](https://github.com/GeekZooStudio/ECMobile_iOS) 基于ECShop的手机商城客户端
 * [ECMobile_Universal](https://github.com/GeekZooStudio/ECMobile_Universal)基于ECShop的手机商城客户端
 * [wikipedia-ios](https://github.com/wikimedia/wikipedia-ios) 维基百科官方App, 已上架
