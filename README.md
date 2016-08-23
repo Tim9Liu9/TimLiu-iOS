@@ -413,6 +413,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) 一个可以上拉隐藏导航栏和下拉显示导航栏的框架
 * [JTNavigationController](https://github.com/JNTian/JTNavigationController) 一个拥有更平滑的navigationBar切换动画的NavigationController
+* [NavigationController](https://github.com/Roxasora/RxWebViewController) 实现类似微信的 webView 导航效果，包括进度条，左滑返回上个网页或者直接关闭，就像 UINavigationController
 
 #### 设置@
 
@@ -682,7 +683,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [js-in-ios](https://github.com/WangXiaoxi/IOSLearing/) - webView与js的交互。
 * [D3Generator](https://github.com/mozhenhau/D3Generator/) - D3Generator根据dict字典生成对象。 适用webview和push推送时，根据后台传回字典实现动态跳转。[实现说明](http://mozhenhau.com/2016/02/07/D3Generator实现万能跳转界面，UIWebview与js随意交互/)
 * [GRMustache] (https://github.com/groue/GRMustache) 一个类似templateEngine的html渲染工具，可以更加有效的帮助大家完成数据生成HTML的过程。
-* [iOS-WebView-JavaScript](https://github.com/shaojiankui/iOS-WebView-JavaScript) iOS UIWebView,WKWebView 与 JavaScript的深度交互
+*  * [iOS-WebView-JavaScript](https://github.com/shaojiankui/iOS-WebView-JavaScript) iOS UIWebView,WKWebView 与 JavaScript的深度交互
 
 #### 网络解析@
 
