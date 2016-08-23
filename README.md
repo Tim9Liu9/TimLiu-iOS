@@ -25,7 +25,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [图表@](#图表)
   - [颜色@](#颜色)
   - [表相关@(TabbleView、Tabbar、即时聊天界面)](#表相关@(TabbleView、Tabbar、即时聊天界面))
-   - [CollectionView@](#CollectionView)
+    - [TableView@](#TableView)
+    - [CollectionView@](#CollectionView)
   - [隐藏与显示@](#隐藏与显示)
   - [HUD与Toast@](#HUD与Toast)
   - [对话框@](#对话框)
@@ -294,7 +295,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 #### 表相关@、TabbleView、Tabbar、即时聊天界面@
 
-####tableView@
+#### TableView@
 
 * [RETableViewManager](https://github.com/romaonthego/RETableViewManager) 赞 一个非常强大的使用数据驱动的 UITableView 内容管理。
 * [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) - 非常赞 DZNEmptyDataSet算是一个很标准的iOS内建方式，适合用来处理空的tableview和collection view。会自动将collection view处理完善，并将用户消息以合适美观的方式显示出来。每个iOS项目都可以自动处理。
