@@ -37,6 +37,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [主题@](#主题)
   - [电影选座@](#电影选座)
   - [瀑布流@](#瀑布流)
+  - [菜单@](#菜单)
   - [其他UI@](#其他UI)
 - [动画@](#动画)
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
@@ -444,6 +445,9 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout) 赞 UICollectionViewLayout的一个子类，尽可能地模仿了UICollectionViewFlowLayout的用法，灵感来源于Pinterest，同时还兼容PSTCollectionView。
 
+#### 菜单@
+
+* [circle-menu](https://github.com/Ramotion/circle-menu) 赞 一个不错的旋转点击菜单，类似于遥控器的上下左右中点击样式
 
 #### 其他UI@
 
