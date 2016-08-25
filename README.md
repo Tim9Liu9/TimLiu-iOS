@@ -643,7 +643,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [DVR](https://github.com/venmo/DVR) - 针对网络请求的测试框架，超实用的工具。且支持 iOS, OSX, watchOS 全平台。
 * [HFDownLoad](https://github.com/hongfenglt/HFDownLoad) - iOS开发网络篇之文件下载、大文件下载、断点下载:NSData方式、NSURLConnection方式、NSURLSession下载方式 [下载方式具体的思路、区别见Blog](http://blog.csdn.net/hongfengkt/article/details/48290561) 。
 * [HYBUnicodeReadable](https://github.com/CoderJackyHuang/HYBUnicodeReadable) -解决打印日志对于Unicode编码不能正常显示中文的问题，只需要将文件导入工程，不需要引用，就能达到打印日志显示Unicode编码中文数据
-* [PPNetworkHelper](https://github.com/jkpang/PPNetworkHelper) - 对AFNetworking 3.x 与YYCache的二次封装,存取超简单,和FMDB说再见!
+* [PPNetworkHelper](https://github.com/jkpang/PPNetworkHelper) - AFN3.x与YYCache的二次封装,一句话搞定网络请求与缓存,和FMDB说拜拜!
 
 #### 图像获取@
 * [SDWebImage](https://github.com/rs/SDWebImage) - SDWebImage 网络图片获取及缓存处理。
@@ -745,7 +745,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 #### 通讯录@
 * [快速查找联系人](http://code.cocoachina.com/view/128245) - 类似微信联系人搜索的界面,快速查找联系人,并支持点击查询结果 。
-* [一行代码获取通讯录联系人,并精准分组排序](https://github.com/jkpang/PPGetAddressBook) -  对联系人姓名第二个字做排序处理,对AddressBook框架(iOS9之前)和Contacts框架(iOS9之后)做了对应的封装处理。
+* [一行代码获取通讯录联系人,并精准分组排序](https://github.com/jkpang/PPGetAddressBook) -  对联系人姓名第二个字做排序处理,对AddressBook框架(iOS9之前)和Contacts框架(iOS9之后)做了对应的封装处理,一句代码搞定联系人的获取与排序。
 
 
 
