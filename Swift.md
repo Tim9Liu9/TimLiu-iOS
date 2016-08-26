@@ -583,6 +583,12 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 其他资源@
 
 #### 开发资源@
+
+
+#### 二维码@
+
+* [LBXScan](https://github.com/MxABC/LBXScan) 赞 A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和ios系统自带扫码封装，扫码界面效果封装)(Objective-C和Swift均支持).
+
 ##### 开发资料@
 
 * [Swift 开源项目精选－v1.0](http://dev.swiftguide.cn/archive/featured-open-source-projects-in-swift_v1.0.html) - Swift 开源项目精选－v1.0。
