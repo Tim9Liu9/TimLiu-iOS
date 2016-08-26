@@ -931,10 +931,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [ZYCornerRadius](https://github.com/liuzhiyi1992/ZYCornerRadius) 赞 一句代码，圆角风雨无阻。A Category to make cornerRadius for UIImageView have no Offscreen-Rendered, be more efficiency. http://zyden.vicp.cc/zycornerradius/
 
 #### 摄像照相视频音频处理@
-* A-[WMPlayer](https://github.com/zhengwenming/WMPlayer) - WMPlayer视频播放器，AVPlayer的封装，继承UIView，想怎么玩就怎么玩。支持播放mp4、m3u8、3gp、mov，网络和本地视频同时支持。全屏和小屏播放同时支持。 cell中播放视频，全屏小屏切换自如。
-* [HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo) iOS端视频弹幕
-* [SCRecorder](https://github.com/rFlex/SCRecorder) - SCRecorder 短视频录制。
-* [VideoPushDemo](https://github.com/zangqilong198812/VideoPushDemo) - 视频剪辑 [视频特效制作1](http://www.jianshu.com/p/3006502912aa) [视频特效制作2](http://www.jianshu.com/p/6313025349a9)。
+
 * [LLSimpleCamera](https://github.com/omergul123/LLSimpleCamera) - A simple, customizable camera control for iOS， 摄像头。
 * [EZAudio](https://github.com/syedhali/EZAudio) - EZAudio 是一个 iOS 和 OSX 上简单易用的音频框架，根据音量实时显示波形图，基于Core Audio，适合实时低延迟音频处理，非常直观。[中文介绍](https://segmentfault.com/blog/news/1190000000370957),[官网](http://www.syedharisali.com/about)。
 * [ffmpeg](http://ffmpeg.org/) - ffmpeg官网，[FFmpeg在iOS上完美编译](http://www.cocoachina.com/ios/20150514/11827.html)。
@@ -978,7 +975,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - 基于AVPlayer，支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。
 * [MRVLCPlayer](https://github.com/Maru-zhang/MRVLCPlayer) - 相信Mac用户都很熟悉一款VLC播放器，这款播放器在Mac上表现异常优异，支持的格式几乎涵盖了所有格式（就是这么屌！）。没错，就是它创造者--VideoLAN，开源了一款牛逼的视频播放框架MobileVLCKit！[介绍信息：] (http://gold.xitu.io/entry/578c304b2e958a0054320503?from=singlemessage&isappinstalled=1)
 * [plask](https://github.com/deanm/plask) Plask is a multimedia programming environment.
-
+* [WMPlayer](https://github.com/zhengwenming/WMPlayer) 赞 WMPlayer视频播放器，AVPlayer的封装，继承UIView，想怎么玩就怎么玩。支持播放mp4、m3u8、3gp、mov，网络和本地视频同时支持。全屏和小屏播放同时支持。 cell中播放视频，全屏小屏切换自如。
+* [HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo) iOS端视频弹幕
+* [SCRecorder](https://github.com/rFlex/SCRecorder) - SCRecorder 短视频录制。
+* [VideoPushDemo](https://github.com/zangqilong198812/VideoPushDemo) - 视频剪辑 [视频特效制作1](http://www.jianshu.com/p/3006502912aa) [视频特效制作2](http://www.jianshu.com/p/6313025349a9)。
 
 #### 响应式框架@
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa 受函数响应式编程激发。不同于使用可变的变量替换和就地修改，RAC提供Signals来捕获当前值和将来值（ [使用介绍](http://yulingtianxia.com/blog/2014/07/29/reactivecocoa/) ），[不错的例子](http://iiiyu.com/2014/12/26/learning-ios-notes-thirty-six/),入门好教程：[ReactiveCocoa入门教程：第一部分 ](http://www.cocoachina.com/ios/20150123/10994.html)。[Reactive Cocoa 3.0 在 MVVM 中的应用](http://ios.jobbole.com/82232/) ,[小码哥：快速让你上手ReactiveCocoa之基础篇](http://www.jianshu.com/p/87ef6720a096)。
