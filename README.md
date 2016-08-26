@@ -81,6 +81,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [三方分享、支付、登录等等@](#三方分享、支付、登录等等)
 - [PDF@](#PDF)
 - [图像浏览及处理@](#图像浏览及处理)
+  - [图像圆角@](#图像圆角)
 - [摄像照相视频音频处理@](#摄像照相视频音频处理)
 - [视频@](#视频)
 - [消息相关@](#消息相关)
@@ -931,6 +932,9 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [YLFaceuDemo](https://github.com/Guikunzhi/YLFaceuDemo) - 在直播应用中添加Faceu贴纸效果。Faceu贴纸效果其实就是在人脸上贴一些图片，同时这些图片是跟随着人脸的位置改变的。[说明](http://www.jianshu.com/p/ba1f79f8f6fa)
 * [XHImageViewer] (https://github.com/JackTeam/XHImageViewer) XHImageViewer is images viewer, zoom image.
 
+#### 图像圆角
+
+* [ZYCornerRadius](https://github.com/liuzhiyi1992/ZYCornerRadius) 赞 一句代码，圆角风雨无阻。A Category to make cornerRadius for UIImageView have no Offscreen-Rendered, be more efficiency. http://zyden.vicp.cc/zycornerradius/
 
 #### 摄像照相视频音频处理@
 * A-[WMPlayer](https://github.com/zhengwenming/WMPlayer) - WMPlayer视频播放器，AVPlayer的封装，继承UIView，想怎么玩就怎么玩。支持播放mp4、m3u8、3gp、mov，网络和本地视频同时支持。全屏和小屏播放同时支持。 cell中播放视频，全屏小屏切换自如。
