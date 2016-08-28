@@ -925,6 +925,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [YUGPUImageHighPassSkinSmoothing](https://github.com/YuAo/YUGPUImageHighPassSkinSmoothing) - 一个基于 GPUImage 的磨皮滤镜！
 * [YLFaceuDemo](https://github.com/Guikunzhi/YLFaceuDemo) - 在直播应用中添加Faceu贴纸效果。Faceu贴纸效果其实就是在人脸上贴一些图片，同时这些图片是跟随着人脸的位置改变的。[说明](http://www.jianshu.com/p/ba1f79f8f6fa)
 * [XHImageViewer] (https://github.com/JackTeam/XHImageViewer) XHImageViewer is images viewer, zoom image.
+* [card.io-iOS-SDK] (https://github.com/AllLuckly/card.io-iOS-SDK) OCR光学识别储蓄卡以及信用卡,[oc与swift使用教程](http://www.jianshu.com/p/82f73c23a76a).
 
 #### 图像圆角
 
