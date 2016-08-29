@@ -1149,7 +1149,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [SCXcodeSwitchExpander](https://github.com/stefanceriu/SCXcodeSwitchExpander)在写switch时，自动补全所有选项 (只支持NS_ENUM)
 * [ColorSense-for-Xcode](https://github.com/omz/ColorSense-for-Xcode)ColorSense是一款Xcode颜色插件，可让UIColor和NSColor更加可视化。虽然已经有很多工具允许你从取色板插入UIColor/NSColor或者从屏幕上取色，但这些工具并不会记忆你此前你的常用选择。不过ColorSense可以解决这个问题，把插入符放在代码上即可展示实际颜色，并可以使用标准的Mac OS X颜色选择器进行调整。此外，该插件还在编辑菜单上添加了可插入颜色或者暂时禁用颜色高亮的项目，这些菜单项目没有默认的快捷键，但是你可以通过系统的键盘设置偏好进行设置。
 * [tween-o-matic](https://github.com/simonwhitaker/tween-o-matic) 编辑CAMediaTimingFunction动画曲线
-* [iOS-Universal-Framework] (https://github.com/kstenerud/iOS-Universal-Framework) 	编译iOS的Framework的通用模板 支持armv7s
+* [iOS-Universal-Framework] (https://github.com/kstenerud/iOS-Universal-Framework) 	iOS-Universal-Framework 是一个方便你将第三方 SDK 编译成 Framework 的开源工具。
 * [iOS-Framework](https://github.com/jverkoey/iOS-Framework) 编译iOS的Framework的通用模板
 [Xcode-Plugin-Template ](https://github.com/kattrali/Xcode-Plugin-Template） 插件开发
 [XcodeEditor](https://github.com/appsquickly/XcodeEditor) 解析和操作Xcode工程文件
