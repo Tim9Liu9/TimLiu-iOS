@@ -618,6 +618,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### 学习资料@
 
+* [the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) 非常赞  中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 * [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。[iOS Swift Demos from Apple] http://blog.liulantao.com/SwiftBeginnersGuide/
 
 ##### 他人开源总结@
