@@ -12,77 +12,90 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 
 ###  目录
-- [Github用法@](Github用法@)
-- [完整App@](#完整App@)
-- [App框架@](#App框架@)
-  - [响应式框架@](#响应式框架@)
-- [UI@](#UI@)
-  - [日历三方库@](日历三方库@)
-  - [下拉刷新@](#下拉刷新@)
-  - [模糊效果@](#模糊效果@)
-  - [富文本@](#富文本@)
-  - [图表@](#图表@)
-  - [颜色@](#颜色!)
+- [Github用法@](#Github用法)
+- [完整App@](#完整App)
+- [App框架@](#App框架)
+  - [响应式框架@](#响应式框架)
+- [UI@](#UI)
+  - [日历三方库@](#日历三方库)
+  - [下拉刷新@](#下拉刷新)
+  - [模糊效果@](#模糊效果)
+  - [富文本@](#富文本)
+  - [图表@](#图表)
+  - [颜色@](#颜色)
   - [表相关@(TabbleView、Tabbar、即时聊天界面)](#表相关@(TabbleView、Tabbar、即时聊天界面))
-  - [隐藏与显示@](#隐藏与显示@)
-  - [HUD与Toast@](#HUD与Toast@)
-  - [对话框@](#对话框@)
-  - [状态栏@](#状态栏@)
-  - [导航栏@](#导航栏@)
-  - [设置@](#设置@)
-  - [其他UI@](#其他UI@)
-- [动画@](#动画@)
-  - [侧滑与右滑返回手势@](#侧滑与右滑返回手势@)
-  - [gif动画@](#gif动画@)
-  - [其他动画@](#其他动画@)
-- [AutoLayout@](#AutoLayout@)
-- [网络@](#网络相关@)
-  - [网络连接@](#网络连接@)
-  - [图像获取@](#图像获取@)
-  - [网络聊天@](#网络聊天@)
-  - [网络测试@](#网络测试@)
-  - [网页框架@](#网页框架@)
-- [网络解析@](网络解析@)
-  - [CSV](#csv)
-- [开发资料@](#开发资料@)
-  - [学习资料@](学习资料@)
-  - [GitHub@](#GitHub用法@)
-  - [他人开源总结@](#他人开源总结@)
-  - [开发博客列表@](#开发博客列表@)
-  - [学习笔记、书籍@](#学习笔记、书籍@)
-  - [设计@](#设计@)
-  - [好的文章@](#好的文章@)
-  - [美工资源@](#美工资源@)
-- [开发工具@](#开发工具@)
-  - [Xcode插件@](#Xcode插件@)
-  - [好用的软件@](#好用的软件@)
-  - [Cagegory@](#Category@)
-- [测试及调试@](#测试及调试@)
-- [数据存储@](#数据存储@)
-  - [缓存处理@](#缓存处理@)
-  - [数据库@](#数据库@)
-  - [CoreData@](CareData@)
-- [WebView与WKWebView@](#WebView与WKWebView@)
-- [游戏@](#cocos2d-objc@)
+    - [TableView@](#TableView)
+    - [CollectionView@](#CollectionView)
+  - [隐藏与显示@](#隐藏与显示)
+  - [HUD与Toast@](#HUD与Toast)
+  - [对话框@](#对话框)
+  - [状态栏@](#状态栏)
+  - [导航栏@](#导航栏)
+  - [设置@](#设置)
+  - [Switch@](#Switch)
+  - [主题@](#主题)
+  - [电影选座@](#电影选座)
+  - [瀑布流@](#瀑布流)
+  - [菜单@](#菜单)
+  - [其他UI@](#其他UI)
+- [动画@](#动画)
+  - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
+  - [gif动画@](#gif动画)
+  - [其他动画@](#其他动画)
+- [AutoLayout@](#AutoLayout)
+- [网络相关@](#网络相关)
+  - [网络连接@](#网络连接)
+  - [图像获取@](#图像获取)
+  - [网络聊天@](#网络聊天)
+  - [网络测试@](#网络测试)
+  - [网页框架@](#网页框架)
+  - [网络解析](#网络解析)
+      - [CSV](#csv)
+      - [JSON@](#json)
+      - [XML&HTML@](#xml--html)
+      - [Other Parsing@](#other-parsing)
+- [二维码@](#二维码)
+- [开发资料@](#开发资料)
+  - [播客@](#播客)
+  - [学习资料@](#学习资料)
+  - [他人开源总结@](#他人开源总结)
+  - [开发博客列表@](#开发博客列表)
+  - [学习笔记、书籍@](#学习笔记、书籍)
+  - [设计@](#设计)
+  - [好的文章@](#好的文章)
+  - [美工资源@](#美工资源)
+- [开发工具@](#开发工具)
+  - [Xcode插件@](#Xcode插件)
+  - [好用的软件@](#好用的软件)
+  - [Cagegory@](#Category)
+- [测试及调试@](#测试及调试)
+- [数据存储@](#数据存储)
+  - [缓存处理@](#缓存处理)
+  - [数据库@](#数据库)
+  - [序列化@](#序列化)
+- [WebView与WKWebView@](#WebView与WKWebView)
+- [游戏@](#cocos2d-objc)
 - [FaceBook@](#iOS库)
-- [通讯录@](#通讯录@)
-- [其他库@](#其他库@)
-- [三方分享、支付、登录等等@](#三方分享、支付、登录等等@)
-- [PDF@](#PDF@)
-- [图像浏览及处理@](#图像浏览及处理@)
-- [摄像照相视频音频处理@](#摄像照相视频音频处理@)
-- [视频@](#视频@)
-- [消息相关@](#消息相关@)
-  - [消息推送客户端@](#消息推送客户端@)
-  - [消息推送服务器端@](#消息推送服务器端@)
-  - [通知相关@](#通知相关@)
-- [时间日期@](#时间日期@)
-- [设计模式@](设计模式@)
-- [版本新API的Demo@](#版本新API的Demo@)
-- [代码安全与密码@](#代码安全与密码@)
-- [动态更新@](#动态更新@)
-- [AppleWatch@](#AppleWatch@)
-- [VPN@](#VPN@)
+- [通讯录@](#通讯录)
+- [其他库@](#其他库)
+- [三方分享、支付、登录等等@](#三方分享、支付、登录等等)
+- [PDF@](#PDF)
+- [图像浏览及处理@](#图像浏览及处理)
+  - [图像圆角@](#图像圆角)
+- [摄像照相视频音频处理@](#摄像照相视频音频处理)
+- [视频@](#视频)
+- [消息相关@](#消息相关)
+  - [消息推送客户端@](#消息推送客户端)
+  - [消息推送服务器端@](#消息推送服务器端)
+  - [通知相关@](#通知相关)
+- [时间日期@](#时间日期)
+- [设计模式@](#设计模式)
+- [版本新API的Demo@](#版本新API的Demo)
+- [代码安全与密码@](#代码安全与密码)
+- [动态更新@](#动态更新)
+- [AppleWatch@](#AppleWatch)
+- [VPN@](#VPN)
+- [未分类@](#未分类)
 
 
 
@@ -517,6 +530,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - swift加密库, 支持md5,sha1,sha224,sha256...。
 
 #### 测试及调试@
+* [depcheck](https://github.com/wojteklu/depcheck) Swift 工程分析工具(Dependency analyzer tool for Swift projects)
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - 相当于 CocoaLumberjack 或 Log4j 的 Swift 版本，功能上甚至更强大。另外，源代码中已经内含了完整的 API 文档，使用非常方便。
 * [Quick](https://github.com/Quick/Quick) - 用于Swift中的单元测试（也可用于Objective-C），与Xcode整合在一起。如果你是Objective-C的粉丝，我建议用Specta代替这个，但是对Swift使用者来说，Quick是最佳选择。
 * [Sleipnir](https://github.com/railsware/Sleipnir) - Swift的测试框架。
@@ -583,6 +597,12 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 其他资源@
 
 #### 开发资源@
+
+
+#### 二维码@
+
+* [LBXScan](https://github.com/MxABC/LBXScan) 赞 A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和ios系统自带扫码封装，扫码界面效果封装)(Objective-C和Swift均支持).
+
 ##### 开发资料@
 
 * [Swift 开源项目精选－v1.0](http://dev.swiftguide.cn/archive/featured-open-source-projects-in-swift_v1.0.html) - Swift 开源项目精选－v1.0。
@@ -596,6 +616,11 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Developing_iOS_8_Apps_With_Swift](https://github.com/CS193P-Translation-Group/Developing_iOS_8_Apps_With_Swift) - Developing iOS 8 Apps with Swift 字幕简体中文翻译项目（斯坦福白胡子老头swift教学视频）。
 * [Swift-On-iOS](https://github.com/johnlui/Swift-On-iOS) - JohnLui 的 Swift On iOS 代码仓库。
 * [30DaysofSwift](https://github.com/allenwong/30DaysofSwiftp) - 30DaysofSwift 自学 iOS - [三十天三十个 Swift 项目](http://weibo.com/ttarticle/p/show?id=2309403942494873235448)。
+
+#### 学习资料@
+
+* [the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) 非常赞  中文版 Apple 官方 Swift 教程《The Swift Programming Language》
+* [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。[iOS Swift Demos from Apple] http://blog.liulantao.com/SwiftBeginnersGuide/
 
 ##### 他人开源总结@
 
