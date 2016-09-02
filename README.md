@@ -388,6 +388,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [WSProgressHUD](https://github.com/devSC/WSProgressHUD) - 一个小巧精致的HUD,支持添加到自定义View上, 还有更多小细节.。
 * [PreLoader](https://github.com/liuzhiyi1992/PreLoader) - 一个很有意思的HUD loading ，通过运动污点和固定污点之间的粘黏动画吸引用户的眼球跟踪，能有效分散等待注意力。[PreLoader的实现讲解](http://www.cocoachina.com/ios/20160427/16029.html)
 * [FillableLoaders](https://github.com/poolqf/FillableLoaders) - 自定义加载进度UI-Completely customizable progress based loaders drawn using custom CGPaths written in Swift :large_orange_diamond:
+
 #### 对话框@
 * [LCActionSheet](https://github.com/iTofu/LCActionSheet) 一款简约而不失强大的 ActionSheet，微信和微博都采取了极其类似的样式。
 * [WCAlertView](https://github.com/m1entus/WCAlertView) - 自定义的对话框。
