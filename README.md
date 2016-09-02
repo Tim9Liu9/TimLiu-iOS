@@ -38,6 +38,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [电影选座@](#电影选座)
   - [瀑布流@](#瀑布流)
   - [菜单@](#菜单)
+  - [进度@](#进度)
   - [其他UI@](#其他UI)
 - [动画@](#动画)
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
@@ -144,6 +145,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [TeamTalk](https://github.com/mogujie/TeamTalk) 蘑菇街TeamTalk. 开源IM. 笔者强烈推荐.
 * [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit)一个类似微信App的IM应用，拥有发送文字、图片、语音、视频、地理位置消息，管理本地通信录、分享朋友 圈、漂流交友、摇一摇和更多有趣的功能。笔者推荐的学习IM的好东西.
 * [shadowsocks-iOS/tree/2.6.3](https://github.com/shadowsocks/shadowsocks-iOS/tree/2.6.3)翻墙工具Shadowsocks. Github目前代码已经被移除, 不过2.6.3的还是保留着.
+* [iOS-Oncenote](https://github.com/chenyufeng1991/iOS-Oncenote) 这是一款类似于印象笔记Evernote的生活类iOS应用——朝夕笔记 Oncenote。我希望能为更多的iOS开发者提供帮助与服务。当然App中还有不少bug和可扩展的功能模块，也希望各位开发者为该项目贡献自己的code力量。大家可以通过点击右上角的fork到自己的Github仓库，也可以点击star实时关注项目进度。
 
 #### 完整项目@
 * [GSD_WeiXin](https://github.com/gsdios/GSD_WeiXin) 高仿微信
@@ -450,6 +452,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### 菜单@
 
 * [circle-menu](https://github.com/Ramotion/circle-menu) 赞 一个不错的旋转点击菜单，类似于遥控器的上下左右中点击样式
+
+#### 进度@
+
+* [UAProgressView](https://github.com/UrbanApps/UAProgressView) 很赞 的一个进度指示View
 
 #### 其他UI@
 
