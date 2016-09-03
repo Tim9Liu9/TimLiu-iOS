@@ -38,6 +38,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [电影选座@](#电影选座)
   - [瀑布流@](#瀑布流)
   - [菜单@](#菜单)
+  - [进度@](#进度)
   - [其他UI@](#其他UI)
 - [动画@](#动画)
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
@@ -144,6 +145,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [TeamTalk](https://github.com/mogujie/TeamTalk) 蘑菇街TeamTalk. 开源IM. 笔者强烈推荐.
 * [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit)一个类似微信App的IM应用，拥有发送文字、图片、语音、视频、地理位置消息，管理本地通信录、分享朋友 圈、漂流交友、摇一摇和更多有趣的功能。笔者推荐的学习IM的好东西.
 * [shadowsocks-iOS/tree/2.6.3](https://github.com/shadowsocks/shadowsocks-iOS/tree/2.6.3)翻墙工具Shadowsocks. Github目前代码已经被移除, 不过2.6.3的还是保留着.
+* [iOS-Oncenote](https://github.com/chenyufeng1991/iOS-Oncenote) 这是一款类似于印象笔记Evernote的生活类iOS应用——朝夕笔记 Oncenote。我希望能为更多的iOS开发者提供帮助与服务。当然App中还有不少bug和可扩展的功能模块，也希望各位开发者为该项目贡献自己的code力量。大家可以通过点击右上角的fork到自己的Github仓库，也可以点击star实时关注项目进度。
 
 #### 完整项目@
 * [GSD_WeiXin](https://github.com/gsdios/GSD_WeiXin) 高仿微信
@@ -388,6 +390,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [WSProgressHUD](https://github.com/devSC/WSProgressHUD) - 一个小巧精致的HUD,支持添加到自定义View上, 还有更多小细节.。
 * [PreLoader](https://github.com/liuzhiyi1992/PreLoader) - 一个很有意思的HUD loading ，通过运动污点和固定污点之间的粘黏动画吸引用户的眼球跟踪，能有效分散等待注意力。[PreLoader的实现讲解](http://www.cocoachina.com/ios/20160427/16029.html)
 * [FillableLoaders](https://github.com/poolqf/FillableLoaders) - 自定义加载进度UI-Completely customizable progress based loaders drawn using custom CGPaths written in Swift :large_orange_diamond:
+
 #### 对话框@
 * [LCActionSheet](https://github.com/iTofu/LCActionSheet) 一款简约而不失强大的 ActionSheet，微信和微博都采取了极其类似的样式。
 * [WCAlertView](https://github.com/m1entus/WCAlertView) - 自定义的对话框。
@@ -450,6 +453,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [circle-menu](https://github.com/Ramotion/circle-menu) 赞 一个不错的旋转点击菜单，类似于遥控器的上下左右中点击样式
 
+<<<<<<< HEAD
 #### 其他UI@
 
 * [drawablebubble](https://github.com/KittenYang/KYCuteView)QQ中未读气泡拖拽消失的实现分析[分析文章](http://kittenyang.com/drawablebubble/)
@@ -459,8 +463,11 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [MSSCalendar](https://github.com/MSS0306/MSSCalendar) A simple iOS Calendar 高性能日历控件（类似去哪网）
 * [Calendar](https://github.com/jumartin/Calendar) - 日历、行程安排类的View和控制器。A set of views and controllers for displaying and scheduling events on iOS
+=======
+#### 进度@
+>>>>>>> Tim9Liu9/master
 
-##### Activity Indicator@
+* [UAProgressView](https://github.com/UrbanApps/UAProgressView) 很赞 的一个进度指示View
 * [AwesomeMenu](https://github.com/levey/AwesomeMenu) - 最多人用的Path菜单。
 * [DCPathButton](https://github.com/Tangdixi/DCPathButton) - Path，4.0的弹出菜单，呼出或者关闭菜单时，多个小图标会分别按照逆时针和顺时针的方向进行滚动。
 * [SphereMenu](https://github.com/itouch2/SphereMenu) - 利用UIDynamicAnimator的有趣的菜单，path类似。
@@ -536,6 +543,15 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [StackViewController](https://github.com/seedco/StackViewController) - 方便 iOS 开发者使用 UIStackView 构建表单或其它静态内容视图。
 * [LLBootstrapButton](https://github.com/lilei644/LLBootstrapButton) - Bootstrap 3.0扁平化风格按钮，自带图标，一句代码直接调用！
 * [JMRoundedCorner](https://github.com/raozhizhen/JMRoundedCorner) - UIView设置不触发离屏渲染的圆角！
+
+#### 其他UI@
+
+* [drawablebubble](https://github.com/KittenYang/KYCuteView)QQ中未读气泡拖拽消失的实现分析[分析文章](http://kittenyang.com/drawablebubble/)
+
+#### 日历@
+
+* [MSSCalendar](https://github.com/MSS0306/MSSCalendar) A simple iOS Calendar 高性能日历控件（类似去哪网）
+* [Calendar](https://github.com/jumartin/Calendar) - 日历、行程安排类的View和控制器。A set of views and controllers for displaying and scheduling events on iOS
 
 #### 游戏@
 * [cocos2d-objc](https://github.com/cocos2d/cocos2d-objc) Cocos2d for iOS and OS X, built using Objective-C
@@ -1046,6 +1062,7 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
 * [RSAESCryptor](https://github.com/bigsan/RSAESCryptor) - 加密 RSA+AES Encryption/Decryption library for iOS. This library uses 2048-bit RSA and 256-bit key with 128-bit block size AES for encryption/decryption。
 * [TouchID](https://github.com/bringbird/TouchID) - 用法简单的TouchID验证框架：两行代码搞定。
 * [SFHFKeychainUtils] (https://github.com/ldandersen/scifihifi-iphone)iOS中使用SFHFKeychainUtils保存用户密码，比如项目中需要保存用户密码，以实现自动登录的功能可以使用。
+* [AESCipher-iOS](https://github.com/WelkinXie/AESCipher-iOS) - AESCipher-iOS:用 Objective-C 实现的 AES 加密。与 [AESCipher-Java](https://github.com/WelkinXie/AESCipher-Java) 一并使用能达到 在iOS、Android、Java后台产生相同密文、正确解密成明文的目的。[AES加密 - iOS与Java的同步实现](http://www.jianshu.com/p/df828a57cb8f)
 
 
 #### 测试及调试@
@@ -1364,5 +1381,9 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 #### 未分类@
 
 * [Form](https://github.com/hyperoslo/Form) Form 是一个方便开发者创建表单填写工作的 UI 库。
+<<<<<<< HEAD
 
 
+=======
+* [Solve-App-Store-Review-Problemm](https://github.com/wg689/Solve-App-Store-Review-Problemm) (ipv6,ipv6被拒绝,后台定位等审核问题的终极解决方案汇总)。
+>>>>>>> Tim9Liu9/master
