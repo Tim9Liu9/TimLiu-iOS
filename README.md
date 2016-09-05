@@ -536,6 +536,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### 其他UI@
 
 * [drawablebubble](https://github.com/KittenYang/KYCuteView)QQ中未读气泡拖拽消失的实现分析[分析文章](http://kittenyang.com/drawablebubble/)
+* [PPNumberButton](https://github.com/jkpang/PPNumberButton)类似京东淘宝商品数量的加减按钮,可定制程度较高,使用简单!
 
 #### 日历@
 
@@ -770,6 +771,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 #### 通讯录@
 * [快速查找联系人](http://code.cocoachina.com/view/128245) - 类似微信联系人搜索的界面,快速查找联系人,并支持点击查询结果 。
+
 * [PPGetAddressBook](https://github.com/jkpang/PPGetAddressBook) -  对联系人姓名第二个字做排序处理,对AddressBook框架(iOS9之前)和Contacts框架(iOS9之后)做了对应的封装处理,一句代码搞定联系人的获取与排序。
 
 ####三方分享、支付、登录等等@
@@ -1369,3 +1371,5 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 * [Form](https://github.com/hyperoslo/Form) Form 是一个方便开发者创建表单填写工作的 UI 库。
 * [Solve-App-Store-Review-Problemm](https://github.com/wg689/Solve-App-Store-Review-Problemm) (ipv6,ipv6被拒绝,后台定位等审核问题的终极解决方案汇总)。
+
+
