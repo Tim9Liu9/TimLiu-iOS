@@ -40,6 +40,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [菜单@](#菜单)
   - [进度@](#进度)
   - [其他UI@](#其他UI)
+- [ipad@](#ipad)
 - [动画@](#动画)
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
   - [gif动画@](#gif动画)
@@ -381,8 +382,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 
 #### HUD与Toast@
-* [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - 最多人用的loading。
-* [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) - SVProgressHUD的loading，如果你需要定制化的等待提示器，这个就是了（也许是最好的）。
+* [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - 非常赞 最多人用的loading。
+* [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) - 非常赞 SVProgressHUD的loading，如果你需要定制化的等待提示器，这个就是了（也许是最好的）。
 * [EBuyCommon](https://github.com/LvJianfeng/EBuyCommon) - 1.基于MBProgressHUD实现得图形加载提示方式，及其它标题方式提醒。2.弹窗。
 * [WZDraggableSwitchHeaderView](https://github.com/wongzigii/WZDraggableSwitchHeaderView)Show status for transition across viewControllers.
 * [ProgressHUD](https://github.com/relatedcode/ProgressHUD) - ProgressHUD的loading，使用最简单。
@@ -569,6 +570,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [UIWebView翻页返回效果](http://code.cocoachina.com/detail/316925/UIWebView%E7%BF%BB%E9%A1%B5%E8%BF%94%E5%9B%9E%E6%95%88%E6%9E%9C%EF%BC%88%E5%8F%98%E9%80%9A%E6%96%B9%E6%B3%95%EF%BC%89/) - UIWebView翻页返回效果（变通方法）。
 * [LLSlideMenu](https://github.com/lilei644/LLSlideMenu) - 一个弹性侧滑菜单,弹性动画原理借鉴该项目中阻尼函数实现。
 * [ScreenShotBack](https://github.com/zhengwenming/ScreenShotBack) 全屏返回，截图手势返回，景深效果，类似斗鱼、天天快报、腾讯新闻等APP的手势返回。
+
+#### ipad@
+
+* [UISplitViewControllerDemo](https://github.com/NatashaTheRobot/UISplitViewControllerDemo) iOS8 UISplitViewController Demo
 
 #### 动画@
 
