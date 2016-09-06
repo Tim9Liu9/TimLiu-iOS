@@ -105,7 +105,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 具体内容 =============================
 ========
 
-#### Github用法@           [返回目录](#目录)                                   
+#### Github用法@           [返回Github用法](#Github用法)                                   
 
 * [git-recipes](https://github.com/geeeeeeeeek/git-recipes)  Git recipes in Chinese. 高质量的Git中文教程.
 * [lark](https://github.com/larkjs/lark/wiki/怎样贡献代码) 怎样在Github上面贡献代码
@@ -539,6 +539,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [StackViewController](https://github.com/seedco/StackViewController) - 方便 iOS 开发者使用 UIStackView 构建表单或其它静态内容视图。
 * [LLBootstrapButton](https://github.com/lilei644/LLBootstrapButton) - Bootstrap 3.0扁平化风格按钮，自带图标，一句代码直接调用！
 * [JMRoundedCorner](https://github.com/raozhizhen/JMRoundedCorner) - UIView设置不触发离屏渲染的圆角！
+* [KNCirclePercentView](https://github.com/knn90/KNCirclePercentView) 一个自定义动画的圆形进度View
 
 #### 其他UI@
 
