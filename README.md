@@ -38,6 +38,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [电影选座@](#电影选座)
   - [瀑布流@](#瀑布流)
   - [菜单@](#菜单)
+  - [Tabbar@](#Tabbar)
   - [进度@](#进度)
   - [其他UI@](#其他UI)
 - [ipad@](#ipad)
@@ -299,7 +300,9 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [Colours](https://github.com/bennyguitar/Colours) Colours–颜色库,包含100种预定义的颜色和方法
 * [DKNightVersion](https://github.com/Draveness/DKNightVersion) - Manage Colors, Integrate Night/Multiple Themes
 
-#### 表相关@、TabbleView、Tabbar、即时聊天界面@
+
+
+#### 表相关@、TabbleView、即时聊天界面@
 
 #### TableView@
 
@@ -453,6 +456,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### 菜单@
 
 * [circle-menu](https://github.com/Ramotion/circle-menu) 赞 一个不错的旋转点击菜单，类似于遥控器的上下左右中点击样式
+
+#### TabBar@
+
+* [DLSlideView](https://github.com/agdsdl/DLSlideView) DLSlideView对常见的顶部Tab页点击、滑动分页做了封装。 它使用基于ViewController的container特性（而不是scrollview）来管理各个子页面，保留原始的系统消息，没有隐患。 同时内存模型更优于使用scrollview的方式，理论上可以支持无限分页。
 
 #### 进度@
 
@@ -1370,5 +1377,3 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 * [Form](https://github.com/hyperoslo/Form) Form 是一个方便开发者创建表单填写工作的 UI 库。
 * [Solve-App-Store-Review-Problemm](https://github.com/wg689/Solve-App-Store-Review-Problemm) (ipv6,ipv6被拒绝,后台定位等审核问题的终极解决方案汇总)。
-
-
