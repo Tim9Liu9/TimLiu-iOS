@@ -42,6 +42,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [进度@](#进度)
   - [其他UI@](#其他UI)
 - [ipad@](#ipad)
+- [通讯@](#通讯)
 - [动画@](#动画)
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
   - [gif动画@](#gif动画)
@@ -590,6 +591,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### ipad@
 
 * [UISplitViewControllerDemo](https://github.com/NatashaTheRobot/UISplitViewControllerDemo) iOS8 UISplitViewController Demo
+
+#### 通讯@
+
+* [peertalk](https://github.com/rsms/peertalk) peertalk 是一个支持 iOS 与 Mac 通过 USB 相互通讯的开源库。 Duet Display 基于此实现了将 Mac 界面呈现到 iOS 设备上。
 
 #### 动画@
 
