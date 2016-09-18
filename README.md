@@ -38,9 +38,11 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [电影选座@](#电影选座)
   - [瀑布流@](#瀑布流)
   - [菜单@](#菜单)
+  - [Tabbar@](#Tabbar)
   - [进度@](#进度)
   - [其他UI@](#其他UI)
 - [ipad@](#ipad)
+- [通讯@](#通讯)
 - [动画@](#动画)
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
   - [gif动画@](#gif动画)
@@ -104,7 +106,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 具体内容 =============================
 ========
 
-#### Github用法@
+#### Github用法@           [返回Github用法](#Github用法)                                   
 
 * [git-recipes](https://github.com/geeeeeeeeek/git-recipes)  Git recipes in Chinese. 高质量的Git中文教程.
 * [lark](https://github.com/larkjs/lark/wiki/怎样贡献代码) 怎样在Github上面贡献代码
@@ -196,7 +198,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [DayDayNews](https://github.com/gaoyuhang/DayDayNews) 仿网易新闻客户端，实现新闻浏览，视频播放，仿搜狐视频、百思不得姐等当前主流视频播放器，实现流媒体播放，自动监听屏幕转动，实现横屏播放 , 抓取百度图片，瀑布流显示，夜间模式，环信即时通讯
 
 
-#### App框架
+#### App框架   [返回目录](#目录)
 * [nimbus](https://github.com/jverkoey/nimbus) Nimbus是一个开源的iOS框架，比起Three20，Nimbus的文档更为全面、丰富，能够实现很多非常炫的界面特效。因此，开发者可以借助Nimbus来降低项目设计的复杂度。
 * [samurai-native](https://github.com/hackers-painters/samurai-native) 是一个基于浏览器内核通过HTML+CSS 开发原生移动应用的iOS框架。
 * [HHRouter](https://github.com/Huohua/HHRouter) 一言以蔽之，URL Router 即将 UIViewController 映射成 URL，从而支持通过 URL 进行界面跳转。是的，就和 Web 一样。当然，这并不是 Web Developer 转职为 iOS Developer 后所做的无聊玩具。URL Router 有着许多切实的好处。
@@ -250,7 +252,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [当view隐藏的时候也隐藏其autolayout的NSLayoutAttribute](http://code.cocoachina.com/detail/320405/) - 当view隐藏的时候也隐藏其autolayout的NSLayoutAttribute，从而不用大量的代码工作。
 * [SDAutoLayout](https://github.com/gsdios/SDAutoLayout) - AutoLayout 一行代码搞定自动布局！支持Cell、Label和Tableview高度自适应，致力于做最简单易用的AutoLayout库。
 
-#### 富文本@
+#### 富文本@   [返回目录](#目录)
 
 * [Shimmer](https://github.com/facebook/Shimmer) - BlingBling闪光效果，酷炫的Label的效果，可以用于加载等待提示。
 * [TFHpple ](https://github.com/topfunky/hpple) - TFHpple
@@ -299,7 +301,9 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [Colours](https://github.com/bennyguitar/Colours) Colours–颜色库,包含100种预定义的颜色和方法
 * [DKNightVersion](https://github.com/Draveness/DKNightVersion) - Manage Colors, Integrate Night/Multiple Themes
 
-#### 表相关@、TabbleView、Tabbar、即时聊天界面@
+
+
+#### 表相关@、TabbleView、即时聊天界面@
 
 #### TableView@
 
@@ -414,10 +418,15 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [PCLBlurEffectAlert.swfit](https://github.com/hryk224/PCLBlurEffectAlert) - 细节定制较丰富的弹出警报窗口组件。
 * [GSAlert.swfit](https://github.com/wxxsw/GSAlert) - 苹果在iOS8推出了全新的UIAlertController，旧的UIAlertView和UIActionSheet渐渐被废弃，但如果你仍然支持iOS7系统，你将不得不写两套代码。GSAlert解决了这个问题。
 * [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS) - SweetAlert-iOS 带动画效果弹窗对话框封装类。
-* [DXPopover](https://github.com/xiekw2010/DXPopover) - DXPopover微信右上角的+点击展示列表效果，弹窗菜单。
 * [CCActionSheet](https://github.com/maxmoo/CCActionSheet) - CCActionSheet：仿照微信朋友圈自定义actionsheet，一行代码即可使用。
 * [CustomPopOverView](https://github.com/maltsugar/CustomPopOverView) - 自定义弹出视图，内容支持传一组菜单标题，也支持自定义view，或者自定义viewController，支持任意按钮触发，会显示在按钮底部，也支持切换按钮的对齐方式：左对齐、居中、右对齐。
 * [TOActionSheet](https://github.com/TimOliver/TOActionSheet) 是一个 iOS UI 控件，提供一个模态提示控制，类似于 UIActionSheet。不同于 UIActionSheet 的是，它可以深度重设主题，通过对每个按钮使用块来避免委托模式
+
+#### Pop@
+
+* [DXPopover](https://github.com/xiekw2010/DXPopover) 很赞 DXPopover微信右上角的+点击展示列表效果，弹窗菜单。 A Popover mimic Facebook app popover using UIKit
+* [LewPopupViewController](https://github.com/pljhonglu/LewPopupViewController) ios 弹出视图
+* [PopMenu](https://github.com/xhzengAIB/PopMenu) - 用POP动画引擎写的Sina微博的Menu菜单。
 
 #### 状态栏@
 * [MTStatusBarOverlay](https://github.com/myell0w/MTStatusBarOverlay) MTStatusBarOverlay 是一个定制的 iOS 状态栏，用于覆盖系统默认的状态栏，类似 Reeder, Evernote and Google Mobile App。支持两种点击动作：1. 当用户点击状态栏时，状态栏会收缩，仅仅遮盖住状态栏右方的电池图标；2. 当用户点击状态栏时，一个有详细信息的视图会从系统状态栏中下拉出现。
@@ -454,6 +463,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [circle-menu](https://github.com/Ramotion/circle-menu) 赞 一个不错的旋转点击菜单，类似于遥控器的上下左右中点击样式
 
+#### TabBar@
+
+* [DLSlideView](https://github.com/agdsdl/DLSlideView) DLSlideView对常见的顶部Tab页点击、滑动分页做了封装。 它使用基于ViewController的container特性（而不是scrollview）来管理各个子页面，保留原始的系统消息，没有隐患。 同时内存模型更优于使用scrollview的方式，理论上可以支持无限分页。
+
 #### 进度@
 
 * [UAProgressView](https://github.com/UrbanApps/UAProgressView) 很赞 的一个进度指示View
@@ -461,7 +474,9 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [DCPathButton](https://github.com/Tangdixi/DCPathButton) - Path，4.0的弹出菜单，呼出或者关闭菜单时，多个小图标会分别按照逆时针和顺时针的方向进行滚动。
 * [SphereMenu](https://github.com/itouch2/SphereMenu) - 利用UIDynamicAnimator的有趣的菜单，path类似。
 * [KYGooeyMenu](https://github.com/KittenYang/KYGooeyMenu) - KYGooeyMenu 是一个具有 Gooey Effects 带粘性的扇形菜单控件(卫星菜单、path)。
+* [ZFProgressView](https://github.com/WZF-Fei/ZFProgressView) A simple digit progress view.（version1.3 使用GCD定时器代替NSTimer,避免内存泄露问题)
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - 卫星弹出菜单。
+* [WaveLoadingView](https://github.com/liuzhiyi1992/WaveLoadingView) - iOS 唯一完美的波浪进度加载指示器，[实现说明](http://zyden.vicp.cc/waveloadingindicator/)。
 * [JZMultiChoicesCircleButton](https://github.com/JustinFincher/JZMultiChoicesCircleButton) - 三维多选按钮。
 * [LCUIKit](https://github.com/lianchengjiang/LCUIKit) - 一个button上面既有icon又有文字。也许左icon右文字，或者上icon下文字。
 * [TwitterPaggingViewer](https://github.com/xhzengAIB/XHTwitterPaggingViewer)  - 多个Tableview，左右滑动。
@@ -532,6 +547,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [StackViewController](https://github.com/seedco/StackViewController) - 方便 iOS 开发者使用 UIStackView 构建表单或其它静态内容视图。
 * [LLBootstrapButton](https://github.com/lilei644/LLBootstrapButton) - Bootstrap 3.0扁平化风格按钮，自带图标，一句代码直接调用！
 * [JMRoundedCorner](https://github.com/raozhizhen/JMRoundedCorner) - UIView设置不触发离屏渲染的圆角！
+* [KNCirclePercentView](https://github.com/knn90/KNCirclePercentView) 一个自定义动画的圆形进度View
 
 #### 其他UI@
 
@@ -576,6 +592,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [UISplitViewControllerDemo](https://github.com/NatashaTheRobot/UISplitViewControllerDemo) iOS8 UISplitViewController Demo
 
+#### 通讯@
+
+* [peertalk](https://github.com/rsms/peertalk) peertalk 是一个支持 iOS 与 Mac 通过 USB 相互通讯的开源库。 Duet Display 基于此实现了将 Mac 界面呈现到 iOS 设备上。
+
 #### 动画@
 
 #### gif动画@
@@ -591,7 +611,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [awesome-animation](https://github.com/Animatious/awesome-animation) -  在内的十多位童鞋们一起发起的一起动画开源组正式成立啦~Github组织名称：Animatious，这是我们第一期成员先前开源的一些动效库，我们的第一个合作开源项目正在紧锣密鼓的准备~请大家期待设计和代码的碰撞吧。
 * [BCMagicTransition](https://github.com/boycechang/BCMagicTransition)一个动效框架，用于自定义UINavigationController的切换动画，效果类似 Keynote 软件中 Magic Move 切换。它可以用于任意两个UIViewController之间，只需指定两个VC中的相同元素即可。
 * [popping](https://github.com/schneiderandre/popping) - popping是一个POP 使用实例工程
-* [PopMenu](https://github.com/xhzengAIB/PopMenu) - 用POP动画引擎写的Sina微博的Menu菜单。
 * [SinaMenuView](https://github.com/xhzengAIB/PopMenu) - 用POP动画引擎写的Sina微博的Menu菜单。
 * [MMTweenAnimation](https://github.com/adad184/MMTweenAnimation) - facebook POP的自定义动画扩展(基于POPCustomAnimation) 提供10种函数式动画。
 * [ZQLRotateMenu](https://github.com/zangqilong198812/ZQLRotateMenu) - 这是一个旋转视图的选择器。
@@ -608,7 +627,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [cadisplaylinkanduibezierpath](http://kittenyang.com/cadisplaylinkanduibezierpath/) - CADisplayLink结合UIBezierPath的神奇妙用。
 * [KYCuteView](https://github.com/KittenYang/KYCuteView) - 实现类似QQ消息拖拽消失的交互+GameCenter的浮动小球效果，[分析](http://kittenyang.com/drawablebubble/)。
 * [KYWaterWaveView](https://github.com/KittenYang/KYWaterWaveView) - 一个内置波浪动画的UIView，里面有鱼跳跃水溅起来的效果。
-* [WaveLoadingView](https://github.com/liuzhiyi1992/WaveLoadingView) - iOS 唯一完美的波浪进度加载指示器，[实现说明](http://zyden.vicp.cc/waveloadingindicator/)。
 * [KYPingTransition](https://github.com/KittenYang/KYPingTransition) - 实现圆圈放大放小的转场动画，可以根据自己的需要使用Paper中的弹性效果，有Material风格。
 * [KYNewtonCradleAnimiation](https://github.com/KittenYang/KYNewtonCradleAnimiation) - 牛顿摆动画。
 * [LayerPlayer](https://github.com/scotteg/LayerPlayer) - 一款全面展示核心动画 API 示例项目（上架应用）。包括 CALayer, CAScrollLayer, CATextLayer, AVPlayerLayer, CAGradientLayer, CAReplicatorLayer, CATiledLayer, CAShapeLayer, CAEAGLLayer, CATransformLayer, CAEmitterLayer 等使用的互动演示。
@@ -1137,6 +1155,7 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
 
 #### Xcode插件@
 
+* [xTextHandler](https://github.com/cyanzhong/xTextHandler) Xcode源码编辑扩展工具(Xcode8版) Xcode Source Editor Extension Tools (Xcode 8 Plugins)
 * [首先学习使用Xcode](http://www.cocoachina.com/special/xcode/) - 学习使用Xcode构建出色的应用程序！在Xcode启动的时候，Xcode将会寻找位于~/Library/Application Support/Developer/Shared/Xcode/Plug-ins文件夹中的后缀名为.xcplugin的bundle作为插件进行加载（运行其中的可执行文件）。
 * [RPAXU](https://github.com/cikelengfeng/RPAXU) 每当 Xcode 升级之后，都会导致原有的 Xcode 插件不能使用，这是因为每个插件的 Info.plist 中记录了该插件兼容的 Xcode 版本的DVTPlugInCompatibilityUUID，而每个版本的 Xcode 的 DVTPlugInCompatibilityUUID 都是不同的。如果想让原来的插件继续工作，我们就得将新版 Xcode 的 DVTPlugInCompatibilityUUID 加入到每一个插件的 Info 文件中，手动添加的话比较费时间还可能出错，所以作者写了一个脚本来做这件事。
 * [FLEX](https://github.com/Flipboard/FLEX) 非常赞的一个Xcode工具，FLEX是一个需要注入式的一种框架，从描述来看，功能非常多。主要来讲的话能够对正在运行的应用进行样式的修改和控件的读取。FLEX会赐予你SuperPower！！！
@@ -1256,11 +1275,11 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [Under the Radar](https://www.relay.fm/radar)
 
 #### 学习资料@
-
 * [articles](https://github.com/objccn/articles) Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本
 * [growth-ebook](https://github.com/phodal/growth-ebook) Growth Engineering: The Definitive Guide。全栈增长工程师指南
 * [ideabook](https://github.com/phodal/ideabook)一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
 * [objc-zen-book-cn](https://github.com/oa414/objc-zen-book-cn) 禅与 Objective-C 编程艺术 （Zen and the Art of the Objective-C Craftsmanship 中文翻译）
+* [dev-blog](https://github.com/nixzhu/dev-blog) 翻译、开发心得或学习笔记
 * [Show](https://github.com/CharlinFeng/Show) 成都地区一个公司开源项目目录
 * A-[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)  GitHub上所有Awesome Awesomeness 系列集合. 这个系列集合收集上GitHub上优秀的开源项目、框架、书籍、网站、类库等实用资源的集合。
 * [豆瓣iOS开源库列表](https://www.douban.com/note/276160185/?type=like) - 豆瓣iOS开源库列表，很多开源项目。
@@ -1370,5 +1389,3 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 * [Form](https://github.com/hyperoslo/Form) Form 是一个方便开发者创建表单填写工作的 UI 库。
 * [Solve-App-Store-Review-Problemm](https://github.com/wg689/Solve-App-Store-Review-Problemm) (ipv6,ipv6被拒绝,后台定位等审核问题的终极解决方案汇总)。
-
-
