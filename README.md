@@ -742,9 +742,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [JSON-Framework](https://github.com/stig/json-framework) -  JSON解析库
 * [Groot](https://github.com/gonzalezreal/Groot) - From JSON to Core Data and back.
 * [KZPropertyMapper](https://github.com/krzysztofzablocki/KZPropertyMapper) - 可以帮助你在对象与Array、Dict数据间进行转换，尤其适用于将json对象转换成objective-c中的实体对象。作者还写了一篇文章[stop-writing-data-parsing-code-in-your-apps](http://merowing.info/2013/07/stop-writing-data-parsing-code-in-your-apps/)介绍它的使用。
-* [FastEasyMapping](https://github.com/Yalantis/FastEasyMapping) - Serialize & deserialize JSON fast.
-* [OCMapper](https://github.com/aryaxt/OCMapper) - Objective-C & Swift library to easily map NSDictionary to model objects. :large_orange_diamond:
-* [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - A framework written in Swift that makes it easy for you to convert your Model objects (Classes and Structs) to and from JSON. :large_orange_diamond:
+* [FastEasyMapping](https://github.com/Yalantis/FastEasyMapping) - 一个快速对json进行序列化和反序列化的工具 A tool for fast serializing & deserializing of JSON.
+* [OCMapper](https://github.com/aryaxt/OCMapper) - （一年未更新）OCMapper 是 Objective-C 和 Swift 库，它可以很容易地将 NSDictionary 映射到模型目标上。Objective-C & Swift library to easily map NSDictionary to model objects, works perfectly with Alamofire. ObjectMapper works similar to GSON
 * [JASON](https://github.com/delba/JASON) - JSON parsing with outstanding performances and convenient operators. :large_orange_diamond:
 * [Gloss](https://github.com/hkellaway/Gloss) - A shiny JSON parsing library in Swift. :large_orange_diamond:
 * [Cereal](https://github.com/Weebly/Cereal) - Swift object serialization :large_orange_diamond:
@@ -1249,7 +1248,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [searchcode](https://searchcode.com/) - 源代码搜索利器：来自悉尼的代码搜索引擎汇聚了 Github, Bitbucket, Sourceforge...等多家开源站点超20万个项目、180亿行源代码，能以特殊字符、语言、仓库和源方式从90多种语言找到函数、API的真实代码。
 * [kitematic](https://github.com/docker/kitematic) - Mac 上使用 Docker 最简单的方案。
 
-#### 二维码
+#### 二维码@
 * [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC)  赞 An Objective-C Port of ZXing
 * [LBXScan](https://github.com/MxABC/LBXScan) 赞 A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和ios系统自带扫码封装，扫码界面效果封装)(Objective-C和Swift均支持).
 * [原生实现扫描二维码条码](http://code.cocoachina.com/view/129108) - iOS原生实现扫描二维码条码.
