@@ -222,6 +222,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 其他UI@
 * [ZSeatSelector](https://github.com/richzertuche/ZSeatSelector) - 电影院位置排座位，电影选座。
 * [JMRoundedCornerSwift](https://github.com/raozhizhen/JMRoundedCornerSwift) - swift版本：UIView设置不触发离屏渲染的圆角！
+* [PPNumberButtonSwift](https://github.com/jkpang/PPNumberButtonSwift) - 仿京东淘宝商品数量的加减按钮 Swift 版,可定制程度高,使用简单!
 
 ========
 #### 动画@
@@ -362,7 +363,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Wrap.swift](https://github.com/JohnSundell/Wrap) - 方便、易用的对象转 JSON 类库。
 
 #### 通讯录@
-
+* [PPGetAddressBookSwift](https://github.com/jkpang/PPGetAddressBookSwift) - 一行代码获取按A~Z分组精准排序的通讯录联系人 Swift版( 已处理姓名所有字符的排序问题)
 #### Email@
 * [Postal](https://github.com/snipsco/Postal) A swift framework for working with emails,Postal is a swift framework providing simple access to common email providers.
 
@@ -633,3 +634,5 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 物联网@
 
 ##### 视频播放器@
+
+
