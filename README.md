@@ -42,6 +42,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [Tabbar@](#Tabbar)
   - [进度@](#进度)
   - [小红点@](#小红点)
+  - [page@](#page)
   - [其他UI@](#其他UI)
 - [ipad@](#ipad)
 - [通讯@](#通讯)
@@ -477,6 +478,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### 小红点@
 
 * [WZLBadge](https://github.com/weng1250/WZLBadge) - 小红点，Badge，支持横竖屏支持iOS5~iOS8允许高度定制化，包括“红点”的背景颜色，文字(字体大小、颜色)，位置等。[说明](http://code.cocoachina.com/detail/316890/%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0%E5%A4%9A%E9%A3%8E%E6%A0%BC%E7%9A%84%E6%8E%A8%E9%80%81%E5%B0%8F%E7%BA%A2%E7%82%B9/).
+
+#### page@
+
+* [MXSegmentedPager](https://github.com/maxep/MXSegmentedPager) 分页滚动，多个分页的pageController效果
 
 #### 进度@
 * [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress) - 很赞 一个 UIWebView 的进度条接口库,UIWebView 本身是不提供进度条的。
