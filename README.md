@@ -51,6 +51,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [gif动画@](#gif动画)
   - [其他动画@](#其他动画)
 - [AutoLayout@](#AutoLayout)
+- [数据存储@](#数据存储)
 - [网络相关@](#网络相关)
   - [网络连接@](#网络连接)
   - [图像获取@](#图像获取)
@@ -683,6 +684,9 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [INPopoverController](https://github.com/indragiek/INPopoverController) - OS X可自由定制的  Popover 视图。
 * [WZXJianShuPopDemo](https://github.com/Wzxhaha/WZXJianShuPopDemo) - 仿简书、淘宝等等的View弹出效果，已封装好，使用简单。[实现原理](http://www.jianshu.com/p/a697d2a38b3c)
 
+####数据存储@
+
+* [HYFileManager](https://github.com/castial/HYFileManager) 一个不错的文件管理操作工具类 HYFileManager is a powerful util based on NSFileManager.
 
 #### 网络相关@
 #### 网络连接@
