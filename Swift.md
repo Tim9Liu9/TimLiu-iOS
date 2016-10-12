@@ -1,4 +1,4 @@
-# TimLiu-iOS iOS开发常用三方库、插件、知名博客等等，期待大家和我们一起共同维护，同时也期望大家随时能提出宝贵的意见。 持续更新。。。
+mei # TimLiu-iOS iOS开发常用三方库、插件、知名博客等等，期待大家和我们一起共同维护，同时也期望大家随时能提出宝贵的意见。 持续更新。。。
 # 版本：Swift
 github排名 [https://github.com/trending](https://github.com/trending),github搜索：[https://github.com/search](https://github.com/search)
 
@@ -12,7 +12,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 
 ###  目录
-- [Github用法@](#Github用法)
+- [Swift学习资料@](#Swift学习资料)
 - [完整App@](#完整App)
 - [App框架@](#App框架)
   - [响应式框架@](#响应式框架)
@@ -103,7 +103,11 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 ### 具体内容 =============================
 ========
 
-##### 下拉刷新@
+#### Swift学习资料@
+
+* [SwiftGuide](https://github.com/ipader/SwiftGuide) 很赞 的Swift学习资料汇总
+
+#### 下拉刷新@
 
 * [ZLSwiftRefresh](https://github.com/MakeZL/ZLSwiftRefresh) - swift下拉刷新/上拉加载更多，支持自定义动画，集成简单，兼容UITableView/CollectionView/ScrollView/WebView。
 * [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) - swift，上拉和下拉刷新。
