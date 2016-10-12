@@ -1174,7 +1174,7 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
   3. 动态修改属性和成员变量
   4. 动态的调用实例和类方法
 FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者是远程的调试服务器，它可以在本地随时随地的进行自有的操作和调试
-* [Alcatraz](http://alcatraz.io/) -使用Alcatraz来管理Xcode插件
+* [Alcatraz](https://github.com/alcatraz/Alcatraz) -使用Alcatraz来管理Xcode插件
 * [Polychromatic](https://github.com/kolinkrewinkel/Polychromatic)  为不同的变量类型赋予不同的颜色
 * [ClangFormat-Xcode](https://github.com/travisjeffery/ClangFormat-Xcode) clang-format 代码格式化
 * [BBUncrustifyPlugin-Xcode](https://github.com/benoitsan/BBUncrustifyPlugin-Xcode) 代码格式化
