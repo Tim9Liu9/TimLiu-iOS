@@ -428,6 +428,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 #### Pop@
 
+* [AMPopTip](https://github.com/andreamazz/AMPopTip) 一个可以定义frame的带动画的popover. An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
 * [DXPopover](https://github.com/xiekw2010/DXPopover) 很赞 DXPopover微信右上角的+点击展示列表效果，弹窗菜单。 A Popover mimic Facebook app popover using UIKit
 * [LewPopupViewController](https://github.com/pljhonglu/LewPopupViewController) ios 弹出视图
 * [PopMenu](https://github.com/xhzengAIB/PopMenu) - 用POP动画引擎写的Sina微博的Menu菜单。
