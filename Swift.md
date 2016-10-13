@@ -105,7 +105,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### Swift学习资料@
 
-* [SwiftGuide](https://github.com/ipader/SwiftGuide) 很赞 的Swift学习资料汇总
+* [SwiftGuide](https://github.com/ipader/SwiftGuide) 很赞 的Swift学习资料
 
 #### 下拉刷新@
 
@@ -375,6 +375,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [AlamofireJsonToObjects](https://github.com/evermeer/AlamofireJsonToObjects) - 一个将json data转为Swift对象的类扩展 An Alamofire extension which converts JSON response data into swift objects using EVReflection
 * [Alembic](https://github.com/ra1028/Alembic) - 功能性的json解析库 Functional JSON parsing, mapping to objects, and serialize to JSON :large_orange_diamond:
 * [Wrap](https://github.com/JohnSundell/Wrap) - The easy to use Swift JSON encoder :large_orange_diamond:
+* [Arrow](https://github.com/freshOS/Arrow) - 一个Swift JSON解析库 JSON Parsing Library for Swift
+* [Genome](https://github.com/LoganWright/Genome) - 一个易用、多样、安全，包含错误映射的JSON转Model的Swift库. A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0 (Supports Linux)
 
 #### 通讯录@
 * [PPGetAddressBookSwift](https://github.com/jkpang/PPGetAddressBookSwift) - 一行代码获取按A~Z分组精准排序的通讯录联系人 Swift版( 已处理姓名所有字符的排序问题)
