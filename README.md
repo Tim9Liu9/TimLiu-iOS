@@ -51,6 +51,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [gif动画@](#gif动画)
   - [其他动画@](#其他动画)
 - [AutoLayout@](#AutoLayout)
+- [数据存储@](#数据存储)
 - [网络相关@](#网络相关)
   - [网络连接@](#网络连接)
   - [图像获取@](#图像获取)
@@ -427,6 +428,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 #### Pop@
 
+* [AMPopTip](https://github.com/andreamazz/AMPopTip) 一个可以定义frame的带动画的popover. An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
 * [DXPopover](https://github.com/xiekw2010/DXPopover) 很赞 DXPopover微信右上角的+点击展示列表效果，弹窗菜单。 A Popover mimic Facebook app popover using UIKit
 * [LewPopupViewController](https://github.com/pljhonglu/LewPopupViewController) ios 弹出视图
 * [PopMenu](https://github.com/xhzengAIB/PopMenu) - 用POP动画引擎写的Sina微博的Menu菜单。
@@ -683,6 +685,9 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [INPopoverController](https://github.com/indragiek/INPopoverController) - OS X可自由定制的  Popover 视图。
 * [WZXJianShuPopDemo](https://github.com/Wzxhaha/WZXJianShuPopDemo) - 仿简书、淘宝等等的View弹出效果，已封装好，使用简单。[实现原理](http://www.jianshu.com/p/a697d2a38b3c)
 
+####数据存储@
+
+* [HYFileManager](https://github.com/castial/HYFileManager) 一个不错的文件管理操作工具类 HYFileManager is a powerful util based on NSFileManager.
 
 #### 网络相关@
 #### 网络连接@
@@ -763,9 +768,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [Cereal](https://github.com/Weebly/Cereal) - 对象序列化三方库 Swift object serialization
 * [SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator) - json转model的三方库 Generate Swift model files from JSON using either SwiftyJSON or ObjectMapper. Supports NSCoding and provides method for JSON string representation of the model.
 
-* [Arrow 🏹](https://github.com/freshOS/Arrow) - Elegant JSON Parsing in Swift. :large_orange_diamond:
-
-* [Genome](https://github.com/LoganWright/Genome) - A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0 (Supports Linux) :large_orange_diamond:
 * [Tyro](https://github.com/typelift/Tyro) - Functional JSON parsing and encoding :large_orange_diamond:
 * [Unbox](https://github.com/JohnSundell/Unbox) - The easy to use Swift JSON decoder :large_orange_diamond:
 * [JSONJoy-Swift](https://github.com/daltoniam/JSONJoy-Swift) - Convert JSON to Swift objects. :large_orange_diamond:
@@ -1169,7 +1171,7 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
   3. 动态修改属性和成员变量
   4. 动态的调用实例和类方法
 FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者是远程的调试服务器，它可以在本地随时随地的进行自有的操作和调试
-* [Alcatraz](http://alcatraz.io/) -使用Alcatraz来管理Xcode插件
+* [Alcatraz](https://github.com/alcatraz/Alcatraz) -使用Alcatraz来管理Xcode插件
 * [Polychromatic](https://github.com/kolinkrewinkel/Polychromatic)  为不同的变量类型赋予不同的颜色
 * [ClangFormat-Xcode](https://github.com/travisjeffery/ClangFormat-Xcode) clang-format 代码格式化
 * [BBUncrustifyPlugin-Xcode](https://github.com/benoitsan/BBUncrustifyPlugin-Xcode) 代码格式化

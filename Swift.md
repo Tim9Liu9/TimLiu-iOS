@@ -1,4 +1,4 @@
-# TimLiu-iOS iOS开发常用三方库、插件、知名博客等等，期待大家和我们一起共同维护，同时也期望大家随时能提出宝贵的意见。 持续更新。。。
+mei # TimLiu-iOS iOS开发常用三方库、插件、知名博客等等，期待大家和我们一起共同维护，同时也期望大家随时能提出宝贵的意见。 持续更新。。。
 # 版本：Swift
 github排名 [https://github.com/trending](https://github.com/trending),github搜索：[https://github.com/search](https://github.com/search)
 
@@ -12,7 +12,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 
 ###  目录
-- [Github用法@](#Github用法)
+- [Swift学习资料@](#Swift学习资料)
 - [完整App@](#完整App)
 - [App框架@](#App框架)
   - [响应式框架@](#响应式框架)
@@ -103,7 +103,11 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 ### 具体内容 =============================
 ========
 
-##### 下拉刷新@
+#### Swift学习资料@
+
+* [SwiftGuide](https://github.com/ipader/SwiftGuide) 很赞 的Swift学习资料
+
+#### 下拉刷新@
 
 * [ZLSwiftRefresh](https://github.com/MakeZL/ZLSwiftRefresh) - swift下拉刷新/上拉加载更多，支持自定义动画，集成简单，兼容UITableView/CollectionView/ScrollView/WebView。
 * [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) - swift，上拉和下拉刷新。
@@ -371,6 +375,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [AlamofireJsonToObjects](https://github.com/evermeer/AlamofireJsonToObjects) - 一个将json data转为Swift对象的类扩展 An Alamofire extension which converts JSON response data into swift objects using EVReflection
 * [Alembic](https://github.com/ra1028/Alembic) - 功能性的json解析库 Functional JSON parsing, mapping to objects, and serialize to JSON :large_orange_diamond:
 * [Wrap](https://github.com/JohnSundell/Wrap) - The easy to use Swift JSON encoder :large_orange_diamond:
+* [Arrow](https://github.com/freshOS/Arrow) - 一个Swift JSON解析库 JSON Parsing Library for Swift
+* [Genome](https://github.com/LoganWright/Genome) - 一个易用、多样、安全，包含错误映射的JSON转Model的Swift库. A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0 (Supports Linux)
 
 #### 通讯录@
 * [PPGetAddressBookSwift](https://github.com/jkpang/PPGetAddressBookSwift) - 一行代码获取按A~Z分组精准排序的通讯录联系人 Swift版( 已处理姓名所有字符的排序问题)
