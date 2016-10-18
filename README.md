@@ -484,6 +484,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 #### page@
 
+* [PageMenu](https://github.com/uacaps/PageMenu) A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram)
 * [MXSegmentedPager](https://github.com/maxep/MXSegmentedPager) 分页滚动，多个分页的pageController效果
 
 #### 轮播@
