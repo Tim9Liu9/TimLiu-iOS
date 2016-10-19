@@ -44,7 +44,7 @@ pod 'HyphenateSDK', :git => 'https://github.com/easemob/hyphenate-cocoapods.git'
 pod 'TZImagePickerController' #图片选择
 pod 'Masonry' #AutoLayout(视频播放界面用到了)
 pod 'DZNEmptyDataSet' #tableView 没数据时提示页面
-pod 'FLEX', '~> 2.0', :configurations => ['Debug'] #An in-app debugging and exploration tool for iOS
+pod 'FLEX', '~> 2.0', :configurations => ['Debug'] #非常棒的界面调试库
 pod 'LBXScan','~> 1.1.1' #二维码
 pod 'ZYCornerRadius', git:'https://github.com/liuzhiyi1992/ZYCornerRadius.git',tag:'0.9.1' #图像圆角
 
