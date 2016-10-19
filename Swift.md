@@ -1,4 +1,4 @@
-# TimLiu-iOS iOS开发常用三方库、插件、知名博客等等，期待大家和我们一起共同维护，同时也期望大家随时能提出宝贵的意见。 持续更新。。。
+mei # TimLiu-iOS iOS开发常用三方库、插件、知名博客等等，期待大家和我们一起共同维护，同时也期望大家随时能提出宝贵的意见。 持续更新。。。
 # 版本：Swift
 github排名 [https://github.com/trending](https://github.com/trending),github搜索：[https://github.com/search](https://github.com/search)
 
@@ -12,7 +12,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 
 ###  目录
-- [Github用法@](#Github用法)
+- [Swift学习资料@](#Swift学习资料)
 - [完整App@](#完整App)
 - [App框架@](#App框架)
   - [响应式框架@](#响应式框架)
@@ -103,7 +103,11 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 ### 具体内容 =============================
 ========
 
-##### 下拉刷新@
+#### Swift学习资料@
+
+* [SwiftGuide](https://github.com/ipader/SwiftGuide) 很赞 的Swift学习资料
+
+#### 下拉刷新@
 
 * [ZLSwiftRefresh](https://github.com/MakeZL/ZLSwiftRefresh) - swift下拉刷新/上拉加载更多，支持自定义动画，集成简单，兼容UITableView/CollectionView/ScrollView/WebView。
 * [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) - swift，上拉和下拉刷新。
@@ -342,8 +346,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [React.swift](https://github.com/alexdrone/Render) - 启发自 React 的纯 Swift 函数版基于 UIKit 封装类库。这种结构是否似曾相识。
 * [GRMustache] (https://github.com/groue/GRMustache) 一个类似templateEngine的html渲染工具，可以更加有效的帮助大家完成数据生成HTML的过程。
 
-
-#### Model@
+#### Json@
+* [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - 很赞 ObjectMapper 是一个基于 Swift 语言开发的能够让 JSON 与 Object 之间轻易转换的类库。通过 ObjectMapper 我们可以将 JSON 数据转换成 Model 对象或将 Model 对象转换成 JSON 数据。 Simple JSON Object mapping written in Swift
 * [Decodable](https://github.com/Anviking/Decodable) - Swift 2 JSON parsing done (more) right :large_orange_diamond:
 * [Jay](https://github.com/czechboy0/Jay) - Pure-Swift JSON parser & formatter. Linux & OS X ready. :large_orange_diamond:
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift. :large_orange_diamond:
@@ -361,6 +365,18 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [PMJSON.swift](https://github.com/postmates/PMJSON) - PMJSON.swift简单、实用、高效的 JSON 解析类库。
 * [Unbox.swift](https://github.com/JohnSundell/Unbox) - 极为易用、轻量，更少辅助代码的 JSON 解析类。
 * [Wrap.swift](https://github.com/JohnSundell/Wrap) - 方便、易用的对象转 JSON 类库。
+* [JASON](https://github.com/delba/JASON) - 高效的Json解析（Swift） Fast JSON parsing for Swift
+* [JSONCodable](https://github.com/matthewcheok/JSONCodable) - Swift json编码解码三方库 Hassle-free JSON encoding and decoding in Swift
+* [Coolie](https://github.com/nixzhu/Coolie) - Swift json转model的三方库 Coolie helps you to create models (& their constructors) from JSON file.
+* [Tailor](https://github.com/zenangst/Tailor) - 一个非常快和方便的对象映射Swift三方库 A super fast & convenient object mapper tailored for your needs.
+* [alexander](https://github.com/hodinkee/alexander) - 一个非常简洁的json处理三方库 An extremely simple JSON helper written in Swift.
+* [Freddy](https://github.com/bignerdranch/Freddy) - 一个可以重用的json解析库 A reusable framework for parsing JSON in Swift.
+* [mapper](https://github.com/lyft/mapper) - 一个json反序列化库 A JSON deserialization library for Swift
+* [AlamofireJsonToObjects](https://github.com/evermeer/AlamofireJsonToObjects) - 一个将json data转为Swift对象的类扩展 An Alamofire extension which converts JSON response data into swift objects using EVReflection
+* [Alembic](https://github.com/ra1028/Alembic) - 功能性的json解析库 Functional JSON parsing, mapping to objects, and serialize to JSON :large_orange_diamond:
+* [Wrap](https://github.com/JohnSundell/Wrap) - The easy to use Swift JSON encoder :large_orange_diamond:
+* [Arrow](https://github.com/freshOS/Arrow) - 一个Swift JSON解析库 JSON Parsing Library for Swift
+* [Genome](https://github.com/LoganWright/Genome) - 一个易用、多样、安全，包含错误映射的JSON转Model的Swift库. A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0 (Supports Linux)
 
 #### 通讯录@
 * [PPGetAddressBookSwift](https://github.com/jkpang/PPGetAddressBookSwift) - 一行代码获取按A~Z分组精准排序的通讯录联系人 Swift版( 已处理姓名所有字符的排序问题)
@@ -555,20 +571,19 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### VPN@
 * [vpnon](https://github.com/lexrus/vpnon/) - swift的VPN On 的源码和本地化内容都是开放的: [官方网站](https://crowdin.com/project/vpnon)。
 
-#### 完整项目@
+#### 完整App@
 * [V2ex-Swift](https://github.com/Finb/V2ex-Swift) - 用 Swift 写的 V2EX 客户端。
 * [iBBS-Swift](https://github.com/iAugux/iBBS-Swift) - “新手开源一个用Swift（2.0）写的论坛客户端”。[BBS 服务端](http://obbs.sinaapp.com/)。
+* [NirZhihuDaily2.0_swift](https://github.com/zpz1237/NirZhihuDaily2.0) - 精仿了知乎日报iOS端练手，Swift2.0，注释相当详细。
 * [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) - Swift 开发的 DesignerNews 客户端，看着美美的！
 * [Eidolon](https://github.com/artsy/eidolon) - 艺术品拍卖的投标亭平台，用swift与反应式编程框架 ReactiveCocoa。
 * [BaiduFM-Swift](https://github.com/belm/BaiduFM-Swift) - 百度FM, swift语言实现，基于最新xcode6.3+swift1.2,初步只是为了实现功能，代码比较粗燥，后面有时间会整理，支持Apple Watch。
 * [Tuan](https://github.com/aiqiuqiu/Tuan) - 模仿MJ老师iPad版美团（swift版），偶有bug 见谅。
 * [CocoaChinaPlus](https://github.com/zixun/CocoaChinaPlus) - CocoaChina+是一款开源的第三方CocoaChina移动端。整个App都用Swift2.0编写(除部分第三方OC代码外，比如JPush和友盟)。
 * [SimpleMemo](https://github.com/likumb/SimpleMemo) - 易便签已经转到Swift2.0，全面适配iOS9和Watch OS2，并支持iPhone6s和iPhone6sPlus的3D Touch功能，包括图标快捷键和内容预览。
-* [XXYAudioEngine.swift](https://github.com/xxycode/XXYAudioEngine) - 基于NSURLSession 和 AVAudoPlayer的在线音乐的工具，可以把音乐保存在本地，也可以支持后台播放，后台下载，最低支持iOS7，swift版本1.2。
 * [furni-ios.swift](https://github.com/twitterdev/furni-ios) - furni-ios.swift是由 Twitter 开发团队出品的一款用 Swift 写的 iOS 家居商城应用, 其主要目的在于让开发者从这款 Demo 应用中看出 Fabric 的强大。
 * [SelectionOfZhihu.swift](https://github.com/sheepy1/SelectionOfZhihu) - 『看知乎』iOS 客户端, [项目说明](http://www.jianshu.com/p/2c3a0f109788)。
-* [WFZhiHu](https://github.com/TigerWf/WFZhiHu) - WFZhiHu仿知乎日报客户端app。
-* [NirZhihuDaily2.0_swift](https://github.com/zpz1237/NirZhihuDaily2.0) - 精仿了知乎日报iOS端练手，Swift2.0，注释相当详细。
+
 * [Yep.swift](https://github.com/CatchChat/Yep) - Yep 一个由天才开发给天才们使用的社交软件。
 * [LoveFreshBeen.swift](https://github.com/ZhongTaoTian/LoveFreshBeen) - 高仿爱鲜蜂 - Swift2.0
 * [trySwiftApp.swift](https://github.com/ZhongTaoTian/LoveFreshBeen) - trySwiftApp一款较为完整的会议原型应用。有需求的同学可以做为开发参考。
@@ -635,5 +650,3 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 物联网@
 
 ##### 视频播放器@
-
-

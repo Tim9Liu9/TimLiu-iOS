@@ -8,7 +8,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 使用方法：根据目录关键字搜索，记得包含@，以保证搜索目录关键字的唯一性。
 
-引入评价机制：根据作者们的主管评价，对库是用"赞"、“很赞”、“非常赞”这3个评价伺候，便于大家在初次选择库时有一个选择依据。
+引入评价机制：根据作者们的主观评价，对库是用"赞"、“很赞”、“非常赞”这3个评价伺候，便于大家在初次选择库时有一个选择依据。
 
 问题反馈：请广大网友只按照目录结构（即使目录结构有问题）添加三方库，并pull request。目录问题大家提出issues后楼主会及时更改的。
 
@@ -34,12 +34,16 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [导航栏@](#导航栏)
   - [设置@](#设置)
   - [Switch@](#Switch)
+  - [Category@](#Category)
   - [主题@](#主题)
   - [电影选座@](#电影选座)
   - [瀑布流@](#瀑布流)
   - [菜单@](#菜单)
   - [Tabbar@](#Tabbar)
   - [进度@](#进度)
+  - [小红点@](#小红点)
+  - [page@](#page)
+  - [轮播@](#轮播)
   - [其他UI@](#其他UI)
 - [ipad@](#ipad)
 - [通讯@](#通讯)
@@ -48,6 +52,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [gif动画@](#gif动画)
   - [其他动画@](#其他动画)
 - [AutoLayout@](#AutoLayout)
+- [数据存储@](#数据存储)
 - [网络相关@](#网络相关)
   - [网络连接@](#网络连接)
   - [图像获取@](#图像获取)
@@ -87,8 +92,12 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [PDF@](#PDF)
 - [图像浏览及处理@](#图像浏览及处理)
   - [图像圆角@](#图像圆角)
-- [摄像照相视频音频处理@](#摄像照相视频音频处理)
 - [视频@](#视频)
+  - [视频播放@](#视频播放)
+  - [视频录制@](#视频录制)
+  - [视频剪切@](#视频剪切)
+- [摄像@](#摄像)
+- [照相视频音频处理@](#照相视频音频处理)
 - [消息相关@](#消息相关)
   - [消息推送客户端@](#消息推送客户端)
   - [消息推送服务器端@](#消息推送服务器端)
@@ -241,7 +250,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [SABlurImageView](https://github.com/szk-atmosphere/SABlurImageView) - 支持渐变动画效果的图像模糊化类库。P.S. 与前几天推存类库 SAHistoryNavigationViewController 是同一位作者。
 
 ##### AutoLayout@
-* [Masonry](https://github.com/SnapKit/Masonry) - Masonry是一个轻量级的布局框架，拥有自己的描述语法，采用更优雅的链式语法封装自动布局，简洁明了并具有高可读性（ [使用介绍1](http://adad184.com/2014/09/28/use-masonry-to-quick-solve-autolayout/)  [使用介绍2](http://ios.jobbole.com/81483/)），[iOS自适应前段库-Masonry的使用](http://www.cocoachina.com/ios/20150702/12217.html)），[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900)。[使用DEMO](https://github.com/lcddhr/DDMasonryTest) 视图居中显示、子视图含边距、视图等距离摆放、计算ScrollView的contentsize。
+* [Masonry](https://github.com/SnapKit/Masonry) - 非常赞-Masonry是一个轻量级的布局框架，拥有自己的描述语法，采用更优雅的链式语法封装自动布局，简洁明了并具有高可读性（ [使用介绍1](http://adad184.com/2014/09/28/use-masonry-to-quick-solve-autolayout/)  [使用介绍2](http://ios.jobbole.com/81483/)），[iOS自适应前段库-Masonry的使用](http://www.cocoachina.com/ios/20150702/12217.html)），[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900)。[使用DEMO](https://github.com/lcddhr/DDMasonryTest) 视图居中显示、子视图含边距、视图等距离摆放、计算ScrollView的contentsize。
 * [Classy](https://github.com/ClassyKit/Classy) - Classy是一个能与UIKit无缝结合stylesheet(样式)系统。它借鉴CSS的思想，但引入新的语法和命名规则，[Classy官网](http://classy.as/getting-started/)，[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900)。
 * [ClassyLiveLayout](https://github.com/olegam/ClassyLiveLayout) - ClassyLiveLayout通过结合Classy stylesheets与Masonry一起使用，能够在运行的模拟器中微调Auto Layout约束实时显示效果的工具，[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900)。
 * [PureLayout](https://github.com/PureLayout/PureLayout) - PureLayout 是 iOS & OS X Auto Layout 的终极 API——非常简单，又非常强大。PureLayout 通过一个全面的Auto Layout API 扩展了 UIView/NSView, NSArray 和 NSLayoutConstraint，仿照苹果自身的框架。
@@ -424,6 +433,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 #### Pop@
 
+* [AMPopTip](https://github.com/andreamazz/AMPopTip) 一个可以定义frame的带动画的popover. An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
 * [DXPopover](https://github.com/xiekw2010/DXPopover) 很赞 DXPopover微信右上角的+点击展示列表效果，弹窗菜单。 A Popover mimic Facebook app popover using UIKit
 * [LewPopupViewController](https://github.com/pljhonglu/LewPopupViewController) ios 弹出视图
 * [PopMenu](https://github.com/xhzengAIB/PopMenu) - 用POP动画引擎写的Sina微博的Menu菜单。
@@ -447,6 +457,11 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [JTMaterialSwitch](https://github.com/JunichiT/JTMaterialSwitch) A Customizable Switch UI for iOS, Inspired from Google's Material Design
 
+#### Category@
+
+* [UIScrollView-InfiniteScroll](https://github.com/pronebird/UIScrollView-InfiniteScroll) 滚动视图无限滚动分类 UIScrollView infinite scroll category
+* [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) 允许改变导航栏appearance dynamically的分类  UINavigationBar Category which allows you to change its appearance dynamically
+
 #### 主题@
 
 * [LEETheme](https://github.com/lixiang1994/LEETheme) 优雅的主题管理库- 一行代码完成多样式切换
@@ -467,8 +482,21 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [DLSlideView](https://github.com/agdsdl/DLSlideView) DLSlideView对常见的顶部Tab页点击、滑动分页做了封装。 它使用基于ViewController的container特性（而不是scrollview）来管理各个子页面，保留原始的系统消息，没有隐患。 同时内存模型更优于使用scrollview的方式，理论上可以支持无限分页。
 
-#### 进度@
+#### 小红点@
 
+* [WZLBadge](https://github.com/weng1250/WZLBadge) - 小红点，Badge，支持横竖屏支持iOS5~iOS8允许高度定制化，包括“红点”的背景颜色，文字(字体大小、颜色)，位置等。[说明](http://code.cocoachina.com/detail/316890/%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0%E5%A4%9A%E9%A3%8E%E6%A0%BC%E7%9A%84%E6%8E%A8%E9%80%81%E5%B0%8F%E7%BA%A2%E7%82%B9/).
+
+#### page@
+
+* [PageMenu](https://github.com/uacaps/PageMenu) A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram)
+* [MXSegmentedPager](https://github.com/maxep/MXSegmentedPager) 分页滚动，多个分页的pageController效果
+
+#### 轮播@
+
+* [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) - 无限循环自动图片轮播器(一步设置即可使用)。
+
+#### 进度@
+* [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress) - 很赞 一个 UIWebView 的进度条接口库,UIWebView 本身是不提供进度条的。
 * [UAProgressView](https://github.com/UrbanApps/UAProgressView) 很赞 的一个进度指示View
 * [AwesomeMenu](https://github.com/levey/AwesomeMenu) - 最多人用的Path菜单。
 * [DCPathButton](https://github.com/Tangdixi/DCPathButton) - Path，4.0的弹出菜单，呼出或者关闭菜单时，多个小图标会分别按照逆时针和顺时针的方向进行滚动。
@@ -511,7 +539,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [ImagePickerSheetController](https://github.com/larcus94/ImagePickerSheetController) - 图片或视频选择器（可多选）组件及其示例项目。
 * [ImagePickerSheet](https://github.com/larcus94/ImagePickerSheetController) - 图片或视频选择器（可多选）组件及其示例项目。
 * [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub) - 快速给 UIView 添加上炫酷的通知图标（Badge、红点、提示）。  
-* [WZLBadge](https://github.com/weng1250/WZLBadge) - Badge，支持横竖屏支持iOS5~iOS8允许高度定制化，包括“红点”的背景颜色，文字(字体大小、颜色)，位置等。[说明](http://code.cocoachina.com/detail/316890/%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0%E5%A4%9A%E9%A3%8E%E6%A0%BC%E7%9A%84%E6%8E%A8%E9%80%81%E5%B0%8F%E7%BA%A2%E7%82%B9/).
+
 * [BubbleTransition](https://github.com/andreamazz/BubbleTransition) - 以气泡膨胀和缩小的动画效果来显示和移除 controller，Uber的就是这种取消操作的方式。
 * [KYFloatingBubble](https://github.com/KittenYang/KYFloatingBubble) - 类似iOS7中Game Center浮动气泡的效果。
 * [DKNightVersion](https://github.com/Draveness/DKNightVersion) - DKNightVersion 是一个支持夜间模式切换的框架。
@@ -637,7 +665,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [PPDragDropBadgeView](https://github.com/smallmuou/PPDragDropBadgeView) - 实现了类似于QQ 5.0 水滴拖拽效果. 支持iOS 5.0+ ARC，气泡能够带有数字标识，同时支持消失block方法。消失时还带有消失效果动画。
 * [GiftCard-iOS](https://github.com/MartinRGB/GiftCard-iOS) - 礼品卡购买的炫酷动画。
 * [GiftCard-Implementation](https://github.com/MartinRGB/GiftCard-iOS) - 购买的炫酷动画。
-* [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) - 无限循环自动图片轮播器(一步设置即可使用)。
 * [HYBLoopScrollView](https://github.com/CoderJackyHuang/HYBLoopScrollView) - HYBLoopScrollView实现自动循环滚动，一般用于展示广告页。微信在贴纸宣传处就使用了轮播。
 * [iCarousel](https://github.com/nicklockwood/iCarousel) - iCarousel是一个类，它继承于UIView。用于简化实现各种类型的旋转木马(分页滚动视图），无限轮播 ，[iOS开发之多图片无缝滚动组件封装与使用](http://www.cocoachina.com/ios/20150828/13198.html)。
 * [KIPageView](https://github.com/smartwalle/KIPageView) - 无限循环PageView，横向TableView，无限轮播。
@@ -667,6 +694,9 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [INPopoverController](https://github.com/indragiek/INPopoverController) - OS X可自由定制的  Popover 视图。
 * [WZXJianShuPopDemo](https://github.com/Wzxhaha/WZXJianShuPopDemo) - 仿简书、淘宝等等的View弹出效果，已封装好，使用简单。[实现原理](http://www.jianshu.com/p/a697d2a38b3c)
 
+####数据存储@
+
+* [HYFileManager](https://github.com/castial/HYFileManager) 一个不错的文件管理操作工具类 HYFileManager is a powerful util based on NSFileManager.
 
 #### 网络相关@
 #### 网络连接@
@@ -720,12 +750,11 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 ##### WebView与WKWebView@
 * [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) 是一个连接javascript和iOS Native交互的开源框架。使用它可以在UIWebview中响应事件并执行Native方法,也可以使用Native方法调用javascript方法, 正如其名,它好像已做桥梁连接了两端.
 * [MGTemplateEngine](https://github.com/mattgemmell/MGTemplateEngine) - MGTemplateEngine比较象 PHP 中的 Smarty、FreeMarker 和 Django的模版引擎，是一个轻量级的引擎，简单好用。只要设置很多不同的HMTL模版，就能轻松的实现一个View多种内容格式的显示，对于不熟悉HTML或者减轻 工作量而言，把这些工作让设计分担一下还是很好的，也比较容易实现设计想要的效果。
-* [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress) - 一个 UIWebView 的进度条接口库,UIWebView 本身是不提供进度条的。
 * [GTMNSString-HTML](https://github.com/siriusdely/GTMNSString-HTML) - 谷歌开源的用于过滤HTML标签。
 * [js-in-ios](https://github.com/WangXiaoxi/IOSLearing/) - webView与js的交互。
 * [D3Generator](https://github.com/mozhenhau/D3Generator/) - D3Generator根据dict字典生成对象。 适用webview和push推送时，根据后台传回字典实现动态跳转。[实现说明](http://mozhenhau.com/2016/02/07/D3Generator实现万能跳转界面，UIWebview与js随意交互/)
 * [GRMustache] (https://github.com/groue/GRMustache) 一个类似templateEngine的html渲染工具，可以更加有效的帮助大家完成数据生成HTML的过程。
-*  * [iOS-WebView-JavaScript](https://github.com/shaojiankui/iOS-WebView-JavaScript) iOS UIWebView,WKWebView 与 JavaScript的深度交互
+* [iOS-WebView-JavaScript](https://github.com/shaojiankui/iOS-WebView-JavaScript) iOS UIWebView,WKWebView 与 JavaScript的深度交互
 
 #### 网络解析@
 
@@ -742,25 +771,12 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [JSON-Framework](https://github.com/stig/json-framework) -  JSON解析库
 * [Groot](https://github.com/gonzalezreal/Groot) - From JSON to Core Data and back.
 * [KZPropertyMapper](https://github.com/krzysztofzablocki/KZPropertyMapper) - 可以帮助你在对象与Array、Dict数据间进行转换，尤其适用于将json对象转换成objective-c中的实体对象。作者还写了一篇文章[stop-writing-data-parsing-code-in-your-apps](http://merowing.info/2013/07/stop-writing-data-parsing-code-in-your-apps/)介绍它的使用。
-* [FastEasyMapping](https://github.com/Yalantis/FastEasyMapping) - Serialize & deserialize JSON fast.
-* [OCMapper](https://github.com/aryaxt/OCMapper) - Objective-C & Swift library to easily map NSDictionary to model objects. :large_orange_diamond:
-* [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - A framework written in Swift that makes it easy for you to convert your Model objects (Classes and Structs) to and from JSON. :large_orange_diamond:
-* [JASON](https://github.com/delba/JASON) - JSON parsing with outstanding performances and convenient operators. :large_orange_diamond:
-* [Gloss](https://github.com/hkellaway/Gloss) - A shiny JSON parsing library in Swift. :large_orange_diamond:
-* [Cereal](https://github.com/Weebly/Cereal) - Swift object serialization :large_orange_diamond:
-* [SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator) - Generate Swift model files from JSON using either SwiftyJSON or ObjectMapper. Supports NSCoding and provides method for JSON string representation of the model. :large_orange_diamond:
-* [JSONCodable](https://github.com/matthewcheok/JSONCodable) - Hassle-free JSON encoding and decoding in Swift :large_orange_diamond:
-* [Coolie](https://github.com/nixzhu/Coolie) - Coolie helps you to create models (& their constructors) from JSON file. :large_orange_diamond:
-* [Tailor](https://github.com/zenangst/Tailor) - A super fast & convenient object mapper tailored for your needs. :large_orange_diamond:
-* [alexander](https://github.com/hodinkee/alexander) - An extremely simple JSON helper written in Swift. :large_orange_diamond:
-* [Freddy](https://github.com/bignerdranch/Freddy) - A reusable framework for parsing JSON in Swift. :large_orange_diamond:
-* [mapper](https://github.com/lyft/mapper) - Another JSON deserialization library for Swift :large_orange_diamond:
-* [AlamofireJsonToObjects](https://github.com/evermeer/AlamofireJsonToObjects) - An Alamofire extension which converts JSON response data into swift objects using EVReflection :large_orange_diamond:
-* [Alembic](https://github.com/ra1028/Alembic) - Functional JSON parsing, mapping to objects, and serialize to JSON :large_orange_diamond:
-* [Wrap](https://github.com/JohnSundell/Wrap) - The easy to use Swift JSON encoder :large_orange_diamond:
-* [Arrow 🏹](https://github.com/freshOS/Arrow) - Elegant JSON Parsing in Swift. :large_orange_diamond:
+* [FastEasyMapping](https://github.com/Yalantis/FastEasyMapping) - 一个快速对json进行序列化和反序列化的工具 A tool for fast serializing & deserializing of JSON.
+* [OCMapper](https://github.com/aryaxt/OCMapper) - （一年未更新）OCMapper 是 Objective-C 和 Swift 库，它可以很容易地将 NSDictionary 映射到模型目标上。Objective-C & Swift library to easily map NSDictionary to model objects, works perfectly with Alamofire. ObjectMapper works similar to GSON
+* [Gloss](https://github.com/hkellaway/Gloss) - 一个很棒的Swift +json解析库.
+* [Cereal](https://github.com/Weebly/Cereal) - 对象序列化三方库 Swift object serialization
+* [SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator) - json转model的三方库 Generate Swift model files from JSON using either SwiftyJSON or ObjectMapper. Supports NSCoding and provides method for JSON string representation of the model.
 
-* [Genome](https://github.com/LoganWright/Genome) - A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0 (Supports Linux) :large_orange_diamond:
 * [Tyro](https://github.com/typelift/Tyro) - Functional JSON parsing and encoding :large_orange_diamond:
 * [Unbox](https://github.com/JohnSundell/Unbox) - The easy to use Swift JSON decoder :large_orange_diamond:
 * [JSONJoy-Swift](https://github.com/daltoniam/JSONJoy-Swift) - Convert JSON to Swift objects. :large_orange_diamond:
@@ -959,9 +975,12 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [ZYCornerRadius](https://github.com/liuzhiyi1992/ZYCornerRadius) 赞 一句代码，圆角风雨无阻。A Category to make cornerRadius for UIImageView have no Offscreen-Rendered, be more efficiency. http://zyden.vicp.cc/zycornerradius/
 
-#### 摄像照相视频音频处理@
+#### 摄像@
 
 * [LLSimpleCamera](https://github.com/omergul123/LLSimpleCamera) - A simple, customizable camera control for iOS， 摄像头。
+
+#### 照相视频音频处理@
+
 * [EZAudio](https://github.com/syedhali/EZAudio) - EZAudio 是一个 iOS 和 OSX 上简单易用的音频框架，根据音量实时显示波形图，基于Core Audio，适合实时低延迟音频处理，非常直观。[中文介绍](https://segmentfault.com/blog/news/1190000000370957),[官网](http://www.syedharisali.com/about)。
 * [ffmpeg](http://ffmpeg.org/) - ffmpeg官网，[FFmpeg在iOS上完美编译](http://www.cocoachina.com/ios/20150514/11827.html)。
 * [VLC](http://www.videolan.org/) - VCL官网,[VLC for iOS 2.7.2 source code](https://www.videolan.org/vlc/download-ios.html)。
@@ -973,8 +992,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [IPDFCameraViewController](https://github.com/mmackh/IPDFCameraViewController) - 支持相机定焦拍摄、滤镜、闪光、实时边框检测以及透视矫正功能，并有简单易用的API。
 * [SCRecorder](https://github.com/rFlex/SCRecorder) - 酷似 Instagram/Vine 的音频/视频摄像记录器，以 Objective-C 为基础的过滤器框架。 你可以做很多如下的操作：记录多个视频录像片段。删除任何你不想要的记录段。可以使用任何视频播放器播放片段。保存的记录可以在序列化的 NSDictionary 中使用。（在 NSUserDefaults 的中操作）添加使用 Core Image 的视频滤波器。可自由选择你需要的 parameters 合并和导出视频。
 * [Cool-iOS-Camera](https://github.com/GabrielAlva/Cool-iOS-Camera) - Cool-iOS-Camera。
-* [FastttCamera](https://github.com/IFTTT/FastttCamera) - FastttCamera 快速照相。
-* [ICGVideoTrimmer](https://github.com/itsmeichigo/ICGVideoTrimmer) - ICGVideoTrimmer提供提供视频剪切的视图（类似系统相册中浏览视频时顶部那个条状视图）。左右两个边界选择器还能够自定义。
+* [FastttCamera](https://github.com/IFTTT/FastttCamera) - FastttCamera 快速照相
 * [IOS录音和播放功能demo](http://d.cocoachina.com/code/detail/285717) - 比较完整的ios录音和播放功能的实现。
 * [MCAudioInputQueue](https://github.com/msching/MCAudioInputQueue) - 简易录音类，基于AudioQueue的。
 * [DraggableYoutubeFloatingVideo](https://github.com/vizllx/DraggableYoutubeFloatingVideo) - 展示像类似Youtube移动应用的那种浏览视频的效果，当点击某视频时能够从右下方弹出一个界面，并且该界面能够通过手势，再次收缩在右下方并继续播放。这是通过AutoLayout设计实现。
@@ -999,14 +1017,23 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [520Linkee](https://github.com/GrayJIAXU/520Linkee) 本项目实现了作为一个直播App的基本功能，比如本地视频流采集、播放、美颜、礼物、点赞出心等。
 
 #### 视频@
-* [ijkplayer](https://github.com/Bilibili/ijkplayer) - 非常赞 B站开源的视频播放器，支持Android和iOS。 [iOS中集成ijkplayer视频直播框架](http://www.jianshu.com/p/1f06b27b3ac0)。
-* [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - 基于AVPlayer，支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。
-* [MRVLCPlayer](https://github.com/Maru-zhang/MRVLCPlayer) - 相信Mac用户都很熟悉一款VLC播放器，这款播放器在Mac上表现异常优异，支持的格式几乎涵盖了所有格式（就是这么屌！）。没错，就是它创造者--VideoLAN，开源了一款牛逼的视频播放框架MobileVLCKit！[介绍信息：] (http://gold.xitu.io/entry/578c304b2e958a0054320503?from=singlemessage&isappinstalled=1)
-* [plask](https://github.com/deanm/plask) Plask is a multimedia programming environment.
+#### 视频播放@
+* [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - 非常赞 基于AVPlayer，支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度
+* [ijkplayer](https://github.com/Bilibili/ijkplayer) - B站开源的视频播放器，支持Android和iOS。 [iOS中集成ijkplayer视频直播框架](http://www.jianshu.com/p/1f06b27b3ac0)。
 * [WMPlayer](https://github.com/zhengwenming/WMPlayer) 赞 WMPlayer视频播放器，AVPlayer的封装，继承UIView，想怎么玩就怎么玩。支持播放mp4、m3u8、3gp、mov，网络和本地视频同时支持。全屏和小屏播放同时支持。 cell中播放视频，全屏小屏切换自如。
 * [HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo) iOS端视频弹幕
 * [SCRecorder](https://github.com/rFlex/SCRecorder) - SCRecorder 短视频录制。
-* [VideoPushDemo](https://github.com/zangqilong198812/VideoPushDemo) - 视频剪辑 [视频特效制作1](http://www.jianshu.com/p/3006502912aa) [视频特效制作2](http://www.jianshu.com/p/6313025349a9)。
+* [MRVLCPlayer](https://github.com/Maru-zhang/MRVLCPlayer) - 相信Mac用户都很熟悉一款VLC播放器，这款播放器在Mac上表现异常优异，支持的格式几乎涵盖了所有格式（就是这么屌！）。没错，就是它创造者--VideoLAN，开源了一款牛逼的视频播放框架MobileVLCKit！[介绍信息：] (http://gold.xitu.io/entry/578c304b2e958a0054320503?from=singlemessage&isappinstalled=1)
+* [plask](https://github.com/deanm/plask) Plask is a multimedia programming environment.
+
+#### 视频录制@
+* [LLSimpleCamera](https://github.com/omergul123/LLSimpleCamera)视频录制 A simple, customizable camera control - video recorder for iOS.
+* [SlowMotionVideoRecorder](https://github.com/shu223/SlowMotionVideoRecorder) 120 fps SLO-MO video recorder using AVFoundation. Including convenient wrapper class. Available on the iPhone5s.
+* [PBJVision](视频@) iOS媒体捕获，点击录制视频，显示运动和照片. 📸 iOS Media Capture – features touch-to-record video, slow motion, and photography
+
+#### 视频剪切@
+
+* [ICGVideoTrimmer](https://github.com/itsmeichigo/ICGVideoTrimmer) - ICGVideoTrimmer提供提供视频剪切的视图（类似系统相册中浏览视频时顶部那个条状视图）。左右两个边界选择器还能够自定义。
 
 #### 响应式框架@
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa 受函数响应式编程激发。不同于使用可变的变量替换和就地修改，RAC提供Signals来捕获当前值和将来值（ [使用介绍](http://yulingtianxia.com/blog/2014/07/29/reactivecocoa/) ），[不错的例子](http://iiiyu.com/2014/12/26/learning-ios-notes-thirty-six/),入门好教程：[ReactiveCocoa入门教程：第一部分 ](http://www.cocoachina.com/ios/20150123/10994.html)。[Reactive Cocoa 3.0 在 MVVM 中的应用](http://ios.jobbole.com/82232/) ,[小码哥：快速让你上手ReactiveCocoa之基础篇](http://www.jianshu.com/p/87ef6720a096)。
@@ -1164,7 +1191,7 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
   3. 动态修改属性和成员变量
   4. 动态的调用实例和类方法
 FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者是远程的调试服务器，它可以在本地随时随地的进行自有的操作和调试
-* [Alcatraz](http://alcatraz.io/) -使用Alcatraz来管理Xcode插件
+* [Alcatraz](https://github.com/alcatraz/Alcatraz) -使用Alcatraz来管理Xcode插件
 * [Polychromatic](https://github.com/kolinkrewinkel/Polychromatic)  为不同的变量类型赋予不同的颜色
 * [ClangFormat-Xcode](https://github.com/travisjeffery/ClangFormat-Xcode) clang-format 代码格式化
 * [BBUncrustifyPlugin-Xcode](https://github.com/benoitsan/BBUncrustifyPlugin-Xcode) 代码格式化
@@ -1233,6 +1260,8 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [cocoacats](http://cocoacats.com/) - 【分类汇总】里面收集了 iOS 中常用的分类文件，一直在更新。
 * [libextobjc](https://github.com/jspahrsummers/libextobjc Libextobjc是一个非常强大的Objective-C库的扩展,为Objective-C提供诸如Safe categories、Concrete protocols、简单和安全的key paths以及简单使用block中的弱变量等功能。libextobjc非常模块化，只需要一个或者两个依赖就能使用大部分类和模块。
 * [SFJumpToLine](https://github.com/sferrini/SFJumpToLine) Xcode plugin that moves the instruction pointer to the selected line
+* [DTFoundation](https://github.com/Cocoanetics/DTFoundation) 标准工具类和分类 - Standard toolset classes and categories
+
 
 #### 美工资源@
 * [TWG_Retina_Icons](https://github.com/markohlebar/Peckham) - 一套支持 Retina 高清屏的 iPhone 免费图标集。
@@ -1249,7 +1278,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [searchcode](https://searchcode.com/) - 源代码搜索利器：来自悉尼的代码搜索引擎汇聚了 Github, Bitbucket, Sourceforge...等多家开源站点超20万个项目、180亿行源代码，能以特殊字符、语言、仓库和源方式从90多种语言找到函数、API的真实代码。
 * [kitematic](https://github.com/docker/kitematic) - Mac 上使用 Docker 最简单的方案。
 
-#### 二维码
+#### 二维码@
 * [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC)  赞 An Objective-C Port of ZXing
 * [LBXScan](https://github.com/MxABC/LBXScan) 赞 A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和ios系统自带扫码封装，扫码界面效果封装)(Objective-C和Swift均支持).
 * [原生实现扫描二维码条码](http://code.cocoachina.com/view/129108) - iOS原生实现扫描二维码条码.
