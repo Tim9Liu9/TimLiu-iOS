@@ -931,12 +931,12 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 
 #### 图像浏览及处理@
+* [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) - 一个非常不错的照片浏览器，在github的star超过6000个，[解决MWPhotoBrowser中的SDWebImage加载大图导致的内存警告问题](http://www.superqq.com/blog/2015/01/22/jie-jue-mwphotobrowserzhong-de-sdwebimagejia-zai-da-tu-dao-zhi-de-nei-cun-jing-gao-wen-ti/)。
+* [TZImagePickerController](https://github.com/banchichen/TZImagePickerController) - 很赞 一个支持多选、选原图和视频的图片选择器，同时有预览功能，适配了iOS6789系统。[教程](http://www.cocoachina.com/ios/20160112/14942.html).
 * [RMPZoomTransitionAnimator](https://github.com/recruit-mp/RMPZoomTransitionAnimator)一个放大缩小的动效开源库，可以实现图片的放大缩小效果。
 * [FLAnimatedImage](https://github.com/liric28/FLAnimatedImage) - gif播放处理的工具。
 * [CLImageEditor](https://github.com/yackle/CLImageEditor) - 超强的图片编辑库，快速帮你实现旋转，防缩，滤镜等等一系列麻烦的事情。
-* [ios-image-filters](https://github.com/esilverberg/ios-image-filters) - 图像滤镜，库比较旧了，很容易崩溃。
 * [XBImageFilters](https://github.com/xissburg/XBImageFilters) - 图像滤镜。
-* [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) - 一个非常不错的照片浏览器，在github的star接近3000个，[解决MWPhotoBrowser中的SDWebImage加载大图导致的内存警告问题](http://www.superqq.com/blog/2015/01/22/jie-jue-mwphotobrowserzhong-de-sdwebimagejia-zai-da-tu-dao-zhi-de-nei-cun-jing-gao-wen-ti/)。
 * [CoreImageShop](https://github.com/rFlex/CoreImageShop) - CoreImageShop图片滤镜处理-- Mac app that let you create a complete Core Image Filter usable on iOS using SCRecorder。
 * [GPUImage](https://github.com/BradLarson/GPUImage) - 处理图片效果。
 * [RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper) - 适用于iOS的图片裁剪器，类似Contacts app，可上下左右移动图片选取最合适的区域。
@@ -948,30 +948,25 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [MarkingMenu](https://github.com/FlexMonkey/MarkingMenu) - 基于手势、类似 Autodesk Maya 风格标记菜单及图片渲染。
 * [SXPhotoShow](https://github.com/dsxNiubility/SXPhotoShow) - UICollectionViewFlowLayout流水布局 是当下collectionView中常用且普通的布局方式。本代码也写了三种好看的布局，其中LineLayout和流水布局有很大的相同点就直接继承UICollectionViewFlowLayout，然后StackLayout，CircleLayout这两种都是直接继承自最原始的UICollectionViewLayout 布局方案。
 * [PictureWatermark](https://github.com/cgwangding/PictureWatermark) - 主要实现了给图片加文字以及图片水印的功能，已封装成了UIImage的类别，方便使用。
-* [自定义宽高比的相册框 拍照](http://code.cocoachina.com/detail/320603/) - 取出照片时 弹出自定义view。在这个自定义view上创建一个需要的相框大小的view层 把取出的图片赋值给UIImageView按缩放添加到这个层上。对uiimageView添加捏合、移动 手势。添加按钮 选取，最后根据位移和缩放比例 裁剪image。
-* [LGPhotoBrowser](https://github.com/gang544043963/LGPhotoBrowser) - LGPhotoBrowser:相册选择/浏览器/照相机（仿微信）,包含三个模块：照片浏览器，相册选择器，照相机。
-* [PhotoBrowser](https://github.com/oscarWyz/PhotoBrowser) - 一个简单的好用的的图片浏览器。
 * [PhotoBrowser](https://github.com/CharlinFeng/PhotoBrowser) 照片浏览器
-* [BeautyHour](https://github.com/xujingzhou/BeautyHour) - 完整应用，功能与“美图秀秀”雷同。
+* [ELCImagePickerController](https://github.com/B-Sides/ELCImagePickerController) 相册选照片的三方库，一千多star，不过2年未更新过了。
 * [StitchingImage](https://github.com/zhengjinghua/StitchingImage) - 仿微信群组封面拼接控件, 直接拖进项目就可使用，[教程](http://gold.xitu.io/entry/56395f5360b20b143a9178f6)。
 * [SDECollectionViewAlbumTransition](https://github.com/seedante/SDECollectionViewAlbumTransition) - 用自定义的 push 和 pop 实现了有趣的 iOS 相册翻开动画效果。
 * [DNImagePicker](https://github.com/AwesomeDennis/DNImagePicker) - 类似wechat的图片选择。
 * [CocoaPicker](https://github.com/lioonline/CocoaPicker) - 仿QQ图片选择器（OC）。
 * [JFImagePickerController](https://github.com/johnil/JFImagePickerController) - vvebo作者：多选照片、预览已选照片、针对超大图片优化。
-* [ELCImagePickerController](https://github.com/B-Sides/ELCImagePickerController) 相册选照片的三方库，一千多star，不过2年未更新过了。
 * [VIPhotoView](https://github.com/vitoziv/VIPhotoView) - 图片浏览，用于展示图片的工具类，因为是个 View，所以你可以放在任何地方显示。支持旋转，双击指定位置放大等。
 * [AGImagePickerController](https://github.com/SpringOx/AGImagePickerController) - 是一个图片选择器，支持图片多选，支持大图横滑预览，支持放大预览，支持横竖屏，支持所有的iOS设备。
 * [YYImage](https://github.com/ibireme/YYImage) - 功能强大的 iOS 图像框架，支持大部分动画图像、静态图像的播放/编码/解码。
-* [TZImagePickerController](https://github.com/banchichen/TZImagePickerController) - 一个支持多选、选原图和视频的图片选择器，同时有预览功能，适配了iOS6789系统。[教程](http://www.cocoachina.com/ios/20160112/14942.html).
-* [更换头像](http://code.cocoachina.com/view/129134) - 用户选取从相机或者相册获取图片，并且显示在View上。
-* [ZZPhotoKit](https://github.com/ACEYL/ZZPhotoKit) - 基于Photos和AVFoundation框架开源，相册多选与相机连拍。
 * [BeautifyFaceDemo](https://github.com/Guikunzhi/BeautifyFaceDemo) - 一个基于 GPUImage 的实时直播磨皮滤镜的开源实现,主要功能脸部去斑磨皮！
 * [YUCIHighPassSkinSmoothing](https://github.com/YuAo/YUCIHighPassSkinSmoothing) - 磨皮滤镜！
 * [YUGPUImageHighPassSkinSmoothing](https://github.com/YuAo/YUGPUImageHighPassSkinSmoothing) - 一个基于 GPUImage 的磨皮滤镜！
 * [YLFaceuDemo](https://github.com/Guikunzhi/YLFaceuDemo) - 在直播应用中添加Faceu贴纸效果。Faceu贴纸效果其实就是在人脸上贴一些图片，同时这些图片是跟随着人脸的位置改变的。[说明](http://www.jianshu.com/p/ba1f79f8f6fa)
 * [XHImageViewer] (https://github.com/JackTeam/XHImageViewer) XHImageViewer is images viewer, zoom image.
 * [card.io-iOS-SDK] (https://github.com/AllLuckly/card.io-iOS-SDK) OCR光学识别储蓄卡以及信用卡,[oc与swift使用教程](http://www.jianshu.com/p/82f73c23a76a).
-
+* [自定义宽高比的相册框 拍照](http://code.cocoachina.com/detail/320603/) - 取出照片时 弹出自定义view。在这个自定义view上创建一个需要的相框大小的view层 把取出的图片赋值给UIImageView按缩放添加到这个层上。对uiimageView添加捏合、移动 手势。添加按钮 选取，最后根据位移和缩放比例 裁剪image。
+* [LGPhotoBrowser](https://github.com/gang544043963/LGPhotoBrowser) - LGPhotoBrowser:相册选择/浏览器/照相机（仿微信）,包含三个模块：照片浏览器，相册选择器，照相机。
+* [BeautyHour](https://github.com/xujingzhou/BeautyHour) - 完整应用，功能与“美图秀秀”雷同。
 #### 图像圆角
 
 * [ZYCornerRadius](https://github.com/liuzhiyi1992/ZYCornerRadius) 赞 一句代码，圆角风雨无阻。A Category to make cornerRadius for UIImageView have no Offscreen-Rendered, be more efficiency. http://zyden.vicp.cc/zycornerradius/
@@ -979,6 +974,12 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### 摄像@
 
 * [LLSimpleCamera](https://github.com/omergul123/LLSimpleCamera) - A simple, customizable camera control for iOS， 摄像头。
+
+#### 拍照
+
+* [Cool-iOS-Camera](https://github.com/GabrielAlva/Cool-iOS-Camera) - Cool-iOS-Camera。
+* [FastttCamera](https://github.com/IFTTT/FastttCamera) - FastttCamera 快速照相
+* [DBCamera](https://github.com/danielebogo/DBCamera) DBCamera is a simple custom camera with AVFoundation
 
 #### 照相视频音频处理@
 
@@ -991,8 +992,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer) - DOUAudioStreamer豆瓣的音乐流媒体播放器。
 * [fmpro](https://github.com/fmpro/fmpro) - 电台播放器，支持锁屏歌词，支持基本播放流程，歌词展示，后台锁屏播放和控制以及锁屏后封面+歌词，[fmpro_R](https://github.com/jovisayhehe/fmpro_R) 。
 * [IPDFCameraViewController](https://github.com/mmackh/IPDFCameraViewController) - 支持相机定焦拍摄、滤镜、闪光、实时边框检测以及透视矫正功能，并有简单易用的API。
-* [Cool-iOS-Camera](https://github.com/GabrielAlva/Cool-iOS-Camera) - Cool-iOS-Camera。
-* [FastttCamera](https://github.com/IFTTT/FastttCamera) - FastttCamera 快速照相
+
+
 * [IOS录音和播放功能demo](http://d.cocoachina.com/code/detail/285717) - 比较完整的ios录音和播放功能的实现。
 * [MCAudioInputQueue](https://github.com/msching/MCAudioInputQueue) - 简易录音类，基于AudioQueue的。
 * [DraggableYoutubeFloatingVideo](https://github.com/vizllx/DraggableYoutubeFloatingVideo) - 展示像类似Youtube移动应用的那种浏览视频的效果，当点击某视频时能够从右下方弹出一个界面，并且该界面能够通过手势，再次收缩在右下方并继续播放。这是通过AutoLayout设计实现。
@@ -1034,6 +1035,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### 视频剪切@
 
 * [ICGVideoTrimmer](https://github.com/itsmeichigo/ICGVideoTrimmer) - ICGVideoTrimmer提供提供视频剪切的视图（类似系统相册中浏览视频时顶部那个条状视图）。左右两个边界选择器还能够自定义。
+* [VideoEditing](https://github.com/ShelinShelin/VideoEditing) Video processing of the video capture and add background music
 
 #### 直播@
 
