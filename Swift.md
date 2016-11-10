@@ -10,7 +10,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 问题反馈：请广大网友只按照目录结构（即使目录结构有问题）添加三方库，并pull request。目录问题大家提出issues后楼主会及时更改的。
 
-
 ###  目录
 - [Swift学习资料@](#Swift学习资料)
 - [完整App@](#完整App)
@@ -106,6 +105,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### Swift学习资料@
 
 * [SwiftGuide](https://github.com/ipader/SwiftGuide) 很赞 的Swift学习资料
+
+#### 他人开源总结
+
+* [SwiftMarch](https://github.com/SwiftOldDriver/SwiftMarch) 从开发者角度介绍被广泛运用于实际Swift项目中的开源库。
 
 #### 下拉刷新@
 
@@ -309,7 +312,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Networking.Swift](https://github.com/3lvis/Networking) - 使用简单、功能惊喜，基于 NSURLSession 的网络封装。
 
 ##### 图像获取@
-* [Kingfisher](https://github.com/onevcat/Kingfisher) - 纯 Swift 实现的类 SDWebImage 库，实现了异步下载和缓存图片。
+* [Kingfisher](https://github.com/onevcat/Kingfisher) - 非常👍 纯 Swift 实现的类 SDWebImage 库，实现了异步下载和缓存图片。
 * [KFSwiftImageLoader](https://github.com/kiavashfaisali/KFSwiftImageLoader) - Swift，一个图像缓存加载库。
 
 ##### 图像获取@
@@ -347,16 +350,15 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [GRMustache] (https://github.com/groue/GRMustache) 一个类似templateEngine的html渲染工具，可以更加有效的帮助大家完成数据生成HTML的过程。
 
 #### Json@
+* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift. :large_orange_diamond:
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - 很赞 ObjectMapper 是一个基于 Swift 语言开发的能够让 JSON 与 Object 之间轻易转换的类库。通过 ObjectMapper 我们可以将 JSON 数据转换成 Model 对象或将 Model 对象转换成 JSON 数据。 Simple JSON Object mapping written in Swift
 * [Decodable](https://github.com/Anviking/Decodable) - Swift 2 JSON parsing done (more) right :large_orange_diamond:
 * [Jay](https://github.com/czechboy0/Jay) - Pure-Swift JSON parser & formatter. Linux & OS X ready. :large_orange_diamond:
-* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift. :large_orange_diamond:
 * [XMLDictionary](https://github.com/nicklockwood/XMLDictionary) - ios与mac os平台下xml与NSDictionary相互转化开源类库。
 * [AEXML.swift](https://github.com/tadija/AEXML) - AEXML.swift简单又易于的XML解析类及示例。
 * [CFRuntime](https://github.com/CoderMJLee/MJExtension) - “Swift 版的 MJExtension，运行时、反射与一键字典模型互转”。
 * [protobuf-swift](https://github.com/alexeyxo/protobuf-swift) - Protocol Buffers 的 Swift 语言实现库。P.S. Protocol Buffers 是 Google 开源项目，主要功能是实现直接序列化结构化的对象数据，方便跨平台快速传递，开发者也可以直接修改 protobuf 中的数据。相比 XML 和 JSON，protobuf 解析更快，存储更小。
 * [JSONCodable](https://github.com/matthewcheok/JSONCodable) - 基于 Swift 2.0 新特性（Protocol Extensions and Error Handling）的JSON 解析类。
-* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - 使Swift的JSON解析变得简单。
 * [JSONNeverDie.swift](https://github.com/johnlui/JSONNeverDie) - JSON 到 Model 类的自动映射工具。
 * [Fuzi.swift](https://github.com/cezheng/Fuzi) - Swift实现的轻量快速的 XML/HTML 解析器。
 * [SWXMLHash.swift](https://github.com/drmohundro/SWXMLHash) - 易用的 XML 解析类库。非常实用的“轮子”。
