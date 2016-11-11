@@ -1,6 +1,9 @@
-# TimLiu-iOS iOS开发常用三方库、插件、知名博客等等(Objective-C) 持续更新。。。
+# TimLiu-iOS
+[![Test Status](https://travis-ci.org/douban/rexxar-ios.svg?branch=master)](https://travis-ci.org/douban/rexxar-ios)
+[![Language](https://img.shields.io/badge/language-ObjC-blue.svg)](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)  
 
-- [Swift版本](https://github.com/Tim9Liu9/TimLiu-iOS/blob/master/Swift.md)
+
+[Swift版本点击这里](https://github.com/Tim9Liu9/TimLiu-iOS/blob/master/Swift.md)
 
 github排名 [https://github.com/trending](https://github.com/trending),github搜索：[https://github.com/search](https://github.com/search)
 
