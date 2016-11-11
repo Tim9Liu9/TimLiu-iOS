@@ -81,7 +81,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [美工资源@](#美工资源)
 - [开发工具@](#开发工具)
   - [Xcode插件@](#Xcode插件)
-  - [好用的软件@](#好用的软件)
+  - [开发调试工具@](#开发调试工具)
+    -[接口调试工具@](#接口调试工具)
   - [Cagegory@](#Category)
 - [测试及调试@](#测试及调试)
 - [数据存储@](#数据存储)
@@ -1279,11 +1280,13 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [FastStub-Xcode](https://github.com/music4kid/FastStub-Xcode) - 一只快速生成代码的Xcode插件，[说明](http://mrpeak.cn/blog/faststub/)。
 * [ESTranslate-Xcode](https://github.com/EnjoySR/ESTranslate-Xcode) - 一个快速翻译Xcode代码里面单词(我主要用于翻译句子～)的插件，快捷键：Ctrl+Shift+T。
 
-#### 好用的软件@
+#### 开发调试工具@
 * [gitbook](https://github.com/GitbookIO/gitbook) GitBook 是一个基于Node.js 的命令行工具，可使用Github/Git 和Markdown 来制作精美的电子书。 GitBook需要使用markdown格式编写，如果你不了解可以看看这里。
 * [crashlytics](https://www.fabric.io/onboard) Twitter出的一个崩溃分析软件
 * [Knuff](https://github.com/KnuffApp/Knuff)调试iOS App远程推送(APNs)的工具
 
+#### 接口调试工具@
+* [PostMan](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm)
 #### Cagegory@
 
 * [JKCategories](https://github.com/shaojiankui/JKCategories) 非常棒的分类
