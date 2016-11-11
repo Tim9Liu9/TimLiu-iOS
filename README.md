@@ -16,6 +16,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [App框架@](#App框架)
   - [响应式框架@](#响应式框架)
   - [framework@](#framework)
+  - [混合开发@](#混合开发)
 - [UI@](#UI)
   - [日历三方库@](#日历三方库)
   - [下拉刷新@](#下拉刷新)
@@ -1063,9 +1064,13 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [Objective-Chain](https://github.com/Tricertops/Objective-Chain) - Objective-Chain是一个面向对象的响应式框架，作者表示该框架吸收了 ReactiveCocoa 的思想，并且想做得更面向对象一些。
 * [MVVMFramework](https://github.com/lovemo/MVVMFramework) - (OC版)总结整理下一个快速开发框架，分离控制器中创建tableView和collectionView的代码，已加入cell自适应高度，降低代码耦合，提高开发效率。
 
-#framework
+#framework@
 
 * [Small](https://github.com/wequick/Small) A small framework to split app into small parts
+
+#混合开发@
+
+* [rexxar-ios](https://github.com/douban/rexxar-ios) 豆瓣推的混合开发库 Mobile Hybrid Framework Rexxar iOS Container
 
 #### 消息相关@
 #### 消息推送客户端@
