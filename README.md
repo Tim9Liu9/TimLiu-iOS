@@ -57,6 +57,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [其他动画@](#其他动画)
 - [AutoLayout@](#AutoLayout)
 - [数据存储@](#数据存储)
+  -[数据库工具@](#数据库工具)
 - [网络相关@](#网络相关)
   - [网络连接@](#网络连接)
   - [图像获取@](#图像获取)
@@ -74,6 +75,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [播客@](#播客)
   - [学习资料@](#学习资料)
   - [他人开源总结@](#他人开源总结)
+  - [Github部分优秀作者@](#Github部分优秀作者)
   - [开发博客列表@](#开发博客列表)
   - [学习笔记、书籍@](#学习笔记、书籍)
   - [设计@](#设计)
@@ -510,6 +512,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [CFCityPickerVC](https://github.com/CharlinFeng/CFCityPickerVC) - 城市选取控制器。
 
 #### 进度@
+* [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) -  loading 进度条动画，有20-30多种，是在此[DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView) 基础上做得修改。
+* [YLProgressBar](https://github.com/yannickl/YLProgressBar) UIProgressView replacement with an highly and fully customizable animated progress bar in pure Core Graphics
 * [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress) - 很赞 一个 UIWebView 的进度条接口库,UIWebView 本身是不提供进度条的。
 * [UAProgressView](https://github.com/UrbanApps/UAProgressView) 很赞 的一个进度指示View
 * [AwesomeMenu](https://github.com/levey/AwesomeMenu) - 最多人用的Path菜单。
@@ -526,7 +530,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [KYCircularProgress](https://github.com/kentya6/KYCircularProgress) - 简单、实用路径可定进程条。
 * [TextProgress](https://github.com/cgwangding/TextProgress) - 自定义实现数字进度条：1、可以自定义数字（0-100），填充的比例为当前设置的数字，2、可以实现自定义填充颜色，上下部分都可以，3、可以自定义边界的颜色4、实现了水波动画，可以设置打开或关闭。
 * [SDProgressView](https://github.com/gsdios/SDProgressView) - 简便美观的进度指示器，此系列共有六种样式的进度指示器。
-* [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) -  loading 进度条动画，有20-30多种，是在此[DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView) 基础上做得修改。
 * [LoopProgressDemo](https://github.com/saitjr/STLoopProgressView) - 环形渐变进度条，[环形渐变进度条实现](http://www.superqq.com/blog/2015/08/12/realization-circular-gradient-progress/)。
 * [PPCounter](https://github.com/jkpang/PPCounter) - 一款简单实用的数字加减动画,支持UILabel、UIButton显示
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - 做的很棒的iOS下的PagerTabStrip。
@@ -534,6 +537,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [HexColorService](https://github.com/ChangweiZhang/HexColorService) - 将16进制颜色字符串转成UIColor。
 * [Rainbow](https://github.com/NorthernRealities/Rainbow) - 旨在提高代码可读性及易用性的 UIColor 扩展，它使原先有限的预定义颜色（方法）选择，扩展至超过 1200 种。
 * [UIColor-ChineseTraditionalColors](https://github.com/zhxnlai/UIColor-ChineseTraditionalColors) - 中国传统颜色引用 UIColor 扩展。“UIColor.桃红()，UIColor.竹青() ...”，共158种。
+* [DACircularProgress](https://github.com/danielamitay/DACircularProgress) DACircularProgress is a UIView subclass with circular UIProgressView properties.
 * [类似美团的下拉菜单](http://code.cocoachina.com/detail/284158) - 类似美团的下拉菜单，[源码推荐说明](http://www.cocoachina.com/ios/20150205/11116.html)。
 * [类似美团的下拉选项](http://code4app.com/ios/%E7%B1%BB%E4%BC%BC%E7%BE%8E%E5%9B%A2%E7%9A%84%E4%B8%8B%E6%8B%89%E9%80%89%E9%A1%B9/538606d4933bf06e0a8b496e) -  类似于美团、大众点评的下拉菜单选项，code4app代码，评论代码有瑕疵。
 * [CRMediaPickerController](http://code.cocoachina.com/detail/284267) - 一个简单易用的图片/视频选择器。1.可同时选择照片和视频。 2.挑选范围有Camera、Camera Roll、Photo Library以及最近拍摄的照片和视频。3.可自定义UIImagePickerController属性（Camera Overlay、Camera Device、Camera View Transform以及allowsEditing）。4.支持横屏和竖屏5.原生的iOS UI。，[源码推荐说明](http://www.cocoachina.com/ios/20150205/11116.html)。
@@ -792,7 +796,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [Cereal](https://github.com/Weebly/Cereal) - 对象序列化三方库 Swift object serialization
 * [SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator) - json转model的三方库 Generate Swift model files from JSON using either SwiftyJSON or ObjectMapper. Supports NSCoding and provides method for JSON string representation of the model.
 
-* [Tyro](https://github.com/typelift/Tyro) - Functional JSON parsing and encoding :large_orange_diamond:
+* [Tyro](htt  ps://github.com/typelift/Tyro) - Functional JSON parsing and encoding :large_orange_diamond:
 * [Unbox](https://github.com/JohnSundell/Unbox) - The easy to use Swift JSON decoder :large_orange_diamond:
 * [JSONJoy-Swift](https://github.com/daltoniam/JSONJoy-Swift) - Convert JSON to Swift objects. :large_orange_diamond:
 * [LazyObject](https://github.com/iwasrobbed/LazyObject) - Lazily deserialize JSON into strongly typed Swift objects :large_orange_diamond:
@@ -802,6 +806,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### JSON工具@
 
 * [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. :large_orange_diamond:
+* [WHC_DataModelFactory](https://github.com/netyouli/WHC_DataModelFactory) Mac上iOS开发辅助工具，快速把json/xml数据转换生成对应模型类属性，省去麻烦手动创建，提高开发效率。
 
 #### XML&HTML@
 * [AEXML](https://github.com/tadija/AEXML) - Simple and lightweight XML parser written in Swift. :large_orange_diamond:
@@ -914,10 +919,14 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [RuntimeSummary](https://github.com/Tuccuay/RuntimeSummary) - 一个集合了常用 Objective-C Runtime 使用方法的 Playground。
 * [GCDThrottle](https://github.com/cyanzhong/GCDThrottle) - 限制频率过高的调用GCD多线程。
 
-##### 数据存储@
+#### 数据存储@
 
 * [CoreModel](https://github.com/CharlinFeng/CoreModel) Replace CoreData
 * [WHC_ModelSqliteKit](https://github.com/netyouli/WHC_ModelSqliteKit) 专业的数据库存储解决方案
+
+#### 数据库工具@
+
+* [RealmObjectEditor](https://github.com/Ahmed-Ali/RealmObjectEditor) Realm Object Editor is a visual editor where you can create your Realm entities, attributes and relationships inside a nice user interface. Once you finish, you can save your schema document for later use and you can export your entities in Swift, Objective-C and Java.
 
 #### 缓存处理@
 * [YTKKeyValueStore](https://github.com/yuantiku/YTKKeyValueStore) - Key-Value存储工具类，[说明](http://tangqiaoboy.gitcafe.io/blog/2014/10/03/opensouce-a-key-value-storage-tool/)。
@@ -1286,7 +1295,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [Knuff](https://github.com/KnuffApp/Knuff)调试iOS App远程推送(APNs)的工具
 
 #### 接口调试工具@
-* [PostMan](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm)
+* [PostMan](https://www.getpostman.com/) google出品的接口调试工具
 #### Cagegory@
 
 * [JKCategories](https://github.com/shaojiankui/JKCategories) 非常棒的分类
@@ -1382,6 +1391,10 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [MyGithubMark](https://github.com/JanzTam/MyGithubMark) - Github上的iOS资料-个人记录（持续更新）。
 * [Github 上的 iOS 开源项目](http://ios.jobbole.com/84684/) - Github 上的 iOS 开源项目总结。
 * [iOS资源大全中文版](https://github.com/jobbole/awesome-ios-cn) - iOS资源大全中文版。
+
+#### Github部分优秀作者@
+
+* [吴海超(WHC)](https://github.com/netyouli) Objective-C/swift
 
 #### 开发博客列表@
 * [唐巧整理](https://github.com/tangqiaoboy/iOSBlogCN) - 猿题库唐巧整理。
