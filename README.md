@@ -17,7 +17,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 ###  目录
 - [Github用法@](#Github用法)
 - [完整App@](#完整App)
-- [Xcode8插件@][Xcode8插件@]
+- [Xcode8插件@][#Xcode8插件]
 - [App框架@](#App框架)
   - [响应式框架@](#响应式框架)
   - [framework@](#framework)
@@ -218,6 +218,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 - [Import](https://github.com/markohlebar/Import) 快捷导入头文件-Xcode extension for adding imports from anywhere in the code.
 - [XcodeSourceEditorExtension-Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) 对齐属性声明 This Xcode source editor extension align your assignment statement.
+- [Dash-iOS](https://github.com/Kapeli/Dash-iOS) Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets https://kapeli.com/dash_ios
 
 #### App框架   [返回目录](#目录)
 * [nimbus](https://github.com/jverkoey/nimbus) Nimbus是一个开源的iOS框架，比起Three20，Nimbus的文档更为全面、丰富，能够实现很多非常炫的界面特效。因此，开发者可以借助Nimbus来降低项目设计的复杂度。
