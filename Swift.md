@@ -643,6 +643,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 ##### 他人开源总结@
 
+* [awesome-swift](https://github.com/matteocrippa/awesome-swift) A collaborative list of awesome swift resources. Feel free to contribute!
+* [awesome-swift](https://github.com/Wolg/awesome-swift) A curated list of awesome Swift frameworks, libraries and software.
 #### 学习笔记@
 
 #### 好用的软件@

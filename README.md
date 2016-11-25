@@ -73,13 +73,13 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
       - [XML&HTML@](#xml--html)
       - [Other Parsing@](#other-parsing)
 - [二维码@](#二维码)
-- [开发资料@](#开发资料)
+- [学习资料@](#学习资料)
   - [播客@](#播客)
-  - [学习资料@](#学习资料)
   - [他人开源总结@](#他人开源总结)
   - [Github部分优秀作者@](#Github部分优秀作者)
   - [开发博客列表@](#开发博客列表)
   - [学习笔记、书籍@](#学习笔记、书籍)
+  - [CodeLiararyWebSite@](#CodeLiararyWebSite)
   - [设计@](#设计)
   - [好的文章@](#好的文章)
   - [美工资源@](#美工资源)
@@ -410,6 +410,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### HUD与Toast@
 * [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - 非常赞 最多人用的loading。
 * [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) - 非常赞 SVProgressHUD的loading，如果你需要定制化的等待提示器，这个就是了（也许是最好的）。
+* [Toast](https://github.com/scalessec/Toast) An Objective-C category that adds toast notifications to the UIView object class.
 * [EBuyCommon](https://github.com/LvJianfeng/EBuyCommon) - 1.基于MBProgressHUD实现得图形加载提示方式，及其它标题方式提醒。2.弹窗。
 * [WZDraggableSwitchHeaderView](https://github.com/wongzigii/WZDraggableSwitchHeaderView)Show status for transition across viewControllers.
 * [ProgressHUD](https://github.com/relatedcode/ProgressHUD) - ProgressHUD的loading，使用最简单。
@@ -1149,6 +1150,8 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
 
 
 #### 测试及调试@
+* [fastlane](https://github.com/fastlane/fastlane) - 一套iOS开发和持续集成的命令行工具fastlane，可以用来快速搭建CI甚至自动提交的开发环境。这套工具中包括了上传ipa文件，自动截取多语言截屏，生成推送证书，管理产品证书等一系列实用工具。 The easiest way to automate building and releasing your iOS and Android apps https://fastlane.tools
+* [xctool](https://github.com/facebook/xctool) - Facebook出的自动化打包工具，它规范了输出的log日志，而且一些错误信息也更为清晰一些。
 * [chisel](https://github.com/facebook/chisel) Chisel扩展了一些列的lldb的命令来帮助iOS开发者调试iOS应用程序。
 * [dSYMTools](https://github.com/answer-huang/dSYMTools)友盟 dSYM analyze
 * [HeapInspector](https://github.com/tapwork/HeapInspector-for-iOS) - HeapInspector是一个用于检测应用中的内存泄漏的开源调试工具。
@@ -1160,7 +1163,6 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
 * [KKLog](https://github.com/Coneboy-k/KKLog) - 一个日志管理系统。
 * [Buildasaur](https://github.com/czechboy0/Buildasaur) - 自动测试框架 Buildasaur。
 * [使用Quick框架和Nimble来测试ViewControler](http://www.devtf.cn/?p=739) - Quick是一个用于创建BDD测试的框架。配合Nimbl，可以为你创建更符合预期目标的测试。
-* [fastlane](https://github.com/fastlane/fastlane) - 一套iOS开发和持续集成的命令行工具fastlane，可以用来快速搭建CI甚至自动提交的开发环境。这套工具中包括了上传ipa文件，自动截取多语言截屏，生成推送证书，管理产品证书等一系列实用工具。
 * [KIF](https://github.com/kif-framework/KIF) - 是一个开源的用户界面UI测试框架. 使用 KIF, 并利用 iOS中的辅助功能 API, 你将能够编写模拟用户输入，诸如点击，触摸和文本输入，自动化的UI测试.
 * [Quick](https://github.com/Quick/Quick) - 用于Swift中的单元测试（也可用于Objective-C），与Xcode整合在一起。如果你是Objective-C的粉丝，我建议用Specta代替这个，但是对Swift使用者来说，Quick是最佳选择。
 * [KSCrash](https://github.com/kstenerud/KSCrash) - iOS Crash 捕获上报工具， 可以自己配置服务器， 也可以与它推荐的服务器搭配使用
@@ -1181,7 +1183,6 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
 * [fbretaincycledetector](https://github.com/facebook/fbretaincycledetector) - Facebook出品,通过Runtime监测循环引用。
 * [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) - Facebook出品,内存检测库。[FBMemoryProfiler 基础教程](http://ifujun.com/fbmemoryprofiler-shi-yong-ji-chu-jiao-cheng/)。
 * [FBAllocationTracker](https://github.com/facebook/FBAllocationTracker) - Facebook出品,跟踪oc对象的分配情况。
-* [xctool](https://github.com/facebook/xctool) - Facebook出的自动化打包工具，它规范了输出的log日志，而且一些错误信息也更为清晰一些。
 * [JxbDebugTool](https://github.com/JxbSir/JxbDebugTool) 一个iOS调试工具，监控所有HTTP请求，自动捕获Crash分析。
 * [KSCrash](https://github.com/kstenerud/KSCrash) - iOS Crash 捕获上报工具， 可以自己配置服务器， 也可以与它推荐的服务器搭配使用
 
@@ -1342,7 +1343,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [MQRCodeReaderViewController](https://github.com/zhengjinghua/MQRCodeReaderViewController) iOS 二维码扫描控件, UI 做了优化, 仿造微信, 直接拖进项目就可使用, 支持 CocoaPods 安装. WeChat-like QRCode reader, drop-in version, support for CocoaPods
 
 
-##### 开发资料@
+#### 学习资料@
 
 #### 播客@
 
@@ -1459,6 +1460,10 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 [煲仔饭](http://ivoryxiong.org/) | <http://ivoryxiong.org/feed.xml>
 [里脊串的开发随笔](http://adad184.com) | <http://adad184.com/atom.xml>
 [ibireme伽蓝之堂](http://blog.ibireme.com/) | <http://blog.ibireme.com/feed/>
+
+#### CodeLiararyWebSite@
+
+* [pttrns](http://pttrns.com/) iOS各种源码
 
 #### 学习笔记@
 * [iOS-Note](https://github.com/seedante/iOS-Note)A@ 非常好的学习笔记，主要目录1.Core Data 笔记2.Photos 笔记3.转场动画详解4.自定义容器控制器转场5.交互式动画
