@@ -62,6 +62,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   -[数据库工具@](#数据库工具)
 - [网络相关@](#网络相关)
   - [网络连接@](#网络连接)
+  - [网络下载@](#网络下载@)
   - [图像获取@](#图像获取)
   - [网络聊天@](#网络聊天)
   - [网络测试@](#网络测试)
@@ -191,6 +192,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [Import](https://github.com/markohlebar/Import) 快捷导入头文件-Xcode extension for adding imports from anywhere in the code.
 - [XcodeSourceEditorExtension-Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) 对齐属性声明 This Xcode source editor extension align your assignment statement.
 - [Dash-iOS](https://github.com/Kapeli/Dash-iOS) Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets https://kapeli.com/dash_ios
+* [HYBUnicodeReadable](https://github.com/CoderJackyHuang/HYBUnicodeReadable) -解决打印日志对于Unicode编码不能正常显示中文的问题，只需要将文件导入工程，不需要引用，就能达到打印日志显示Unicode编码中文数据
 
 #### App框架@                                              [返回目录](#目录)
 * [nimbus](https://github.com/jverkoey/nimbus) Nimbus是一个开源的iOS框架，比起Three20，Nimbus的文档更为全面、丰富，能够实现很多非常炫的界面特效。因此，开发者可以借助Nimbus来降低项目设计的复杂度。
@@ -199,6 +201,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [HHRouter](https://github.com/Huohua/HHRouter) 一言以蔽之，URL Router 即将 UIViewController 映射成 URL，从而支持通过 URL 进行界面跳转。是的，就和 Web 一样。当然，这并不是 Web Developer 转职为 iOS Developer 后所做的无聊玩具。URL Router 有着许多切实的好处。
 * [katana-swift]（https://github.com/BendingSpoons/katana-swift）一个用于编写iOS应用程序的现代Swift框架，灵感来自React和Redux。 Swift Apps in a Swoosh! A modern framework for creating iOS apps, inspired by React and Redux.
 * [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit) 异步界面渲染库,为极限优化View效果而生（同时提供 UIView bridge 接口） Smooth asynchronous user interfaces for iOS apps.
+* [RestKit](https://github.com/RestKit/RestKit)RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X
 
 #### UI@
 
@@ -724,12 +727,13 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager) - 下载管理。
 * [DVR](https://github.com/venmo/DVR) - 针对网络请求的测试框架，超实用的工具。且支持 iOS, OSX, watchOS 全平台。
 * [HFDownLoad](https://github.com/hongfenglt/HFDownLoad) - iOS开发网络篇之文件下载、大文件下载、断点下载:NSData方式、NSURLConnection方式、NSURLSession下载方式 [下载方式具体的思路、区别见Blog](http://blog.csdn.net/hongfengkt/article/details/48290561) 。
-* [HYBUnicodeReadable](https://github.com/CoderJackyHuang/HYBUnicodeReadable) -解决打印日志对于Unicode编码不能正常显示中文的问题，只需要将文件导入工程，不需要引用，就能达到打印日志显示Unicode编码中文数据
 * [PPNetworkHelper](https://github.com/jkpang/PPNetworkHelper) - AFN3.x与YYCache的二次封装,一句话搞定网络请求与缓存,和FMDB说拜拜!
+* [HYBNetworking](https://github.com/CoderJackyHuang/HYBNetworking)基于AFNetworking3.0以上版本封装的网络层。提供常用的GET/POST接口、上传下载图片、文件接口、支持缓存等。
 
-#### 网络下载
+#### 网络下载@
 
 * [WHCNetWorkKit](https://github.com/netyouli/WHCNetWorkKit) WHCNetWorkKit 是http网络请求开源库(支持GET/POST 文件上传 后台文件下载 UIButton UIImageView 控件设置网络图片 网络数据工具json/xml 转模型类对象 网络状态监听)
+* [HSDownloadManager](https://github.com/HHuiHao/HSDownloadManager)下载音乐、视频、图片各种资源，支持多任务、断点下载！
 
 #### 图像获取@
 * [SDWebImage](https://github.com/rs/SDWebImage) - SDWebImage 网络图片获取及缓存处理。
@@ -1063,6 +1067,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [MiaowShow](https://github.com/SunLiner/MiaowShow) iOS视频直播项目 http://www.jianshu.com/users/9723687edfb5
 * [LMLiveStreaming](https://github.com/chenliming777/LMLiveStreaming) IOS Live,H264 and AAC Hard coding，support GPUImage Beauty， rtmp and flv transmission，weak network lost frame，Dynamic switching rate
+* [520Linkee](https://github.com/GrayJIAXU/520Linkee)本项目实现了作为一个直播App的基本功能，比如本地视频流采集、播放、美颜、礼物、点赞出心等。
 
 #### 响应式框架@
 * [LoginWithReactiveCocoa](https://github.com/CrazySurfBoy/LoginWithReactiveCocoa) - ReactiveCocoa - 登录交互效果的实现。
