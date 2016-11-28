@@ -137,8 +137,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [iOSAppTemplate](https://github.com/tbl00c/iOSAppTemplate)高仿微信，iOS应用开发模板，个人总结。
 * [Bilibili_Wuxianda](https://github.com/MichaelHuyp/Bilibili_Wuxianda)赞 高仿Bilibili客户端
 * [Coding-iOS](https://github.com/Coding/Coding-iOS) - Coding iOS 客户端源代码
-* [Voice2Note](https://github.com/liaojinxing/Voice2Note) - 懒人笔记iOS客户端
-* [Coding-iOS](https://github.com/Coding/Coding-iOS) - Coding iOS 客户端源代码
 * [Coding-iPad](https://github.com/Coding/Coding-iPad) - Coding iPad 客户端源代码
 * [Monkey](https://github.com/coderyi/Monkey) - GitHub第三方iOS客户端
 * [firefox-ios](https://github.com/mozilla/firefox-ios) Firefox for iOS
@@ -149,68 +147,43 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Meizi](https://github.com/Sunnyyoung/Meizi) - 豆瓣妹子图iOS客户端
 * [PlainReader](https://github.com/guojiubo/PlainReader) 简阅是一款 iOS(iPhone + iPad) 新闻类客户端，内容抓取自 cnBeta.COM。在售期间倍受好评，但由于版权问题已于今年一月从 AppStore 下架，下架至今，每天仍有几千人在使用这款 App。
 * [ECMobile_iOS](https://github.com/GeekZooStudio/ECMobile_iOS) 基于ECShop的手机商城客户端
-* [ECMobile_Universal](https://github.com/GeekZooStudio/ECMobile_Universal)基于ECShop的手机商城客户端
 * [wikipedia-ios](https://github.com/wikimedia/wikipedia-ios) 维基百科官方App, 已上架
 * [Sol](https://github.com/comyarzaheri/Sol) 漂亮的扁平风格的天气App
 * [v2ex](https://github.com/singro/v2ex)v2ex第三方iOS客户端。V2EX是一个知名技术创意网站，由设计师、程序员及有创意的人参与的社区。 它基于兴趣将用户创建的内容组织分类成不同“节点”，网站以内容的活跃程度决定在首页排序的位置。
-* [MyOne-iOS](https://github.com/meilbn/MyOne-iOS)我的《一个》 iOS 客户端（OC）
 * [WNXHuntForCity](https://github.com/ZhongTaoTian/WNXHuntForCity)城觅By-Objective-C
-* [viewfinder](https://github.com/viewfinderco/viewfinder) 移动支付公司 Square 将去年收购的照片应用 Viewfinder 开源了，包含服务端、iOS 和 Android 应用代码
-* [novel-design](https://github.com/ltebean/novel-design) 品趣iOS客户端
 * [breadwallet](https://github.com/voisine/breadwallet) breadwallet - bitcoin wallet
 * [GreatReader](https://github.com/semweb/GreatReader) GreatReader PDF阅读客户端
 * [Tropos](https://github.com/thoughtbot/Tropos)天气客户端
-* [Brushes](https://github.com/sprang/Brushes)绘图应用. Painting app for the iPhone and iPad.
-客户端
 * [WordPress-iOS](https://github.com/wordpress-mobile/WordPress-iOS)WordPress iOS官方客户端. 笔者强烈推荐的开源项目.
 * [TeamTalk](https://github.com/mogujie/TeamTalk) 蘑菇街TeamTalk. 开源IM. 笔者强烈推荐.
 * [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit)一个类似微信App的IM应用，拥有发送文字、图片、语音、视频、地理位置消息，管理本地通信录、分享朋友 圈、漂流交友、摇一摇和更多有趣的功能。笔者推荐的学习IM的好东西.
-* [shadowsocks-iOS/tree/2.6.3](https://github.com/shadowsocks/shadowsocks-iOS/tree/2.6.3)翻墙工具Shadowsocks. Github目前代码已经被移除, 不过2.6.3的还是保留着.
 * [iOS-Oncenote](https://github.com/chenyufeng1991/iOS-Oncenote) 这是一款类似于印象笔记Evernote的生活类iOS应用——朝夕笔记 Oncenote。我希望能为更多的iOS开发者提供帮助与服务。当然App中还有不少bug和可扩展的功能模块，也希望各位开发者为该项目贡献自己的code力量。大家可以通过点击右上角的fork到自己的Github仓库，也可以点击star实时关注项目进度。
 * [GSD_WeiXin](https://github.com/gsdios/GSD_WeiXin) 高仿微信
 * [v2ex](https://github.com/singro/v2ex) - v2ex 的客户端，新闻、论坛。
 * [wikipedia-ios](https://github.com/wikimedia/wikipedia-ios) - wikipedia-ios 客户端。
-* [jetstream-ios](https://github.com/uber/jetstream-ios) - 一款 Uber 的 MVC 框架。它同时提供了多用户实时通讯支持，一旦启动 JetStream 后端服务，通过 WebSocket 协议可以分分钟建立多用户实时通讯应用。
 * [DeckRocket](https://github.com/jpsim/DeckRocket) - 在相同 WiFi 网络环境内，通过iPhone 控制并播放 Mac 中的 PDF 文档。
-* [ScanBook](https://github.com/JayFang1993/ScanBook) - 扫扫图书:可以扫描条形码查询图书，也可以关键字搜索，遇到合乎你口味的书，还可以看看别人的读书笔记，不同角度去体会。
-* [KYWeibo](https://github.com/KittenYang/KYWeibo) - 调用新浪API自己写的第三方微博客户端。
-* [DouQu_IOS](https://github.com/li6185377/DouQu_IOS) - 逗趣IOS手机端（一款笑话软件）,拥有完整的功能的手机应用app 。
-* [IT江湖iOS客户端](https://github.com/itjhDev/itjh) - IT江湖iOS客户端。
-* [CrazyPuzzle](https://github.com/nonstriater/CrazyPuzzle) - 模仿“看图猜成语”App，功能齐全，配有音效，效果很不错。游戏使用cocoa框架完成，没有使用cocos2d的框架。
-* [WhoCall](https://github.com/Tim9Liu9/WhoCall) - 谁CALL我，iOS来电信息语音提醒，无需越狱。（需要iOS 7.0及以上版本。)骚扰电话预警、来电归属地提醒、联系人姓名播报，这些有中国特色人性化的电话功能，iOS上也应该有。电话提醒、私有API。
-* [仿iOS猎豹垃圾清理(实现原理+源码)](http://www.devtf.cn/?p=562) -  仿iOS猎豹垃圾清理(实现原理+源码),用到私有API。1
 * [DSLolita](https://github.com/sam408130/DSLolita) - 模仿新浪微博做的一款app，有发送博文，评论，点赞，私聊功能。
 * [STPhotoBrowser](https://github.com/STShenZhaoliang/STPhotoBrowser) - 高仿新浪微博的图片浏览器，极佳的编写方式，易扩展，低耦合。
-* [GSD_ZHIFUBAO](https://github.com/gsdios/GSD_ZHIFUBAO) - 支付宝高仿版。
 * [Tropos](https://github.com/thoughtbot/Tropos) - Tropos, 由 thoughtbot 推出的一款用 Objective-C 写的开源天气类应用, 截至今天, thoughtbot 已在 GitHub 上贡献了 174 个开源项目, 实在令人敬佩。
 * [SmileWeather](https://github.com/liu044100/SmileWeather) -开源天气类应用,天气图标很完整。  
 * [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) - GitBucket 2.0 通过审核啦，她是我在公司实践了一年多 MVVM 和 RAC 的基础上，利用业余时间开发的第三方 GitHub 客户端，旨在能够对想实践 MVVM 和 RAC 的 iOS 开发者有所帮助。[AppStore地址](https://itunes.apple.com/cn/app/id961330940?mt=8)，欢迎下载使用GitBucket和收藏MVVMReactiveCocoa。
 * [Tomate](https://github.com/dasdom/Tomate) - 这个圆盘式计时器让你更专注于工作或学习。P.S. App Store 上架收费应用（0.99 欧）。
-* [StoveFireiOSMenu](https://github.com/joeshang/StoveFireiOSMenu) - 炉火餐饮系统iPad点餐端。
 * [WNXHuntForCity](https://github.com/ZhongTaoTian/WNXHuntForCity) - iOS高仿城觅项目（开发思路和代码）。
 * [ZYChat](https://github.com/zyprosoft/ZYChat) - 关于聊天界面的可消息类型扩展，响应绑定设计。
-* [NiceAppDemo](https://github.com/minxiaoming/NiceAppDemo) - 仿最美应用-每日最美的钢琴律动效果。
 * [meituan](https://github.com/lookingstars/meituan) - 美团5.7iOS版（高仿），功能包括，团购首页，高德地图搜索附近美食并显示在地图上，上门服务，商家，友盟分享。
-* [MeituanDemo](https://github.com/zangqilong198812/MeituanDemo) - 造美团应用界面构建的 iOS 应用, 第一个是 @叶孤城___ 的 MeituanDemo。
 * [JFMeiTuan](https://github.com/tubie/JFMeiTuan) - 造美团应用界面构建的 iOS 应用, 第二个是 @tubiebutu 的 JFMeiTuan。
-* [chuanke](https://github.com/lookingstars/chuanke) - 高仿百度传课iOS版。
 * [SXNews](https://github.com/dsxNiubility/SXNews) - 模仿网易新闻做的新闻软件，完成了主导航页，新闻详情页，图片浏览页，评论页。效果不错，比网上流传的各种和网易新闻UI架构有关的代码都要完整，都要好。
 * [Monkey](https://github.com/coderyi/Monkey) - Monkey for GitHub是一个GitHub开发者和仓库排名的开源App。这次主要增加了登录GitHub的功能，随手follow和star，并且增加发现模块，包括GitHub的trending，动态，showcases等。
 * [Uther](https://github.com/callmewhy/Uther) -  跟蠢萌的外星人聊天，还能帮你记事”。[itunes下载](https://itunes.apple.com/cn/app/uther/id1024104920) 。
 * [高仿斗鱼TV](http://code.cocoachina.com/view/128246) - 高仿斗鱼TV，点击头部滚动视图可以播放视频。
-* [LXZEALER](https://github.com/LonelyTown/LXZEALER) - 模仿着做了zealer客户端,App里几乎所有请求都是Post,所以内容都是固定的URL加载的,登录功能只做了微博的第三方登录。
-* [ShiXiSeng_ios](https://github.com/pengleelove/ShiXiSeng_ios) - 完整app的UI框架。
 * [Coding-iPad](https://github.com/Coding/Coding-iPad) - Coding-iPad 是@Coding的官方 iPad 客户端, 又是一个完整的开源应用。
-* [WFZhiHu](https://github.com/TigerWf/WFZhiHu) - WFZhiHu仿知乎日报客户端app。
 * [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) - 目前最实用简洁的github客户端了。
 * [phphub-ios](https://github.com/Aufree/phphub-ios) - PHPHub的iOS客户端，同时兼容iPhone和iPad。
 * [LeagueofLegends](https://github.com/HarrisHan/LeagueofLegends) - 一个关于英雄联盟的完整iOS开源项目，接口均来自多玩，腾讯各大游戏平台。
 * [BTApp](https://github.com/Ryan0520/BTApp) - BTApp 仿半糖 iOS App 的 Demo 应用。
 * [iOS完整App资源收集](http://www.henishuo.com/ios-app-fully-code/) - iOS开发学习者都希望得到实战训练，但是很多资料都是只有一小部分代码，并不能形成完成的App，笔者在此处收集了很多开源的完整的App，都有源代码哦！--标哥的技术博客
 * [XCFApp-1](https://github.com/callmejoejoe/XCFApp) - 高仿下厨房App，Objective-C，Xcode7.2，数据通过Charles抓的，有接口也有本地数据。说明：关于代码被清空，会用git的你肯定明白，[教程](http://www.jianshu.com/p/a8f619a2c622/)
-* [XCFApp-2](https://github.com/STShenZhaoliang/XCFAPP) - 高仿下厨房APP。
 * [YoCelsius](https://github.com/YouXianMing/YoCelsius) - 已经上线的一款天气预报的应用,几乎所有的交互动画效果，想学习动画的开发人员可以作为参考。
-* [XiMaLaYa-by-HansRove-](https://github.com/HansRove/XiMaLaYa-by-HansRove-) - 仿喜马拉雅FM, 对AVFoundation框架的一次尝试，采用MVVM模式，[教程](http://ios.jobbole.com/85275/)。
 * [DayDayNews](https://github.com/gaoyuhang/DayDayNews) 仿网易新闻客户端，实现新闻浏览，视频播放，仿搜狐视频、百思不得姐等当前主流视频播放器，实现流媒体播放，自动监听屏幕转动，实现横屏播放 , 抓取百度图片，瀑布流显示，夜间模式，环信即时通讯
 
 #### Xcode8插件@
