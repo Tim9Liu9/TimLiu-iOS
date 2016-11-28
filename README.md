@@ -51,6 +51,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [轮播@](#轮播)
   - [时间选择器@](#时间选择器)
   - [其他UI@](#其他UI)
+- [多线程@](#多线程)
 - [ipad@](#ipad)
 - [通讯@](#通讯)
 - [动画@](#动画)
@@ -95,7 +96,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [序列化@](#序列化)
 - [WebView与WKWebView@](#WebView与WKWebView)
 - [游戏@](#cocos2d-objc)
-- [FaceBook@](#iOS库)
 - [通讯录@](#通讯录)
 - [其他库@](#其他库)
 - [三方分享、支付、登录等等@](#三方分享、支付、登录等等)
@@ -220,12 +220,14 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [XcodeSourceEditorExtension-Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) 对齐属性声明 This Xcode source editor extension align your assignment statement.
 - [Dash-iOS](https://github.com/Kapeli/Dash-iOS) Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets https://kapeli.com/dash_ios
 
-#### App框架   [返回目录](#目录)
+#### App框架                                              [返回目录](#目录)
 * [nimbus](https://github.com/jverkoey/nimbus) Nimbus是一个开源的iOS框架，比起Three20，Nimbus的文档更为全面、丰富，能够实现很多非常炫的界面特效。因此，开发者可以借助Nimbus来降低项目设计的复杂度。
 * [samurai-native](https://github.com/hackers-painters/samurai-native) 是一个基于浏览器内核通过HTML+CSS 开发原生移动应用的iOS框架。
 * [HHRouter](https://github.com/Huohua/HHRouter) 一言以蔽之，URL Router 即将 UIViewController 映射成 URL，从而支持通过 URL 进行界面跳转。是的，就和 Web 一样。当然，这并不是 Web Developer 转职为 iOS Developer 后所做的无聊玩具。URL Router 有着许多切实的好处。
+* [katana-swift]（https://github.com/BendingSpoons/katana-swift）一个用于编写iOS应用程序的现代Swift框架，灵感来自React和Redux。 Swift Apps in a Swoosh! A modern framework for creating iOS apps, inspired by React and Redux.
 
 #### UI@
+
 #### 日历三方库@
 
 * [TEAChart](https://github.com/xhacker/TEAChart) - xhacker/TEAChart 一个简洁的 iOS 图表库，支持柱状图、饼图以及日历等。
@@ -395,6 +397,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout)UICollectionView的高级使用方法哦SFFocusViewLayou
 * [RACollectionViewReorderableTripletLayout](https://github.com/ra1028/RACollectionViewReorderableTripletLayout)自定义的CollectionView布局，可以通过拖动进行cell的重新排序。
 * [CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu)CollectionView做的两级菜单，可以折叠第二级菜单
+* [TableFlip](https://github.com/mergesort/TableFlip) A simpler way to do cool UITableView animations
 
 #### 隐藏与显示@
 * [SlideTapBar](http://d.cocoachina.com/code/detail/286102) - 滚动栏菜单，向上滚动时隐藏tabbar，向下滚动马上显示tabbar。
@@ -510,6 +513,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### 轮播@
 
 * [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) - 无限循环自动图片轮播器(一步设置即可使用)。
+* [HYBLoopScrollView](https://github.com/CoderJackyHuang/HYBLoopScrollView) 一行代码接入轮播组件，自带图片下载、缓存相关功能，无任何第三方依赖、轻量级组件。
 
 #### 时间选择器@
 
@@ -603,6 +607,11 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [drawablebubble](https://github.com/KittenYang/KYCuteView)QQ中未读气泡拖拽消失的实现分析[分析文章](http://kittenyang.com/drawablebubble/)
 * [PPNumberButton](https://github.com/jkpang/PPNumberButton)高仿京东淘宝商品数量的加减按钮,可定制程度较高,使用简单!
+* [YJFavorEmitter](https://github.com/SplashZ/YJFavorEmitter) 一个非常好用的点赞粒子发射器
+
+#### 多线程@
+
+
 
 #### 日历@
 
@@ -648,7 +657,12 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 #### 动画@
 
+* [Animations](https://github.com/YouXianMing/Animations)The Animation Collection.
+* [JSDownloadView](https://github.com/Josin22/JSDownloadView) 精巧顺滑的下载动画
+
+
 #### gif动画@
+
 * [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView-PlayGIF。
 * [YLGIFImage](https://github.com/liyong03/YLGIFImage) - YLGIFImage。
 * [droptogif](https://github.com/mortenjust/droptogif) -  droptogif视频拖拽到应用窗口后自动转换为 GIF 动画（其转换进程动画效果也超赞）。

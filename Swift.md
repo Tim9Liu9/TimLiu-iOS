@@ -36,7 +36,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [电影选座@](#电影选座)
   - [瀑布流@](#瀑布流)
   - [菜单@](#菜单)
+  - [TabBar@](#菜单)
   - [其他UI@](#其他UI)
+- [多线程@](#多线程)
 - [动画@](#动画)
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
   - [gif动画@](#gif动画)
@@ -187,6 +189,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 ##### Switch@
 
+##### TabBar@
+
+* [CBMDTabbarController](https://github.com/cbangchen/CBMDTabbarController) It is a smooth MD tabbarController used on iOS, which implement by Swift.
 
 ##### 日历@
 
@@ -231,7 +236,12 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [JMRoundedCornerSwift](https://github.com/raozhizhen/JMRoundedCornerSwift) - swift版本：UIView设置不触发离屏渲染的圆角！
 * [PPNumberButtonSwift](https://github.com/jkpang/PPNumberButtonSwift) - 仿京东淘宝商品数量的加减按钮 Swift 版,可定制程度高,使用简单!
 
-========
+#### 多线程@
+
+* [Overdrive](https://github.com/arikis/Overdrive)专注于类型安全、并发和多线程的，快速 、专业的异步任务库 Fast async task based Swift framework with focus on type safety, concurrency and multi threading
+* [Jobs](https://github.com/BrettRToomey/Jobs)Swift Job 队列
+
+
 #### 动画@
 
 ##### 游戏@
@@ -567,8 +577,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### AppleWatch@
 * [Apple Watch开发教程资料汇总](http://www.swiftkiller.com/?p=613) - Apple Watch开发教程资料汇总。
 * [Stargate](https://github.com/contentful-labs/Stargate) - 通过 iPhone 桥接实现 Mac 与 Watch 的即时通讯。Stargate 通过封装两个优秀的基础类库 MMWormhole 和 PeerKit 实现高效的通讯应用。--swift
-* [soon](https://github.com/sandofsky/soon) - 一款倒计时 WatchKit 示例应用。作者从架构的角度，思考如何设计一款完整、通讯高效且性能又好的 WatchKit 扩展应用。该示例学习性非常强。--swift
+* [soon](https://github.com/sandofsky/soon) - 一款倒计时 WatchKit 示例应用。作者从架构的角度，思考如何设计一款完整、通讯高效且性能又好的 WatchKit 扩展应用。
 * [MMWormhole.swift](https://github.com/mutualmobile/MMWormhole) - MMWormhole.swift:iOS或OS X扩展与宿主应用的通讯框架。
+* [overlook](https://github.com/wess/overlook) 可以监测目标目录文件改变，执行对应命令的后台及命令行工具 The Judge, Jury and Executioner for the file system.
 
 #### VPN@
 * [vpnon](https://github.com/lexrus/vpnon/) - swift的VPN On 的源码和本地化内容都是开放的: [官方网站](https://crowdin.com/project/vpnon)。
@@ -645,6 +656,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift) A collaborative list of awesome swift resources. Feel free to contribute!
 * [awesome-swift](https://github.com/Wolg/awesome-swift) A curated list of awesome Swift frameworks, libraries and software.
+
 #### 学习笔记@
 
 #### 好用的软件@
