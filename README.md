@@ -50,6 +50,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [轮播@](#轮播)
   - [时间选择器@](#时间选择器)
   - [其他UI@](#其他UI)
+  - [star5k@](#star5k)
 - [多线程@](#多线程)
 - [ipad@](#ipad)
 - [通讯@](#通讯)
@@ -133,6 +134,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [gitignore](https://github.com/github/gitignore) 非常赞 有用的.gitignore模板集合，包含了各种语言.
 
 #### 完整App@
+* [NewsBlur](https://github.com/samuelclay/NewsBlur) 作者独自一个人 Samuel Clay 做出来的一款名为 NewsBlur 的新闻阅读器, 很多人都称其为 Google Reader 的替代品, 这是它的源码 NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 * [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native)用 React Native 完成的 HackerNews 客户端。
 * [WeChat](https://github.com/zhengwenming/WeChat) 实现类似微信朋友圈或者QQ空间，评论回复，九宫格布局。处理键盘弹出后定位到当前点击的被评论人处。另：滑动时候FPS在57-60之间，纵享丝滑！
 * [iOSAppTemplate](https://github.com/tbl00c/iOSAppTemplate)高仿微信，iOS应用开发模板，个人总结。
@@ -315,6 +317,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 #### TableView@
 
+* [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) 非常赞 UITableViewCell 的子类, 实现了左右滑动显示信息视图并调出按钮 An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
 * [RETableViewManager](https://github.com/romaonthego/RETableViewManager) 赞 一个非常强大的使用数据驱动的 UITableView 内容管理。
 * [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) - 非常赞 DZNEmptyDataSet算是一个很标准的iOS内建方式，适合用来处理空的tableview和collection view。会自动将collection view处理完善，并将用户消息以合适美观的方式显示出来。每个iOS项目都可以自动处理。
 * [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) 一个优秀的即时聊天UI库
@@ -592,6 +595,11 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [drawablebubble](https://github.com/KittenYang/KYCuteView)QQ中未读气泡拖拽消失的实现分析[分析文章](http://kittenyang.com/drawablebubble/)
 * [PPNumberButton](https://github.com/jkpang/PPNumberButton)高仿京东淘宝商品数量的加减按钮,可定制程度较高,使用简单!
 * [YJFavorEmitter](https://github.com/SplashZ/YJFavorEmitter) 一个非常好用的点赞粒子发射器
+* [iCarousel](https://github.com/nicklockwood/iCarousel) 作者是英国 Charcoal Design 公司的创始人, 开源领域的贡献颇为卓著, 这个项目就是其中之一, 这是一款可以在 iOS 上实现旋转木马视图切换效果的第三方控件, 并提供多种切换效果 A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS
+
+#### star5k@
+
+* [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)作者是 Thumb Labs 的联合创始人, JVFloatLabeledTextField 是 UITextField 的子类, 主要实现输入框标签浮动效果, 创作灵感来自 Dribbble, 已出现多个移植版本 UITextField subclass with floating labels - inspired by Matt D. Smith's design: http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users
 
 #### 多线程@
 
@@ -618,7 +626,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [JASidePanels](https://github.com/gotosleep/JASidePanels) - 侧滑菜单,有左右菜单，有pop功能，支持手势侧滑,本人使用中：简单。
 * [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - 让 Tabbar items能显示萌萌的动画。
 * [tabbar图标动画](http://code.cocoachina.com/detail/284346) - tabbar上图标的动画实现，[源码推荐说明](http://www.cocoachina.com/ios/20150205/11116.html)。
-* [RESideMenu](https://github.com/romaonthego/RESideMenu) - 侧开菜单，qq类似。
 * [JHMenuTableViewDemo](https://github.com/Jiahai/JHMenuTableViewDemo) - 仿网易邮箱列表侧滑菜单。
 * [SlideMenuView](https://github.com/xudafeng/SlideMenuView) - 炫酷侧滑菜单布局框架，[Android版本的一致实现](Android 版本的一致实现请见：https://github.com/xudafeng/SlidingMenu)。
 * [KGFloatingDrawer](https://github.com/KyleGoddard/KGFloatingDrawer) - 侧滑菜单，qq类似，KyleGoddard/KGFloatingDrawer：一款适合于大屏手机或平板的浮动抽屉式导航界面组件。效果很赞- 侧开菜单，qq类似（与RESideMenu类似）。
@@ -642,6 +649,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 #### 动画@
 
+* [AwesomeMenu](https://github.com/levey/AwesomeMenu) 作者是一位中国人, 该项目主要是使用 CoreAnimation 还原了 Path menu 的动画效果 Path 2.0 menu using CoreAnimation :) https://github.com/levey/AwesomeMenu
 * [MMTweenAnimation](https://github.com/adad184/MMTweenAnimation)一个基于 POP 的扩展，提供了 10 种自定义的动效。
 * [pop](https://github.com/facebook/pop) - facebook出品的非常赞的动画引擎。
 * [Core Animation笔记，基本的使用方法](http://www.starming.com/index.php?v=index&view=62) - Core Animation笔记，基本的使用方法：1.基本动画，2.多步动画，3.沿路径的动画，4.时间函数，5.动画组。
@@ -1150,6 +1158,7 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
 * [fastlane](https://github.com/fastlane/fastlane) - 一套iOS开发和持续集成的命令行工具fastlane，可以用来快速搭建CI甚至自动提交的开发环境。这套工具中包括了上传ipa文件，自动截取多语言截屏，生成推送证书，管理产品证书等一系列实用工具。 The easiest way to automate building and releasing your iOS and Android apps https://fastlane.tools
 * [xctool](https://github.com/facebook/xctool) - Facebook出的自动化打包工具，它规范了输出的log日志，而且一些错误信息也更为清晰一些。
 * [chisel](https://github.com/facebook/chisel) Chisel扩展了一些列的lldb的命令来帮助iOS开发者调试iOS应用程序。
+* [PonyDebugger](https://github.com/square/PonyDebugger)由 Square 公司推出的一款优秀的 iOS 应用网络调试工具, 用户可以实时看到应用程序的网络请求, 也可以对 iOS 应用程序的核心数据栈进行远程调试
 * [dSYMTools](https://github.com/answer-huang/dSYMTools)友盟 dSYM analyze
 * [HeapInspector](https://github.com/tapwork/HeapInspector-for-iOS) - HeapInspector是一个用于检测应用中的内存泄漏的开源调试工具。
 * [Crashlytics](http://try.crashlytics.com/) - Crashlytics 崩溃报告 崩溃日志   [使用说明](http://www.infoq.com/cn/articles/crashlytics-crash-statistics-tools) 。
