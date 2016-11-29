@@ -1399,6 +1399,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [MyGithubMark](https://github.com/JanzTam/MyGithubMark) - Github上的iOS资料-个人记录（持续更新）。
 * [Github 上的 iOS 开源项目](http://ios.jobbole.com/84684/) - Github 上的 iOS 开源项目总结。
 * [iOS资源大全中文版](https://github.com/jobbole/awesome-ios-cn) - iOS资源大全中文版。
+* [LearningIOS](https://github.com/zhouhuanqiang/LearningIOS) Learning materials of iOS
 
 #### Github部分优秀作者@
 
