@@ -2,7 +2,7 @@
 Objective-C编码规范，内容来自苹果、谷歌的文档翻译，[『博爱』](https://github.com/boai)的编码经验和对其它资料的总结。
 详情可前往：开源项目[『BABaseProject』](https://github.com/boai/BABaseProject)！
 
-转载请注明出处。
+* [转载至:](https://github.com/boai/BABaseProject)BABaseProject
 
 ##概要
 
@@ -649,7 +649,7 @@ const float NSLightGray;
 ###命名通知（Notifications）
 
 通知常用于在模块间传递消息，所以通知要尽可能地表示出发生的事件，通知的命名范式是：
-	
+
 	[触发通知的类名] + [Did | Will] + [动作] + Notification
 
 栗子：
@@ -682,14 +682,14 @@ NSColorPanelColorDidChangeNotification
 	Copyright (C), 2011-2013, Andrew Min Chang
 
 	File name: 	AMCCommonLib.h
-	Author:		Andrew Chang (Zhang Min) 
+	Author:		Andrew Chang (Zhang Min)
 	E-mail:		LaplaceZhang@126.com
-	
+
 	Description: 	
-			This file provide some covenient tool in calling library tools. One can easily include 
-		library headers he wants by declaring the corresponding macros. 
+			This file provide some covenient tool in calling library tools. One can easily include
+		library headers he wants by declaring the corresponding macros.
 			I hope this file is not only a header, but also a useful Linux library note.
-			
+
 	History:
 		2012-??-??: On about come date around middle of Year 2012, file created as "commonLib.h"
 		2012-08-20: Add shared memory library; add message queue.
@@ -704,11 +704,11 @@ NSColorPanelColorDidChangeNotification
 		2013-01-22: Add CFG_LIB_TIMER.
 		2013-01-22: Remove CFG_LIB_DATA_TYPE because there is already AMCDataTypes.h
 
-	Copyright information: 
+	Copyright information:
 			This file was intended to be under GPL protocol. However, I may use this library
-		in my work as I am an employee. And my company may require me to keep it secret. 
-		Therefore, this file is neither open source nor under GPL control. 
-		
+		in my work as I am an employee. And my company may require me to keep it secret.
+		Therefore, this file is neither open source nor under GPL control.
+
 ********************************************************************************/
 ```
 
@@ -933,12 +933,12 @@ NSNumber *myEnum = @(kMyEnum);
 ```objective-c
 //正确，直接判断
 if (!objc) {
-	...	
+	...
 }
 
 //错误，不要使用nil == Object的形式
 if (nil == objc) {
-	...	
+	...
 }
 ```
 
