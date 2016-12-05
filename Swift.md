@@ -13,6 +13,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 ## 目录
 - [Swift学习资料@](#swift学习资料)
 - [完整App@](#完整app)
+- [Xcode8插件@](#xcode8插件)
 - [App 框架@](#app框架)
   - [响应式框架@](#响应式框架)
 - [UI@](#ui)
@@ -132,6 +133,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [LeagueofLegends](https://github.com/HarrisHan/LeagueofLegends) - 一个关于英雄联盟的完整iOS开源项目，接口均来自多玩，腾讯各大游戏平台。
 * [Coderpursue.swift](https://github.com/wenghengcong/Coderpursue) - 一款 Github 第三方客户端，使用最新 Swift 语言编写。
 * [BTApp](https://github.com/Ryan0520/BTApp) - BTApp 仿半糖 iOS App 的 Demo 应用。
+
+## Xcode8插件@
+
+* [FileExplorer](https://github.com/Augustyniak/FileExplorer) 完整的文件资源管理器组件.
 
 ## App框架@
 

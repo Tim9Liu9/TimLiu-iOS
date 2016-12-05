@@ -78,7 +78,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [学习资料@](#学习资料)
   - [播客@](#播客)
   - [他人开源总结@](#他人开源总结)
-  - [Github部分优秀作者@](#Github部分优秀作者)
   - [开发博客列表@](#开发博客列表)
   - [学习笔记、书籍@](#学习笔记、书籍)
   - [CodeLiararyWebSite@](#CodeLiararyWebSite)
@@ -553,9 +552,12 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [ImagePickerSheetController](https://github.com/larcus94/ImagePickerSheetController) - 图片或视频选择器（可多选）组件及其示例项目。
 * [ImagePickerSheet](https://github.com/larcus94/ImagePickerSheetController) - 图片或视频选择器（可多选）组件及其示例项目。
 * [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub) - 快速给 UIView 添加上炫酷的通知图标（Badge、红点、提示）。  
+* [BLEProgressView](https://github.com/blueeee/BLEProgressView)使用pop实现动画的进度条
+
 
 * [BubbleTransition](https://github.com/andreamazz/BubbleTransition) - 以气泡膨胀和缩小的动画效果来显示和移除 controller，Uber的就是这种取消操作的方式。
-* [KYFloatingBubble](https://github.com/KittenYang/KYFloatingBubble) - 类似iOS7中Game Center浮动气泡的效果。
+* [KYFloatingBubble](https://github
+  .com/KittenYang/KYFloatingBubble) - 类似iOS7中Game Center浮动气泡的效果。
 * [DKNightVersion](https://github.com/Draveness/DKNightVersion) - DKNightVersion 是一个支持夜间模式切换的框架。
 * [EasyUIControl](https://github.com/sx1989827/EasyUIControl) - 一个可以简化界面ui的控件框架。
 * [QQBtn](https://github.com/ZhongTaoTian/QQBtn) - 仿QQ未读消息弹性按钮动画，达到和手机QQ未读信息一样的动画效果，效果基本实现。
@@ -920,7 +922,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [MVVM KVO购物车](http://code.cocoachina.com/view/128713) - MVVM KVO 购物车(一处计算总价钱)。
 * [BHBDrawBoarderDemo车](https://github.com/bb-coder/BHBDrawBoarderDemo) - 仿写猿题库练题画板功能，没有用drawRect，而是用CAShapeLayer来做画板绘画，特别省内存，赞1个，[实现分析](http://bihongbo.com/2016/01/03/memoryGhostdrawRect/)。
 * [jrswizzle](https://github.com/rentzsch/jrswizzle) - runtime实现的Method Swizzling第三方框架。
-* [Demo_ProductDetailScroll](https://github.com/nutletor/Demo_ProductDetailScroll) - Demo_ProductDetailScroll ：仿京东商品详情滚动翻页。
 * [BGTaobao](https://github.com/huangzhibiao/-) - ios 高仿淘宝/京东详情页 - 集合各种测试框架。
 * [CartDemo](https://github.com/LQQZYY/CartDemo) - CartDemo比较完整的购物车界面及逻辑,商品展示,多选,单选,全选及滑动删除,价格计算。
 * [JLRoutes](https://github.com/joeldev/JLRoutes) - JLRoutes好用的URL map库，它的作用是让按钮的点击像网页里的链接一样，只是触发了某个URL，而没有像pushViewController这样的行为，实现解耦。
@@ -1400,10 +1401,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [Github 上的 iOS 开源项目](http://ios.jobbole.com/84684/) - Github 上的 iOS 开源项目总结。
 * [iOS资源大全中文版](https://github.com/jobbole/awesome-ios-cn) - iOS资源大全中文版。
 * [LearningIOS](https://github.com/zhouhuanqiang/LearningIOS) Learning materials of iOS
-
-#### Github部分优秀作者@
-
-* [吴海超(WHC)](https://github.com/netyouli) Objective-C/swift
+* [AR-Source](https://github.com/GeekLiB/AR-Source) AR 开发资料汇总
 
 #### 开发博客列表@
 * [唐巧整理](https://github.com/tangqiaoboy/iOSBlogCN) - 猿题库唐巧整理。
