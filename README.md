@@ -38,6 +38,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [导航栏@](#导航栏)
   - [设置@](#设置)
   - [Switch@](#Switch)
+  - [Label@](#Label)
   - [Category@](#Category)
   - [主题@](#主题)
   - [电影选座@](#电影选座)
@@ -48,7 +49,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [小红点@](#小红点)
   - [page@](#page)
   - [轮播@](#轮播)
-  - [时间选择器@](#时间选择器)
+  - [选择器@](#选择器)
   - [其他UI@](#其他UI)
   - [star5k@](#star5k)
 - [多线程@](#多线程)
@@ -188,6 +189,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [XCFApp-1](https://github.com/callmejoejoe/XCFApp) - 高仿下厨房App，Objective-C，Xcode7.2，数据通过Charles抓的，有接口也有本地数据。说明：关于代码被清空，会用git的你肯定明白，[教程](http://www.jianshu.com/p/a8f619a2c622/)
 * [YoCelsius](https://github.com/YouXianMing/YoCelsius) - 已经上线的一款天气预报的应用,几乎所有的交互动画效果，想学习动画的开发人员可以作为参考。
 * [DayDayNews](https://github.com/gaoyuhang/DayDayNews) 仿网易新闻客户端，实现新闻浏览，视频播放，仿搜狐视频、百思不得姐等当前主流视频播放器，实现流媒体播放，自动监听屏幕转动，实现横屏播放 , 抓取百度图片，瀑布流显示，夜间模式，环信即时通讯
+* [ECMobile_iOS](https://github.com/GeekZooStudio/ECMobile_iOS)基于ECShop的手机商城客户端（iOS、Android、Php一体）
 
 #### Xcode8插件@
 
@@ -461,6 +463,11 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [JTMaterialSwitch](https://github.com/JunichiT/JTMaterialSwitch) A Customizable Switch UI for iOS, Inspired from Google's Material Design
 
+#### Label@
+
+
+
+
 #### Category@
 
 * [UIScrollView-InfiniteScroll](https://github.com/pronebird/UIScrollView-InfiniteScroll) 滚动视图无限滚动分类 UIScrollView infinite scroll category
@@ -502,12 +509,13 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) - 无限循环自动图片轮播器(一步设置即可使用)。
 * [HYBLoopScrollView](https://github.com/CoderJackyHuang/HYBLoopScrollView) 一行代码接入轮播组件，自带图片下载、缓存相关功能，无任何第三方依赖、轻量级组件。
 
-#### 时间选择器@
+#### 选择器@
 
 * [ASDayPicker](http://code.cocoachina.com/detail/226543) - 适用于iOS (iPhone)的日期选择器(时间选择器)，类似于Calendar app的周视图。
 * [HSDatePickerViewController](https://github.com/EmilYo/HSDatePickerViewController) - 带有Dropbox Mailbox感觉的时间日期选择器(时间选择器)。启动是背景被模糊化。界面也是主流的扁平化风格。
 * [HZQDatePickerView](https://github.com/huzhiqin/HZQDatePickerView) - 自定义时间选择器(日期选择器)，包括开始日期和结束日期两种类型。
 * [CFCityPickerVC](https://github.com/CharlinFeng/CFCityPickerVC) - 城市选取控制器。
+* [JFCitySelector](https://github.com/zhifenx/JFCitySelector) （仿美团）简单好用的城市选择器，三行代码搞定！
 
 #### 进度@
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) -  loading 进度条动画，有20-30多种，是在此[DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView) 基础上做得修改。
@@ -1085,6 +1093,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [MiaowShow](https://github.com/SunLiner/MiaowShow) iOS视频直播项目 http://www.jianshu.com/users/9723687edfb5
 * [LMLiveStreaming](https://github.com/chenliming777/LMLiveStreaming) IOS Live,H264 and AAC Hard coding，support GPUImage Beauty， rtmp and flv transmission，weak network lost frame，Dynamic switching rate
 * [520Linkee](https://github.com/GrayJIAXU/520Linkee)本项目实现了作为一个直播App的基本功能，比如本地视频流采集、播放、美颜、礼物、点赞出心等。
+* [CameraStickerDemo](https://github.com/Sinkup/CameraStickerDemo) 基于GPUImage的实时视频流贴纸Demo
 
 #### 响应式框架@
 * [LoginWithReactiveCocoa](https://github.com/CrazySurfBoy/LoginWithReactiveCocoa) - ReactiveCocoa - 登录交互效果的实现。
@@ -1161,6 +1170,7 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
 * [xctool](https://github.com/facebook/xctool) - Facebook出的自动化打包工具，它规范了输出的log日志，而且一些错误信息也更为清晰一些。
 * [chisel](https://github.com/facebook/chisel) Chisel扩展了一些列的lldb的命令来帮助iOS开发者调试iOS应用程序。
 * [PonyDebugger](https://github.com/square/PonyDebugger)由 Square 公司推出的一款优秀的 iOS 应用网络调试工具, 用户可以实时看到应用程序的网络请求, 也可以对 iOS 应用程序的核心数据栈进行远程调试
+* [pxctest](https://github.com/plu/pxctest) Execute tests in parallel on multiple iOS Simulators 在多个 iOS 模拟器上并行测试。
 * [dSYMTools](https://github.com/answer-huang/dSYMTools)友盟 dSYM analyze
 * [HeapInspector](https://github.com/tapwork/HeapInspector-for-iOS) - HeapInspector是一个用于检测应用中的内存泄漏的开源调试工具。
 * [Crashlytics](http://try.crashlytics.com/) - Crashlytics 崩溃报告 崩溃日志   [使用说明](http://www.infoq.com/cn/articles/crashlytics-crash-statistics-tools) 。

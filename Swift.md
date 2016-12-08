@@ -56,6 +56,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
       - [XML&HTML@](#xmlhtml)
       - [Other Parsing@](#other-parsing)
 - [二维码@](#二维码)
+- [VR@](#VR)
 - [开发资料@](#开发资料)
   - [播客@](#播客)
   - [学习资料@](#学习资料)
@@ -228,6 +229,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### Switch@
 
+#### Label@
+
+* [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) 炫酷的Label效果 Graceful morphing effects for UILabel written in Swift.
+
 #### 主题@
 
 #### 电影选座@
@@ -239,6 +244,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### TabBar@
 
 * [CBMDTabbarController](https://github.com/cbangchen/CBMDTabbarController) It is a smooth MD tabbarController used on iOS, which implement by Swift.
+
+## page@
+
+* [PinterestSegment](https://github.com/TBXark/PinterestSegment) 仿 Pinterest 的 Segment 控件(swift), 行数 200+
 
 #### 其他UI@
 * [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress) -  KDCircularProgress是使用swift制作的色彩炫丽的进度条，可以加入多种颜色来控制进度条的渐变效果。
@@ -433,6 +442,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 ## 二维码@
 
 * [LBXScan](https://github.com/MxABC/LBXScan) 赞 A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和ios系统自带扫码封装，扫码界面效果封装)(Objective-C和Swift均支持).
+## VR@
+
+* [VRDemo-Swift](https://github.com/Huanhoo/VRDemo-Swift) VRDemo是用Swift配合OpenGL ES实现的360度全景播放器
 
 ## 开发资料@
 
