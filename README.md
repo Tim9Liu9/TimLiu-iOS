@@ -462,7 +462,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 #### Label@
 
-
+* [PPCounter](https://github.com/jkpang/PPCounter) - 一款简单实用的数字加减动画,支持UILabel、UIButton显示
 
 
 #### Category@
@@ -524,26 +524,14 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [UAProgressView](https://github.com/UrbanApps/UAProgressView) 很赞 的一个进度指示View
 * [AwesomeMenu](https://github.com/levey/AwesomeMenu) - 最多人用的Path菜单。
 * [ZFProgressView](https://github.com/WZF-Fei/ZFProgressView) A simple digit progress view.（version1.3 使用GCD定时器代替NSTimer,避免内存泄露问题)
-
 * [WaveLoadingView](https://github.com/liuzhiyi1992/WaveLoadingView) - iOS 唯一完美的波浪进度加载指示器，[实现说明](http://zyden.vicp.cc/waveloadingindicator/)。
 * [JZMultiChoicesCircleButton](https://github.com/JustinFincher/JZMultiChoicesCircleButton) - 三维多选按钮。
-* [LCUIKit](https://github.com/lianchengjiang/LCUIKit) - 一个button上面既有icon又有文字。也许左icon右文字，或者上icon下文字。
+* [ASProgressPopUpView](https://github.com/alskipp/ASProgressPopUpView) - 弹出的进度条显示进度。
 * [TwitterPaggingViewer](https://github.com/xhzengAIB/XHTwitterPaggingViewer)  - 多个Tableview，左右滑动。
 * [CircularProgressControl](https://github.com/carantes/CircularProgressControl) - Circular Progress Control using CAShapeLayer ，环形进度控制条。
-* [KYCircularProgress](https://github.com/kentya6/KYCircularProgress) - 简单、实用路径可定进程条。
-* [TextProgress](https://github.com/cgwangding/TextProgress) - 自定义实现数字进度条：1、可以自定义数字（0-100），填充的比例为当前设置的数字，2、可以实现自定义填充颜色，上下部分都可以，3、可以自定义边界的颜色4、实现了水波动画，可以设置打开或关闭。
 * [SDProgressView](https://github.com/gsdios/SDProgressView) - 简便美观的进度指示器，此系列共有六种样式的进度指示器。
 * [LoopProgressDemo](https://github.com/saitjr/STLoopProgressView) - 环形渐变进度条，[环形渐变进度条实现](http://www.superqq.com/blog/2015/08/12/realization-circular-gradient-progress/)。
-* [PPCounter](https://github.com/jkpang/PPCounter) - 一款简单实用的数字加减动画,支持UILabel、UIButton显示
-* [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - 做的很棒的iOS下的PagerTabStrip。
-* [ASProgressPopUpView](https://github.com/alskipp/ASProgressPopUpView) - 弹出的进度条显示进度。
-* [HexColorService](https://github.com/ChangweiZhang/HexColorService) - 将16进制颜色字符串转成UIColor。
-* [Rainbow](https://github.com/NorthernRealities/Rainbow) - 旨在提高代码可读性及易用性的 UIColor 扩展，它使原先有限的预定义颜色（方法）选择，扩展至超过 1200 种。
-* [UIColor-ChineseTraditionalColors](https://github.com/zhxnlai/UIColor-ChineseTraditionalColors) - 中国传统颜色引用 UIColor 扩展。“UIColor.桃红()，UIColor.竹青() ...”，共158种。
-* [DACircularProgress](https://github.com/danielamitay/DACircularProgress) DACircularProgress is a UIView subclass with circular UIProgressView properties.
-* [类似美团的下拉菜单](http://code.cocoachina.com/detail/284158) - 类似美团的下拉菜单，[源码推荐说明](http://www.cocoachina.com/ios/20150205/11116.html)。
 * [类似美团的下拉选项](http://code4app.com/ios/%E7%B1%BB%E4%BC%BC%E7%BE%8E%E5%9B%A2%E7%9A%84%E4%B8%8B%E6%8B%89%E9%80%89%E9%A1%B9/538606d4933bf06e0a8b496e) -  类似于美团、大众点评的下拉菜单选项，code4app代码，评论代码有瑕疵。
-* [CRMediaPickerController](http://code.cocoachina.com/detail/284267) - 一个简单易用的图片/视频选择器。1.可同时选择照片和视频。 2.挑选范围有Camera、Camera Roll、Photo Library以及最近拍摄的照片和视频。3.可自定义UIImagePickerController属性（Camera Overlay、Camera Device、Camera View Transform以及allowsEditing）。4.支持横屏和竖屏5.原生的iOS UI。，[源码推荐说明](http://www.cocoachina.com/ios/20150205/11116.html)。
 * [MDCSwipeToChoose](https://github.com/modocache/MDCSwipeToChoose) - MDCSwipeToChoose可简单地添加滑动手势来调用UIView，并使用该行为提供了一个组件以创建类似Tinder app的like或者dislike界面的轻扫。基于轻扫的方向，你可以决定执行什么样的行为，并且你可以自定义文本颜色和图片。该项目适用于教学用的抽认卡、图片查看器以及其他等。
 * [iOS Material Design库](http://code.cocoachina.com/view/126073) - 该项目借鉴于谷歌的Material Design guideline，用户可自定义背景色。
 * [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS)  - Material Design风格的各种控件，非常完整全面。

@@ -36,6 +36,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [瀑布流@](#瀑布流)
   - [菜单@](#菜单)
   - [TabBar@](#tabbar)
+  - [进度@](#进度)
   - [其他UI@](#其他ui)
 - [多线程@](#多线程)
 - [游戏@](#游戏)
@@ -245,8 +246,13 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [CBMDTabbarController](https://github.com/cbangchen/CBMDTabbarController) It is a smooth MD tabbarController used on iOS, which implement by Swift.
 
+## 进度@
+
+* [KYCircularProgress](https://github.com/kentya6/KYCircularProgress) - 简单、实用路径可定进程条。
+
 ## page@
 
+* [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - 非常赞 的iOS下的PagerTabStrip。
 * [PinterestSegment](https://github.com/TBXark/PinterestSegment) 仿 Pinterest 的 Segment 控件(swift), 行数 200+
 
 #### 其他UI@
