@@ -221,6 +221,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [TKSwarmAlert.swift](https://github.com/entotsu/TKSwarmAlert) - TKSwarmAlert.swift:模仿 Swarm app 的 Alert 提醒框动画工具。
 * [PMAlertController.Swift](https://github.com/Codeido/PMAlertController) - 可定制弹窗组件替代官版不可定制的 UIAlertController。
 * [TBActionSheet.swift](https://github.com/yulingtianxia/TBActionSheet) - 支持Carthage，可自定义度100%的 ActionSheet，支持微信样式。
+* [NoticeBar](https://github.com/qiuncheng/NoticeBar)Notice View相关的简易库，叫做NoticeBar, 在NavigationBar、Tabbar、statusBar上显示提示信息，信息可包含文字和图片等，并且内置了四种提示消息。
 
 #### 状态栏@
 
@@ -241,6 +242,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 瀑布流@
 
 #### 菜单@
+
+* [Swift-CircleMenu](https://github.com/Sufi-Al-Hussaini/Swift-CircleMenu) Swift-CircleMenu：一款圆盘式菜单,Rotating circle menu written in Swift 3
 
 #### TabBar@
 
@@ -701,3 +704,5 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 ## 物联网@
 
 ## 未分类@
+
+* [Eureka](https://github.com/xmartlabs/Eureka ) 简洁方便的 iOS 表单生成器 （Swift 3）
