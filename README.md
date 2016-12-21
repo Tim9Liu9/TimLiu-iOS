@@ -497,6 +497,9 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 #### 菜单@
 
+* [HACursor](https://github.com/HAHAKea/HACursor) 帮助开发者方便集成导航指示器，用于管理视图页面
+* [ZTPageController](https://github.com/wuzhentao/ZTPageController) 模仿网易新闻和其他新闻样式做的一个菜单栏，栏中有各自的控制器。 不建议用VC做展示，具体可以参考我最近写的
+
 * [circle-menu](https://github.com/Ramotion/circle-menu) 赞 一个不错的旋转点击菜单，类似于遥控器的上下左右中点击样式
 * [KYGooeyMenu](https://github.com/KittenYang/KYGooeyMenu) - KYGooeyMenu 是一个具有 Gooey Effects 带粘性的扇形菜单控件(卫星菜单、path)。
 * [DCPathButton](https://github.com/Tangdixi/DCPathButton) - Path，4.0的弹出菜单，呼出或者关闭菜单时，多个小图标会分别按照逆时针和顺时针的方向进行滚动。
@@ -562,8 +565,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [EasyUIControl](https://github.com/sx1989827/EasyUIControl) - 一个可以简化界面ui的控件框架。
 * [QQBtn](https://github.com/ZhongTaoTian/QQBtn) - 仿QQ未读消息弹性按钮动画，达到和手机QQ未读信息一样的动画效果，效果基本实现。
 * [TZStackView](https://github.com/tomvanzummeren/TZStackView) - OS 9 UIStackView 功能模拟实现于 iOS 7/ iOS 8 内。
-* [HACursor](https://github.com/HAHAKea/HACursor) - HACursor，是一个对横向ScrollView中的视图进行管理的UI控件。只要几行代码就可以集成类似于网易新闻对主题页面进行排序，删除操作的功能。
-* [ZTPageController](https://github.com/wuzhentao/ZTPageController) - 模仿网易新闻和其他新闻样式做的一个菜单栏，栏中有各自的控制器，其中有4中展示样式’网易style' ’搜狐style' ’腾讯style1' ’网易style2' 。
 * [Ruler](https://github.com/nixzhu/Ruler) - 尺子。
 * [HUMSlider](https://github.com/justhum/HUMSlider) - HUMSlider是一款能够自动显示刻度记号的滑竿，滑动到某处，该处的刻度会自动上升，两边还能配置图像。支持代码或storyboard中实现。
 * [JDSelectedDemo](https://github.com/zhangli4659507/JDSelectedDemo) - 仿京东筛选菜单实现。
