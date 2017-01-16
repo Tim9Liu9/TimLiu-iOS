@@ -6,3 +6,4 @@
 * [iOS 持续集成系列 - 自动化 Code Review](https://shengpan.net/auto-code-review/)
 * [DynamicCocoa：滴滴 iOS 动态化方案的诞生与起航](http://mp.weixin.qq.com/s/qRW_akbU3TSd0SxpF3iQmQ)
 * [关于 iOS 10 中 ATS 的问题](https://onevcat.com/2016/06/ios-10-ats/)
+* [ iOS APP的加固保护原理](http://mp.weixin.qq.com/s/gthDSLw45GW3oVlsAOm-dQ)

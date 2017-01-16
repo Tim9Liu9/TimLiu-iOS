@@ -17,6 +17,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [Github用法@](#Github用法)
 - [完整App@](#完整App)
 - [Xcode8插件@](#Xcode8插件)
+- [动态更新@](#动态更新)
 - [App框架@](#App框架)
   - [响应式框架@](#响应式框架)
   - [framework@](#framework)
@@ -52,6 +53,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [page@](#page)
   - [轮播@](#轮播)
   - [选择器@](#选择器)
+  - [购物车@](#购物车)
   - [其他UI@](#其他UI)
   - [star5k@](#star5k)
 - [多线程@](#多线程)
@@ -119,7 +121,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [设计模式@](#设计模式)
 - [版本新API的Demo@](#版本新API的Demo)
 - [代码安全与密码@](#代码安全与密码)
-- [动态更新@](#动态更新)
 - [AppleWatch@](#AppleWatch)
 - [VPN@](#VPN)
 - [未分类@](#未分类)
@@ -193,6 +194,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [DayDayNews](https://github.com/gaoyuhang/DayDayNews) 仿网易新闻客户端，实现新闻浏览，视频播放，仿搜狐视频、百思不得姐等当前主流视频播放器，实现流媒体播放，自动监听屏幕转动，实现横屏播放 , 抓取百度图片，瀑布流显示，夜间模式，环信即时通讯
 * [ECMobile_iOS](https://github.com/GeekZooStudio/ECMobile_iOS)基于ECShop的手机商城客户端（iOS、Android、Php一体）
 
+* [BDJProjectExample](https://github.com/yizzuide/BDJProjectExample) 基于VIPER设计模式，以XFLegoVIPER框架为引擎的仿《百思不得姐》项目
+
 #### Xcode8插件@
 
 * [FLEX](https://github.com/Flipboard/FLEX) 非常赞的 一个Xcode工具，FLEX是一个需要注入式的一种框架，从描述来看，功能非常多。主要来讲的话能够对正在运行的应用进行样式的修改和控件的读取。FLEX会赐予你SuperPower！！！
@@ -206,7 +209,8 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 - [Dash-iOS](https://github.com/Kapeli/Dash-iOS) Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets https://kapeli.com/dash_ios
 * [HYBUnicodeReadable](https://github.com/CoderJackyHuang/HYBUnicodeReadable) -解决打印日志对于Unicode编码不能正常显示中文的问题，只需要将文件导入工程，不需要引用，就能达到打印日志显示Unicode编码中文数据
 
-#### App框架@                                              [返回目录](#目录)
+#### App框架@    
+                                          [返回目录](#目录)
 * [nimbus](https://github.com/jverkoey/nimbus) Nimbus是一个开源的iOS框架，比起Three20，Nimbus的文档更为全面、丰富，能够实现很多非常炫的界面特效。因此，开发者可以借助Nimbus来降低项目设计的复杂度。
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa 受函数响应式编程激发。不同于使用可变的变量替换和就地修改，RAC提供Signals来捕获当前值和将来值（ [使用介绍](http://yulingtianxia.com/blog/2014/07/29/reactivecocoa/) ），[不错的例子](http://iiiyu.com/2014/12/26/learning-ios-notes-thirty-six/),入门好教程：[ReactiveCocoa入门教程：第一部分 ](http://www.cocoachina.com/ios/20150123/10994.html)。[Reactive Cocoa 3.0 在 MVVM 中的应用](http://ios.jobbole.com/82232/) ,[小码哥：快速让你上手ReactiveCocoa之基础篇](http://www.jianshu.com/p/87ef6720a096)。
 * [samurai-native](https://github.com/hackers-painters/samurai-native) 是一个基于浏览器内核通过HTML+CSS 开发原生移动应用的iOS框架。
@@ -214,6 +218,9 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [katana-swift]（https://github.com/BendingSpoons/katana-swift）一个用于编写iOS应用程序的现代Swift框架，灵感来自React和Redux。 Swift Apps in a Swoosh! A modern framework for creating iOS apps, inspired by React and Redux.
 * [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit) 异步界面渲染库,为极限优化View效果而生（同时提供 UIView bridge 接口） Smooth asynchronous user interfaces for iOS apps.
 * [RestKit](https://github.com/RestKit/RestKit)RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X
+* [XFLegoVIPER](https://github.com/yizzuide/XFLegoVIPER) A lightweight framework base on VIPER architecture for iOS, to build robust and maintained large scale project.
+* [publishImageAndVideoAnsRecord](https://github.com/DayCrazy/publishImageAndVideoAnsRecord) 因为公司有很多模块，几乎每个模块都需要发布视频、语言、照片。所以在很多库的基础上，搭建了一个集合，其中包括带placeHolder的TextView、录制小视频、录制音频、选择照片或拍照。其中包括了很多网络上的资源，只是做了集合，在此留个记录，也希望对一些有需求额的朋友有帮助。
+* [XBSettingController](https://github.com/changjianfeishui/XBSettingController) 快速搭建类个人中心及应用设置界面
 
 #### UI@
 
@@ -385,15 +392,17 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [ExpandTableView](https://github.com/zhengwenming/ExpandTableView) 可折叠展开的tableView，QQ好友分组列表。
 * [SwipeTableView](https://github.com/Roylee-ML/SwipeTableView) Both scroll horizontal and vertical for segment scrollview which have a same header. — 类似半糖、美丽说主页与QQ音乐歌曲列表布局效果，实现不同菜单的左右滑动切换，同时支持类似tableview的顶部工具栏悬停（既可以左右滑动，又可以上下滑动）。兼容下拉刷新，自定义 collectionview实现自适应 contentSize 还可实现瀑布流功能
 
-#### CollectionView@
+## CollectionView@
 
 * [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout)UICollectionView的高级使用方法哦SFFocusViewLayou
 * [RACollectionViewReorderableTripletLayout](https://github.com/ra1028/RACollectionViewReorderableTripletLayout)自定义的CollectionView布局，可以通过拖动进行cell的重新排序。
 * [CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu)CollectionView做的两级菜单，可以折叠第二级菜单
 * [TableFlip](https://github.com/mergesort/TableFlip) A simpler way to do cool UITableView animations
 * [DraggingSort](https://github.com/HelloYeah/DraggingSort) 长按拖拽排序
+* [WCLWaterFallLayout](https://github.com/631106979/WCLWaterFallLayout) 用swift写的简易的瀑布流布局，简单易用，支持多行展示，实现过程：http://blog.csdn.net/wang631106979/article/details/53793046
+* [AppStore-Horizontal-Demo](https://github.com/liao3841054/AppStore-Horizontal-Demo) 仿半糖App 个人中心可以横向滚动的 列表 UICollectionView UITableView UISrcrollView
 
-#### 隐藏与显示@
+## 隐藏与显示@
 * [SlideTapBar](http://d.cocoachina.com/code/detail/286102) - 滚动栏菜单，向上滚动时隐藏tabbar，向下滚动马上显示tabbar。
 * [FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) - 可折叠Tab Bar和Tab Bar Controller。
 * [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) 叠。[实现教程](http://tech.glowing.com/cn/change-uinavigationbar-backgroundcolor-dynamically/)
@@ -492,6 +501,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### 电影选座@
 
 * [ZFSeatsSelection](https://github.com/ZFbaby/ZFSeatsSelection) 高仿猫眼电影选座（选票）模块（High imitation opal film seat selection (vote) module）
+* [FVSeatsPicker](https://github.com/Upliver/FVSeatsPicker) FVSeatsPicker是一个高性能的选座框架，可以直接pod引入，使用时可以直接当做View添加到任何视图控件内部！
 
 #### 瀑布流@
 
@@ -515,18 +525,18 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [WZLBadge](https://github.com/weng1250/WZLBadge) - 小红点，Badge，支持横竖屏支持iOS5~iOS8允许高度定制化，包括“红点”的背景颜色，文字(字体大小、颜色)，位置等。[说明](http://code.cocoachina.com/detail/316890/%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0%E5%A4%9A%E9%A3%8E%E6%A0%BC%E7%9A%84%E6%8E%A8%E9%80%81%E5%B0%8F%E7%BA%A2%E7%82%B9/).
 
-#### page@
+## page@
 
 * [PageMenu](https://github.com/uacaps/PageMenu) A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram)
 * [MXSegmentedPager](https://github.com/maxep/MXSegmentedPager) 分页滚动，多个分页的pageController效果
 * [XHTwitterPaggingViewer](https://github.com/xhzengAIB/XHTwitterPaggingViewer) A twitter like navigation bar, page viewer.
 
-#### 轮播@
+## 轮播@
 
 * [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) - 无限循环自动图片轮播器(一步设置即可使用)。
 * [HYBLoopScrollView](https://github.com/CoderJackyHuang/HYBLoopScrollView) 一行代码接入轮播组件，自带图片下载、缓存相关功能，无任何第三方依赖、轻量级组件。
 
-#### 选择器@
+## 选择器@
 
 * [ASDayPicker](http://code.cocoachina.com/detail/226543) - 适用于iOS (iPhone)的日期选择器(时间选择器)，类似于Calendar app的周视图。
 * [HSDatePickerViewController](https://github.com/EmilYo/HSDatePickerViewController) - 带有Dropbox Mailbox感觉的时间日期选择器(时间选择器)。启动是背景被模糊化。界面也是主流的扁平化风格。
@@ -534,7 +544,22 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [CFCityPickerVC](https://github.com/CharlinFeng/CFCityPickerVC) - 城市选取控制器。
 * [JFCitySelector](https://github.com/zhifenx/JFCitySelector) （仿美团）简单好用的城市选择器，三行代码搞定！
 
-#### 进度@
+## 购物车@
+
+* [ShoppingCartExample](https://github.com/gbaldera/ShoppingCartExample) - 购物车最多star demo。
+* [shoppingCart1](https://github.com/yhangeline/shoppingCart) - 仿美团购物车效果。
+* [ZFShoppingCart](https://github.com/WZF-Fei/ZFShoppingCart) - 仿照美团外卖加入购物车的动态效果。
+* [shoppingCart2](https://github.com/spxvszero/ShoppingCart) - 一个购物车demo，包含购物车动画效果、购物车多选、删除、编辑等功能。
+* [shoppingCart-demo](https://github.com/DrYrw/shoppingCart-demo) - 一个简单的购物车功能实现demo。
+* [iOS_oShoppingCart_Demo](https://github.com/ZyZwei/iOS_oShoppingCart_Demo) - 简单实现购物车常见的筛选功能。
+* [XNQShoppingTrolley](https://github.com/342261733/XNQShoppingTrolley) - 购物车功能 基本功能仿照淘宝的购物车。
+* [ShoppingDemo](https://github.com/Zhangjingwang1993/ShoppingDemo) - iOS仿美团外卖饿了吗App点餐动画,购物车。
+* [shopCarDemobyCX](http://code.cocoachina.com/view/129430) - shopCarDemobyCX一个简易购物车效果，最重要的是可以分单结算，分单个商品结算，代理是主要技术。
+* [MVVM KVO购物车](http://code.cocoachina.com/view/128713) - MVVM KVO 购物车(一处计算总价钱)。
+* [CartDemo](https://github.com/LQQZYY/CartDemo) - CartDemo比较完整的购物车界面及逻辑,商品展示,多选,单选,全选及滑动删除,价格计算。
+
+## 进度@
+
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - 卫星弹出菜单。
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) -  loading 进度条动画，有20-30多种，是在此[DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView) 基础上做得修改。
 * [YLProgressBar](https://github.com/yannickl/YLProgressBar) UIProgressView replacement with an highly and fully customizable animated progress bar in pure Core Graphics
@@ -559,6 +584,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [ImagePickerSheet](https://github.com/larcus94/ImagePickerSheetController) - 图片或视频选择器（可多选）组件及其示例项目。
 * [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub) - 快速给 UIView 添加上炫酷的通知图标（Badge、红点、提示）。  
 * [BLEProgressView](https://github.com/blueeee/BLEProgressView)使用pop实现动画的进度条
+* [ZZCircleProgress](https://github.com/zhouxing5311/ZZCircleProgress) draw rect实现的圆形进度条。可以使用部分圆弧当做整个进度条，并可以随意设置起始角度及减少的圆弧角度大小。
 
 * [BubbleTransition](https://github.com/andreamazz/BubbleTransition) - 以气泡膨胀和缩小的动画效果来显示和移除 controller，Uber的就是这种取消操作的方式。
 * [KYFloatingBubble](https://github
@@ -612,6 +638,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 #### 日历@
 
+* [FSCalendar](https://github.com/WenchaoD/FSCalendar) 一款漂亮，强大的 iOS 日历组件 A fully customizable iOS calendar library, compatible with Objective-C and Swift
 * [MSSCalendar](https://github.com/MSS0306/MSSCalendar) A simple iOS Calendar 高性能日历控件（类似去哪网）
 * [Calendar](https://github.com/jumartin/Calendar) - 日历、行程安排类的View和控制器。A set of views and controllers for displaying and scheduling events on iOS
 * [HYYCalendar](https://github.com/kRadius/HYYCalendar) 一个简单易用的日期的选择的控件，支持日历选择和Picker选择两种方式。支持iOS 6+
@@ -913,20 +940,9 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [YYAsyncLayers](https://github.com/ibireme/YYAsyncLayers) -  iOS 异步绘制与显示的工具。
 * [YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool) -  iOS 全局并发队列管理工具。
 * [YYKeyboardManager](https://github.com/ibireme/YYKeyboardManager) -   iOS 键盘监听管理工具。
-* [ShoppingCartExample](https://github.com/gbaldera/ShoppingCartExample) - 购物车最多star demo。
-* [shoppingCart1](https://github.com/yhangeline/shoppingCart) - 仿美团购物车效果。
-* [ZFShoppingCart](https://github.com/WZF-Fei/ZFShoppingCart) - 仿照美团外卖加入购物车的动态效果。
-* [shoppingCart2](https://github.com/spxvszero/ShoppingCart) - 一个购物车demo，包含购物车动画效果、购物车多选、删除、编辑等功能。
-* [shoppingCart-demo](https://github.com/DrYrw/shoppingCart-demo) - 一个简单的购物车功能实现demo。
-* [iOS_oShoppingCart_Demo](https://github.com/ZyZwei/iOS_oShoppingCart_Demo) - 简单实现购物车常见的筛选功能。
-* [XNQShoppingTrolley](https://github.com/342261733/XNQShoppingTrolley) - 购物车功能 基本功能仿照淘宝的购物车。
-* [ShoppingDemo](https://github.com/Zhangjingwang1993/ShoppingDemo) - iOS仿美团外卖饿了吗App点餐动画,购物车。
-* [shopCarDemobyCX](http://code.cocoachina.com/view/129430) - shopCarDemobyCX一个简易购物车效果，最重要的是可以分单结算，分单个商品结算，代理是主要技术。
-* [MVVM KVO购物车](http://code.cocoachina.com/view/128713) - MVVM KVO 购物车(一处计算总价钱)。
 * [BHBDrawBoarderDemo车](https://github.com/bb-coder/BHBDrawBoarderDemo) - 仿写猿题库练题画板功能，没有用drawRect，而是用CAShapeLayer来做画板绘画，特别省内存，赞1个，[实现分析](http://bihongbo.com/2016/01/03/memoryGhostdrawRect/)。
 * [jrswizzle](https://github.com/rentzsch/jrswizzle) - runtime实现的Method Swizzling第三方框架。
 * [BGTaobao](https://github.com/huangzhibiao/-) - ios 高仿淘宝/京东详情页 - 集合各种测试框架。
-* [CartDemo](https://github.com/LQQZYY/CartDemo) - CartDemo比较完整的购物车界面及逻辑,商品展示,多选,单选,全选及滑动删除,价格计算。
 * [JLRoutes](https://github.com/joeldev/JLRoutes) - JLRoutes好用的URL map库，它的作用是让按钮的点击像网页里的链接一样，只是触发了某个URL，而没有像pushViewController这样的行为，实现解耦。
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - 同时支持 Swift 及 Objective-C 的 Promise 类库，异步编程类库 提供了很多实用的异步函数 让异步编程更简单。
 * [ZipArchive](https://github.com/ZipArchive/ZipArchive) - 适用iOS和OS X的解压库。
@@ -1061,9 +1077,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [KrVideoPlayerPlus] (https://github.com/PlutusCat/KrVideoPlayerPlus) 根据36Kr开源的KRVideoPlayer 进行修改和补充实现一个轻量级的视频播放器，满足大部分视频播放需求
 * [TBPlayer](https://github.com/suifengqjn/TBPlayer) 视频变下变播，把播放器播放过的数据流缓存到本地，支持拖动。采用avplayer
 * [520Linkee](https://github.com/GrayJIAXU/520Linkee) 本项目实现了作为一个直播App的基本功能，比如本地视频流采集、播放、美颜、礼物、点赞出心等。
+* [YBPasterImage] (https://github.com/wangyingbo/YBPasterImage) 给图片添加滤镜、贴纸和标签功能，支持14种滤镜效果，17种标签样式。
 
-#### 视频@
-#### 视频播放@
+## 视频@
+## 视频播放@
 * [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - 非常赞 基于AVPlayer，支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度
 * [ijkplayer](https://github.com/Bilibili/ijkplayer) - B站开源的视频播放器，支持Android和iOS。 [iOS中集成ijkplayer视频直播框架](http://www.jianshu.com/p/1f06b27b3ac0)。
 * [WMPlayer](https://github.com/zhengwenming/WMPlayer) 赞 WMPlayer视频播放器，AVPlayer的封装，继承UIView，想怎么玩就怎么玩。支持播放mp4、m3u8、3gp、mov，网络和本地视频同时支持。全屏和小屏播放同时支持。 cell中播放视频，全屏小屏切换自如。
@@ -1072,7 +1089,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [plask](https://github.com/deanm/plask) Plask is a multimedia programming environment.
 * [KRVideoPlayer](https://github.com/36Kr-Mobile/KRVideoPlayer) - 类似Weico的播放器，支持竖屏模式下全屏播放。
 
-#### 视频录制@
+## 视频录制@
 * [SCRecorder](https://github.com/rFlex/SCRecorder) - 酷似 Instagram/Vine 的音频/视频摄像记录器，以 Objective-C 为基础的过滤器框架。 你可以做很多如下的操作：记录多个视频录像片段。删除任何你不想要的记录段。可以使用任何视频播放器播放片段。保存的记录可以在序列化的 NSDictionary 中使用。（在 NSUserDefaults 的中操作）添加使用 Core Image 的视频滤波器。可自由选择你需要的 parameters 合并和导出视频。
 * [LLSimpleCamera](https://github.com/omergul123/LLSimpleCamera)视频录制 A simple, customizable camera control - video recorder for iOS.
 * [SlowMotionVideoRecorder](https://github.com/shu223/SlowMotionVideoRecorder) 120 fps SLO-MO video recorder using AVFoundation. Including convenient wrapper class. Available on the iPhone5s.
@@ -1311,8 +1328,8 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 #### 接口调试工具@
 * [PostMan](https://www.getpostman.com/) google出品的接口调试工具
-#### Cagegory@
 
+#### Cagegory@
 * [JKCategories](https://github.com/shaojiankui/JKCategories) 非常棒的分类
 * [NullSafe](https://github.com/nicklockwood/NullSafe) NullSafe is a simple category on NSNull that returns nil for any unrecognised messages instead of throwing an exception pod 'NullSafe', '~> 1.2.2' 用于防止项目中数组为空时越界访问崩溃。
 * [iOS-Categories](https://github.com/shaojiankui/IOS-Categories) - 收集了许多有助于开发的iOS扩展,各种category分类。

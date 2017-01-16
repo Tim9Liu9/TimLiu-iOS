@@ -38,6 +38,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [TabBar@](#tabbar)
   - [进度@](#进度)
   - [引导页@](#引导页)
+  - [page@](#page)
+  - [评分@](#评分)
   - [其他UI@](#其他ui)
 - [多线程@](#多线程)
 - [游戏@](#游戏)
@@ -136,6 +138,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [LeagueofLegends](https://github.com/HarrisHan/LeagueofLegends) - 一个关于英雄联盟的完整iOS开源项目，接口均来自多玩，腾讯各大游戏平台。
 * [Coderpursue.swift](https://github.com/wenghengcong/Coderpursue) - 一款 Github 第三方客户端，使用最新 Swift 语言编写。
 * [BTApp](https://github.com/Ryan0520/BTApp) - BTApp 仿半糖 iOS App 的 Demo 应用。
+* [LXFFM](https://github.com/LinXunFeng/LXFFM) 高仿喜马拉雅FM
 
 ## Xcode8插件@
 
@@ -157,6 +160,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 日历@
 
 * [FSCalendar](https://github.com/WenchaoD/FSCalendar) - 一个包含objective-c和Swift版本的优秀的日历
+* [FSCalendar](https://github.com/WenchaoD/FSCalendar) 一款漂亮，强大的 iOS 日历组件 A fully customizable iOS calendar library, compatible with Objective-C and Swift
 
 #### 下拉刷新@
 
@@ -254,7 +258,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [KYCircularProgress](https://github.com/kentya6/KYCircularProgress) - 简单、实用路径可定进程条。
 
-## 引导页#
+## 引导页@
 
 * [MZGuidePages](https://github.com/MachelleZhang/MZGuidePages) - 自己写的通用导航页，可以直接引入工程使用，请参考案例（版本新特性、导航页、引导页）。
 * [Intro](https://github.com/nbolatov/Intro)简单的功能引导组件
@@ -264,6 +268,11 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - 非常赞 的iOS下的PagerTabStrip。
 * [PinterestSegment](https://github.com/TBXark/PinterestSegment) 仿 Pinterest 的 Segment 控件(swift), 行数 200+
+
+## 评分@
+
+* [iOS-RatingBar](https://github.com/saiwu-bigkoo/iOS-RatingBar) - iOS-RatingBar swift版的评分控件,跟Android的RatingBar一样有两种模式，评分模式和只读模式'支持视图编辑，自定义星星数量，评分等级,另外还能支持非整数星，0.5颗星，0.1颗星,可以开启动画效果。
+* [SwiftyStarRatingView](https://github.com/Jerrrr/SwiftyStarRatingView) SwiftyStarRatingView 是一个用 swift 3.0 编写的评分控件，可以支持自定义图片和颜色，并且可以支持在XIB、StoreBoard中使用，并支持AutoLayout。
 
 #### 其他UI@
 * [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress) -  KDCircularProgress是使用swift制作的色彩炫丽的进度条，可以加入多种颜色来控制进度条的渐变效果。
@@ -278,8 +287,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - swift 表单输入框架（亮点是表单验证规则引擎），是我见过地最易用的 Swift 表单组件。
 * [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner) - SwiftSpinner是使用swift制作的一款精致带感的指示器，并且连带有字体信息显示，模糊背景，半透明，扁平化等IOS8的效果。
 * [AKPickerView-Swift](https://github.com/Akkyie/AKPickerView-Swift) - 一款小而美的 3D 效果选择器。
-* [iOS-RatingBar](https://github.com/saiwu-bigkoo/iOS-RatingBar) - iOS-RatingBar swift版的评分控件,跟Android的RatingBar一样有两种模式，评分模式和只读模式'支持视图编辑，自定义星星数量，评分等级,另外还能支持非整数星，0.5颗星，0.1颗星,可以开启动画效果。
 * [LxGridView-oc](https://github.com/DeveloperLx/LxGridView) [LxGridView-swift](https://github.com/DeveloperLx/LxGridView-swift) - 利用UICollectionView模仿iOS系统桌面图标的交互，作用如动图。
+* [WMDragView](https://github.com/zhengwenming/WMDragView) WMDragView可以自由拖曳的view
 * [GMStepper](https://github.com/gmertk/GMStepper) - swift 带动画效果、支持手势滑动操作的步进标签。
 * [LayoutTrait](https://github.com/yushuyi/LayoutTrait) - swift 一个小类库。 做iPad 多任务分屏 适配的同学可以看一下。
 * [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) -  下拉列表暨导航标题组件。简单、直接、易用 -swift。
@@ -662,6 +671,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 ## 摄像照相视频音频处理@
 
 * [CameraManager](https://github.com/imaginary-cloud/CameraManager) - 相机管理封装类库。看着极好用的样子----swift。
+* [Sharaku](https://github.com/makomori/Sharaku) 类似Instagram的图片滤镜库 Image filtering UI library like Instagram.
 * [recordDemo.swift](https://github.com/lfb-cd/recordDemo) - 一个Swift语言实现直接可以用的录音Demo，[实现说明](http://www.jianshu.com/p/f0b88355d7cb)。
 * [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro) - 集成 LastFM 的专业电台应用（基于 Swift 2.0）。
 * [mobileplayer-ios.swift](https://github.com/mobileplayer/mobileplayer-ios) - 很不错的高度可定制播放器项目。
@@ -669,6 +679,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [AudioKit.swift](https://github.com/audiokit/AudioKit) - 音频合成、加工及分析平台（支持 iOS、OS X、tvOS）框架库。无论其易用性，还是功能性及专业性。
 * [SkfSwiftCammer](https://github.com/wubianxiaoxian/SkfSwiftCammer) - 一个相机demo，在oc里面调用了swift。
 * [BMPlayer.swift](https://github.com/BrikerMan/BMPlayer) - 基于 AVPlayer 使用 Swift 封装的视频播放器，方便快速集成,支持横屏、竖屏，上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。
+* [JHFilterDemo](https://github.com/China131/JHFilterDemo) 图片滤镜生成器
 
 ## 视频@
 ## 消息相关@
