@@ -392,7 +392,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [ExpandTableView](https://github.com/zhengwenming/ExpandTableView) 可折叠展开的tableView，QQ好友分组列表。
 * [SwipeTableView](https://github.com/Roylee-ML/SwipeTableView) Both scroll horizontal and vertical for segment scrollview which have a same header. — 类似半糖、美丽说主页与QQ音乐歌曲列表布局效果，实现不同菜单的左右滑动切换，同时支持类似tableview的顶部工具栏悬停（既可以左右滑动，又可以上下滑动）。兼容下拉刷新，自定义 collectionview实现自适应 contentSize 还可实现瀑布流功能
 
-## CollectionView@
+#### CollectionView@
 
 * [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout)UICollectionView的高级使用方法哦SFFocusViewLayou
 * [RACollectionViewReorderableTripletLayout](https://github.com/ra1028/RACollectionViewReorderableTripletLayout)自定义的CollectionView布局，可以通过拖动进行cell的重新排序。
@@ -402,7 +402,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [WCLWaterFallLayout](https://github.com/631106979/WCLWaterFallLayout) 用swift写的简易的瀑布流布局，简单易用，支持多行展示，实现过程：http://blog.csdn.net/wang631106979/article/details/53793046
 * [AppStore-Horizontal-Demo](https://github.com/liao3841054/AppStore-Horizontal-Demo) 仿半糖App 个人中心可以横向滚动的 列表 UICollectionView UITableView UISrcrollView
 
-## 隐藏与显示@
+#### 隐藏与显示@
+
 * [SlideTapBar](http://d.cocoachina.com/code/detail/286102) - 滚动栏菜单，向上滚动时隐藏tabbar，向下滚动马上显示tabbar。
 * [FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) - 可折叠Tab Bar和Tab Bar Controller。
 * [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) 叠。[实现教程](http://tech.glowing.com/cn/change-uinavigationbar-backgroundcolor-dynamically/)
@@ -411,7 +412,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar) - 非常赞，是一个使导航栏高度可以动态变化的 UI 库。固定Header的效果库，一个拥有非常灵活高度的标题栏，可以为使用软件的用户提供更多的阅读和滑动空间，现在已经被众多app所采用。
 * [JXT_iOS_Demos](https://github.com/kukumaluCN/JXT_iOS_Demos) - AboutNavigationBar:一些关于navigationBar的非常规的但是较为实用的操作，包括利用毛玻璃、动态透明、动态隐藏，以及头视图的动态缩放，并同时涉及了statusBar的动态设置（换色）。[教程](http://www.jianshu.com/p/b2585c37e14b)。
 * [NavigationBarScaleViewDemo](https://github.com/CoderJackyHuang/NavigationBarScaleViewDemo) - iOS导航条自由缩放头像效果。[原理剖析](http://www.henishuo.com/nav-photo-scale/)。
-
 
 #### HUD与Toast@
 * [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - 非常赞 最多人用的loading。
