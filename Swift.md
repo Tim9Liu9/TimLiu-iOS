@@ -231,6 +231,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 状态栏@
 
 #### 导航栏@
+* [Tiptoes](https://github.com/caiyue1993/Tiptoes) 提供了一种自定义 Navigation Bar 的新思路，并实现了转场渐变效果，灵感来自于 Unread 。
 
 #### 设置@
 
