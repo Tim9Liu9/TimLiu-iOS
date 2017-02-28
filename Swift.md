@@ -27,6 +27,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [隐藏与显示@](#隐藏与显示)
   - [HUD与Toast@](#hud与toast)
   - [对话框@](#对话框)
+  - [popover@](#popover)
   - [状态栏@](#状态栏)
   - [导航栏@](#导航栏)
   - [设置@](#设置)
@@ -60,6 +61,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
       - [XML&HTML@](#xmlhtml)
       - [Other Parsing@](#other-parsing)
 - [二维码@](#二维码)
+- [Color@](#Color)
 - [VR@](#VR)
 - [开发资料@](#开发资料)
   - [播客@](#播客)
@@ -222,6 +224,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Toast-Swift](https://github.com/scalessec/Toast-Swift) - 高可定制易用的 Toast 弹出信息或通知用户界面组件类。
 
 #### 对话框@
+
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop) - 轻量、易用的小清新弹出列表及信息提示组件真心不错。
 * [PCLBlurEffectAlert.swift](https://github.com/hryk224/PCLBlurEffectAlert) - 细节定制较丰富的弹出警报窗口组件。
 * [GSAlert.swftt](https://github.com/wxxsw/GSAlert) - 苹果在iOS8推出了全新的UIAlertController，旧的UIAlertView和UIActionSheet渐渐被废弃，但如果你仍然支持iOS7系统，你将不得不写两套代码。GSAlert解决了这个问题。
@@ -229,6 +232,12 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [PMAlertController.Swift](https://github.com/Codeido/PMAlertController) - 可定制弹窗组件替代官版不可定制的 UIAlertController。
 * [TBActionSheet.swift](https://github.com/yulingtianxia/TBActionSheet) - 支持Carthage，可自定义度100%的 ActionSheet，支持微信样式。
 * [NoticeBar](https://github.com/qiuncheng/NoticeBar)Notice View相关的简易库，叫做NoticeBar, 在NavigationBar、Tabbar、statusBar上显示提示信息，信息可包含文字和图片等，并且内置了四种提示消息。
+
+## popover@
+
+* [panelkit](https://github.com/louisdh/panelkit) 手势拖动弹出面板视图 A UI framework that enables panels on iOS.
+* [ElongationPreview](https://github.com/Ramotion/elongation-preview) - 一个优雅的push-pop风格的视图控制器  ElongationPreview is an elegant push-pop style view controller with 3D-Touch support and gestures. :large_orange_diamond:
+* [Pageboy](https://github.com/MerrickSapsford/Pageboy) -  一个简单、易学的page View Controller A simple, highly informative page view controller. :large_orange_diamond:
 
 #### 状态栏@
 
@@ -279,6 +288,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [iOS-RatingBar](https://github.com/saiwu-bigkoo/iOS-RatingBar) - iOS-RatingBar swift版的评分控件,跟Android的RatingBar一样有两种模式，评分模式和只读模式'支持视图编辑，自定义星星数量，评分等级,另外还能支持非整数星，0.5颗星，0.1颗星,可以开启动画效果。
 * [SwiftyStarRatingView](https://github.com/Jerrrr/SwiftyStarRatingView) SwiftyStarRatingView 是一个用 swift 3.0 编写的评分控件，可以支持自定义图片和颜色，并且可以支持在XIB、StoreBoard中使用，并支持AutoLayout。
+
+## Color@
+
+* [IGColorPicker](https://github.com/iGenius-Srl/IGColorPicker) - 一个自定义颜色选择器 🎨 A customizable color picker for iOS in Swift 🔶
 
 #### 其他UI@
 * [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress) -  KDCircularProgress是使用swift制作的色彩炫丽的进度条，可以加入多种颜色来控制进度条的渐变效果。
