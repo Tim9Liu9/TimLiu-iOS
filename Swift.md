@@ -88,8 +88,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [其他库@](#其他库)
 - [PDF@](#pdf)
 - [图像浏览及处理@](#图像浏览及处理)
-  - [图像圆角@](#图像圆角)
-- [摄像照相视频音频处理@](#摄像照相视频音频处理)
+- [图像处理@](#图像处理)
+- [相机@](#相机)
+- [音频@](#音频)
 - [视频@](#视频)
 - [消息相关@](#消息相关)
   - [消息推送客户端@](#消息推送客户端)
@@ -249,6 +250,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### 瀑布流@
 
+* [ELWaterFallLayout](https://github.com/NicolasKim/ELWaterFallLayout）  swift可定制瀑布流布局 UI 组件。
+
 #### 菜单@
 
 * [Swift-CircleMenu](https://github.com/Sufi-Al-Hussaini/Swift-CircleMenu) Swift-CircleMenu：一款圆盘式菜单,Rotating circle menu written in Swift 3
@@ -318,6 +321,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [Overdrive](https://github.com/arikis/Overdrive)专注于类型安全、并发和多线程的，快速 、专业的异步任务库 Fast async task based Swift framework with focus on type safety, concurrency and multi threading
 * [Jobs](https://github.com/BrettRToomey/Jobs)Swift Job 队列
+* [Kommander-iOS](https://github.com/intelygenz/Kommander-iOS) Swift 多线程任务管理库，很强大。
 
 ## 游戏@
 
@@ -402,6 +406,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [SwiftNet.swift](https://github.com/FengDeng/SwiftNet) - 基于 RxSwift 和 Alamofire 的网络请求简易封装库。
 * [Networking.Swift](https://github.com/3lvis/Networking) - 使用简单、功能惊喜，基于 NSURLSession 的网络封装。
 * [Moya](https://github.com/Moya/Moya) - 对Alamofire的封装，使用枚举将网络层实现细节与页面逻辑代码分离，方便单元测试，支持stub测试，配合RxSwift食用更佳，[博客教程](http://www.hmttommy.com/2015/12/15/Moya/)
+* [EFInternetIndicator](https://github.com/ezefranca/EFInternetIndicator)swift 轻巧的一款 iOS 网络变更通知工具。
 
 #### 图像获取@
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - 非常👍 纯 Swift 实现的类 SDWebImage 库，实现了异步下载和缓存图片。
@@ -669,22 +674,28 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [preview-transition.swift](https://github.com/Ramotion/preview-transition) - 通过向导式代码实现步骤，实现完整、自然流畅的图片预览及转场功能。
 * [CartoonEyes.swift](https://github.com/FlexMonkey/CartoonEyes) - 前置摄像头捕获图像后，采用 Core Image 脸部识别 CIDetector 和漫画效果滤镜复合出卡通效果眼睛。
 
-####图像圆角@
+## 图像处理@
 
-## 摄像照相视频音频处理@
-
-* [CameraManager](https://github.com/imaginary-cloud/CameraManager) - 相机管理封装类库。看着极好用的样子----swift。
 * [Sharaku](https://github.com/makomori/Sharaku) 类似Instagram的图片滤镜库 Image filtering UI library like Instagram.
-* [recordDemo.swift](https://github.com/lfb-cd/recordDemo) - 一个Swift语言实现直接可以用的录音Demo，[实现说明](http://www.jianshu.com/p/f0b88355d7cb)。
-* [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro) - 集成 LastFM 的专业电台应用（基于 Swift 2.0）。
-* [mobileplayer-ios.swift](https://github.com/mobileplayer/mobileplayer-ios) - 很不错的高度可定制播放器项目。
-* [Periscope-VideoViewController.swift](https://github.com/gontovnik/Periscope-VideoViewController) - 简洁实用的视频快进、倒带控制视图类库。
-* [AudioKit.swift](https://github.com/audiokit/AudioKit) - 音频合成、加工及分析平台（支持 iOS、OS X、tvOS）框架库。无论其易用性，还是功能性及专业性。
-* [SkfSwiftCammer](https://github.com/wubianxiaoxian/SkfSwiftCammer) - 一个相机demo，在oc里面调用了swift。
-* [BMPlayer.swift](https://github.com/BrikerMan/BMPlayer) - 基于 AVPlayer 使用 Swift 封装的视频播放器，方便快速集成,支持横屏、竖屏，上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。
 * [JHFilterDemo](https://github.com/China131/JHFilterDemo) 图片滤镜生成器
 
+## 相机@
+
+* [CameraManager](https://github.com/imaginary-cloud/CameraManager) - 相机管理封装类库。看着极好用的样子----swift。
+* [SkfSwiftCammer](https://github.com/wubianxiaoxian/SkfSwiftCammer) - 一个相机demo，在oc里面调用了swift。
+
+## 音频@
+
+* [recordDemo.swift](https://github.com/lfb-cd/recordDemo) - 一个Swift语言实现直接可以用的录音Demo，[实现说明](http://www.jianshu.com/p/f0b88355d7cb)。
+* [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro) - 集成 LastFM 的专业电台应用（基于 Swift 2.0）。
+* [AudioKit.swift](https://github.com/audiokit/AudioKit) - 音频合成、加工及分析平台（支持 iOS、OS X、tvOS）框架库。无论其易用性，还是功能性及专业性。
+
 ## 视频@
+
+* [mobileplayer-ios.swift](https://github.com/mobileplayer/mobileplayer-ios) - 很不错的高度可定制播放器项目。
+* [Periscope-VideoViewController.swift](https://github.com/gontovnik/Periscope-VideoViewController) - 简洁实用的视频快进、倒带控制视图类库。
+* [BMPlayer.swift](https://github.com/BrikerMan/BMPlayer) - 基于 AVPlayer 使用 Swift 封装的视频播放器，方便快速集成,支持横屏、竖屏，上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。
+
 ## 消息相关@
 #### 消息推送客户端@
 #### 消息推送服务器端@
