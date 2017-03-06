@@ -1073,10 +1073,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [音乐播放器](http://code.cocoachina.com/view/129435) - 音乐播放器：显示歌词。
 * [TBPlayer](https://github.com/suifengqjn/TBPlayer) - 视频变下变播，把播放器播放过的数据流缓存到本地，支持拖动。采用avplayer。[实现说明](http://www.jianshu.com/p/990ee3db0563)
 * [IWatch](https://github.com/280772270/IWatch) - 一个视频日报类的app 播放器用到了AVFoudation。
-* [MiaowShow] (https://github.com/SunLiner/MiaowShow) iOS视频直播项目
 * [KrVideoPlayerPlus] (https://github.com/PlutusCat/KrVideoPlayerPlus) 根据36Kr开源的KRVideoPlayer 进行修改和补充实现一个轻量级的视频播放器，满足大部分视频播放需求
 * [TBPlayer](https://github.com/suifengqjn/TBPlayer) 视频变下变播，把播放器播放过的数据流缓存到本地，支持拖动。采用avplayer
-* [520Linkee](https://github.com/GrayJIAXU/520Linkee) 本项目实现了作为一个直播App的基本功能，比如本地视频流采集、播放、美颜、礼物、点赞出心等。
 * [YBPasterImage] (https://github.com/wangyingbo/YBPasterImage) 给图片添加滤镜、贴纸和标签功能，支持14种滤镜效果，17种标签样式。
 
 ## 视频@
@@ -1099,6 +1097,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [ICGVideoTrimmer](https://github.com/itsmeichigo/ICGVideoTrimmer) - ICGVideoTrimmer提供提供视频剪切的视图（类似系统相册中浏览视频时顶部那个条状视图）。左右两个边界选择器还能够自定义。
 * [VideoEditing](https://github.com/ShelinShelin/VideoEditing) Video processing of the video capture and add background music
+
+## 弹幕
+
+* [BarrageRenderer](https://github.com/unash/BarrageRenderer) 一个 iOS 上的弹幕渲染库.
 
 #### 直播@
 
