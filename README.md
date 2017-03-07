@@ -999,6 +999,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [GPUImage](https://github.com/BradLarson/GPUImage) - 处理图片效果。
 * [LearnOpenGLES](https://github.com/loyinglin/LearnOpenGLES)OpenGL ES的各种尝试
+* [GPUImage详解](http://www.jianshu.com/nb/4268718)
 
 #### 图像浏览及处理@
 * [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) - 一个非常不错的照片浏览器，在github的star超过6000个，[解决MWPhotoBrowser中的SDWebImage加载大图导致的内存警告问题](http://www.superqq.com/blog/2015/01/22/jie-jue-mwphotobrowserzhong-de-sdwebimagejia-zai-da-tu-dao-zhi-de-nei-cun-jing-gao-wen-ti/)。
