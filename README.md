@@ -16,6 +16,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 ###  目录
 - [Github用法@](#Github用法)
 - [完整App@](#完整App)
+- [上架@](#上架)
 - [Xcode8插件@](#Xcode8插件)
 - [动态更新@](#动态更新)
 - [App框架@](#App框架)
@@ -195,6 +196,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [ECMobile_iOS](https://github.com/GeekZooStudio/ECMobile_iOS)基于ECShop的手机商城客户端（iOS、Android、Php一体）
 
 * [BDJProjectExample](https://github.com/yizzuide/BDJProjectExample) 基于VIPER设计模式，以XFLegoVIPER框架为引擎的仿《百思不得姐》项目
+
+#### 上架@
+
+* [Solve-App-Store-Review-Problemm](https://github.com/wg689/Solve-App-Store-Review-Problem) (ipv6,ipv6被拒绝,后台定位等审核问题的终极解决方案汇总)。
 
 #### Xcode8插件@
 
@@ -1502,4 +1507,3 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 #### 未分类@
 * [appirater](https://github.com/arashpayan/appirater)提醒用户打分 A utility that reminds your iPhone app's users to review the app.
 * [Form](https://github.com/hyperoslo/Form) Form 是一个方便开发者创建表单填写工作的 UI 库。
-* [Solve-App-Store-Review-Problemm](https://github.com/wg689/Solve-App-Store-Review-Problemm) (ipv6,ipv6被拒绝,后台定位等审核问题的终极解决方案汇总)。
