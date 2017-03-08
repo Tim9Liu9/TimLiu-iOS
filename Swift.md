@@ -221,6 +221,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [ESTabBarController.swift](https://github.com/eggswift/ESTabBarController) - 自定义TabBarController组件，继承自UITabBarControlle，可添加动画和自定义样式。[swift 高度自定义TabBarController，支持自定义TabBarItem样式或添加动画](http://www.jianshu.com/p/9e52630e7368)
 * [GLTableCollectionView](https://github.com/giulio92/GLTableCollectionView) Netflix and App Store like UITableView with UICollectionView, written in pure Swift 3.0
 * [EditDistance](https://github.com/kazuhiro4949/EditDistance) tableView、CollectionView 数据重载更新效果Demo
+* [CenteredCollectionView](https://github.com/BenEmdon/CenteredCollectionView) 轻量级的CollectionViewCell左右滑动效果，类似电影App选电影的效果
 
 #### 隐藏与显示@
 
@@ -339,6 +340,17 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Overdrive](https://github.com/arikis/Overdrive)专注于类型安全、并发和多线程的，快速 、专业的异步任务库 Fast async task based Swift framework with focus on type safety, concurrency and multi threading
 * [Jobs](https://github.com/BrettRToomey/Jobs)Swift Job 队列
 * [Kommander-iOS](https://github.com/intelygenz/Kommander-iOS) Swift 多线程任务管理库，很强大。
+* [GCDKit](https://github.com/JohnEstropia/GCDKit) 简单的GCD用法
+* [Async](https://github.com/duemunk/Async) GCD异步派遣的语法糖
+* [SwiftSafe](https://github.com/nodes-ios/SwiftSafe) 线程同步、线程安全
+* [YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool) 管理全局派遣队列的实用类
+* [AlecrimAsyncKit](https://github.com/Alecrim/AlecrimAsyncKit) Swift关于异步、等待的一些好的经验
+* [Threader](https://github.com/mitchtreece/Threader) - 漂亮的GCD使用和简单执行
+* [Dispatch](https://github.com/Swiftification/Dispatch) 让GCD更容易、简单使用的轻量级的库 Just a tiny library to make using GCD easier and intuitive :large_orange_diamond:
+* [GCDTimer](https://github.com/hemantasapkota/GCDTimer) - Well tested Grand Central Dispatch (GCD) Timer in Swift.
+* [Chronos-Swift](https://github.com/comyar/Chronos-Swift) GCD工具类
+* [Me](https://github.com/pascalbros/Me) 嵌套异步计算的一个超级轻量级的解决方案
+* [SwiftyTask](https://github.com/CR-Creations/SwiftyTask) 一个高性能的排队系统，用于管理App中的全部任务。
 
 ## 游戏@
 
