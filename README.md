@@ -640,7 +640,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 #### 多线程@
 
-
+* [JX_GCDTimer](https://github.com/Joeyqiushi/JX_GCDTimer) 定时器，NSTimer和GCD哪个更好
+* [Thread](https://github.com/mrhyh/Thread) 多线程Demo集合
 
 #### 日历@
 
