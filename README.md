@@ -1121,6 +1121,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [LMLiveStreaming](https://github.com/chenliming777/LMLiveStreaming) IOS Live,H264 and AAC Hard coding，support GPUImage Beauty， rtmp and flv transmission，weak network lost frame，Dynamic switching rate
 * [520Linkee](https://github.com/GrayJIAXU/520Linkee)本项目实现了作为一个直播App的基本功能，比如本地视频流采集、播放、美颜、礼物、点赞出心等。
 * [CameraStickerDemo](https://github.com/Sinkup/CameraStickerDemo) 基于GPUImage的实时视频流贴纸Demo
+* [LMLiveStreaming](https://github.com/chenliming777/LMLiveStreaming) iOS直播，支持H246/AAC，支持GPUImage美化，支持rtmp和flv，较慢的网络优化
 
 #### 响应式框架@
 * [LoginWithReactiveCocoa](https://github.com/CrazySurfBoy/LoginWithReactiveCocoa) - ReactiveCocoa - 登录交互效果的实现。
