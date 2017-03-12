@@ -1,14 +1,14 @@
 # Uncomment this line to define a global platform for your project
 # platform :ios, '9.0'
 
-target 'Risk' do
+target ‘Test’ do
   # Uncomment this line if you're using Swift or would like to use dynamic frameworks
   # use_frameworks!
 
   # Pods for Risk
 
 end
-#/***************EF使用的三方库  ************/
+#/***************常用的三方库  ************/
 
 #三方登录分享
 pod 'libWeChatSDK', '~> 1.5'
@@ -27,7 +27,7 @@ pod 'SDWebImage', '~> 3.7.2'
 pod 'libWeChatSDK', '~> 1.5'
 pod 'SVWebViewController', '~> 1.0'
 pod 'AlipaySDK-2.0'
-#/***************EF使用的三方库  *********end/
+#/***************end*********end/
 
 pod 'WZLBadge', '~> 1.2.1' #小红点
 #pod 'MLeaksFinder' #内存管理
