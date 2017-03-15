@@ -48,6 +48,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
   - [gif动画@](#gif动画)
   - [其他动画@](#其他动画)
+- [相册@](相册#)
 - [AutoLayout@](#autolayout)
 - [网络相关@](#网络相关)
   - [网络连接@](#网络连接)
@@ -411,6 +412,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [PeekPop.swift](https://github.com/marmelroy/PeekPop) - 3DTouch动画组件。
 * [fantastic-ios-animation.swift](https://github.com/onmyway133/fantastic-ios-animation) - 基于 UI 组件类别分类，且带精彩动画效果的 iOS 组件库集合。
 * [GridPanelDemo](https://github.com/JasonZengJ/GridPanelDemo) 赞，一个点击翻转的动画Demo
+
+## 相册@
+
+* [DKImagePickerController](https://github.com/zhangao0086/DKImagePickerController) 相册选取
 
 ## AutoLayout@
 * [Snap](https://github.com/SnapKit/SnapKit) - Snap是Masonry Auto Layout DSL的Swift版本，是一款轻量级的布局框架，使用了更良好的语法封装了AutoLayout。Snap支持iOS和OS X。
