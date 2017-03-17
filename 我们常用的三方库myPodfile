@@ -8,6 +8,7 @@ target ‘Test’ do
   # Pods for Risk
 
 end
+
 #/***************常用的三方库  ************/
 
 #三方登录分享
@@ -27,6 +28,7 @@ pod 'SDWebImage', '~> 3.7.2'
 pod 'libWeChatSDK', '~> 1.5'
 pod 'SVWebViewController', '~> 1.0'
 pod 'AlipaySDK-2.0'
+
 #/***************end*********end/
 
 pod 'WZLBadge', '~> 1.2.1' #小红点
