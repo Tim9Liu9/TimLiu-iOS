@@ -713,6 +713,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [Sharaku](https://github.com/makomori/Sharaku) 类似Instagram的图片滤镜库 Image filtering UI library like Instagram.
 * [JHFilterDemo](https://github.com/China131/JHFilterDemo) 图片滤镜生成器
+* [SnapSliderFilters](https://github.com/pauljeannot/SnapSliderFilters) 给图像加贴图、文字的类似阅后即焚的功能
 
 ## 相机@
 
