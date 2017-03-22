@@ -4,9 +4,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 [Objective-C版本点击这里](https://github.com/Tim9Liu9/TimLiu-iOS/blob/master/README.md)
 欢迎加入QQ交流群:  594119878
 
-主要工作说明：
-  1. 将Swift从Objective-C混合的md文件中抽出（正在进行...）
-
 使用方法：根据目录关键字搜索，记得包含@，以保证搜索目录关键字的唯一性。
 
 问题反馈：请广大网友只按照目录结构（即使目录结构有问题）添加三方库，并pull request。目录问题大家提出issues后楼主会及时更改的。
