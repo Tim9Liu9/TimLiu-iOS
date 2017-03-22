@@ -5,10 +5,7 @@
 ## 人脸识别
 
 * [iOS之使用CoreImage进行人脸识别](http://www.jianshu.com/p/e371099f12bd)
-
-
-
-
+* [基于 OpenCV 的人脸识别](https://objccn.io/issue-21-9/)
 
 * [Xcode8以后的自动打包](https://fight4j.github.io/)
 * [如何深度重构UIViewController实例-直播界面](http://mp.weixin.qq.com/s/lBuV9cnZ2bofWpnpJzD1Rw )
