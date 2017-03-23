@@ -314,6 +314,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 #### 图表@
 * [PNChart](https://github.com/kevinzhow/PNChart) - 国内开源作者，动态的图表。
+* [XJYChart](https://github.com/JunyiXie/XJYChart) 优秀的的图表框架。支持动画，点击，滑动，区域高亮
 * [YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) - 支持在watchOS上绘制图表，看它最近更新挺勤快的，可以关注一下。
 * [RealtimeGradientText](https://github.com/kevinzhow/RealtimeGradientText) - Fun With CALayer Mask 刚好今天开源了一个有趣的项目 RealtimeGradientText，所以也好聊一下 CALayer 的 Mask，[说明](http://blog.zhowkev.in/2015/07/06/fun-with-mask/)。
 * [XYPieChart](https://github.com/xyfeng/XYPieChart) -XYPieChart:饼状图,  饼图,  数据统计,  数据可视化,可以在图形上标注数据。效果十分漂亮，而且没有用到一张图片。
