@@ -1007,6 +1007,12 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### PDF@
 * [Reader](https://github.com/vfr/Reader) - Reader可提供类似iBooks的文档导航，支持屏幕旋转和所有方向，并通过密码保护加密PDF文件，支持PDF链接和旋转页面。
 
+#### 图片识别@
+
+* [IDCardRecognition](https://github.com/zhongfenglee/IDCardRecognition)中国大陆第二代身份证识别，自动读出身份证上的信息（姓名、性别、民族、住址、身份证号码）并截取身份证照片 Edit
+Add topics
+
+
 #### 图像处理@
 
 * [GPUImage](https://github.com/BradLarson/GPUImage) - 处理图片效果。
