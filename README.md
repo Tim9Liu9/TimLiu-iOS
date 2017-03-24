@@ -905,7 +905,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [iOS私有API](https://github.com/nst/iOS-Runtime-Headers) - 这个仓库可以调取苹果的所有私有方法头文件，相当强大。私有API，绿色 == public，红色 == private，蓝色 == dylib。
 * [iOS源代码](http://opensource.apple.com/source/CF/) - iOS源代码。
 * [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - C++ 人脸识别 包含正面和多视角人脸检测两个算法.优点:速度快(OpenCV haar+adaboost的2-3倍), 准确度高 (FDDB非公开类评测排名第二），能估计人脸角度。
-* [YLFaceuDemo](https://github.com/Guikunzhi/YLFaceuDemo)
 * [Slidden](https://github.com/Brimizer/Slidden) - 一个老外开源的开发自定义键盘的库，利用这个开源库，可以方便的配置键位、颜色以及键位对应的图片。
 * [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding) - 用户键盘弹出自动计算高度，进行屏幕滚动操作。
 * [CDPMonitorKeyboard](http://d.cocoachina.com/code/detail/298267) - CDPMonitorKeyboard封装,可以解决输入视图(例如textField,textView等)被键盘覆盖问题，并可设置高于键盘多少。
@@ -1009,11 +1008,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### PDF@
 * [Reader](https://github.com/vfr/Reader) - Reader可提供类似iBooks的文档导航，支持屏幕旋转和所有方向，并通过密码保护加密PDF文件，支持PDF链接和旋转页面。
 
-#### 图片识别@
+#### 图像识别@
 
+* [YLFaceuDemo](https://github.com/Guikunzhi/YLFaceuDemo) - 在直播应用中添加Faceu贴纸效果。Faceu贴纸效果其实就是在人脸上贴一些图片，同时这些图片是跟随着人脸的位置改变的。[说明](http://www.jianshu.com/p/ba1f79f8f6fa)
 * [IDCardRecognition](https://github.com/zhongfenglee/IDCardRecognition)中国大陆第二代身份证识别，自动读出身份证上的信息（姓名、性别、民族、住址、身份证号码）并截取身份证照片 Edit
-Add topics
-
 
 #### 图像处理@
 
@@ -1053,7 +1051,6 @@ Add topics
 * [BeautifyFaceDemo](https://github.com/Guikunzhi/BeautifyFaceDemo) - 一个基于 GPUImage 的实时直播磨皮滤镜的开源实现,主要功能脸部去斑磨皮！
 * [YUCIHighPassSkinSmoothing](https://github.com/YuAo/YUCIHighPassSkinSmoothing) - 磨皮滤镜！
 * [YUGPUImageHighPassSkinSmoothing](https://github.com/YuAo/YUGPUImageHighPassSkinSmoothing) - 一个基于 GPUImage 的磨皮滤镜！
-* [YLFaceuDemo](https://github.com/Guikunzhi/YLFaceuDemo) - 在直播应用中添加Faceu贴纸效果。Faceu贴纸效果其实就是在人脸上贴一些图片，同时这些图片是跟随着人脸的位置改变的。[说明](http://www.jianshu.com/p/ba1f79f8f6fa)
 * [XHImageViewer] (https://github.com/JackTeam/XHImageViewer) XHImageViewer is images viewer, zoom image.
 * [card.io-iOS-SDK] (https://github.com/AllLuckly/card.io-iOS-SDK) OCR光学识别储蓄卡以及信用卡,[oc与swift使用教程](http://www.jianshu.com/p/82f73c23a76a).
 * [自定义宽高比的相册框 拍照](http://code.cocoachina.com/detail/320603/) - 取出照片时 弹出自定义view。在这个自定义view上创建一个需要的相框大小的view层 把取出的图片赋值给UIImageView按缩放添加到这个层上。对uiimageView添加捏合、移动 手势。添加按钮 选取，最后根据位移和缩放比例 裁剪image。
@@ -1240,6 +1237,7 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
 * [xctool](https://github.com/facebook/xctool) - Facebook出的自动化打包工具，它规范了输出的log日志，而且一些错误信息也更为清晰一些。
 * [chisel](https://github.com/facebook/chisel) Chisel扩展了一些列的lldb的命令来帮助iOS开发者调试iOS应用程序。
 * [PonyDebugger](https://github.com/square/PonyDebugger)由 Square 公司推出的一款优秀的 iOS 应用网络调试工具, 用户可以实时看到应用程序的网络请求, 也可以对 iOS 应用程序的核心数据栈进行远程调试
+* [KIF](https://github.com/kif-framework/KIF) - 是一个开源的用户界面UI测试框架. 使用 KIF, 并利用 iOS中的辅助功能 API, 你将能够编写模拟用户输入，诸如点击，触摸和文本输入，自动化的UI测试.
 * [pxctest](https://github.com/plu/pxctest) Execute tests in parallel on multiple iOS Simulators 在多个 iOS 模拟器上并行测试。
 * [dSYMTools](https://github.com/answer-huang/dSYMTools)友盟 dSYM analyze
 * [HeapInspector](https://github.com/tapwork/HeapInspector-for-iOS) - HeapInspector是一个用于检测应用中的内存泄漏的开源调试工具。
@@ -1252,7 +1250,6 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
 * [KKLog](https://github.com/Coneboy-k/KKLog) - 一个日志管理系统。
 * [Buildasaur](https://github.com/czechboy0/Buildasaur) - 自动测试框架 Buildasaur。
 * [使用Quick框架和Nimble来测试ViewControler](http://www.devtf.cn/?p=739) - Quick是一个用于创建BDD测试的框架。配合Nimbl，可以为你创建更符合预期目标的测试。
-* [KIF](https://github.com/kif-framework/KIF) - 是一个开源的用户界面UI测试框架. 使用 KIF, 并利用 iOS中的辅助功能 API, 你将能够编写模拟用户输入，诸如点击，触摸和文本输入，自动化的UI测试.
 * [Quick](https://github.com/Quick/Quick) - 用于Swift中的单元测试（也可用于Objective-C），与Xcode整合在一起。如果你是Objective-C的粉丝，我建议用Specta代替这个，但是对Swift使用者来说，Quick是最佳选择。
 * [KSCrash](https://github.com/kstenerud/KSCrash) - iOS Crash 捕获上报工具， 可以自己配置服务器， 也可以与它推荐的服务器搭配使用
 
