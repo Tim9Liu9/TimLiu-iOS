@@ -112,7 +112,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [视频处理@](#视频处理)
   - [视频录制@](#视频录制)
   - [视频剪切@](#视频剪切)
-- [摄像@](#摄像)
 - [照相视频音频处理@](#照相视频音频处理)
 - [图像浏览及处理@](#图像浏览及处理)
   - [图像圆角@](#图像圆角)
@@ -1020,7 +1019,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [GPUImage详解](http://www.jianshu.com/nb/4268718)
 * [OpenGLES详解](http://www.jianshu.com/p/64d9c58d8344) 一个相对完整的OpenGLES的学习博客，包含源码
 * [OpenGLES系列教程](http://www.jianshu.com/nb/2135411)
-* [CameraStickerDemo](https://github.com/Sinkup/CameraStickerDemo) 视频贴图的Demo
 
 #### 图像浏览及处理@
 * [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) - 一个非常不错的照片浏览器，在github的star超过6000个，[解决MWPhotoBrowser中的SDWebImage加载大图导致的内存警告问题](http://www.superqq.com/blog/2015/01/22/jie-jue-mwphotobrowserzhong-de-sdwebimagejia-zai-da-tu-dao-zhi-de-nei-cun-jing-gao-wen-ti/)。
@@ -1062,10 +1060,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### 图像圆角
 
 * [ZYCornerRadius](https://github.com/liuzhiyi1992/ZYCornerRadius) 赞 一句代码，圆角风雨无阻。A Category to make cornerRadius for UIImageView have no Offscreen-Rendered, be more efficiency. http://zyden.vicp.cc/zycornerradius/
-
-#### 摄像@
-
-* [LLSimpleCamera](https://github.com/omergul123/LLSimpleCamera) - A simple, customizable camera control for iOS， 摄像头。
 
 #### 拍照
 
@@ -1132,7 +1126,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 ## 视频处理@
 
-
+* [CameraStickerDemo](https://github.com/Sinkup/CameraStickerDemo) 基于GPUImage的实时视频流贴纸Demo
 
 ## 视频录制@
 * [SCRecorder](https://github.com/rFlex/SCRecorder) - 酷似 Instagram/Vine 的音频/视频摄像记录器，以 Objective-C 为基础的过滤器框架。 你可以做很多如下的操作：记录多个视频录像片段。删除任何你不想要的记录段。可以使用任何视频播放器播放片段。保存的记录可以在序列化的 NSDictionary 中使用。（在 NSUserDefaults 的中操作）添加使用 Core Image 的视频滤波器。可自由选择你需要的 parameters 合并和导出视频。
@@ -1154,7 +1148,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [MiaowShow](https://github.com/SunLiner/MiaowShow) iOS视频直播项目 http://www.jianshu.com/users/9723687edfb5
 * [LMLiveStreaming](https://github.com/chenliming777/LMLiveStreaming) IOS Live,H264 and AAC Hard coding，support GPUImage Beauty， rtmp and flv transmission，weak network lost frame，Dynamic switching rate
 * [520Linkee](https://github.com/GrayJIAXU/520Linkee)本项目实现了作为一个直播App的基本功能，比如本地视频流采集、播放、美颜、礼物、点赞出心等。
-* [CameraStickerDemo](https://github.com/Sinkup/CameraStickerDemo) 基于GPUImage的实时视频流贴纸Demo
 * [LMLiveStreaming](https://github.com/chenliming777/LMLiveStreaming) iOS直播，支持H246/AAC，支持GPUImage美化，支持rtmp和flv，较慢的网络优化
 
 #### 响应式框架@
