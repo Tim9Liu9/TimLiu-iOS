@@ -1019,6 +1019,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [GPUImage详解](http://www.jianshu.com/nb/4268718)
 * [OpenGLES详解](http://www.jianshu.com/p/64d9c58d8344) 一个相对完整的OpenGLES的学习博客，包含源码
 * [OpenGLES系列教程](http://www.jianshu.com/nb/2135411)
+* [HCPhotoEdit](https://github.com/gmfxch/HCPhotoEdit) 仿 Camera360 SDK，利用GPUImage框架实现基本的图片处理功能
 
 #### 图像浏览及处理@
 * [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) - 一个非常不错的照片浏览器，在github的star超过6000个，[解决MWPhotoBrowser中的SDWebImage加载大图导致的内存警告问题](http://www.superqq.com/blog/2015/01/22/jie-jue-mwphotobrowserzhong-de-sdwebimagejia-zai-da-tu-dao-zhi-de-nei-cun-jing-gao-wen-ti/)。
@@ -1145,6 +1146,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 #### 直播@
 
+* [LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit) 开源遵循RTMP协议的直播SDK
 * [MiaowShow](https://github.com/SunLiner/MiaowShow) iOS视频直播项目 http://www.jianshu.com/users/9723687edfb5
 * [LMLiveStreaming](https://github.com/chenliming777/LMLiveStreaming) IOS Live,H264 and AAC Hard coding，support GPUImage Beauty， rtmp and flv transmission，weak network lost frame，Dynamic switching rate
 * [520Linkee](https://github.com/GrayJIAXU/520Linkee)本项目实现了作为一个直播App的基本功能，比如本地视频流采集、播放、美颜、礼物、点赞出心等。
