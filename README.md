@@ -1110,6 +1110,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 ## 视频@
 ## 视频播放@
+* [FFmpeg](https://github.com/FFmpeg/FFmpeg) 一个处理多媒体数据的开源、免费的库，
+
 * [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - 非常赞 基于AVPlayer，支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度
 * [ijkplayer](https://github.com/Bilibili/ijkplayer) - 非常赞 B站开源的视频播放器，支持Android和iOS。 [iOS中集成ijkplayer视频直播框架](http://www.jianshu.com/p/1f06b27b3ac0)。
 * [WMPlayer](https://github.com/zhengwenming/WMPlayer) 赞 WMPlayer视频播放器，AVPlayer的封装，继承UIView，想怎么玩就怎么玩。支持播放mp4、m3u8、3gp、mov，网络和本地视频同时支持。全屏和小屏播放同时支持。 cell中播放视频，全屏小屏切换自如。
