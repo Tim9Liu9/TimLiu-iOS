@@ -536,19 +536,19 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [WZLBadge](https://github.com/weng1250/WZLBadge) - 小红点，Badge，支持横竖屏支持iOS5~iOS8允许高度定制化，包括“红点”的背景颜色，文字(字体大小、颜色)，位置等。[说明](http://code.cocoachina.com/detail/316890/%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0%E5%A4%9A%E9%A3%8E%E6%A0%BC%E7%9A%84%E6%8E%A8%E9%80%81%E5%B0%8F%E7%BA%A2%E7%82%B9/).
 
-## page@
+#### page@
 
 * [PageMenu](https://github.com/uacaps/PageMenu) A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram)
 * [MXSegmentedPager](https://github.com/maxep/MXSegmentedPager) 分页滚动，多个分页的pageController效果
 * [XHTwitterPaggingViewer](https://github.com/xhzengAIB/XHTwitterPaggingViewer) A twitter like navigation bar, page viewer.
 
-## 轮播@
+#### 轮播@
 
 * [iCarousel](https://github.com/nicklockwood/iCarousel) 非常赞 作者是英国 Charcoal Design 公司的创始人, 开源领域的贡献颇为卓著, 这个项目就是其中之一, 这是一款可以在 iOS 上实现旋转木马视图切换效果的第三方控件, 并提供多种切换效果。是一个使用简单、高度自定义的多类型视图切换的控件，支持iOS/Mac OS、ARC & Thread Safety; A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS
 * [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) - 无限循环自动图片轮播器(一步设置即可使用)。
 * [HYBLoopScrollView](https://github.com/CoderJackyHuang/HYBLoopScrollView) 一行代码接入轮播组件，自带图片下载、缓存相关功能，无任何第三方依赖、轻量级组件。
 
-## 选择器@
+#### 选择器@
 
 * [ASDayPicker](http://code.cocoachina.com/detail/226543) - 适用于iOS (iPhone)的日期选择器(时间选择器)，类似于Calendar app的周视图。
 * [HSDatePickerViewController](https://github.com/EmilYo/HSDatePickerViewController) - 带有Dropbox Mailbox感觉的时间日期选择器(时间选择器)。启动是背景被模糊化。界面也是主流的扁平化风格。
@@ -765,7 +765,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [YLGIFImage](https://github.com/liyong03/YLGIFImage) - YLGIFImage。
 * [droptogif](https://github.com/mortenjust/droptogif) -  droptogif视频拖拽到应用窗口后自动转换为 GIF 动画（其转换进程动画效果也超赞）。
 
-####数据存储@
+#### 数据存储@
 
 * [JQFMDB](https://github.com/gaojunquan/JQFMDB) FMDB的封装,操作简单,线程安全,扩展性强,直接操作model或dictionary
 * [HYFileManager](https://github.com/castial/HYFileManager) 一个不错的文件管理操作工具类 HYFileManager is a powerful util based on NSFileManager.
@@ -1100,16 +1100,16 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [TBPlayer](https://github.com/suifengqjn/TBPlayer) 视频变下变播，把播放器播放过的数据流缓存到本地，支持拖动。采用avplayer
 * [YBPasterImage] (https://github.com/wangyingbo/YBPasterImage) 给图片添加滤镜、贴纸和标签功能，支持14种滤镜效果，17种标签样式。
 
-## VR@
+#### VR@
 
 * [HTY360Player](https://github.com/hanton/HTY360Player) 一款360度全景视频播放器
 
-## 音频@
+#### 音频@
 
 * [ESTMusicPlayer](https://github.com/Aufree/ESTMusicPlayer) 一个简洁、易用的音乐播放器
 
-## 视频@
-## 视频播放@
+#### 视频@
+#### 视频播放@
 * [FFmpeg](https://github.com/FFmpeg/FFmpeg) 一个处理多媒体数据的开源、免费的库，
 
 * [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - 非常赞 基于AVPlayer，支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度
@@ -1128,11 +1128,11 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [VKVideoPlayer](https://github.com/viki-org/VKVideoPlayer) 一个非常不错的拥有上百万用户的视频播放器
 * [PKShortVideo](https://github.com/pepsikirk/PKShortVideo) iOS仿微信小视频功能开发优化记录
 
-## 视频处理@
+#### 视频处理@
 
 * [CameraStickerDemo](https://github.com/Sinkup/CameraStickerDemo) 基于GPUImage的实时视频流贴纸Demo
 
-## 视频录制@
+#### 视频录制@
 * [SCRecorder](https://github.com/rFlex/SCRecorder) - 酷似 Instagram/Vine 的音频/视频摄像记录器，以 Objective-C 为基础的过滤器框架。 你可以做很多如下的操作：记录多个视频录像片段。删除任何你不想要的记录段。可以使用任何视频播放器播放片段。保存的记录可以在序列化的 NSDictionary 中使用。（在 NSUserDefaults 的中操作）添加使用 Core Image 的视频滤波器。可自由选择你需要的 parameters 合并和导出视频。
 * [LLSimpleCamera](https://github.com/omergul123/LLSimpleCamera)视频录制 A simple, customizable camera control - video recorder for iOS.
 * [SlowMotionVideoRecorder](https://github.com/shu223/SlowMotionVideoRecorder) 120 fps SLO-MO video recorder using AVFoundation. Including convenient wrapper class. Available on the iPhone5s.
@@ -1143,7 +1143,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [ICGVideoTrimmer](https://github.com/itsmeichigo/ICGVideoTrimmer) - ICGVideoTrimmer提供提供视频剪切的视图（类似系统相册中浏览视频时顶部那个条状视图）。左右两个边界选择器还能够自定义。
 * [VideoEditing](https://github.com/ShelinShelin/VideoEditing) Video processing of the video capture and add background music
 
-## 弹幕@
+#### 弹幕@
 
 * [BarrageRenderer](https://github.com/unash/BarrageRenderer) 一个 iOS 上的弹幕渲染库.
 
