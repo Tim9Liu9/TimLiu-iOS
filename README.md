@@ -106,12 +106,13 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [三方分享、支付、登录等等@](#三方分享、支付、登录等等)
 - [PDF@](#PDF)
 - [VR@](VR@)
-- [音频@](#音频)
-- [视频@](#视频)
-  - [视频播放@](#视频播放)
-  - [视频处理@](#视频处理)
-  - [视频录制@](#视频录制)
-  - [视频剪切@](#视频剪切)
+- [多媒体@](#多媒体)
+  - [音频@](#音频)
+  - [视频@](#视频)
+    - [视频播放@](#视频播放)
+    - [视频处理@](#视频处理)
+    - [视频录制@](#视频录制)
+    - [视频剪切@](#视频剪切)
 - [照相视频音频处理@](#照相视频音频处理)
 - [图像浏览及处理@](#图像浏览及处理)
   - [图像圆角@](#图像圆角)
@@ -1130,6 +1131,13 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### 音频@
 
 * [ESTMusicPlayer](https://github.com/Aufree/ESTMusicPlayer) 一个简洁、易用的音乐播放器
+* [EZAudio](https://github.com/syedhali/EZAudio) -  一个基于Core Audio的可视化、低延迟的音频加工框架.支持iOS、Mac OS X.
+* [novocaine](https://github.com/alexbw/novocaine) - 高性能的音频，支持iOS and Mac OS X.
+* [SubtleVolume](https://github.com/andreamazz/SubtleVolume) - 用更微妙的指示器替换系统卷弹出窗口
+* [NVDSP](https://github.com/bartolsthoorn/NVDSP) - iOS/OSX DSP for audio (with Novocaine)
+* [SRGMediaPlayer-iOS](https://github.com/SRGSSR/SRGMediaPlayer-iOS) - 一个提供简洁的方法为iOS应用添加通用的音频、视频播放的库
+* [IQAudioRecorderController](https://github.com/hackiftekhar/IQAudioRecorderController) - 一个可以内置App的、通用的、带有漂亮的用户界面音频录制程序
+* [QuietModemKit](https://github.com/quiet/QuietModemKit) 静态调制解调器的iOS框架（声音数据）
 
 #### 视频@
 #### 视频播放@

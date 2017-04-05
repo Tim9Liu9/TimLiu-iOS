@@ -93,7 +93,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [图像处理@](#图像处理)
 - [相机@](#相机)
 - [音频@](#音频)
-- [视频@](#视频)
+- [多媒体@](#多媒体)
+  - [视频@](#视频)
+  - [音频@](#音频)
 - [消息相关@](#消息相关)
   - [消息推送客户端@](#消息推送客户端)
   - [消息推送服务器端@](#消息推送服务器端)
@@ -747,11 +749,28 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro) - 集成 LastFM 的专业电台应用（基于 Swift 2.0）。
 * [AudioKit.swift](https://github.com/audiokit/AudioKit) - 音频合成、加工及分析平台（支持 iOS、OS X、tvOS）框架库。无论其易用性，还是功能性及专业性。
 
+#### 多媒体@
 #### 视频@
 
 * [mobileplayer-ios.swift](https://github.com/mobileplayer/mobileplayer-ios) - 很不错的高度可定制播放器项目。
 * [Periscope-VideoViewController.swift](https://github.com/gontovnik/Periscope-VideoViewController) - 简洁实用的视频快进、倒带控制视图类库。
 * [BMPlayer.swift](https://github.com/BrikerMan/BMPlayer) - 基于 AVPlayer 使用 Swift 封装的视频播放器，方便快速集成,支持横屏、竖屏，上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。
+
+#### 音频@
+
+* [AudioBus](https://developer.audiob.us/) - 下一代的音频路由 Add Next Generation Live App-to-App Audio Routing.
+* [AudioKit](https://github.com/audiokit/AudioKit) - 一个非常强大的音频合成、加工、分析平台工具，支持iOS、macOS、tvOS、
+* [Cephalopod](https://github.com/evgenyneu/Cephalopod) - 一个基于AVIudioPlayer的音效推子，支持 iOS，tvOS和macOS。
+* [Chirp](https://github.com/trifl/Chirp) - 播放和删除声音最容易的方法
+* [Beethoven](https://github.com/vadymmarkov/Beethoven) - 音高检测大师
+* [AudioPlayerSwift]( https://github.com/tbaranes/AudioPlayerSwift) - 一个使音频播放更简单的类AudioPlayer，支持 iOS, macOS and tvOS apps.
+* [AudioPlayer](https://github.com/delannoyk/AudioPlayer) - 一个基于AVPlayer的播放本地和网络音频的库
+* [TuningFork](https://github.com/comyar/TuningFork) - 简单的调音师
+* [MusicKit](https://github.com/benzguo/MusicKit) - 一个合成和转换音乐的框架
+* [TheAmazingAudioEngine2](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine2) - 一个惊人的、精致的用于音频App的音频库
+* [InteractivePlayerView](https://github.com/AhmettKeskin/InteractivePlayerView) - 自定义音乐播放View
+* [ESTMusicIndicator](https://github.com/Aufree/ESTMusicIndicator) - 很酷的音乐动画指示View
+* [SwiftySound](https://github.com/adamcichy/SwiftySound) 一个让你一行代码就可以播放音频的三方库
 
 #### 消息相关@
 #### 消息推送客户端@
