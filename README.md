@@ -63,6 +63,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [gif动画@](#gif动画)
   - [其他动画@](#其他动画)
 - [AutoLayout@](#AutoLayout)
+- [文本输入@](#文本输入)
 - [数据存储@](#数据存储)
   -[数据库工具@](#数据库工具)
 - [网络相关@](#网络相关)
@@ -293,6 +294,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [MyLinearLayout](https://github.com/youngsoft/MyLinearLayout) MyLayout is a powerful iOS UI framework implemented by Objective-C. It integrates the functions with Android Layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use LinearLayout,RelativeLayout,FrameLayout,TableLayout,FlowLayout,FloatLayout,PathLayout,LayoutSizeClass to build your App 自动布局 UIView UITableView UICo…
 * [WHC_AutoLayoutKit](https://github.com/netyouli/WHC_AutoLayoutKit) Had better use the auto layout of open source framework，致力打造使用最简单功能最强大的自动布局开源库
 
+#### 文本输入@
+
+* [GrowingTextView](https://github.com/HansPinckaers/GrowingTextView)  一个非常棒的UITextView库
+
 #### 富文本@   [返回目录](#目录)
 
 * [YYText](https://github.com/ibireme/YYText) - 功能强大的 iOS 富文本框架。
@@ -498,6 +503,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### Switch@
 
 * [JTMaterialSwitch](https://github.com/JunichiT/JTMaterialSwitch) A Customizable Switch UI for iOS, Inspired from Google's Material Design
+* [LLSwitch](https://github.com/lilei644/LLSwitch) 一个有趣的switch
 
 #### Label@
 
@@ -1187,6 +1193,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [LMLiveStreaming](https://github.com/chenliming777/LMLiveStreaming) IOS Live,H264 and AAC Hard coding，support GPUImage Beauty， rtmp and flv transmission，weak network lost frame，Dynamic switching rate
 * [520Linkee](https://github.com/GrayJIAXU/520Linkee)本项目实现了作为一个直播App的基本功能，比如本地视频流采集、播放、美颜、礼物、点赞出心等。
 * [LMLiveStreaming](https://github.com/chenliming777/LMLiveStreaming) iOS直播，支持H246/AAC，支持GPUImage美化，支持rtmp和flv，较慢的网络优化
+* [直播技术的总结](https://github.com/tiantianlan/LiveExplanation)
+* [Tencent-NOW](https://github.com/ChinaArJun/Tencent-NOW) IOS视频直播:高仿 腾讯旗下 < NOW > 直播 类似 映客 斗鱼 直播类型 喜欢的记点star谢谢 IOS Live video
 
 #### 响应式框架@
 
