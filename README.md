@@ -1237,6 +1237,7 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
 
 * [KVOController] (https://github.com/facebook/KVOController)  是一个简单安全的KVO（Key-value Observing，键-值观察）工具，用于iOS 和OS X 应用开发中，开源自facebook。 在项目中有使用 KVO ，那么 KVOController 绝对是个好选择。
 * [DecouplingKit] (https://github.com/coderyi/DecouplingKit)   iOS模块化过程中模块间解耦方案。
+* [Trip-to-iOS-Design-Patterns](https://github.com/skyming/Trip-to-iOS-Design-Patterns) iOS 设计模式相关资料整理
 
 #### 皮肤@语言国际化@
 
