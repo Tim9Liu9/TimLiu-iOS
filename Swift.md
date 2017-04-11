@@ -77,6 +77,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [好用的软件@](#好用的软件)
   - [Cagegory@](#cagegory)
 - [测试及调试@](#测试及调试)
+- [开发工具@](#开发工具)
 - [数据存储@](#数据存储)
   - [缓存处理@](#缓存处理)
   - [CoreData@](#coredata)
@@ -589,6 +590,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Cuckoo.swift](https://github.com/SwiftKit/Cuckoo) - Cuckoo.swift一款用法更接近于传统单元测试 Mock 框架库（区别之处在于需要用脚本预先生成 Mock 类）。
 * [XCGLogger.swift](https://github.com/DaveWoodCom/XCGLogger) - XCGLogger.swift功能完整的日志管理类库。
 * [Peek.swift](https://github.com/shaps80/Peek) - 更友好、手势方式检查界面内组件布局信息（相当于浏览器元素检查功能），界面调试利器。
+
+#### 开发工具@
+
+* [FengNiao](https://github.com/onevcat/FengNiao) 一个清理Xcode中没使用的资源文件的命令行工具.
 
 #### 数据存储@
 

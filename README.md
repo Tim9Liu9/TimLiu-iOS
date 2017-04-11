@@ -104,6 +104,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [游戏@](#cocos2d-objc)
 - [通讯录@](#通讯录)
 - [其他库@](#其他库)
+- [工具@](#工具)
+ - [压缩解压@](#压缩解压)
 - [三方分享、支付、登录等等@](#三方分享、支付、登录等等)
 - [PDF@](#PDF)
 - [VR@](VR@)
@@ -209,20 +211,12 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Solve-App-Store-Review-Problemm](https://github.com/wg689/Solve-App-Store-Review-Problem) (ipv6,ipv6被拒绝,后台定位等审核问题的终极解决方案汇总)。
 
 #### Xcode8插件@
-
-* [FLEX](https://github.com/Flipboard/FLEX) 非常赞的 一个Xcode工具，FLEX是一个需要注入式的一种框架，从描述来看，功能非常多。主要来讲的话能够对正在运行的应用进行样式的修改和控件的读取。FLEX会赐予你SuperPower！！！
-  1. 可以查看控件的坐标和属性
-  2. 看任何一个对象的属性和成员变量
-  3. 动态修改属性和成员变量
-  4. 动态的调用实例和类方法
-FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者是远程的调试服务器，它可以在本地随时随地的进行自有的操作和调试
 - [Import](https://github.com/markohlebar/Import) 快捷导入头文件-Xcode extension for adding imports from anywhere in the code.
 - [XcodeSourceEditorExtension-Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) 对齐属性声明 This Xcode source editor extension align your assignment statement.
 - [Dash-iOS](https://github.com/Kapeli/Dash-iOS) Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets https://kapeli.com/dash_ios
 * [HYBUnicodeReadable](https://github.com/CoderJackyHuang/HYBUnicodeReadable) -解决打印日志对于Unicode编码不能正常显示中文的问题，只需要将文件导入工程，不需要引用，就能达到打印日志显示Unicode编码中文数据
 
-#### App框架@    
-                                          [返回目录](#目录)
+#### App框架@                                                        [返回目录](#目录)
 * [nimbus](https://github.com/jverkoey/nimbus) Nimbus是一个开源的iOS框架，比起Three20，Nimbus的文档更为全面、丰富，能够实现很多非常炫的界面特效。因此，开发者可以借助Nimbus来降低项目设计的复杂度。
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa 受函数响应式编程激发。不同于使用可变的变量替换和就地修改，RAC提供Signals来捕获当前值和将来值（ [使用介绍](http://yulingtianxia.com/blog/2014/07/29/reactivecocoa/) ），[不错的例子](http://iiiyu.com/2014/12/26/learning-ios-notes-thirty-six/),入门好教程：[ReactiveCocoa入门教程：第一部分 ](http://www.cocoachina.com/ios/20150123/10994.html)。[Reactive Cocoa 3.0 在 MVVM 中的应用](http://ios.jobbole.com/82232/) ,[小码哥：快速让你上手ReactiveCocoa之基础篇](http://www.jianshu.com/p/87ef6720a096)。
 * [samurai-native](https://github.com/hackers-painters/samurai-native) 是一个基于浏览器内核通过HTML+CSS 开发原生移动应用的iOS框架。
@@ -233,6 +227,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [XFLegoVIPER](https://github.com/yizzuide/XFLegoVIPER) A lightweight framework base on VIPER architecture for iOS, to build robust and maintained large scale project.
 * [publishImageAndVideoAnsRecord](https://github.com/DayCrazy/publishImageAndVideoAnsRecord) 因为公司有很多模块，几乎每个模块都需要发布视频、语言、照片。所以在很多库的基础上，搭建了一个集合，其中包括带placeHolder的TextView、录制小视频、录制音频、选择照片或拍照。其中包括了很多网络上的资源，只是做了集合，在此留个记录，也希望对一些有需求额的朋友有帮助。
 * [XBSettingController](https://github.com/changjianfeishui/XBSettingController) 快速搭建类个人中心及应用设置界面
+* [EVNEstorePlatform](https://github.com/zonghongyan/EVNEstorePlatform) App项目框架 [简书解析](http://www.jianshu.com/p/89e25c288d76?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 #### UI@
 
@@ -293,6 +288,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [SDAutoLayout](https://github.com/gsdios/SDAutoLayout) - AutoLayout 一行代码搞定自动布局！支持Cell、Label和Tableview高度自适应，致力于做最简单易用的AutoLayout库。
 * [MyLinearLayout](https://github.com/youngsoft/MyLinearLayout) MyLayout is a powerful iOS UI framework implemented by Objective-C. It integrates the functions with Android Layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use LinearLayout,RelativeLayout,FrameLayout,TableLayout,FlowLayout,FloatLayout,PathLayout,LayoutSizeClass to build your App 自动布局 UIView UITableView UICo…
 * [WHC_AutoLayoutKit](https://github.com/netyouli/WHC_AutoLayoutKit) Had better use the auto layout of open source framework，致力打造使用最简单功能最强大的自动布局开源库
+* [NerdyUI](https://github.com/nerdycat/NerdyUI) 好用的快速布局 UI 库，适用于 iOS 8 及以上版本。
 
 #### 文本输入@
 
@@ -991,11 +987,15 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [BGTaobao](https://github.com/huangzhibiao/-) - ios 高仿淘宝/京东详情页 - 集合各种测试框架。
 * [JLRoutes](https://github.com/joeldev/JLRoutes) - JLRoutes好用的URL map库，它的作用是让按钮的点击像网页里的链接一样，只是触发了某个URL，而没有像pushViewController这样的行为，实现解耦。
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - 同时支持 Swift 及 Objective-C 的 Promise 类库，异步编程类库 提供了很多实用的异步函数 让异步编程更简单。
-* [ZipArchive](https://github.com/ZipArchive/ZipArchive) - 适用iOS和OS X的解压库。
 * [HWChangeFont](https://github.com/Loveway/HWChangeFont) - 利用runtime一键改变字体。[教程](http://www.jianshu.com/p/b9fdd17c525e)。
 * [RuntimeSummary](https://github.com/Tuccuay/RuntimeSummary) - 一个集合了常用 Objective-C Runtime 使用方法的 Playground。
 * [GCDThrottle](https://github.com/cyanzhong/GCDThrottle) - 限制频率过高的调用GCD多线程。
 * [WHC_KeyboardManager](https://github.com/netyouli/WHC_KeyboardManager)iOS平台轻量级的键盘管理器，使用简单功能强大，键盘再也不会挡住输入控件
+
+#### 工具@
+#### 压缩解压@
+
+* [ZipArchive](https://github.com/ZipArchive/ZipArchive) - 适用iOS和OS X的解压库。
 
 #### 数据存储@
 
@@ -1237,7 +1237,7 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
 
 * [KVOController] (https://github.com/facebook/KVOController)  是一个简单安全的KVO（Key-value Observing，键-值观察）工具，用于iOS 和OS X 应用开发中，开源自facebook。 在项目中有使用 KVO ，那么 KVOController 绝对是个好选择。
 * [DecouplingKit] (https://github.com/coderyi/DecouplingKit)   iOS模块化过程中模块间解耦方案。
-* [Trip-to-iOS-Design-Patterns](https://github.com/skyming/Trip-to-iOS-Design-Patterns) iOS 设计模式相关资料整理
+* [Trip-to-iOS-Design-Patterns](https://github.com/skyming/Trip-to-iOS-Design-Patterns)
 
 #### 皮肤@语言国际化@
 
@@ -1272,6 +1272,12 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
 
 #### 测试及调试@
 
+* [FLEX](https://github.com/Flipboard/FLEX) 非常赞的 一个Xcode界面调试工具，FLEX是一个需要注入式的一种框架，从描述来看，功能非常多。主要来讲的话能够对正在运行的应用进行样式的修改和控件的读取。FLEX会赐予你SuperPower！！！
+  1. 可以查看控件的坐标和属性
+  2. 看任何一个对象的属性和成员变量
+  3. 动态修改属性和成员变量
+  4. 动态的调用实例和类方法
+FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者是远程的调试服务器，它可以在本地随时随地的进行自有的操作和调试
 * [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler)Facebook开源的一款用于分析iOS内存使用和检测循环引用的工具库。
 * [fastlane](https://github.com/fastlane/fastlane) - 一套iOS开发和持续集成的命令行工具fastlane，可以用来快速搭建CI甚至自动提交的开发环境。这套工具中包括了上传ipa文件，自动截取多语言截屏，生成推送证书，管理产品证书等一系列实用工具。 The easiest way to automate building and releasing your iOS and Android apps https://fastlane.tools
 * [xctool](https://github.com/facebook/xctool) - Facebook出的自动化打包工具，它规范了输出的log日志，而且一些错误信息也更为清晰一些。
