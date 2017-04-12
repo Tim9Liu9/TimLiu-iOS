@@ -1050,6 +1050,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [OpenGLES详解](http://www.jianshu.com/p/64d9c58d8344) 一个相对完整的OpenGLES的学习博客，包含源码
 * [OpenGLES系列教程](http://www.jianshu.com/nb/2135411)
 * [HCPhotoEdit](https://github.com/gmfxch/HCPhotoEdit) 仿 Camera360 SDK，利用GPUImage框架实现基本的图片处理功能
+* [YYImage](https://github.com/ibireme/YYImage) - 功能强大的 iOS 图像框架，支持大部分动画图像、静态图像的播放/编码/解码。
 
 #### 图像浏览及处理@
 
@@ -1077,7 +1078,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [JFImagePickerController](https://github.com/johnil/JFImagePickerController) - vvebo作者：多选照片、预览已选照片、针对超大图片优化。
 * [VIPhotoView](https://github.com/vitoziv/VIPhotoView) - 图片浏览，用于展示图片的工具类，因为是个 View，所以你可以放在任何地方显示。支持旋转，双击指定位置放大等。
 * [AGImagePickerController](https://github.com/SpringOx/AGImagePickerController) - 是一个图片选择器，支持图片多选，支持大图横滑预览，支持放大预览，支持横竖屏，支持所有的iOS设备。
-* [YYImage](https://github.com/ibireme/YYImage) - 功能强大的 iOS 图像框架，支持大部分动画图像、静态图像的播放/编码/解码。
 * [BeautifyFaceDemo](https://github.com/Guikunzhi/BeautifyFaceDemo) - 一个基于 GPUImage 的实时直播磨皮滤镜的开源实现,主要功能脸部去斑磨皮！
 * [YUCIHighPassSkinSmoothing](https://github.com/YuAo/YUCIHighPassSkinSmoothing) - 磨皮滤镜！
 * [YUGPUImageHighPassSkinSmoothing](https://github.com/YuAo/YUGPUImageHighPassSkinSmoothing) - 一个基于 GPUImage 的磨皮滤镜！

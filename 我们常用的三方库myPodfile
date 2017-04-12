@@ -49,7 +49,7 @@ pod 'DZNEmptyDataSet' #tableView 没数据时提示页面
 pod 'FLEX', '~> 2.0', :configurations => ['Debug'] #An in-app debugging and exploration tool for iOS
 
 platform :ios, '7.0'
-pod 'FDFullscreenPopGesture', '1.1'
+pod 'FDFullscreenPopGesture', '1.1'  #全屏侧滑手势
 pod 'IQKeyboardManager', '~> 3.3.6'
 pod 'FXBlurView', '~> 1.6.4'
 pod 'SFHFKeychainUtils', '~> 0.0.1'
