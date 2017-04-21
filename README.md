@@ -1185,6 +1185,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### 弹幕@
 
 * [BarrageRenderer](https://github.com/unash/BarrageRenderer) 一个 iOS 上的弹幕渲染库.
+* [LiveSendGift](https://github.com/Jonhory/LiveSendGift) 直播发送弹幕效果
 
 #### 直播@
 
