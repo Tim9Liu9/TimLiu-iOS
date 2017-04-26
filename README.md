@@ -21,6 +21,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [响应式框架@](#响应式框架)
   - [framework@](#framework)
   - [混合开发@](#混合开发)
+  - [样例App@](#样例App)
 - [UI@](#UI)
   - [综合UI@](#综合UI)
   - [日历三方库@](#日历三方库)
@@ -132,6 +133,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [代码安全与密码@](#代码安全与密码)
 - [AppleWatch@](#AppleWatch)
 - [VPN@](#VPN)
+- [深度学习@](#深度学习)
 - [mac@](#mac)
 - [未分类@](#未分类)
 
@@ -1212,6 +1214,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [rexxar-ios](https://github.com/douban/rexxar-ios) 豆瓣推的混合开发库 Mobile Hybrid Framework Rexxar iOS Container
 
+#### 样例App@
+
+* [MeiTuan](https://github.com/huanxsd/MeiTuan) 高仿美团客户端 React-Native版，支持iOS、Android
+
 #### 消息相关@
 #### 消息推送客户端@
 
@@ -1610,6 +1616,10 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 #### mac@
 
 * [radiant-player-mac](https://github.com/radiant-player/radiant-player-mac) 一个Google Play音乐转换成与Mac整合的独立，美观的mac音乐播放器。
+
+#### 深度学习@
+
+* [TrafficLights-DeepLearning-iOS](https://github.com/asavihay/TrafficLights-DeepLearning-iOS) 利用Caffe深度学习执着的一个交通灯信号检测App
 
 #### 未分类@
 * [appirater](https://github.com/arashpayan/appirater)提醒用户打分 A utility that reminds your iPhone app's users to review the app.
