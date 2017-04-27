@@ -89,12 +89,14 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [Email@](#email)
 - [三方分享、支付、登录等等@](#三方分享支付登录等等)
 - [其他库@](#其他库)
-- [PDF@](#pdf)
+
 - [图像浏览及处理@](#图像浏览及处理)
 - [图像处理@](#图像处理)
 - [相机@](#相机)
 - [VR@](VR@)
 - [多媒体@](#多媒体)
+  - [PDF@](#pdf)
+  - [流媒体@](#流媒体)
   - [音频@](#音频)
   - [视频@](#视频)
     - [视频播放@](#视频播放)
@@ -722,8 +724,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [PinpointKit.swift](https://github.com/Lickability/PinpointKit) - 简单的手势动作快速触发反馈组件。主要功能包含自动截屏、附加说明和日志。支持添加可定制箭头、着重框、文本、模糊打码等常用快照编辑功能。它非常适合开发过程中测试人员反馈缺陷。
 * [Switcher.swift](https://github.com/X140Yu/Switcher) - 一个 OS X 小 App，可以很轻松地切换 App Store 和 iTunes 的账号，对于同时使用多个 Apple ID 的人来说非常地方便。
 
-#### PDF@
-
 #### 图像浏览及处理@
 
 * [ShinpuruImage](https://github.com/FlexMonkey/ShinpuruImage) - Syntactic Sugar for Accelerate/vImage and Core Image Filters :large_orange_diamond:
@@ -759,6 +759,21 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [CameraManager](https://github.com/imaginary-cloud/CameraManager) - 相机管理封装类库。看着极好用的样子----swift。
 * [SkfSwiftCammer](https://github.com/wubianxiaoxian/SkfSwiftCammer) - 一个相机demo，在oc里面调用了swift。
 
+#### PDF@
+
+* [FolioReaderKit](https://github.com/FolioReader/FolioReaderKit) - 非常棒👍的阅读器框架，支持自定义字体、字体大小、文本高亮、列表编辑删除、主题、白天夜间模式等等非常多的特性。
+* [PDFGenerator](https://github.com/sgr-ksmt/PDFGenerator) - 一个简单的PDF生成器.
+* [SimplePDF](https://github.com/nRewik/SimplePDF) - 轻松创建一个简单的PDF文件或者Data，能够增加文本、图片、空格、线、表格，支持页面布局，调整内容样式.
+* [PSPDFKit](https://pspdfkit.com/) - Render PDF, add/edit annotations, fill forms, add/edit pages, view/create digital signatures.
+* [TPPDF](https://github.com/Techprimate/TPPDF) - 一个容易使用的创建PDF的库
+
+#### 流媒体@
+
+* [lf.swift](https://github.com/shogo4405/lf.swift) - 相机和麦克风流媒体库，支持RTMP，HLS for iOS，macOS。
+* [StreamingKit](https://github.com/tumtumtum/StreamingKit) - A fast and extensible gapless AudioPlayer/AudioStreamer for OSX and iOS.
+* [Jukebox](https://github.com/teodorpatras/Jukebox) - 音频播放器，可播放本地和网络音频流
+* [Airstream](https://github.com/qasim/Airstream) - 一个基于AirPlay在Apple devices之间进行音频流传输的库，比如iphone音乐在Apple TV上面播放。
+* [OTAcceleratorCore](https://github.com/opentok/accelerator-core-ios) - 通过Tokbox将音频/视频（屏幕共享）轻松集成到任何iOS应用程序.包括视频通话、语音通话等。
 #### 音频@
 
 * [recordDemo.swift](https://github.com/lfb-cd/recordDemo) - 一个Swift语言实现直接可以用的录音Demo，[实现说明](http://www.jianshu.com/p/f0b88355d7cb)。

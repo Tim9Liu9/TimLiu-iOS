@@ -119,6 +119,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [PDF@](#PDF)
 - [VR@](VR@)
 - [多媒体@](#多媒体)
+  - [流媒体@](#流媒体)
   - [音频@](#音频)
   - [视频@](#视频)
     - [视频播放@](#视频播放)
@@ -1144,6 +1145,13 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [HTY360Player](https://github.com/hanton/HTY360Player) 一款360度全景视频播放器
 * [ios-360-videos](https://github.com/NYTimes/ios-360-videos) - 基于AVPlayer的360度全景视频播放器
+
+#### PDF@
+
+* [Reader](https://github.com/vfr/Reader) - PDF阅读器，支持iphone和iPad
+
+#### 流媒体@
+
 #### 音频@
 
 * [ESTMusicPlayer](https://github.com/Aufree/ESTMusicPlayer) 一个简洁、易用的音乐播放器
