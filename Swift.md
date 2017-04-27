@@ -283,6 +283,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### TabBar@
 
+* [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) 给tabbar item增加动画效果的一个组件.
 * [CBMDTabbarController](https://github.com/cbangchen/CBMDTabbarController) It is a smooth MD tabbarController used on iOS, which implement by Swift.
 
 #### 进度@
@@ -366,6 +367,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 游戏@
 
 #### 动画@
+
+* [fave-button](https://github.com/xhamr/fave-button) 给button增加了很多可爱的动画.
+
 
 #### 侧滑与右滑返回手势@
 
