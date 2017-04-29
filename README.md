@@ -89,7 +89,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
       - [JSON工具@](#json工具)
       - [XML&HTML@](#xml--html)
       - [Other Parsing@](#other-parsing)
-- [二维码@](#二维码)
 - [学习资料@](#学习资料)
   - [播客@](#播客)
   - [他人开源总结@](#他人开源总结)
@@ -119,6 +118,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [PDF@](#PDF)
 - [VR@](VR@)
 - [多媒体@](#多媒体)
+  - [VR@](#VR)
+  - [二维码@](#二维码)
+  - [PDF@](#PDF)
   - [流媒体@](#流媒体)
   - [音频@](#音频)
   - [视频@](#视频)
@@ -1146,6 +1148,17 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [HTY360Player](https://github.com/hanton/HTY360Player) 一款360度全景视频播放器
 * [ios-360-videos](https://github.com/NYTimes/ios-360-videos) - 基于AVPlayer的360度全景视频播放器
 
+#### 二维码@
+
+* [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC)  赞 An Objective-C Port of ZXing
+* [LBXScan](https://github.com/MxABC/LBXScan) 赞 A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和ios系统自带扫码封装，扫码界面效果封装)(Objective-C和Swift均支持).
+* [原生实现扫描二维码条码](http://code.cocoachina.com/view/129108) - iOS原生实现扫描二维码条码.
+* [ZFScan](https://github.com/Zirkfied/ZFScan) - 仿微信 二维码/条形码 扫描。
+* [QRCatcher](https://github.com/100mango/QRCatcher) - 一个简洁美观的二维码扫描应用， [iOS学习：AVFoundation 视频流处理--二维码
+* [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) 带状态控制的条码扫描库，支持处理相机权限、自定义颜色和提示信息，不依赖其他第三方库。扫描](https://github.com/100mango/zen/blob/master/iOS%E5%AD%A6%E4%B9%A0%EF%BC%9AAVFoundation%20%E8%A7%86%E9%A2%91%E6%B5%81%E5%A4%84%E7%90%86/iOS%E5%AD%A6%E4%B9%A0%EF%BC%9AAVFoundation%20%E8%A7%86%E9%A2%91%E6%B5%81%E5%A4%84%E7%90%86%20.md)。
+* [MQRCodeReaderViewController](https://github.com/zhengjinghua/MQRCodeReaderViewController) - 二维码扫描控件, UI 做了优化, 仿造微信, 直接拖进项目就可使用。
+* [MQRCodeReaderViewController](https://github.com/zhengjinghua/MQRCodeReaderViewController) iOS 二维码扫描控件, UI 做了优化, 仿造微信, 直接拖进项目就可使用, 支持 CocoaPods 安装. WeChat-like QRCode reader, drop-in version, support for CocoaPods
+
 #### PDF@
 
 * [Reader](https://github.com/vfr/Reader) - PDF阅读器，支持iphone和iPad
@@ -1479,21 +1492,11 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [FontBlaster](https://github.com/ArtSabintsev/FontBlaster) - 载入定制字体时更简单。
 
 #### 其他资源@
+
 * [githuber](http://githuber.info/#/index) - 最好用的GitHub人才搜索工具。   
 * [codatlas](https://www.codatlas.com) - 源代码搜索利器。
 * [searchcode](https://searchcode.com/) - 源代码搜索利器：来自悉尼的代码搜索引擎汇聚了 Github, Bitbucket, Sourceforge...等多家开源站点超20万个项目、180亿行源代码，能以特殊字符、语言、仓库和源方式从90多种语言找到函数、API的真实代码。
 * [kitematic](https://github.com/docker/kitematic) - Mac 上使用 Docker 最简单的方案。
-
-#### 二维码@
-* [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC)  赞 An Objective-C Port of ZXing
-* [LBXScan](https://github.com/MxABC/LBXScan) 赞 A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和ios系统自带扫码封装，扫码界面效果封装)(Objective-C和Swift均支持).
-* [原生实现扫描二维码条码](http://code.cocoachina.com/view/129108) - iOS原生实现扫描二维码条码.
-* [ZFScan](https://github.com/Zirkfied/ZFScan) - 仿微信 二维码/条形码 扫描。
-* [QRCatcher](https://github.com/100mango/QRCatcher) - 一个简洁美观的二维码扫描应用， [iOS学习：AVFoundation 视频流处理--二维码
-* [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) 带状态控制的条码扫描库，支持处理相机权限、自定义颜色和提示信息，不依赖其他第三方库。
-扫描](https://github.com/100mango/zen/blob/master/iOS%E5%AD%A6%E4%B9%A0%EF%BC%9AAVFoundation%20%E8%A7%86%E9%A2%91%E6%B5%81%E5%A4%84%E7%90%86/iOS%E5%AD%A6%E4%B9%A0%EF%BC%9AAVFoundation%20%E8%A7%86%E9%A2%91%E6%B5%81%E5%A4%84%E7%90%86%20.md)。
-* [MQRCodeReaderViewController](https://github.com/zhengjinghua/MQRCodeReaderViewController) - 二维码扫描控件, UI 做了优化, 仿造微信, 直接拖进项目就可使用。
-* [MQRCodeReaderViewController](https://github.com/zhengjinghua/MQRCodeReaderViewController) iOS 二维码扫描控件, UI 做了优化, 仿造微信, 直接拖进项目就可使用, 支持 CocoaPods 安装. WeChat-like QRCode reader, drop-in version, support for CocoaPods
 
 #### 学习资料@
 
