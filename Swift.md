@@ -60,7 +60,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
       - [JSON@](#json)
       - [XML&HTML@](#xmlhtml)
       - [Other Parsing@](#other-parsing)
-- [二维码@](#二维码)
 - [Color@](#Color)
 - [VR@](#VR)
 - [开发资料@](#开发资料)
@@ -89,12 +88,12 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [Email@](#email)
 - [三方分享、支付、登录等等@](#三方分享支付登录等等)
 - [其他库@](#其他库)
-
 - [图像浏览及处理@](#图像浏览及处理)
 - [图像处理@](#图像处理)
 - [相机@](#相机)
 - [VR@](VR@)
 - [多媒体@](#多媒体)
+  - [二维码@](#二维码)
   - [PDF@](#pdf)
   - [流媒体@](#流媒体)
   - [音频@](#音频)
@@ -664,7 +663,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [MKMapView-Extension](https://github.com/SemperIdem/MKMapView-Extension) - 这是关于 MKMapView 写的一个基于swift的扩展，可以扩展 MKMapView 的相关功能，减少复用代码量。
 * [SwiftValidator](https://github.com/jpotts18/SwiftValidator) - 基于规则的输入验证类库。项目良好的面向对象设计思想，使规则的扩展及自定义非常方便。更专业的规则引擎（甚至是基于自然语言的规则配置）解决方案，比如：开源的 Drools，商用的 ILOG 等。
 * [Validated.swift](https://github.com/Ben-G/Validated) - Validated.swift通过值验证或限定，快速定义新类型的微类库（约50行代码）。
-* [SwiftOCR](https://github.com/garnele007/SwiftOCR) - 识别字母和数字相较于 Tesseract 有压倒性优势（附图）的 OCR 类库。
 * [Regex.swift](https://github.com/sharplet/Regex) - 实用的正则表达式微框架类库。
 * [PySwiftyRegex.swift](https://github.com/cezheng/PySwiftyRegex) - 像Python一样简洁高效地作正则处理。
 * [PhoneNumberKit.swift](https://github.com/marmelroy/PhoneNumberKit) -  解析、格式化及验证国际电话号码工具库（相当于 Google 的 libphonenumber 库的 Swift 版本）。
@@ -758,6 +756,14 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [CameraManager](https://github.com/imaginary-cloud/CameraManager) - 相机管理封装类库。看着极好用的样子----swift。
 * [SkfSwiftCammer](https://github.com/wubianxiaoxian/SkfSwiftCammer) - 一个相机demo，在oc里面调用了swift。
+
+#### 二维码@
+
+* [EFQRCode](https://github.com/EyreFree/EFQRCode) - 一个快速响应二维码的库.
+* [SwiftOCR](https://github.com/garnele007/SwiftOCR) - 快速简单的二维码、识别字母和数字相较于 Tesseract 有压倒性优势（附图）的 OCR 类库。
+* [QR Code Scanner](http://www.appcoda.com/qr-code-ios-programming-tutorial/) - 使用AVFoundation Frame实现二维码扫描
+* [QRCode](https://github.com/aschuch/QRCode) - 生成二维码
+
 
 #### PDF@
 
