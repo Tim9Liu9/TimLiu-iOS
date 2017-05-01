@@ -71,14 +71,14 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [好的文章@](#好的文章)
   - [美工资源@](#美工资源)
 - [开发工具@](#开发工具)
-  - [Xcode插件@](#xcode插件)
+  - [Xcode插件@](#Xcode插件)
   - [好用的软件@](#好用的软件)
   - [Cagegory@](#cagegory)
 - [测试及调试@](#测试及调试)
 - [开发工具@](#开发工具)
 - [数据存储@](#数据存储)
   - [缓存处理@](#缓存处理)
-  - [CoreData@](#coredata)
+  - [CoreData@](#CoreData)
   - [数据库@](#数据库)
   - [序列化@](#序列化)
 - [WebView与WKWebView@](#webview与wkwebview)
@@ -573,7 +573,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### 美工资源@
 
-## 开发工具@
+#### 开发工具@
 #### Xcode插件@
 
 * [Swimat](https://github.com/Jintin/Swimat) - Swimat，是一款Xcode 插件，帮你一键格式化 swift 代码。
@@ -583,7 +583,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 好用的软件@
 #### Cagegory@
 
-## 测试及调试@
+#### 测试及调试@
 
 * [depcheck](https://github.com/wojteklu/depcheck) Swift 工程分析工具(Dependency analyzer tool for Swift projects)
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - 相当于 CocoaLumberjack 或 Log4j 的 Swift 版本，功能上甚至更强大。另外，源代码中已经内含了完整的 API 文档，使用非常方便。
@@ -626,7 +626,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### 序列化@
 
-## WebView与WKWebView@
+#### WebView与WKWebView@
 
 * [IOSCallJsOrJsCallIOS](https://github.com/CoderJackyHuang/IOSCallJsOrJsCallIOS) - IOSCallJsOrJsCallIOS：利用iOS7.0后出来的JavaScriptCore framework，webview与Js交互是常见的需求。OC版本与swift版本。[《OC JavaScriptCore与js交互》](http://www.henishuo.com/oc-js/),[《Swift JavaScriptCore与js交互》](http://www.henishuo.com/swift-js/)。
 * [WKWebViewTestDemo.swift](https://github.com/CoderJackyHuang/WKWebViewTestDemo) - WKWebViewTestDemo：WKWebView新特性及JS交互,[文章讲解](http://www.henishuo.com/wkwebview-js/)。
@@ -737,6 +737,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView) - 创建颜色渐变和颜色突出显示的库.
 * [SnapSliderFilters](https://github.com/pauljeannot/SnapSliderFilters) 给图像加贴图、文字的类似阅后即焚的功能
 * [SABlurImageView](https://github.com/marty-suzuki/SABlurImageView) - 很容易的给Image添加模糊效果和动画，只需要两个方法
+* [Filterpedia.swift](https://github.com/FlexMonkey/Filterpedia) - 强大的图片滤镜库演示。
 * [Concorde](https://github.com/contentful-labs/Concorde/) - 下载和编码JPEG图片.
 * [core-image-explorer](https://github.com/objcio/issue-21-core-image-explorer) -  Core Image 滤镜处理图片-- swift ，[Core Image 介绍](http://objccn.io/issue-21-6/)。
 * [CTPanoramaView](https://github.com/scihant/CTPanoramaView) - 显示球面、圆柱形的摄像.
@@ -753,7 +754,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [PinterestSwift](https://github.com/demonnico/PinterestSwift) - swift,Pinterest 风格图片缩放、切换示例。
 * [Nuke.swift](https://github.com/kean/Nuke) - 完整、强大、实用的图片管理类库。主要功能包括可定制装载，缓存，滤镜及尺寸变换。
 * [SwViewCapture.swift](https://github.com/startry/SwViewCapture) - SwViewCapture.swift一个用起来还不错的iOS截图库.(支持截取所有内容, 适用于所有ScrollView组成的视图, 包括WebView)
-* [Filterpedia.swift](https://github.com/FlexMonkey/Filterpedia) - 强大的图片滤镜库演示。
 * [CartoonEyes.swift](https://github.com/FlexMonkey/CartoonEyes) - 前置摄像头捕获图像后，采用 Core Image 脸部识别 CIDetector 和漫画效果滤镜复合出卡通效果眼睛。
 
 #### 图像缓存@
@@ -891,7 +891,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 时间日期@
 #### 设计模式@
 
-## 版本新API的Demo@
+#### 版本新API的Demo@
 
 * [MTSwift-Learning](https://github.com/MartinRGB/MTSwift-Learning) - 通过一些简单项目实战演练开始学习 Swift 。
 * [iOS8-day-by-day](https://github.com/shinobicontrols/iOS8-day-by-day) - swift。
