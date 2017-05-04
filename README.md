@@ -1562,7 +1562,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 #### 他人开源总结@
 
-* [awesome-ios](https://github.com/vsouza/awesome-ios) - 一个老外整理的，[中文版](http://app.memect.com/doc/ios.html)。
+* [awesome-ios](https://github.com/vsouza/awesome-ios) 👍👍👍一个非常棒的开源库集合[中文版](http://app.memect.com/doc/ios.html)。
 * [awesome-osx](https://github.com/iCHAIT/awesome-osx) - Awesome OS X。
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac)  Mac软件、开发工具、设计工具集合
 * [code4app](http://www.code4app.com/) - 最多国人用的代码库。
