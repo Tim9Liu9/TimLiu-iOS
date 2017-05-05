@@ -442,6 +442,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [Snap](https://github.com/SnapKit/SnapKit) - Snap是Masonry Auto Layout DSL的Swift版本，是一款轻量级的布局框架，使用了更良好的语法封装了AutoLayout。Snap支持iOS和OS X。
 * [Cartography](https://github.com/robb/Cartography) 一个很赞的Auto Layout库。
+* [BouncyLayout](https://github.com/roberthein/BouncyLayout) BouncyLayout  is a collection view layout that makes your cells bounce.
 * [Neon.swift](https://github.com/mamaral/Neon) - 功能强大的 UI 布局神器。
 * [EasyPeasy.swift](https://github.com/nakiostudio/EasyPeasy) - 编程方式自动布局框架库。
 * [TangramKit](https://github.com/youngsoft/TangramKit) TangramKit is a powerful iOS UI framework implemented by Swift. It integrates the functions with Android layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use LinearLayout,RelativeLayout,FrameLayout,TableLayout,FlowLayout,FloatLayout,LayoutSizeClass to build your App 自动布局 UIView UITableView UICollectionView
@@ -585,6 +586,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 测试及调试@
 
 * [depcheck](https://github.com/wojteklu/depcheck) Swift 工程分析工具(Dependency analyzer tool for Swift projects)
+* [TestDrive](https://github.com/JohnSundell/TestDrive) Quickly try out any Swift pod or framework in a playground
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - 相当于 CocoaLumberjack 或 Log4j 的 Swift 版本，功能上甚至更强大。另外，源代码中已经内含了完整的 API 文档，使用非常方便。
 * [Quick](https://github.com/Quick/Quick) - 用于Swift中的单元测试（也可用于Objective-C），与Xcode整合在一起。如果你是Objective-C的粉丝，我建议用Specta代替这个，但是对Swift使用者来说，Quick是最佳选择。
 * [Sleipnir](https://github.com/railsware/Sleipnir) - Swift的测试框架。
@@ -719,6 +721,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 ####图像@
 
 * [FlagKit](https://github.com/madebybowtie/FlagKit) - 漂亮的Icon Beautiful flag icons for usage in apps and on the web. :large_orange_diamond:
+* [FlexibleImage](https://github.com/Kawoou/FlexibleImage) 快速实现image各种效果.
 
 #### 人脸识别@
 
