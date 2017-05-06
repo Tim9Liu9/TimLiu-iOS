@@ -683,7 +683,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [peertalk](https://github.com/rsms/peertalk) peertalk 是一个支持 iOS 与 Mac 通过 USB 相互通讯的开源库。 Duet Display 基于此实现了将 Mac 界面呈现到 iOS 设备上。
 
 #### 动画@
-
+* [LSAnimator](https://github.com/Lision/LSAnimator) 优雅的非侵入式的多链式动画,动画效果优秀.
 * [AwesomeMenu](https://github.com/levey/AwesomeMenu) 作者是一位中国人, 该项目主要是使用 CoreAnimation 还原了 Path menu 的动画效果 Path 2.0 menu using CoreAnimation :) https://github.com/levey/AwesomeMenu
 * [MMTweenAnimation](https://github.com/adad184/MMTweenAnimation)一个基于 POP 的扩展，提供了 10 种自定义的动效。
 * [pop](https://github.com/facebook/pop) - facebook出品的非常赞的动画引擎。
