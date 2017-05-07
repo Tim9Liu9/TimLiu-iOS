@@ -751,6 +751,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [lottie-ios](https://github.com/airbnb/lottie-ios) 非常赞 一个用来渲染After Effects矢量动画的iOS库
 * [AwesomeMenu](https://github.com/levey/AwesomeMenu) 作者是一位中国人, 该项目主要是使用 CoreAnimation 还原了 Path menu 的动画效果 Path 2.0 menu using CoreAnimation :) https://github.com/levey/AwesomeMenu
+* [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) 一个容易读，和使用的链式动画库.同时支持Swift
 * [MMTweenAnimation](https://github.com/adad184/MMTweenAnimation)一个基于 POP 的扩展，提供了 10 种自定义的动效。
 * [pop](https://github.com/facebook/pop) - facebook出品的非常赞的动画引擎。
 * [Core Animation笔记，基本的使用方法](http://www.starming.com/index.php?v=index&view=62) - Core Animation笔记，基本的使用方法：1.基本动画，2.多步动画，3.沿路径的动画，4.时间函数，5.动画组。
@@ -812,7 +813,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [ZFCityGuides](https://github.com/WZF-Fei/ZFCityGuides) - 实现City Guides的动画效果，数字动态变化的动画效果。
 * [INPopoverController](https://github.com/indragiek/INPopoverController) - OS X可自由定制的  Popover 视图。
 * [WZXJianShuPopDemo](https://github.com/Wzxhaha/WZXJianShuPopDemo) - 仿简书、淘宝等等的View弹出效果，已封装好，使用简单。[实现原理](http://www.jianshu.com/p/a697d2a38b3c)
-
+* [LSAnimator](https://github.com/Lision/LSAnimator) 非侵入式的多链式动画
 
 #### gif动画@
 
