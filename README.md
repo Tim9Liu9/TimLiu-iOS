@@ -20,7 +20,12 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 期待大家和我们一起共同维护，同时也期望大家随时能提出宝贵的意见（直接提交issues即可）。请广大网友只按照目录结构（即使目录结构有问题）添加三方库，并提交pull request。目录问题大家提出issues后楼主会及时更改的。
 
 ###  目录
-- [Github用法@](#Github用法)
+- [参考@](#参考)
+- [版本管理@](#版本管理)
+  - [Git用法@](#Git用法)
+  - [GitHub@](#GitHub)
+  - [GitBook@](#GitBook)
+  - [Git文章@](#Git文章)
 - [完整App@](#完整App)
 - [上架@](#上架)
 - [Xcode8插件@](#Xcode8插件)
@@ -158,12 +163,97 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### 具体内容 =============================
 
-#### Github用法@           [返回Github用法](#Github用法)                                   
+#### 版本管理
+#### Git@           [返回Git](#Git)                                   
 
 * [git-recipes](https://github.com/geeeeeeeeek/git-recipes)  Git recipes in Chinese. 高质量的Git中文教程.
 * [lark](https://github.com/larkjs/lark/wiki/怎样贡献代码) 怎样在Github上面贡献代码
 * [my-git](https://github.com/xirong/my-git)有关 git 的学习资料
 * [gitignore](https://github.com/github/gitignore) 非常赞 有用的.gitignore模板集合(忽略上传的文件集合)，包含了各种语言.
+* [Linus讲解git](https://www.youtube.com/watch?v=4XpnKHJAok8) - Google大会演讲，Linus介绍他创造git的原因，对比了git和svn。
+* [Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 史上最浅显易懂的Git教程！
+* [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) - 助你入门 git 的简明指南，木有高深内容 ;)
+* [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html) - 来自阮一峰的网络日志，列出了 Git 最常用的命令。
+* [Pro Git（中文版）](https://git.oschina.net/progit/) - 书
+* [Git Submodule使用完整教程](http://www.kafeitu.me/git/2012/03/27/git-submodule.html) - Git Submodule功能刚刚开始学习可能觉得有点怪异，所以本教程把每一步的操作的命令和结果都用代码的形式展现给大家，以便更好的理解。
+* [Git权威指南](http://www.worldhello.net/gotgit/) - 书
+* [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) - git-flow 是一个 git 扩展集，按 Vincent Driessen 的分支模型提供高层次的库操作。
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) -stanford出品
+* [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/setting-up-a-repository/) - atlassian出品
+* [Try Git ( Interactive)](https://try.github.io/levels/1/challenges/1) -互动性的教你使用git
+* [Git (简体中文)](https://wiki.archlinux.org/index.php/Git_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)) -archlinux出品
+* [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html) -这本书汇聚了Git社区的很多精华,  其目的就是帮助你尽快的掌握Git.
+* [git-recipes](https://github.com/geeeeeeeeek/git-recipes) -高质量的Git中文教程，来自国外社区的优秀文章和个人实践
+* [git-it](http://jlord.us/git-it/) - GitHub一位女员工写的Git教程，繁体中文版在这里可以找到: http://jlord.us/git-it/index-zhtw.html
+* [Git Town](http://www.git-town.com/) - GitTown 定义了很多高级的 git 命令，例如 git ship / git sync 等以方便 git 的使用
+* [git-tips](https://github.com/git-tips/tips) - 最常用的Git的提示和技巧。
+* [「Githug」Git 游戏通关流程](http://www.jianshu.com/p/482b32716bbe) - 这个命令行工具通过游戏的方式来练习你的 Git 技能
+* [progit2-zh](https://github.com/progit/progit2-zh) - Pro Git，第二版，简体中文
+* [git-style-guide](https://github.com/agis-/git-style-guide)- git风格指南
+* [Git 进阶技巧](https://github.com/xhacker/GitProTips/blob/master/zh_CN.md) - 适合了解 Git 的基本使用，知道 commit、push、pull，希望掌握 Git 更多功能的人阅读。
+* [learn-git-basics](https://github.com/NataliaLKB/learn-git-basics) - git 指南
+* [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days/blob/master/zh-tw/README.md)
+* [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html) - 图解git中的最常用命令。如果你稍微理解git的工作原理，这篇文章能够让你理解的更透彻。
+* [沉浸式学 Git](http://igit.linuxtoy.org/contents.html) - 简洁github教程，每步信息量都不大，可以尝试一下。
+* [工作中常用的Git命令行](https://github.com/DefaultYuan/Git-Pro) - 自己在工作中常用的Git命令行的小总结！
+
+#### GitHub@
+
+ * [GitHub Pages 指南](http://jekyllcn.com/) - 官方文档翻译版
+ * [GitHub Pages 指南 - 极客学院](http://wiki.jikexueyuan.com/project/github-pages-basics/) - 本指南是 GitHub Pages 官网 GitHub Pages Basics 的中文翻译版本。
+ * [jekyll官方文档中文翻译版](http://jekyllcn.com/) - 将纯文本转换为静态博客网站
+ * [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门
+](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html) - 示范如何在github上搭建Blog，你可以从中掌握github的Pages功能，以及Jekyll软件的基本用法。更重要的是，你会体会到一种建立网站的全新思路。
+ * [免费使用Jekyll+Github Page搭建博客入门攻略](http://www.cellier.me/2015/01/04/jekyll%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/) - Jekyll建站
+ * [jekyll 学习资料整理](https://github.com/mba811/jekyll-study) - 在学习的同时将内容整理很多相关资料
+ * [jekyll-style-guide](http://ben.balter.com/jekyll-style-guide/)
+ * [hexo你的博客](http://ibruce.info/2013/11/22/hexo-your-blog/) - hexo出自台湾大学生[tommy351](https://twitter.com/tommy351)之手，是一个基于Node.js的静态博客程序，其编译上百篇文字只需要几秒。
+ * [如何搭建一个独立博客——简明Github Pages与Hexo教程](http://www.jianshu.com/p/05289a4bc8b2) - 这是一篇很详尽的独立博客搭建教程，里面介绍了域名注册、DNS设置、github和Hexo设置等过程。
+ * [Hexo 中文版](https://hexo.io/zh-cn/) - hexo官网中文版
+ * [像 geek 一样写博客](http://wiki.jikexueyuan.com/project/github-page/) - 结合了Octopress
+
+#### GitBook@
+
+ * [GitBook 简明教程](http://www.chengweiyang.cn/gitbook/index.html) - 本教程主要围绕 GitBook 的安装，使用，集成，书籍发布，个性化以及实用插件几个方面。
+ * [Gitbook 入门教程](https://yuzeshan.gitbooks.io/gitbook-studying/content/index.html) - 本书将简单介绍如何安装、编写、生成、发布一本在线图书,且示例全部在windows下展示(其他系统差不多一致):
+ * [Git教学](https://kingofamani.gitbooks.io/git-teach/content/index.html) - GIT版本控制
+ * [Gitbook 使用入门](https://github.com/wwq0327/gitbook-zh) - 本书将简单介绍如何安装、编写、生成、发布一本在线图书。
+ * [api-guide](https://github.com/GitbookIO/api-guide) - gitbook 的api 文档
+
+#### Git文章@
+
+* [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html) - 本文尝试谈谈GitHub的文化、技巧与影响
+* [GitHub连击500天：让理想的编程成为习惯](https://www.phodal.com/blog/github-500-program-as-usual/) - phodal对于GitHub的看法
+* [Github装逼指南——Travis CI 和 Codecov](https://segmentfault.com/a/1190000004415437) - 关于持续集成和统计单测覆盖率
+* [如何用Github去管理你的Idea](http://zhuanlan.zhihu.com/phodal/20442311) - 用Github的README.md和Issues来管理我的idea
+* [GitHub开源项目负责人谈开源](http://www.infoq.com/cn/news/2015/10/GitHub-OpenSource) - Brandon就其与开源的缘分、当前工作的职责、GitHub及员工与开源的关系等方面的问题一一进行了回答。
+* [亲爱的GitHub](https://github.com/dear-github/dear-github) - 致GitHub的一封公开信
+* [thank-you-github](https://github.com/thank-you-github/thank-you-github) - 一封从GitHub毕业的公开信
+* [用Github issues作为blog的例子](https://github.com/lifesinger/blog/labels/blog)
+* [2014年GitHub 中国开发者年度报告](http://githuber.info/report) - 使用python分析数据后的报告
+* [Gist介绍与用法](http://platinhom.github.io/2015/11/26/gist/) - Gist https://gist.github.com/ 是Github的一个子服务
+* [最活跃的GitHub用户](https://gist.github.com/paulmillr/2657075/) - 想看最活跃用户可以看这里
+* [10+ HELPFUL GITHUB HACKS TO IMMEDIATELY BOOST YOUR PRODUCTIVITY](http://usersnap.com/blog/github-hacks-productivity/) - 10个立即提高你生产力的GitHub技能
+* [Top 10 Git Tutorials for Beginners](http://sixrevisions.com/resources/git-tutorials-beginners/) -教你使用git最好的10本书
+* [使用GitHub进行团队合作](http://xiaocong.github.io/blog/2013/03/20/team-collaboration-with-github/) - 译文
+* [一键收藏至Github](http://www.jianshu.com/p/19d2f3a3b5d8) - 通过 Rails 收藏文章，并自动提交至 github。
+* [Github Hacking](http://www.jianshu.com/p/d6b54f1d60f1) - Github的各种黑客技能
+* [如何参与一个GitHub开源项目？](http://www.csdn.net/article/2014-04-14/2819293-Contributing-to-Open-Source-on-GitHub) - 本文是Github官方给出的参与Github上开源项目的一些指导，对希望加入开源社区的开发者是一个不错的参考。
+* [试译：开源项目成功的十条准则](http://www.zhuangbiaowei.com/blog/?cat=31) -作者将自己30年来的开发经验，总结为开源软件的十条成功法则。
+* [漫谈Github与开源](http://www.wdk.pw/802.html) -本文作者为大二在读Geek学生关于GitHub与开源的理解。
+* [关于Pull Request的十个建议](http://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/) -作者Mark Seemann
+* [Github上都有哪些有用但不为大家熟知的小功能？](https://www.zhihu.com/question/36974348) - 知乎问题
+* [如果你用GitHub，可以这样提高效率](http://huang-jerryc.com/2016/01/15/%E5%A6%82%E6%9E%9C%E4%BD%A0%E7%94%A8GitHub%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87/) - 基于Github，搭建一整套代码管理服务
+* [如何选择开源许可证？](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html) - 六种开源协议GPL、BSD、MIT、Mozilla、Apache和LGPL之间的区别
+* [如何用好github中的watch、star、fork](http://www.jianshu.com/p/6c366b53ea41) - 介绍watch、star、fork的具体作用
+* [git-commit-guide](https://github.com/bluejava/git-commit-guide) - git commit message 指南
+* [git操作是不是很难记住？](http://www.jianshu.com/p/e870fdd971fc) - 笔者试着分类git的常用操作，方便同样是刚入门git的你查阅。
+* [GUI for git|SourceTree|入门基础](http://www.jianshu.com/p/be9f0484af9d) - SourceTree简介
+* [话说Svn与Git的区别](http://www.jianshu.com/p/bfec042349ca) - SVN的特点是简单，只是需要一个放代码的地方时用是OK的。Git的特点版本控制可以不依赖网络做任何事情，对分支和合并有更好的支持。
+* [多用Git少交税](http://www.jianshu.com/p/8a985c622e61)
+* [Git版本控制与工作流](http://www.jianshu.com/p/67afe711c731) - 针对git版本控制和工作流的总结
+* [在github上写博客](http://www.jianshu.com/p/1260517bbedb)
+* [GitHub & Bitbucket & GitLab & Coding 的对比分析](http://blog.flow.ci/github-bitbucket-gitlab-coding)
 
 #### 完整App@
 
@@ -1710,3 +1800,8 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 #### 未分类@
 
 * [Form](https://github.com/hyperoslo/Form) Form 是一个方便开发者创建表单填写工作的 UI 库。
+
+#### 参考@
+
+* [说明]( ) 此库是完全开源收集整理，服务于广大iOS开发工作者的开源集合资料库，欢迎大家踊跃贡献.
+* [awesome-github](https://github.com/AntBranch/awesome-github) A curated list of awesome GitHub guides, articles, sites, tools, projects and resources. 收集这个列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
