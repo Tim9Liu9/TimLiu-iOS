@@ -327,6 +327,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [iOS-RatingBar](https://github.com/saiwu-bigkoo/iOS-RatingBar) - iOS-RatingBar swift版的评分控件,跟Android的RatingBar一样有两种模式，评分模式和只读模式'支持视图编辑，自定义星星数量，评分等级,另外还能支持非整数星，0.5颗星，0.1颗星,可以开启动画效果。
 * [SwiftyStarRatingView](https://github.com/Jerrrr/SwiftyStarRatingView) SwiftyStarRatingView 是一个用 swift 3.0 编写的评分控件，可以支持自定义图片和颜色，并且可以支持在XIB、StoreBoard中使用，并支持AutoLayout。
 
+#### 搜索@
+
+* [YNSearch](https://github.com/younatics/YNSearch) 一个非常棒，完全自定义的搜索View，支持历史记录，标签等等功能.
+
 #### Color@
 
 * [IGColorPicker](https://github.com/iGenius-Srl/IGColorPicker) - 一个自定义颜色选择器 🎨 A customizable color picker for iOS in Swift 🔶
