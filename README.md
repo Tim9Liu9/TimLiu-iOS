@@ -70,6 +70,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [文本@](#文本)
   - [文本输入@](#文本输入)
   - [富文本@](#富文本)
+  - [字体@](#字体)
 - [多线程@](#多线程)
 - [Cagegory@](#Category)
 - [ipad@](#ipad)
@@ -639,8 +640,9 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### 工具@
 #### 提醒用户评分@
 
-* [UAAppReviewManager](https://github.com/urbanapps/UAAppReviewManager) 一个轻量级的，易用的App评分提醒库.
 * [iRate](https://github.com/nicklockwood/iRate) - 问卷调查。
+* [UAAppReviewManager](https://github.com/urbanapps/UAAppReviewManager) 一个轻量级的，易用的App评分提醒库.
+* [appirater](https://github.com/arashpayan/appirater) - 用于提醒用户给你的 APP 打分的工具。
 
 #### 压缩解压@
 
@@ -684,6 +686,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [placeholder_TextView](http://code.cocoachina.com/view/129099) - 带有placeholder的TextView：带有提示信息的textview，使用懒加载的思想，支持扩展、自定义，类似许多APP内部的意见反馈页面 。
 * [M80AttributedLabel](https://github.com/xiangwangfeng/M80AttributedLabel) - M80AttributedLabel实现文字与表情的混排。一般使用气泡作为背景。
 
+
+#### 字体@
+
+* [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit) 图片字体库，支持超级字体、基础Icon等，支持同时支持Swift.
 
 #### 多线程@
 
@@ -968,7 +974,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 第三方键盘分次弹出问题 ,[说明](http://ios.jobbole.com/85135/)。
 * [KeyboardToolBar](https://github.com/Jiar/KeyboardToolBar/) - 从此不再担心键盘遮住输入框，[文档](http://www.jianshu.com/p/48993ff982c1)。
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - 处理键盘事件强大的库，有OC和Swift版本，纯代码、Storyboard和Xib都适用。
-* [appirater](https://github.com/arashpayan/appirater) - 用于提醒用户给你的 APP 打分的工具。
 * [MotionKitr](https://github.com/MHaroonBaig/MotionKitr) - 为核心运动框架（The Core Motion framework）提供友好的类库封装，以更方便使用三轴陀螺仪和加速感应器特性。
 * [Review Monitor](https://launchkit.io/reviews/) -  第一时间自动推送 Apple Store 的用户评论到你的邮件箱或者 Slack，第一时间跟进用户反馈，打造优秀 App 必备工具！类似的有：App annie 的类似功能。
 * [WBWebViewConsole](https://github.com/Naituw/WBWebViewConsole) - 类似微博iPhone客户端的 “调试选项” 吗？把其中的 “内置浏览器网页调试” 开源在 Github 上了。
@@ -1201,6 +1206,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) 带状态控制的条码扫描库，支持处理相机权限、自定义颜色和提示信息，不依赖其他第三方库。扫描](https://github.com/100mango/zen/blob/master/iOS%E5%AD%A6%E4%B9%A0%EF%BC%9AAVFoundation%20%E8%A7%86%E9%A2%91%E6%B5%81%E5%A4%84%E7%90%86/iOS%E5%AD%A6%E4%B9%A0%EF%BC%9AAVFoundation%20%E8%A7%86%E9%A2%91%E6%B5%81%E5%A4%84%E7%90%86%20.md)。
 * [MQRCodeReaderViewController](https://github.com/zhengjinghua/MQRCodeReaderViewController) - 二维码扫描控件, UI 做了优化, 仿造微信, 直接拖进项目就可使用。
 * [MQRCodeReaderViewController](https://github.com/zhengjinghua/MQRCodeReaderViewController) iOS 二维码扫描控件, UI 做了优化, 仿造微信, 直接拖进项目就可使用, 支持 CocoaPods 安装. WeChat-like QRCode reader, drop-in version, support for CocoaPods
+* [QRWeiXinDemo](https://github.com/lcddhr/QRWeiXinDemo)仿微信二维码扫描，中间透明区域
 
 #### PDF@
 
@@ -1697,5 +1703,5 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [TrafficLights-DeepLearning-iOS](https://github.com/asavihay/TrafficLights-DeepLearning-iOS) 利用Caffe深度学习执着的一个交通灯信号检测App
 
 #### 未分类@
-* [appirater](https://github.com/arashpayan/appirater)提醒用户打分 A utility that reminds your iPhone app's users to review the app.
+
 * [Form](https://github.com/hyperoslo/Form) Form 是一个方便开发者创建表单填写工作的 UI 库。
