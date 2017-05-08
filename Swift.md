@@ -42,7 +42,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [评分@](#评分)
   - [搜索@](#搜索)
   - [其他UI@](#其他ui)
-- [多线程@](#多线程)
+  - [多线程@](#多线程)
+- [工具@](#工具)
+  - [category@](#category)
 - [游戏@](#游戏)
 - [动画@](#动画)
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
@@ -383,6 +385,12 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Me](https://github.com/pascalbros/Me) 嵌套异步计算的一个超级轻量级的解决方案
 * [SwiftyTask](https://github.com/CR-Creations/SwiftyTask) 一个高性能的排队系统，用于管理App中的全部任务。
 
+
+#### 工具@
+#### category@
+
+* [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift) 一个非常不错的分类集合工具库，大幅提高开发效率.同时包含Objective-C版本
+
 #### 游戏@
 
 #### 动画@
@@ -659,7 +667,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Regex.swift](https://github.com/sharplet/Regex) - 实用的正则表达式微框架类库。
 * [PySwiftyRegex.swift](https://github.com/cezheng/PySwiftyRegex) - 像Python一样简洁高效地作正则处理。
 * [PhoneNumberKit.swift](https://github.com/marmelroy/PhoneNumberKit) -  解析、格式化及验证国际电话号码工具库（相当于 Google 的 libphonenumber 库的 Swift 版本）。
-* [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift) - BFKit-Swift 这套工具库可以提高应用开发效率。
 * [SwiftSequence](https://github.com/oisdk/SwiftSequence) - 简洁、灵活、多变的操作 SequenceType 的类库（基于微框架（μframework）设计思想）。
 * [IDNFeedParser](https://github.com/photondragon/IDNFeedParser) - 一个简单易用的Rss解析库。
 * [Swifternalization](https://github.com/tomkowz/Swifternalization) - 一套实用的本地化工具库。使用教程及 API 文档完整。值得收入项目的“轮子”。
@@ -902,6 +909,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) Next Generation of ShadowsocksX
 * [vpnon](https://github.com/lexrus/vpnon/) - swift的VPN On 的源码和本地化内容都是开放的: [官方网站](https://crowdin.com/project/vpnon)。
+* [Potatso](https://github.com/haxpor/Potatso) 一个实现Shadowsocks代理的客户端.
 
 #### 物联网@
 
