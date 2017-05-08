@@ -50,6 +50,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
   - [gif动画@](#gif动画)
   - [其他动画@](#其他动画)
+- [算法@](#算法)
 - [相册@](相册#)
 - [AutoLayout@](#autolayout)
 - [网络相关@](#网络相关)
@@ -105,10 +106,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [视频@](#视频)
     - [视频播放@](#视频播放)
 - [地图@](#地图)
-- [消息相关@](#消息相关)
-  - [消息推送客户端@](#消息推送客户端)
-  - [消息推送服务器端@](#消息推送服务器端)
-  - [通知相关@](#通知相关)
+- [通知@](#通知)
 - [时间日期@](#时间日期)
 - [设计模式@](#设计模式)
 - [版本新API的Demo@](#版本新api的demo)
@@ -178,7 +176,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [katana-swift](https://github.com/BendingSpoons/katana-swift) - Swift Apps in a Swoosh! A modern framework for creating iOS apps, inspired by React and Redux. http://katana.bendingspoons.com
 
 #### 响应式框架
-* [RxSwift](https://github.com/ReactiveX/RxSwift) - RxSwift:函数响应式编程框架。
+* [RxSwift](https://github.com/ReactiveX/RxSwift) - RxSwift:函数响应式编程框架，非常👍👍👍.
 * [RxPermission.swift](https://github.com/sunshinejr/RxPermission) - 通过绑定 RxSwift 实现的 RxPermission。
 * [Permission.swift](https://github.com/delba/Permission) - 统一的 API 请求 iOS 本地设备及资源权限类库。
 * [ReactiveAnimation](https://github.com/ReactiveCocoa/ReactiveAnimation) - ReactiveCocoa 推出了一个叫 ReactiveAnimation 的子项目，直接用完全用 Swift 来实现了。
@@ -228,7 +226,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### 图表@
 * [swift-linechart](https://github.com/zemirco/swift-linechart) - 功能完整、实用的折线图组件。使用方便，参数配置简单。是不可多得的优质组件--swift。
-* [ios-charts](https://github.com/danielgindi/Charts) - 一款优秀 Android 图表开源库 MPAndroidChart 的 Swift 语言实现版（支持 Objective-C 和 Swift 调用）。缺省提供的示例代码为 Objective-C。
+* [Charts](https://github.com/danielgindi/Charts) - 一款优秀的图表开源库 MPAndroidChart 的 Swift 语言实现版（支持 Objective-C 和 Swift 调用），非常赞👍👍👍.
 * [Scrollable-GraphView.swift](https://github.com/philackm/Scrollable-GraphView) - 灵动感十足的自适应、可定制滚动曲（折）线图表库。
 
 #### TableView@、CollectionView@
@@ -461,6 +459,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [PeekPop.swift](https://github.com/marmelroy/PeekPop) - 3DTouch动画组件。
 * [fantastic-ios-animation.swift](https://github.com/onmyway133/fantastic-ios-animation) - 基于 UI 组件类别分类，且带精彩动画效果的 iOS 组件库集合。
 * [GridPanelDemo](https://github.com/JasonZengJ/GridPanelDemo) 赞，一个点击翻转的动画Demo
+
+#### 算法@
+
+* [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) 很多流行的算法和数据结构的具体实现，非常赞👍👍👍
 
 #### 相册@
 
@@ -872,12 +874,13 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [BMPlayer.swift](https://github.com/BrikerMan/BMPlayer) - 基于 AVPlayer 使用 Swift 封装的视频播放器，方便快速集成,支持横屏、竖屏，上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。
 * [PlayerView](https://github.com/davidlondono/PlayerView) - 一个使用代理和AVPlayer的播放View
 
-#### 消息相关@
-#### 消息推送客户端@
-#### 消息推送服务器端@
+#### 地图@
 
-#### 通知相关@
+* [Cluster](https://github.com/efremidze/Cluster) 非常不错的地图标注聚合.
 
+#### 通知@
+
+* [NotificationBanner](https://github.com/Daltron/NotificationBanner) 最容易的方法显示高度自定义的通知.
 * [Homeoff](https://github.com/lizyyy/Homeoff) - 用swift写了一个模仿Launcher通知中心快捷方式的应用。支持20个应用，并增加了一个返回到桌面来解放Home键的功能。
 * [SwiftNotificationCenter](https://github.com/100mango/SwiftNotificationCenter) - 一个面向协议的类型安全、线程安全、内存安全的通知中心。
 
