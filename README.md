@@ -51,7 +51,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [Switch@](#Switch)
   - [Label@](#Label)
   - [Search@](#Search)
-  - [Category@](#Category)
   - [主题@](#主题)
   - [电影选座@](#电影选座)
   - [瀑布流@](#瀑布流)
@@ -67,6 +66,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [工具@](工具@)
   - [提醒用户评分@](@提醒用户评分)
   - [压缩解压@](@压缩解压)
+  - [Category@](#Category)
 - [文本@](#文本)
   - [文本输入@](#文本输入)
   - [富文本@](#富文本)
@@ -93,7 +93,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [网络解析](#网络解析)
       - [CSV](#csv)
       - [JSON@](#json)
-      - [JSON工具@](#json工具)
+      - [JSON@](#json)
       - [XML&HTML@](#xml--html)
       - [Other Parsing@](#other-parsing)
 - [学习资料@](#学习资料)
@@ -122,10 +122,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [其他库@](#其他库)
 - [三方分享、支付、登录等等@](#三方分享、支付、登录等等)
 - [PDF@](#PDF)
-- [VR@](VR@)
 - [多媒体@](#多媒体)
   - [GIF@](#GIF)
   - [VR@](#VR)
+  - [AR@](#AR)
   - [二维码@](#二维码)
   - [PDF@](#PDF)
   - [流媒体@](#流媒体)
@@ -495,12 +495,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [PYSearch](https://github.com/iphone5solo/PYSearch) 非常赞 An elegant search controller for iOS.
 * [CustomSearchBar](https://github.com/zangqilong198812/CustomSearchBar) - 自定义searchbar,类似于instagram的搜索框效果。
 
-#### Category@
-
-* [UIScrollView-InfiniteScroll](https://github.com/pronebird/UIScrollView-InfiniteScroll) 滚动视图无限滚动分类 UIScrollView infinite scroll category
-* [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) 允许改变导航栏appearance dynamically的分类  UINavigationBar Category which allows you to change its appearance dynamically
-* [BlocksKit](https://github.com/zwaldowski/BlocksKit)  block框架，为 OC 常用类提供了强大的 Block 语法支持，使得编写 OC 代码变得舒适、快速、优雅。 The Objective-C block utilities you always wish you had.
-
 #### 主题@
 
 * [LEETheme](https://github.com/lixiang1994/LEETheme) 优雅的主题管理库- 一行代码完成多样式切换
@@ -638,6 +632,9 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [YJFavorEmitter](https://github.com/SplashZ/YJFavorEmitter) 一个非常好用的点赞粒子发射器
 
 #### 工具@
+#### 综合@
+* [sstoolkit](https://github.com/soffes/sstoolkit) 一个不错的工具包，提供各种比如编码、加密、字符串处理等等东西，还提供了一些不错的自定义控件，并且文档非常齐全
+
 #### 提醒用户评分@
 
 * [iRate](https://github.com/nicklockwood/iRate) - 问卷调查。
@@ -647,6 +644,15 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### 压缩解压@
 
 * [ZipArchive](https://github.com/ZipArchive/ZipArchive) - 适用iOS和OS X的解压库。
+
+#### Category@
+
+* [FlatUIKit](https://github.com/Grouper/FlatUIKit) 针对Foundation的扩展,非常👍 A collection of awesome flat UI components for iOS.
+* [UIScrollView-InfiniteScroll](https://github.com/pronebird/UIScrollView-InfiniteScroll) 滚动视图无限滚动分类 UIScrollView infinite scroll category
+* [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) 允许改变导航栏appearance dynamically的分类  UINavigationBar Category which allows you to change its appearance dynamically
+* [BlocksKit](https://github.com/zwaldowski/BlocksKit)  block框架，为 OC 常用类提供了强大的 Block 语法支持，使得编写 OC 代码变得舒适、快速、优雅。 The Objective-C block utilities you always wish you had.
+* [YYCategories](https://github.com/ibireme/YYCategories) - 功能丰富的 Category 类型工具库。
+* [BFKit](https://github.com/FabrizioBrancati/BFKit) 一个非常不错的分类集合工具库，大幅提高开发效率.同时包含Swift版本
 
 #### 文本@
 #### 文本输入@
@@ -698,7 +704,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 #### Cagegory@
 
-* [JKCategories](https://github.com/shaojiankui/JKCategories) 非常棒的分类
+* [JKCategories](https://github.com/shaojiankui/JKCategories) 非常棒👍👍👍 的分类集合，包含Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc等等.
 * [NullSafe](https://github.com/nicklockwood/NullSafe) NullSafe is a simple category on NSNull that returns nil for any unrecognised messages instead of throwing an exception pod 'NullSafe', '~> 1.2.2' 用于防止项目中数组为空时越界访问崩溃。
 * [iOS-Categories](https://github.com/shaojiankui/IOS-Categories) - 收集了许多有助于开发的iOS扩展,各种category分类。
 * [cocoacats](http://cocoacats.com/) - 【分类汇总】里面收集了 iOS 中常用的分类文件，一直在更新。
@@ -923,7 +929,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [Elevate](https://github.com/Nike-Inc/Elevate) - Elevate is a JSON parsing framework that leverages Swift to make parsing simple, reliable and composable. :large_orange_diamond:
 * [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) - An Alamofire extension which converts JSON response data into swift objects using ObjectMapper :large_orange_diamond:
 
-#### JSON工具@
+#### JSON@
 
 * [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. :large_orange_diamond:
 * [WHC_DataModelFactory](https://github.com/netyouli/WHC_DataModelFactory) Mac上iOS开发辅助工具，快速把json/xml数据转换生成对应模型类属性，省去麻烦手动创建，提高开发效率。
@@ -1014,7 +1020,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [DateTools](https://github.com/MatthewYork/DateTools) - 用于提高Objective-C中日期和时间相关操作的效率。灵感来源于 DateTime和Time Period Library。
 * [DDSlackFeedback](https://github.com/deepdevelop/DDSlackFeedback) - 用这个接口实现的摇一摇上传文字或者截屏反馈到你的 Slack channel，特别适合测试 app 的时候用，集成也很简单。
 * [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth) - 是一个非常容易使用的蓝牙库, 适用于 iOS 和 Mac OS, 基于原生 CoreBluetooth 框架封装, 可以帮开发者们更简单地使用 CoreBluetooth API, 使用链式方法体, 使得代码更简洁、优雅。[iOS蓝牙开发（四）：BabyBluetooth蓝牙库介绍](http://www.cocoachina.com/ios/20160219/15301.html)
-* [YYCategories](https://github.com/ibireme/YYCategories) - 功能丰富的 Category 类型工具库。
 * [YYAsyncLayers](https://github.com/ibireme/YYAsyncLayers) -  iOS 异步绘制与显示的工具。
 * [YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool) -  iOS 全局并发队列管理工具。
 * [YYKeyboardManager](https://github.com/ibireme/YYKeyboardManager) -   iOS 键盘监听管理工具。
@@ -1040,7 +1045,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### 缓存处理@
 
 * [YTKKeyValueStore](https://github.com/yuantiku/YTKKeyValueStore) - Key-Value存储工具类，[说明](http://tangqiaoboy.gitcafe.io/blog/2014/10/03/opensouce-a-key-value-storage-tool/)。
-* [TMCache](https://github.com/tumblr/TMCache) - TMCache 是 Tumblr 开源的一个基于 key/value 的数据缓存类库,可以用于缓存一些临时数据或者需要频繁加载的数据,比如某些下载的数据或者一些临时处理结果。
 * [JLKeychain](https://github.com/jl322137/JLKeychain) - 快捷使用keychain存储数据的类，使keychain像NSUserDefaults一样工作。
 * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - 封装keychain，使keychain像NSUserDefaults一样简单
 * [sskeychain](https://github.com/soffes/sskeychain) - SSKeyChains对苹果安全框架API进行了简单封装,支持对存储在钥匙串中密码、账户进行访问,包括读取、删除和设置。
@@ -1054,9 +1058,9 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [WHC_ModelSqliteKit](https://github.com/netyouli/WHC_ModelSqliteKit) 专业的数据库存储解决方
 * [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: http://sqlitebrowser.org
 * [GXDatabaseUtils](https://github.com/Gerry1218/GXDatabaseUtils) - 在FMDB基础上的工具。
+* [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) - CoreData第一库，MagicalRecord就像是给Core Data提供了一层外包装，隐藏掉所有不相关的东西。 其中事务管理及查询是其比较大的亮点，整套 API 功能完整。
 * [GKDatabase](https://github.com/ChrisCaixx/GKDatabase) -基于SQLite3简单封装了下,实现了一行代码解决增删改查等常用的功能!并没有太过高深的知识,主要用了runtime和KVC:请看Demo~ 原理篇请看这里:[简书地址](http://www.jianshu.com/p/0e598147debc)
 * [CoreStore](https://github.com/AfryMask/AFBrushBoard) -  Core Data 管理类库。 其中事务管理及查询是其比较大的亮点，整套 API 功能完整。
-* [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) - CoreData第一库，MagicalRecord就像是给Core Data提供了一层外包装，隐藏掉所有不相关的东西。 其中事务管理及查询是其比较大的亮点，整套 API 功能完整。
 * [mogenerator](http://rentzsch.github.io/mogenerator/) - mogenerator为你定义了的Core Data生成默认的数据类。与xCode不一样的是(xCode一个Entity只生成一个NSManagedObject的子类)，mogenerator会为每一个Entity生成两个类。一个为机器准备，一个为人类准备。为机器准备的类一直去匹配data model。为人类准备的类就给你轻松愉快的去修改和保存。
 * [Presentation](https://github.com/hyperoslo/Presentation) - 重量级好项目 Presentation，它可以方便你制作定制的动画式教程、Release Notes、个性化演讲稿等。
 * [SQLCipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher使用256-bit AES加密，SQLCipher分为收费版本和免费版本。[官方教程](https://www.zetetic.net/sqlcipher/ios-tutorial/)， [加密你的SQLite](http://foggry.com/blog/2014/05/19/jia-mi-ni-de-sqlite/) - 各种sqlite数据库加密介绍。 [SQLCipherDemo下载](http://download.csdn.net/detail/wzzvictory_tjsd/7379055) 。
@@ -1195,6 +1199,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [HTY360Player](https://github.com/hanton/HTY360Player) 一款360度全景视频播放器
 * [ios-360-videos](https://github.com/NYTimes/ios-360-videos) - 基于AVPlayer的360度全景视频播放器
+
+#### AR@
+
+* [AR-Source](https://github.com/GeekLiB/AR-Source) AR 开发资料汇总
 
 #### 二维码@
 
@@ -1597,12 +1605,10 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 #### 他人开源总结@
 
-* [awesome-ios](https://github.com/vsouza/awesome-ios) 👍👍👍一个非常棒的开源库集合[中文版](http://app.memect.com/doc/ios.html)。
-* [awesome-osx](https://github.com/iCHAIT/awesome-osx) - Awesome OS X。
-* [awesome-mac](https://github.com/jaywcjlove/awesome-mac)  Mac软件、开发工具、设计工具集合
-* [code4app](http://www.code4app.com/) - 最多国人用的代码库。
-* [cocoachina](http://code.cocoachina.com/) - 国内最热门的iOS社区的代码库。
+* [awesome-ios](https://github.com/vsouza/awesome-ios) 一个非常棒👍👍👍 的开源库集合.
+* [awesome-osx](https://github.com/iCHAIT/awesome-osx) - 一个非常棒👍👍👍的Mac OS X开源库集合。
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - 收集了不少 iOS UI/UX 库, 包含了很多酷炫的动画效果。
+* [awesome-mac](https://github.com/jaywcjlove/awesome-mac)  Mac软件、开发工具、设计工具集合
 * [ios-cosmos](http://www.ios-cosmos.com/) - The iOS Cosmos：收录了iOS绝大部分的开源框架和工具。
 * [Awesome Haskell资料大全](https://haskell.zeef.com/konstantin.skipor#block_28362_basics) -    Awesome Haskell 资料大全：框架，库和软件。
 * [Cosmos](http://ios-cosmos.com) - The iOS Cosmos：收录了IOS绝大部分的开源框架和工具。
@@ -1616,7 +1622,6 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [Github 上的 iOS 开源项目](http://ios.jobbole.com/84684/) - Github 上的 iOS 开源项目总结。
 * [iOS资源大全中文版](https://github.com/jobbole/awesome-ios-cn) - iOS资源大全中文版。
 * [LearningIOS](https://github.com/zhouhuanqiang/LearningIOS) Learning materials of iOS
-* [AR-Source](https://github.com/GeekLiB/AR-Source) AR 开发资料汇总
 * [Dev-Repo](https://github.com/DevDragonLi/Dev-Repo) 学习经验、面试题等集合.
 
 #### 开发博客列表@
