@@ -43,8 +43,13 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [搜索@](#搜索)
   - [其他UI@](#其他ui)
   - [多线程@](#多线程)
+
 - [工具@](#工具)
-  - [category@](#category)
+  - [开发工具@](#开发工具)
+  - [Xcode插件@](#Xcode插件)
+  - [Xcode相关@](#Xcode相关)
+  - [Category@](#category)
+  - [Color@](#Color)
 - [游戏@](#游戏)
 - [动画@](#动画)
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
@@ -64,7 +69,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
       - [JSON@](#json)
       - [XML&HTML@](#xmlhtml)
       - [Other Parsing@](#other-parsing)
-- [Color@](#Color)
 - [VR@](#VR)
 - [开发资料@](#开发资料)
   - [播客@](#播客)
@@ -74,12 +78,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [设计@](#设计)
   - [好的文章@](#好的文章)
   - [美工资源@](#美工资源)
-- [开发工具@](#开发工具)
-  - [Xcode插件@](#Xcode插件)
-  - [好用的软件@](#好用的软件)
-  - [Cagegory@](#cagegory)
 - [测试及调试@](#测试及调试)
-- [开发工具@](#开发工具)
 - [数据存储@](#数据存储)
   - [缓存处理@](#缓存处理)
   - [CoreData@](#CoreData)
@@ -329,10 +328,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [YNSearch](https://github.com/younatics/YNSearch) 一个非常棒，完全自定义的搜索View，支持历史记录，标签等等功能.
 
-#### Color@
-
-* [IGColorPicker](https://github.com/iGenius-Srl/IGColorPicker) - 一个自定义颜色选择器 🎨 A customizable color picker for iOS in Swift 🔶
-
 #### 其他UI@
 * [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress) -  KDCircularProgress是使用swift制作的色彩炫丽的进度条，可以加入多种颜色来控制进度条的渐变效果。
 * [RandomColorSwift](https://github.com/onevcat/RandomColorSwift) - 一个自动生成好看的颜色的 Swift 库，RandomColorSwift。
@@ -392,6 +387,12 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### category@
 
 * [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift) 一个非常不错的分类集合工具库，大幅提高开发效率.同时包含Objective-C版本
+
+#### Color@
+
+* [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon是一个非常棒👍👍👍iOS的色彩框架。它运用现代化flat color将UIColor扩展地非常美观。我们还可以通过它运用自定义颜色创建调色板。它还有很多功用，请浏览readme。同时支持Objective-C.
+* [IGColorPicker](https://github.com/iGenius-Srl/IGColorPicker) - 一个自定义颜色选择器 🎨 A customizable color picker for iOS in Swift 🔶
+
 
 #### 游戏@
 
@@ -592,8 +593,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [XcodeSwiftSnippets](https://github.com/burczyk/XcodeSwiftSnippets) - XcodeSwiftSnippets, 提供了很多可在 Xcode 上使用的 Swift 代码片段, 通过自动补全的方式极大的提高了开发效率。
 
 
-#### 好用的软件@
-#### Cagegory@
+#### Xcode相关@
+
+* [FengNiao](https://github.com/onevcat/FengNiao) 一个清理Xcode中没使用的资源文件的命令行工具.
 
 #### 测试及调试@
 
@@ -608,10 +610,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Cuckoo.swift](https://github.com/SwiftKit/Cuckoo) - Cuckoo.swift一款用法更接近于传统单元测试 Mock 框架库（区别之处在于需要用脚本预先生成 Mock 类）。
 * [XCGLogger.swift](https://github.com/DaveWoodCom/XCGLogger) - XCGLogger.swift功能完整的日志管理类库。
 * [Peek.swift](https://github.com/shaps80/Peek) - 更友好、手势方式检查界面内组件布局信息（相当于浏览器元素检查功能），界面调试利器。
-
-#### 开发工具@
-
-* [FengNiao](https://github.com/onevcat/FengNiao) 一个清理Xcode中没使用的资源文件的命令行工具.
 
 #### 数据存储@
 
