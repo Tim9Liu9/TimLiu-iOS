@@ -72,6 +72,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [提醒用户评分@](@提醒用户评分)
   - [压缩解压@](@压缩解压)
   - [Category@](#Category)
+  - [Color@](#Color)
 - [文本@](#文本)
   - [文本输入@](#文本输入)
   - [富文本@](#富文本)
@@ -696,7 +697,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [仿LOL滚动视图](http://code.cocoachina.com/view/128287) - 仿LOL滚动视图。
 * [答题选择切换页](http://code.cocoachina.com/view/128281) - 将scrollview和tableview封装在一起，在初始化的时候简单的将数据带上，就可以一页一页的左右来回滑动。
 * [SCTrelloNavigation](https://github.com/SergioChan/SCTrelloNavigation) - 类似trello的导航动效控件实现。
-* [XTPaster](https://github.com/Akateason/XTPaster) - 贴纸功能出现在很多图片社交中, 就是图片上面贴图片, 对贴纸而言就是需要控制贴纸的位置,旋转,大小,[如何使用](http://www.jianshu.com/p/d873d348bbfb)。
 * [RGCategoryView](https://github.com/refinemobi/RGCategoryView) - 仿了个苏宁易购的分类页面。
 * [LLPieCharts](https://github.com/Lves/LLPieCharts) - LLPieCharts iOS 绘制饼图，[教程](http://www.lvesli.com/?p=339)。
 * [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) - BEMCheckBox 是一个用于 iOS 应用上构建漂亮, 高度可定制化动画效果的复选框类库, 最低支持到 iOS 7 系统, 有多种不同风格的动画效果可供选择。
@@ -743,6 +743,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [BlocksKit](https://github.com/zwaldowski/BlocksKit)  block框架，为 OC 常用类提供了强大的 Block 语法支持，使得编写 OC 代码变得舒适、快速、优雅。 The Objective-C block utilities you always wish you had.
 * [YYCategories](https://github.com/ibireme/YYCategories) - 功能丰富的 Category 类型工具库。
 * [BFKit](https://github.com/FabrizioBrancati/BFKit) 一个非常不错的分类集合工具库，大幅提高开发效率.同时包含Swift版本
+
+#### Color@
+
+* [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon是一个非常棒👍👍👍iOS的色彩框架。它运用现代化flat color将UIColor扩展地非常美观。我们还可以通过它运用自定义颜色创建调色板。它还有很多功用，请浏览readme。同时支持Swift.
 
 #### 文本@
 #### 文本输入@
@@ -888,7 +892,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [PPDragDropBadgeView](https://github.com/smallmuou/PPDragDropBadgeView) - 实现了类似于QQ 5.0 水滴拖拽效果. 支持iOS 5.0+ ARC，气泡能够带有数字标识，同时支持消失block方法。消失时还带有消失效果动画。
 * [GiftCard-iOS](https://github.com/MartinRGB/GiftCard-iOS) - 礼品卡购买的炫酷动画。
 * [GiftCard-Implementation](https://github.com/MartinRGB/GiftCard-iOS) - 购买的炫酷动画。
-* [HYBLoopScrollView](https://github.com/CoderJackyHuang/HYBLoopScrollView) - HYBLoopScrollView实现自动循环滚动，一般用于展示广告页。微信在贴纸宣传处就使用了轮播。
 * [iCarousel](https://github.com/nicklockwood/iCarousel) - iCarousel是一个类，它继承于UIView。用于简化实现各种类型的旋转木马(分页滚动视图），无限轮播 ，[iOS开发之多图片无缝滚动组件封装与使用](http://www.cocoachina.com/ios/20150828/13198.html)。
 * [KIPageView](https://github.com/smartwalle/KIPageView) - 无限循环PageView，横向TableView，无限轮播。
 * [简单实用的无限循环轮播图](http://code.cocoachina.com/view/128288) - 简单实用的无限循环轮播图 。
@@ -1179,6 +1182,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [TOCropViewController](https://github.com/TimOliver/TOCropViewController) - 图片裁剪
 * [BKAsciiImage](https://github.com/bkoc/BKAsciiImage) - Convert UIImage to ASCII art
 * [TinyCrayon](https://github.com/TinyCrayon/TinyCrayon-iOS-SDK) - 一个智能、易用的图片裁剪、Image markingSDK
+* [GPUImage Demo](https://github.com/loyinglin/GPUImage) 源码级别对GPUImage进行剖析 以及 尝试
+* [YBPasterImage](https://github.com/wangyingbo/YBPasterImage) 给图片添加滤镜、贴纸和标签功能，支持14种滤镜效果，17种标签样式。
 
 #### 图像浏览@
 
@@ -1206,7 +1211,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [JFImagePickerController](https://github.com/johnil/JFImagePickerController) - vvebo作者：多选照片、预览已选照片、针对超大图片优化。
 * [VIPhotoView](https://github.com/vitoziv/VIPhotoView) - 图片浏览，用于展示图片的工具类，因为是个 View，所以你可以放在任何地方显示。支持旋转，双击指定位置放大等。
 * [AGImagePickerController](https://github.com/SpringOx/AGImagePickerController) - 是一个图片选择器，支持图片多选，支持大图横滑预览，支持放大预览，支持横竖屏，支持所有的iOS设备。
-* [BeautifyFaceDemo](https://github.com/Guikunzhi/BeautifyFaceDemo) - 一个基于 GPUImage 的实时直播磨皮滤镜的开源实现,主要功能脸部去斑磨皮！
 * [YUCIHighPassSkinSmoothing](https://github.com/YuAo/YUCIHighPassSkinSmoothing) - 磨皮滤镜！
 * [YUGPUImageHighPassSkinSmoothing](https://github.com/YuAo/YUGPUImageHighPassSkinSmoothing) - 一个基于 GPUImage 的磨皮滤镜！
 * [XHImageViewer] (https://github.com/JackTeam/XHImageViewer) XHImageViewer is images viewer, zoom image.
@@ -1243,6 +1247,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [YLFaceuDemo](https://github.com/Guikunzhi/YLFaceuDemo) - 在直播应用中添加Faceu贴纸效果。Faceu贴纸效果其实就是在人脸上贴一些图片，同时这些图片是跟随着人脸的位置改变的。[说明](http://www.jianshu.com/p/ba1f79f8f6fa)
 * [IDCardRecognition](https://github.com/zhongfenglee/IDCardRecognition)中国大陆第二代身份证识别，自动读出身份证上的信息（姓名、性别、民族、住址、身份证号码）并截取身份证照片 Edit
+* [CameraStickerDemo](https://github.com/Sinkup/CameraStickerDemo) 基于GPUImage的实时视频流贴纸Demo
 
 #### 拍照
 
@@ -1279,7 +1284,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [IWatch](https://github.com/280772270/IWatch) - 一个视频日报类的app 播放器用到了AVFoudation。
 * [KrVideoPlayerPlus](https://github.com/PlutusCat/KrVideoPlayerPlus) 根据36Kr开源的KRVideoPlayer 进行修改和补充实现一个轻量级的视频播放器，满足大部分视频播放需求
 * [TBPlayer](https://github.com/suifengqjn/TBPlayer) 视频变下变播，把播放器播放过的数据流缓存到本地，支持拖动。采用avplayer
-* [YBPasterImage] (https://github.com/wangyingbo/YBPasterImage) 给图片添加滤镜、贴纸和标签功能，支持14种滤镜效果，17种标签样式。
 
 #### GIF@
 
@@ -1348,7 +1352,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 #### 视频处理@
 
-* [CameraStickerDemo](https://github.com/Sinkup/CameraStickerDemo) 基于GPUImage的实时视频流贴纸Demo
+* [BeautifyFaceDemo](https://github.com/Guikunzhi/BeautifyFaceDemo) - 一个基于 GPUImage 的实时直播磨皮滤镜的开源实现,主要功能脸部去斑磨皮！
 
 #### 视频录制@
 
@@ -1476,7 +1480,7 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
   3. 动态修改属性和成员变量
   4. 动态的调用实例和类方法
 FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者是远程的调试服务器，它可以在本地随时随地的进行自有的操作和调试
-* [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler)Facebook开源的一款用于分析iOS内存使用和检测循环引用的工具库。
+* [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) - Facebook出品,内存检测库。[FBMemoryProfiler 基础教程](http://ifujun.com/fbmemoryprofiler-shi-yong-ji-chu-jiao-cheng/)。(https://swiftcafe.io/2017/05/02/mem-profiler/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [xctool](https://github.com/facebook/xctool) - Facebook出的自动化打包工具，它规范了输出的log日志，而且一些错误信息也更为清晰一些。
 * [chisel](https://github.com/facebook/chisel) Chisel扩展了一些列的lldb的命令来帮助iOS开发者调试iOS应用程序。
 * [PonyDebugger](https://github.com/square/PonyDebugger)由 Square 公司推出的一款优秀的 iOS 应用网络调试工具, 用户可以实时看到应用程序的网络请求, 也可以对 iOS 应用程序的核心数据栈进行远程调试
@@ -1507,7 +1511,6 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [MSLeakHunter](https://github.com/mindsnacks/MSLeakHunter) - 自动检测 UIViewController 和 UIView 对象的内存泄露。[MLeaksFinder 的使用参照](https://github.com/Zepo/MLeaksFinder)
 * [ipapy](https://github.com/hades0918/ipapy) - iOS项目自动打包脚本，并且上传到fir.im，然后发送邮件给测试人员。
 * [fbretaincycledetector](https://github.com/facebook/fbretaincycledetector) - Facebook出品,通过Runtime监测循环引用。
-* [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) - Facebook出品,内存检测库。[FBMemoryProfiler 基础教程](http://ifujun.com/fbmemoryprofiler-shi-yong-ji-chu-jiao-cheng/)。
 * [FBAllocationTracker](https://github.com/facebook/FBAllocationTracker) - Facebook出品,跟踪oc对象的分配情况。
 * [JxbDebugTool](https://github.com/JxbSir/JxbDebugTool) 一个iOS调试工具，监控所有HTTP请求，自动捕获Crash分析。
 * [KSCrash](https://github.com/kstenerud/KSCrash) - iOS Crash 捕获上报工具， 可以自己配置服务器， 也可以与它推荐的服务器搭配使用
@@ -1645,7 +1648,6 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [my-sketch-colors](https://github.com/RayPS/my-sketch-colors) - 配色。
 * [Font Awesome](http://www.imooc.com/wenda/detail/250367) - Font Awesome：一套绝佳的图标字体库和CSS框架，详细的安装方法请参考[官方网站](http://fortawesome.github.io/Font-Awesome/icons/)[中文网站](http://fontawesome.dashgame.com/),[GitHub地址](https://github.com/FortAwesome/Font-Awesome) 。
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - 强大的颜色操作扩展类。通过该类，你可以通过扩展方法基于某个颜色得到不同深浅、饱和度、灰度、色相，以及反转后的新颜色。是不可多得的好类库。
-* [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon是一个iOS的色彩框架。它运用现代化flat color将UIColor扩展地非常美观。我们还可以通过它运用自定义颜色创建调色板。它还有很多功用，请浏览readme。
 * [FontBlaster](https://github.com/ArtSabintsev/FontBlaster) - 载入定制字体时更简单。
 
 #### 其他资源@
