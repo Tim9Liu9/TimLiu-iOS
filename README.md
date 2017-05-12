@@ -78,7 +78,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [富文本@](#富文本)
   - [字体@](#字体)
 - [多线程@](#多线程)
-- [Cagegory@](#Category)
 - [ipad@](#ipad)
 - [通讯@](#通讯)
 - [动画@](#动画)
@@ -738,11 +737,18 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### Category@
 
 * [FlatUIKit](https://github.com/Grouper/FlatUIKit) 针对Foundation的扩展,非常👍 A collection of awesome flat UI components for iOS.
+* [JKCategories](https://github.com/shaojiankui/JKCategories) 非常棒👍👍👍 的分类集合，包含Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc等等.
 * [UIScrollView-InfiniteScroll](https://github.com/pronebird/UIScrollView-InfiniteScroll) 滚动视图无限滚动分类 UIScrollView infinite scroll category
 * [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) 允许改变导航栏appearance dynamically的分类  UINavigationBar Category which allows you to change its appearance dynamically
 * [BlocksKit](https://github.com/zwaldowski/BlocksKit)  block框架，为 OC 常用类提供了强大的 Block 语法支持，使得编写 OC 代码变得舒适、快速、优雅。 The Objective-C block utilities you always wish you had.
 * [YYCategories](https://github.com/ibireme/YYCategories) - 功能丰富的 Category 类型工具库。
 * [BFKit](https://github.com/FabrizioBrancati/BFKit) 一个非常不错的分类集合工具库，大幅提高开发效率.同时包含Swift版本
+* [NullSafe](https://github.com/nicklockwood/NullSafe) NullSafe is a simple category on NSNull that returns nil for any unrecognised messages instead of throwing an exception pod 'NullSafe', '~> 1.2.2' 用于防止项目中数组为空时越界访问崩溃。
+* [iOS-Categories](https://github.com/shaojiankui/IOS-Categories) - 收集了许多有助于开发的iOS扩展,各种category分类。
+* [cocoacats](http://cocoacats.com/) - 【分类汇总】里面收集了 iOS 中常用的分类文件，一直在更新。
+* [libextobjc](https://github.com/jspahrsummers/libextobjc Libextobjc是一个非常强大的Objective-C库的扩展,为Objective-C提供诸如Safe categories、Concrete protocols、简单和安全的key paths以及简单使用block中的弱变量等功能。libextobjc非常模块化，只需要一个或者两个依赖就能使用大部分类和模块。
+* [SFJumpToLine](https://github.com/sferrini/SFJumpToLine) Xcode plugin that moves the instruction pointer to the selected line
+* [DTFoundation](https://github.com/Cocoanetics/DTFoundation) 标准工具类和分类 - Standard toolset classes and categories
 
 #### Color@
 
@@ -795,16 +801,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [JX_GCDTimer](https://github.com/Joeyqiushi/JX_GCDTimer) 定时器，NSTimer和GCD哪个更好
 * [Thread](https://github.com/mrhyh/Thread) 多线程Demo集合
-
-#### Cagegory@
-
-* [JKCategories](https://github.com/shaojiankui/JKCategories) 非常棒👍👍👍 的分类集合，包含Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc等等.
-* [NullSafe](https://github.com/nicklockwood/NullSafe) NullSafe is a simple category on NSNull that returns nil for any unrecognised messages instead of throwing an exception pod 'NullSafe', '~> 1.2.2' 用于防止项目中数组为空时越界访问崩溃。
-* [iOS-Categories](https://github.com/shaojiankui/IOS-Categories) - 收集了许多有助于开发的iOS扩展,各种category分类。
-* [cocoacats](http://cocoacats.com/) - 【分类汇总】里面收集了 iOS 中常用的分类文件，一直在更新。
-* [libextobjc](https://github.com/jspahrsummers/libextobjc Libextobjc是一个非常强大的Objective-C库的扩展,为Objective-C提供诸如Safe categories、Concrete protocols、简单和安全的key paths以及简单使用block中的弱变量等功能。libextobjc非常模块化，只需要一个或者两个依赖就能使用大部分类和模块。
-* [SFJumpToLine](https://github.com/sferrini/SFJumpToLine) Xcode plugin that moves the instruction pointer to the selected line
-* [DTFoundation](https://github.com/Cocoanetics/DTFoundation) 标准工具类和分类 - Standard toolset classes and categories
 
 #### 日历@
 
