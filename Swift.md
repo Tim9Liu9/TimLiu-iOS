@@ -52,11 +52,11 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [Color@](#Color)
 - [游戏@](#游戏)
 - [动画@](#动画)
+  - [特效@](@特效)
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
   - [gif动画@](#gif动画)
   - [其他动画@](#其他动画)
 - [算法@](#算法)
-- [相册@](相册#)
 - [AutoLayout@](#autolayout)
 - [网络相关@](#网络相关)
   - [网络连接@](#网络连接)
@@ -95,6 +95,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [图像处理@](#图像处理)
   - [图像缓存@](#图像缓存)
   - [图像浏览@](#图像浏览)
+  - [相册@](相册#)
 - [相机@](#相机)
 - [VR@](VR@)
 - [多媒体@](#多媒体)
@@ -226,6 +227,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 图表@
 * [swift-linechart](https://github.com/zemirco/swift-linechart) - 功能完整、实用的折线图组件。使用方便，参数配置简单。是不可多得的优质组件--swift。
 * [Charts](https://github.com/danielgindi/Charts) - 一款优秀的图表开源库 MPAndroidChart 的 Swift 语言实现版（支持 Objective-C 和 Swift 调用），非常赞👍👍👍.
+* [SpreadsheetView](https://github.com/kishikawakatsumi/SpreadsheetView) 很棒👍 的电子表格库. 可以完全配置的电子表格View,使用此库你能很容易的创建出复杂布局的表格，比如时间表、甘特图、课程表，就像你使用Excel一样.
 * [Scrollable-GraphView.swift](https://github.com/philackm/Scrollable-GraphView) - 灵动感十足的自适应、可定制滚动曲（折）线图表库。
 
 #### TableView@、CollectionView@
@@ -400,6 +402,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [fave-button](https://github.com/xhamr/fave-button) 给button增加了很多可爱的动画.
 
+#### 特效@
+
+* [Pastel](https://github.com/cruisediary/Pastel) 类似Instagram的梯度背景色界面动画效果. 🎨 Gradient animation effect like Instagram
 
 #### 侧滑与右滑返回手势@
 
@@ -409,6 +414,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [FlowingMenu.swift](https://github.com/yannickl/FlowingMenu) - 菜单如此出场方式（橡皮筋弹跳式动画）好玩又有趣。
 
 #### gif动画@
+
 * [YLGIFImage-Swift](https://github.com/liyong03/YLGIFImage-Swift) - YLGIFImage-Swift。
 * [gifu.Swift](https://github.com/kaishin/gifu) - gifu.Swift高性能GIF显示类库。
 * [droptogif](https://github.com/mortenjust/droptogif) -  droptogif视频拖拽到应用窗口后自动转换为 GIF 动画（其转换进程动画效果也超赞）。
@@ -464,10 +470,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 算法@
 
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) 很多流行的算法和数据结构的具体实现，非常赞👍👍👍
-
-#### 相册@
-
-* [DKImagePickerController](https://github.com/zhangao0086/DKImagePickerController) 相册选取
 
 #### AutoLayout@
 
@@ -735,7 +737,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [APKenBurnsView](https://github.com/Alterplay/APKenBurnsView) - 面部识别
 * [AAFaceDetection](https://github.com/aaronabentheuer/AAFaceDetection) - AAFaceDetection--swift，简单、实用的面部识别封装库。虽然该技术从 iOS 5 发展，不过真正有趣的应用还不多。
 
-
 #### 图像处理@
 
 * [GPUImage2.swift](https://github.com/BradLarson/GPUImage2) - Swift 版基于 GPU 图像和视频处理框架库。
@@ -781,7 +782,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Imaginary](https://github.com/hyperoslo/Imaginary) - 远程图片异步下载，缓存.
 * [Vulcan](https://github.com/jinSasaki/Vulcan) - 带有优先级的多图下载.
 
-#### 图片浏览@
+#### 图像浏览@
 
 * [NYTPhotoViewer](https://github.com/NYTimes/NYTPhotoViewer) - 图片浏览库，支持图片点击缩放、标题、多选、缩放动画等.
 * [IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser) - 照片浏览，支持猛击消失等.
@@ -803,8 +804,13 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [LLPhotoBrowser](https://github.com/LvJianfeng/LLPhotoBrowser) - Swift3图片浏览库，支持网络图，本地图，UIImage同时使用，支持识别二维码，支持横屏看图，支持长按弹出功能窗口
 * [preview-transition.swift](https://github.com/Ramotion/preview-transition) - 通过向导式代码实现步骤，实现完整、自然流畅的图片预览及转场功能。
 
+#### 相册@
 
-#### PDF
+* [DKImagePickerController](https://github.com/zhangao0086/DKImagePickerController) 相册选取
+* [TLPhotoPicker](https://github.com/tilltue/TLPhotoPicker) 类似facebook的一个相册多图选取框架.
+
+#### PDF@
+
 * [Reader](https://github.com/vfr/Reader) - PDF Reader Core for iOS.
 * [UIView 2 PDF](https://github.com/RobertAPhillips/UIView_2_PDF) - PDF generator using UIViews or UIViews with an associated XIB
 * [FolioReaderKit](https://github.com/FolioReader/FolioReaderKit) - A Swift ePub reader and parser framework for iOS. :large_orange_diamond:
@@ -835,6 +841,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Jukebox](https://github.com/teodorpatras/Jukebox) - 音频播放器，可播放本地和网络音频流
 * [Airstream](https://github.com/qasim/Airstream) - 一个基于AirPlay在Apple devices之间进行音频流传输的库，比如iphone音乐在Apple TV上面播放。
 * [OTAcceleratorCore](https://github.com/opentok/accelerator-core-ios) - 通过Tokbox将音频/视频（屏幕共享）轻松集成到任何iOS应用程序.包括视频通话、语音通话等。
+
 #### 音频@
 
 * [recordDemo.swift](https://github.com/lfb-cd/recordDemo) - 一个Swift语言实现直接可以用的录音Demo，[实现说明](http://www.jianshu.com/p/f0b88355d7cb)。
