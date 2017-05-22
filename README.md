@@ -61,6 +61,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [序列化@](#序列化)
 - [动画@](#动画)
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
+  - [转场@](#转场)
   - [gifAnimation@](#gifAnimation)
 - [多媒体@](#多媒体)
   - [GIF@](#GIF)
@@ -712,12 +713,11 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [lottie-ios](https://github.com/airbnb/lottie-ios) 非常赞 一个用来渲染After Effects矢量动画的iOS库
 * [AwesomeMenu](https://github.com/levey/AwesomeMenu) 作者是一位中国人, 该项目主要是使用 CoreAnimation 还原了 Path menu 的动画效果 Path 2.0 menu using CoreAnimation :) https://github.com/levey/AwesomeMenu
-* [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) 一个容易读，和使用的链式动画库.同时支持Swift
 * [MMTweenAnimation](https://github.com/adad184/MMTweenAnimation)一个基于 POP 的扩展，提供了 10 种自定义的动效。
 * [pop](https://github.com/facebook/pop) - facebook出品的非常赞的动画引擎。
 * [Core Animation笔记，基本的使用方法](http://www.starming.com/index.php?v=index&view=62) - Core Animation笔记，基本的使用方法：1.基本动画，2.多步动画，3.沿路径的动画，4.时间函数，5.动画组。
 * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) - [iOS Animation 主流炫酷动画框架(特效)收集整理](https://github.com/sxyx2008/DevArticles/issues/91) 收集整理了下iOS平台下比较主流炫酷的几款动画框架。
-* [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) - 在应用中采用链式写出酷炫的动画效果, 使代码更加清晰易读，利用block实现的链式编程。
+* [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) - 在应用中采用链式写出酷炫的动画效果, 使代码更加清晰易读，利用block实现的链式编程，同时支持Swift。
 * [awesome-animation](https://github.com/Animatious/awesome-animation) -  在内的十多位童鞋们一起发起的一起动画开源组正式成立啦~Github组织名称：Animatious，这是我们第一期成员先前开源的一些动效库，我们的第一个合作开源项目正在紧锣密鼓的准备~请大家期待设计和代码的碰撞吧。
 * [BCMagicTransition](https://github.com/boycechang/BCMagicTransition)一个动效框架，用于自定义UINavigationController的切换动画，效果类似 Keynote 软件中 Magic Move 切换。它可以用于任意两个UIViewController之间，只需指定两个VC中的相同元素即可。
 * [popping](https://github.com/schneiderandre/popping) - popping是一个POP 使用实例工程
@@ -748,7 +748,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [PPDragDropBadgeView](https://github.com/smallmuou/PPDragDropBadgeView) - 实现了类似于QQ 5.0 水滴拖拽效果. 支持iOS 5.0+ ARC，气泡能够带有数字标识，同时支持消失block方法。消失时还带有消失效果动画。
 * [GiftCard-iOS](https://github.com/MartinRGB/GiftCard-iOS) - 礼品卡购买的炫酷动画。
 * [GiftCard-Implementation](https://github.com/MartinRGB/GiftCard-iOS) - 购买的炫酷动画。
-* [iCarousel](https://github.com/nicklockwood/iCarousel) - iCarousel是一个类，它继承于UIView。用于简化实现各种类型的旋转木马(分页滚动视图），无限轮播 ，[iOS开发之多图片无缝滚动组件封装与使用](http://www.cocoachina.com/ios/20150828/13198.html)。
 * [KIPageView](https://github.com/smartwalle/KIPageView) - 无限循环PageView，横向TableView，无限轮播。
 * [简单实用的无限循环轮播图](http://code.cocoachina.com/view/128288) - 简单实用的无限循环轮播图 。
 * [CPInfiniteBanner](https://github.com/crespoxiao/CPInfiniteBanner) - 是一个循环播放的组件，可以左右无缝滑动,3个imageview实现。[高效图片轮播，两个ImageView实现](http://ios.jobbole.com/84711/)。  
@@ -781,6 +780,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView-PlayGIF。
 * [YLGIFImage](https://github.com/liyong03/YLGIFImage) - 异步方式实现突Gif突破编码、显示，低内存占用。
 * [droptogif](https://github.com/mortenjust/droptogif) -  droptogif视频拖拽到应用窗口后自动转换为 GIF 动画（其转换进程动画效果也超赞）。
+
+#### 转场@
+
+* [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary) 不错的转场动画库
 
 #### 多媒体@
 #### GIF@
