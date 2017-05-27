@@ -52,7 +52,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [网络解析](#网络解析)
       - [CSV](#csv)
       - [JSON@](#json)
-      - [JSON@](#json)
       - [XML&HTML@](#xml--html)
       - [Other Parsing@](#other-parsing)
 - [数据存储@](#数据存储)
@@ -146,13 +145,12 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [设计@](#设计)
   - [好的文章@](#好的文章)
   - [美工资源@](#美工资源)
-- [开发工具@](#开发工具)
-  - [Xcode插件@](#Xcode插件)
-  - [开发调试工具@](#开发调试工具)
-  - [接口调试工具@](#接口调试工具)
 - [测试调试@](#测试调试)
   - [crash@](#crash)
   - [Runtime@](#Runtime)
+  - [Xcode插件@](#Xcode插件)
+  - [开发调试工具@](#开发调试工具)
+  - [接口调试工具@](#接口调试工具)
 - [版本适配@](#版本适配)
 - [WebView与WKWebView@](#WebView与WKWebView)
 - [游戏@](#cocos2d-objc)
@@ -648,11 +646,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [LazyObject](https://github.com/iwasrobbed/LazyObject) - Lazily deserialize JSON into strongly typed Swift objects :large_orange_diamond:
 * [Elevate](https://github.com/Nike-Inc/Elevate) - Elevate is a JSON parsing framework that leverages Swift to make parsing simple, reliable and composable. :large_orange_diamond:
 * [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) - An Alamofire extension which converts JSON response data into swift objects using ObjectMapper :large_orange_diamond:
-
-#### JSON@
-
-* [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language. :large_orange_diamond:
-* [WHC_DataModelFactory](https://github.com/netyouli/WHC_DataModelFactory) Mac上iOS开发辅助工具，快速把json/xml数据转换生成对应模型类属性，省去麻烦手动创建，提高开发效率。
 
 #### XML&HTML@
 
@@ -1677,13 +1670,15 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
 
 #### 测试调试@
 
+* [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - 一个json转模型的mac软件，ESJsonFormat-Xcode的替代产品,非常不错👍 .
+* [WHC_DataModelFactory](https://github.com/netyouli/WHC_DataModelFactory) Mac上iOS开发辅助工具，快速把json/xml数据转换生成对应模型类属性，省去麻烦手动创建，提高开发效率。
+
 #### crash@
 
 * [Crashlytics](http://try.crashlytics.com/) - Crashlytics 崩溃报告 崩溃日志   [使用说明](http://www.infoq.com/cn/articles/crashlytics-crash-statistics-tools) 。
 * [KSCrash](https://github.com/kstenerud/KSCrash) - iOS Crash 捕获上报工具， 可以自己配置服务器， 也可以与它推荐的服务器搭配使用
 * [AvoidCrash](https://github.com/chenfanfang/AvoidCrash) 利用runtime处理崩溃问题的一个框架
 * [Bugtags-iOS](https://github.com/bugtags/Bugtags-iOS) 一个简单、有效的bug和崩溃报告工具.
-
 * [fastlane](https://github.com/fastlane/fastlane) - 非常棒👍👍👍一套iOS开发和持续集成的命令行工具fastlane，可以用来快速搭建CI甚至自动提交的开发环境。这套工具中包括了上传ipa文件，自动截取多语言截屏，生成推送证书，管理产品证书等一系列实用工具。 The easiest way to automate building and releasing your iOS and Android apps https://fastlane.tools
 * [FLEX](https://github.com/Flipboard/FLEX) 非常赞的 一个Xcode界面调试工具，FLEX是一个需要注入式的一种框架，从描述来看，功能非常多。主要来讲的话能够对正在运行的应用进行样式的修改和控件的读取。FLEX会赐予你SuperPower！！！
   1. 可以查看控件的坐标和属性
@@ -1712,70 +1707,6 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 #### Runtime@
 
 * [iOS私有API](https://github.com/nst/iOS-Runtime-Headers) - 这个仓库可以调取苹果的所有私有方法头文件，相当强大。私有API，绿色 == public，红色 == private，蓝色 == dylib。
-
-#### AppleWatch
-
-* [Tesla汽车AppleWatch app demo演示](https://github.com/eleks/rnd-apple-watch-tesla) - 通过AppleWatch控制特斯拉汽车，同时可以看到汽车的相关信息，比如剩余电量、可续行里程等，以及解锁/上锁车门、调节司机和乘客的四区域空调温度、开启车辆大灯、定位汽车等。[源码推荐说明](http://www.cocoachina.com/ios/20150205/11116.html)。
-* [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - WatchKit 开源小项目示例集锦。是不可多得地学习 WatchKit 的示例式教程（1.如何创建一个简单的交互式计数器；2.如何从手表上控制iOS app；3.如何在WatchKit app和iOS app之间共享数据；4.如何创建一个拥有不同背景色的数字时钟；5.展示不同的UI层；6.如何创建支持滑动手势的应用程序。）。
-* [kiwi-bdd](https://github.com/kiwi-bdd/Kiwi/wiki) - TDD或BDD，objective-c语言的测试框架，最流行的BDD测试框架了，Kiwi最受欢迎（根据github上的star数来推断，行为描述和期望写起来也比较易懂，至少我是这么认为的） [iOS开发中的测试框架](http://www.jianshu.com/p/7e3f197504c1#)。
-* [specta](https://github.com/specta/specta) -  TDD或BDD，objective-c语言的测试框架，用的人多。
-* [cedar](https://github.com/pivotal/cedar) -  TDD或BDD，objective-c语言的测试框架，用的人少。
-* [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - 能够帮助 iOS 开发者们精确的测量视图, 可直接在调试应用中查看具体某个视图的坐标, 宽高等参数。
-* [MMPlaceHolder](https://github.com/adad184/MMPlaceHolder) - 一行代码显示UIView的位置及相关参数。
-* [KMCGeigerCounter](https://github.com/kconner/KMCGeigerCounter) - KMCGeigerCounter通过复杂和简单的视图演示了类似盖革计数器的帧速计算功能。掉帧通常是可见的，但是很难区分55fps和60fps之间的不同，而KMCGeigerCounter可以让你观测到掉落5帧的情况。
-* [MSLeakHunter](https://github.com/mindsnacks/MSLeakHunter) - 自动检测 UIViewController 和 UIView 对象的内存泄露。[MLeaksFinder 的使用参照](https://github.com/Zepo/MLeaksFinder)
-* [ipapy](https://github.com/hades0918/ipapy) - iOS项目自动打包脚本，并且上传到fir.im，然后发送邮件给测试人员。
-* [fbretaincycledetector](https://github.com/facebook/fbretaincycledetector) - Facebook出品,通过Runtime监测循环引用。
-* [FBAllocationTracker](https://github.com/facebook/FBAllocationTracker) - Facebook出品,跟踪oc对象的分配情况。
-* [JxbDebugTool](https://github.com/JxbSir/JxbDebugTool) 一个iOS调试工具，监控所有HTTP请求，自动捕获Crash分析。
-* [KSCrash](https://github.com/kstenerud/KSCrash) - iOS Crash 捕获上报工具， 可以自己配置服务器， 也可以与它推荐的服务器搭配使用
-
-#### App更新提示@
-
-* [iVersion](https://github.com/nicklockwood/iVersion) 非常赞👍 的一个灵活动态监测App是否有更新的库，并可以通知用户升级.
-
-#### 动态更新@
-
-* [waxPatch](https://github.com/mmin18/WaxPatch) - 大众点评的屠毅敏同学在基于[wax](https://github.com/probablycorey/wax)的基础上写了waxPatch，这个工具的主要原理是通过lua来针对objc的方法进行替换，由于lua本身是解释型语言，可以通过动态下载得到，因此具备了一定的动态部署能力。
-* [JSPatch](https://github.com/bang590/JSPatch) - JSPatch 是一个开源项目(Github链接)，只需要在项目里引入极小的引擎文件，就可以使用 JavaScript 调用任何 Objective-C 的原生接口，替换任意 Objective-C 原生方法。目前主要用于下发 JS 脚本替换原生 Objective-C 代码，实时修复线上 bug。[官网](https://github.com/bang590/JSPatch)。(JSPatchX)[https://github.com/bang590/JSPatchX] JSPatch的XCode 代码补全插件。
-* [CTJSBridge](https://github.com/casatwy/CTJSBridge) - JCTJSBridge：a javascript bridge for iOS app to interact with h5 web view。
-
-#### AppleWatch@
-
-* [Tesla汽车AppleWatch app demo演示](https://github.com/eleks/rnd-apple-watch-tesla) - 通过AppleWatch控制特斯拉汽车，同时可以看到汽车的相关信息，比如剩余电量、可续行里程等，以及解锁/上锁车门、调节司机和乘客的四区域空调温度、开启车辆大灯、定位汽车等。[源码推荐说明](http://www.cocoachina.com/ios/20150205/11116.html)。
-* [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - WatchKit 开源小项目示例集锦。是不可多得地学习 WatchKit 的示例式教程（1.如何创建一个简单的交互式计数器；2.如何从手表上控制iOS app；3.如何在WatchKit app和iOS app之间共享数据；4.如何创建一个拥有不同背景色的数字时钟；5.展示不同的UI层；6.如何创建支持滑动手势的应用程序。）。
-* [KYVoiceCurve](https://github.com/KittenYang/KYVoiceCurve) - 类似Apple Watch中语音的声音曲线动画。  
-* [IGInterfaceDataTable](https://github.com/facebookarchive/IGInterfaceDataTable) - IGInterfaceDataTable是WKInterfaceTable对象的一个类别，可以让开发者更简单地配置多维数据。该项目使用类似UITableViewDataSource的数据源模式配置Apple Watch表格，而不是将数据结构扁平化成为数组。  
-* [watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler) - 基于 watchOS 2 若干新特性，写了相应的示例代码供大家学习、参考。
-* [HMWatch](https://github.com/KhaosT/HMWatch) - HMWatch是个有待完善的watchOS 2.0 HomeKit 应用示例。
-* [CocoaMultipeer](https://github.com/manavgabhawala/CocoaMultipeer) - CocoaMultipeer这个开源框架支持OS X, iOS和watchOS设备间的点对点通信，解决watchOS和Mac之间通信的方案还是很有用的。
-* [HighstreetWatchApp](https://github.com/GetHighstreet/HighstreetWatchApp) - 是电商平台Highstreet针对App Watch的一款应用，该demo中加载的是虚拟数据。
-* [NKWatchChart](https://github.com/NilStack/NKWatchChart) - NKWatchChart是一个基于PNChart专门为Apple Watch 开发的图表库,目前支持 line, bar, pie, circle 和 radar 等 图表形式。
-* [BeijingAirWatch](https://github.com/diwu/BeijingAirWatch) - 国人的开源项目代码 ！WatchOS 2.0 Complication of Real-time Air Quality for Major Chinese Cities 苹果表盘实时刷新北上广沈蓉空气质量。
-
-#### VPN完整项目@
-
-* [Hydro.network](https://github.com/CatchChat/Hydro.network) - [Hydro.network 的开发旅程](http://blog.zhowkev.in/2015/03/09/hydro-network-de-kai-fa-lu-cheng/), [gitcafe](https://gitcafe.com/Catch/Hydro.network)。
-* [Potatso](https://github.com/shadowsocks/Potatso) 基于iOS 9 的 NetworkExtension 框架实现 Shadowsocks 代理，由国人开发，虽然还有很多问题不过确实值得期待。
-
-#### 好的文章@
-
-* [自定义转场动画](http://www.jianshu.com/p/38cd35968864) - 3 种方法～ 关于自定义转场动画。
-* [iOS提高效率的方法和工具](https://github.com/icepy/_posts/blob/master/iOS%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87%E7%9A%84%E6%96%B9%E6%B3%95%E5%92%8C%E5%B7%A5%E5%85%B7.md) - iOS提高效率的方法和工具。
-* [用 JSON 构建 API 的标准指南](http://jsonapi.org.cn/) - 用 JSON 构建 API 的标准指南。
-* [iOS创建半透明ViewController](http://miketech.it/ios-transparent-viewcontroller/) - iOS创建半透明ViewController。
-* [iOS蓝牙开发（四）：BabyBluetooth蓝牙库介绍](http://www.cocoachina.com/ios/20160219/15301.html) - [iOS蓝牙开发（一）蓝牙相关基础知识](http://www.cocoachina.com/ios/20150915/13454.html),[iOS蓝牙开发（二）：iOS连接外设的代码实现](http://www.cocoachina.com/ios/20160217/15294.html),[iOS蓝牙开发（三）：App作为外设被连接的实现](http://www.cocoachina.com/ios/20160218/15299.html)。
-* [统计项目中图片使用情况](http://blog.adorkabledean.cn/blog/20151027/tong-ji-xiang-mu-zhong-tu-pian-shi-yong-qing-kuang/) - 统计项目中图片使用情况;工具：[Unused](http://jeffhodnett.github.io/Unused/):找出项目中未使用的图片, Unused 的基础上改了一下的[LSUnusedResources](https://github.com/tinymind/LSUnusedResources);工具：[ImageOptim](https://imageoptim.com/) 图片保真压缩。【iOS图片压缩工具】效率最高的是[tiny-png](http://www.alfredforum.com/topic/1520-tiny-png-workflow-updated-to-v12/):在线压缩，前500张免费。
-* [iOS推送之远程推送](http://ios.jobbole.com/83952/) 、[iOS推送之本地推送](http://ios.jobbole.com/83949/)。
-* [动态部署方案](http://www.cocoachina.com/ios/20151019/13761.html) - iOS应用架构谈动态部署方案。
-* [ReactiveCocoa 4 文档翻译目录](http://www.jianshu.com/p/fccba7be1ca1) - ReactiveCocoa 4 文档翻译目录。    
-* [每个Xcode开发者应该知道的七个使用技巧](http://www.cocoachina.com/ios/20160304/15558.html) - 每个Xcode开发者应该知道的七个使用技巧。
-* [腾讯力作！超实用的iOS 9人机界面指南](http://blog.jobbole.com/94261/) - 腾讯力作！超实用的iOS 9人机界面指南。    
-* [iOS开发-超链接富文本案](http://ios.jobbole.com/84956/) - iOS开发-超链接富文本。
-* [UIView+RedPoint实现底部UITabBarItem和控件的右上角显示和隐藏红点/数字的需求](https://segmentfault.com/a/1190000005112043) -
-* [使用GCD实现和封装分组并发网络请求](www.jianshu.com/p/54bbacfcc31b) - 使用GCD实现和封装分组并发网络请求。
-* [微信语音连播的实现思路](http://www.jianshu.com/p/1d354feacf3c) - 微信语音连播的实现思路。
-* [UITableView 手势延迟导致subview无法完成两次绘制](http://www.jianshu.com/p/b422d92738ac) - UITableView 手势延迟导致subview无法完成两次绘制。
 
 #### Xcode插件@
 
@@ -1849,6 +1780,71 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 * [PostMan](https://www.getpostman.com/) google出品的接口调试工具
 
+
+#### AppleWatch
+
+* [Tesla汽车AppleWatch app demo演示](https://github.com/eleks/rnd-apple-watch-tesla) - 通过AppleWatch控制特斯拉汽车，同时可以看到汽车的相关信息，比如剩余电量、可续行里程等，以及解锁/上锁车门、调节司机和乘客的四区域空调温度、开启车辆大灯、定位汽车等。[源码推荐说明](http://www.cocoachina.com/ios/20150205/11116.html)。
+* [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - WatchKit 开源小项目示例集锦。是不可多得地学习 WatchKit 的示例式教程（1.如何创建一个简单的交互式计数器；2.如何从手表上控制iOS app；3.如何在WatchKit app和iOS app之间共享数据；4.如何创建一个拥有不同背景色的数字时钟；5.展示不同的UI层；6.如何创建支持滑动手势的应用程序。）。
+* [kiwi-bdd](https://github.com/kiwi-bdd/Kiwi/wiki) - TDD或BDD，objective-c语言的测试框架，最流行的BDD测试框架了，Kiwi最受欢迎（根据github上的star数来推断，行为描述和期望写起来也比较易懂，至少我是这么认为的） [iOS开发中的测试框架](http://www.jianshu.com/p/7e3f197504c1#)。
+* [specta](https://github.com/specta/specta) -  TDD或BDD，objective-c语言的测试框架，用的人多。
+* [cedar](https://github.com/pivotal/cedar) -  TDD或BDD，objective-c语言的测试框架，用的人少。
+* [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - 能够帮助 iOS 开发者们精确的测量视图, 可直接在调试应用中查看具体某个视图的坐标, 宽高等参数。
+* [MMPlaceHolder](https://github.com/adad184/MMPlaceHolder) - 一行代码显示UIView的位置及相关参数。
+* [KMCGeigerCounter](https://github.com/kconner/KMCGeigerCounter) - KMCGeigerCounter通过复杂和简单的视图演示了类似盖革计数器的帧速计算功能。掉帧通常是可见的，但是很难区分55fps和60fps之间的不同，而KMCGeigerCounter可以让你观测到掉落5帧的情况。
+* [MSLeakHunter](https://github.com/mindsnacks/MSLeakHunter) - 自动检测 UIViewController 和 UIView 对象的内存泄露。[MLeaksFinder 的使用参照](https://github.com/Zepo/MLeaksFinder)
+* [ipapy](https://github.com/hades0918/ipapy) - iOS项目自动打包脚本，并且上传到fir.im，然后发送邮件给测试人员。
+* [fbretaincycledetector](https://github.com/facebook/fbretaincycledetector) - Facebook出品,通过Runtime监测循环引用。
+* [FBAllocationTracker](https://github.com/facebook/FBAllocationTracker) - Facebook出品,跟踪oc对象的分配情况。
+* [JxbDebugTool](https://github.com/JxbSir/JxbDebugTool) 一个iOS调试工具，监控所有HTTP请求，自动捕获Crash分析。
+* [KSCrash](https://github.com/kstenerud/KSCrash) - iOS Crash 捕获上报工具， 可以自己配置服务器， 也可以与它推荐的服务器搭配使用
+
+#### App更新提示@
+
+* [iVersion](https://github.com/nicklockwood/iVersion) 非常赞👍 的一个灵活动态监测App是否有更新的库，并可以通知用户升级.
+
+#### 动态更新@
+
+* [waxPatch](https://github.com/mmin18/WaxPatch) - 大众点评的屠毅敏同学在基于[wax](https://github.com/probablycorey/wax)的基础上写了waxPatch，这个工具的主要原理是通过lua来针对objc的方法进行替换，由于lua本身是解释型语言，可以通过动态下载得到，因此具备了一定的动态部署能力。
+* [JSPatch](https://github.com/bang590/JSPatch) - JSPatch 是一个开源项目(Github链接)，只需要在项目里引入极小的引擎文件，就可以使用 JavaScript 调用任何 Objective-C 的原生接口，替换任意 Objective-C 原生方法。目前主要用于下发 JS 脚本替换原生 Objective-C 代码，实时修复线上 bug。[官网](https://github.com/bang590/JSPatch)。(JSPatchX)[https://github.com/bang590/JSPatchX] JSPatch的XCode 代码补全插件。
+* [CTJSBridge](https://github.com/casatwy/CTJSBridge) - JCTJSBridge：a javascript bridge for iOS app to interact with h5 web view。
+
+#### AppleWatch@
+
+* [Tesla汽车AppleWatch app demo演示](https://github.com/eleks/rnd-apple-watch-tesla) - 通过AppleWatch控制特斯拉汽车，同时可以看到汽车的相关信息，比如剩余电量、可续行里程等，以及解锁/上锁车门、调节司机和乘客的四区域空调温度、开启车辆大灯、定位汽车等。[源码推荐说明](http://www.cocoachina.com/ios/20150205/11116.html)。
+* [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - WatchKit 开源小项目示例集锦。是不可多得地学习 WatchKit 的示例式教程（1.如何创建一个简单的交互式计数器；2.如何从手表上控制iOS app；3.如何在WatchKit app和iOS app之间共享数据；4.如何创建一个拥有不同背景色的数字时钟；5.展示不同的UI层；6.如何创建支持滑动手势的应用程序。）。
+* [KYVoiceCurve](https://github.com/KittenYang/KYVoiceCurve) - 类似Apple Watch中语音的声音曲线动画。  
+* [IGInterfaceDataTable](https://github.com/facebookarchive/IGInterfaceDataTable) - IGInterfaceDataTable是WKInterfaceTable对象的一个类别，可以让开发者更简单地配置多维数据。该项目使用类似UITableViewDataSource的数据源模式配置Apple Watch表格，而不是将数据结构扁平化成为数组。  
+* [watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler) - 基于 watchOS 2 若干新特性，写了相应的示例代码供大家学习、参考。
+* [HMWatch](https://github.com/KhaosT/HMWatch) - HMWatch是个有待完善的watchOS 2.0 HomeKit 应用示例。
+* [CocoaMultipeer](https://github.com/manavgabhawala/CocoaMultipeer) - CocoaMultipeer这个开源框架支持OS X, iOS和watchOS设备间的点对点通信，解决watchOS和Mac之间通信的方案还是很有用的。
+* [HighstreetWatchApp](https://github.com/GetHighstreet/HighstreetWatchApp) - 是电商平台Highstreet针对App Watch的一款应用，该demo中加载的是虚拟数据。
+* [NKWatchChart](https://github.com/NilStack/NKWatchChart) - NKWatchChart是一个基于PNChart专门为Apple Watch 开发的图表库,目前支持 line, bar, pie, circle 和 radar 等 图表形式。
+* [BeijingAirWatch](https://github.com/diwu/BeijingAirWatch) - 国人的开源项目代码 ！WatchOS 2.0 Complication of Real-time Air Quality for Major Chinese Cities 苹果表盘实时刷新北上广沈蓉空气质量。
+
+#### VPN完整项目@
+
+* [Hydro.network](https://github.com/CatchChat/Hydro.network) - [Hydro.network 的开发旅程](http://blog.zhowkev.in/2015/03/09/hydro-network-de-kai-fa-lu-cheng/), [gitcafe](https://gitcafe.com/Catch/Hydro.network)。
+* [Potatso](https://github.com/shadowsocks/Potatso) 基于iOS 9 的 NetworkExtension 框架实现 Shadowsocks 代理，由国人开发，虽然还有很多问题不过确实值得期待。
+
+#### 好的文章@
+
+* [自定义转场动画](http://www.jianshu.com/p/38cd35968864) - 3 种方法～ 关于自定义转场动画。
+* [iOS提高效率的方法和工具](https://github.com/icepy/_posts/blob/master/iOS%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87%E7%9A%84%E6%96%B9%E6%B3%95%E5%92%8C%E5%B7%A5%E5%85%B7.md) - iOS提高效率的方法和工具。
+* [用 JSON 构建 API 的标准指南](http://jsonapi.org.cn/) - 用 JSON 构建 API 的标准指南。
+* [iOS创建半透明ViewController](http://miketech.it/ios-transparent-viewcontroller/) - iOS创建半透明ViewController。
+* [iOS蓝牙开发（四）：BabyBluetooth蓝牙库介绍](http://www.cocoachina.com/ios/20160219/15301.html) - [iOS蓝牙开发（一）蓝牙相关基础知识](http://www.cocoachina.com/ios/20150915/13454.html),[iOS蓝牙开发（二）：iOS连接外设的代码实现](http://www.cocoachina.com/ios/20160217/15294.html),[iOS蓝牙开发（三）：App作为外设被连接的实现](http://www.cocoachina.com/ios/20160218/15299.html)。
+* [统计项目中图片使用情况](http://blog.adorkabledean.cn/blog/20151027/tong-ji-xiang-mu-zhong-tu-pian-shi-yong-qing-kuang/) - 统计项目中图片使用情况;工具：[Unused](http://jeffhodnett.github.io/Unused/):找出项目中未使用的图片, Unused 的基础上改了一下的[LSUnusedResources](https://github.com/tinymind/LSUnusedResources);工具：[ImageOptim](https://imageoptim.com/) 图片保真压缩。【iOS图片压缩工具】效率最高的是[tiny-png](http://www.alfredforum.com/topic/1520-tiny-png-workflow-updated-to-v12/):在线压缩，前500张免费。
+* [iOS推送之远程推送](http://ios.jobbole.com/83952/) 、[iOS推送之本地推送](http://ios.jobbole.com/83949/)。
+* [动态部署方案](http://www.cocoachina.com/ios/20151019/13761.html) - iOS应用架构谈动态部署方案。
+* [ReactiveCocoa 4 文档翻译目录](http://www.jianshu.com/p/fccba7be1ca1) - ReactiveCocoa 4 文档翻译目录。    
+* [每个Xcode开发者应该知道的七个使用技巧](http://www.cocoachina.com/ios/20160304/15558.html) - 每个Xcode开发者应该知道的七个使用技巧。
+* [腾讯力作！超实用的iOS 9人机界面指南](http://blog.jobbole.com/94261/) - 腾讯力作！超实用的iOS 9人机界面指南。    
+* [iOS开发-超链接富文本案](http://ios.jobbole.com/84956/) - iOS开发-超链接富文本。
+* [UIView+RedPoint实现底部UITabBarItem和控件的右上角显示和隐藏红点/数字的需求](https://segmentfault.com/a/1190000005112043) -
+* [使用GCD实现和封装分组并发网络请求](www.jianshu.com/p/54bbacfcc31b) - 使用GCD实现和封装分组并发网络请求。
+* [微信语音连播的实现思路](http://www.jianshu.com/p/1d354feacf3c) - 微信语音连播的实现思路。
+* [UITableView 手势延迟导致subview无法完成两次绘制](http://www.jianshu.com/p/b422d92738ac) - UITableView 手势延迟导致subview无法完成两次绘制。
+
 #### 美工资源@
 
 * [TWG_Retina_Icons](https://github.com/markohlebar/Peckham) - 一套支持 Retina 高清屏的 iPhone 免费图标集。
@@ -1866,7 +1862,6 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [kitematic](https://github.com/docker/kitematic) - Mac 上使用 Docker 最简单的方案。
 
 #### 学习资料@
-
 #### 播客@
 
 * [The Ray Wenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
@@ -1902,6 +1897,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [Objective-C编码规范：26个方面解决iOS开发问题](http://www.imooc.com/article/1216) - 【Objective-C编码规范：26个方面解决iOS开发问题：“我们制定Objective-C编码规范的原因是我们能够在我们的书，教程和初学者工具包的代码保持优雅和一致。”今天分享的规范来自raywenderlich.com团队成员共同完成的，希望对学习OC的朋友们有所指导和帮助。
 * [demo](https://github.com/coolnameismy/demo) 刘彦玮的技术博客中文章对应的demo
 * [awesome-growth](https://github.com/phodal/awesome-growth) IT技能图谱
+* [ios_core_animation_advanced_techniques](https://github.com/ZsIsMe/ios_core_animation_advanced_techniques) 核心动画学习资料 [其中的核心动画电子书](https://zsisme.gitbooks.io/ios-/content/)
 
 #### 他人开源总结@
 
