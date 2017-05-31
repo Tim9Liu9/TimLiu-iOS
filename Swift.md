@@ -12,9 +12,32 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [Swift学习资料@](#swift学习资料)
 - [完整App@](#完整app)
 - [Xcode8插件@](#xcode8插件)
-- [App 框架@](#app框架)
+- [App框架@](#app框架)
   - [响应式框架@](#响应式框架)
   - [页面路由@](#页面路由)
+  - [KVO@](#KVO)
+- [网络@](#相关)
+  - [网络连接@](#网络连接)
+  - [图像获取@](#图像获取)
+  - [网络聊天@](#网络聊天)
+  - [网络测试@](#网络测试)
+  - [网页框架@](#网页框架)
+  - [NetworkExtension@](#NetworkExtension)
+  - [网络解析@](#网络解析)
+      - [CSV](#csv)
+      - [JSON@](#json)
+- [AutoLayout@](#autolayout)
+- [数据存储@](#数据存储)
+  - [缓存处理@](#缓存处理)
+  - [CoreData@](#CoreData)
+  - [数据库@](#数据库)
+- [多媒体@](#多媒体)
+  - [二维码@](#二维码)
+  - [PDF@](#pdf)
+  - [流媒体@](#流媒体)
+  - [音频@](#音频)
+  - [视频@](#视频)
+    - [视频播放@](#视频播放)
 - [UI@](#ui)
   - [日历@](#日历)
   - [下拉刷新@](#下拉刷新)
@@ -57,18 +80,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [gif动画@](#gif动画)
   - [其他动画@](#其他动画)
 - [算法@](#算法)
-- [AutoLayout@](#autolayout)
-- [网络相关@](#网络相关)
-  - [网络连接@](#网络连接)
-  - [图像获取@](#图像获取)
-  - [网络聊天@](#网络聊天)
-  - [网络测试@](#网络测试)
-  - [网页框架@](#网页框架)
-  - [网络解析@](#网络解析)
-      - [CSV](#csv)
-      - [JSON@](#json)
-      - [XML&HTML@](#xmlhtml)
-      - [Other Parsing@](#other-parsing)
 - [VR@](#VR)
 - [开发资料@](#开发资料)
   - [播客@](#播客)
@@ -79,12 +90,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [好的文章@](#好的文章)
   - [美工资源@](#美工资源)
 - [测试及调试@](#测试及调试)
-- [数据存储@](#数据存储)
-  - [缓存处理@](#缓存处理)
-  - [CoreData@](#CoreData)
-  - [数据库@](#数据库)
-  - [序列化@](#序列化)
-- [WebView与WKWebView@](#webview与wkwebview)
+- [WebView@](#webview)
 - [FaceBook@](#faceBook)
 - [通讯录@](#通讯录)
 - [Email@](#email)
@@ -98,17 +104,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [相册@](相册#)
 - [相机@](#相机)
 - [VR@](VR@)
-- [多媒体@](#多媒体)
-  - [二维码@](#二维码)
-  - [PDF@](#pdf)
-  - [流媒体@](#流媒体)
-  - [音频@](#音频)
-  - [视频@](#视频)
-    - [视频播放@](#视频播放)
 - [地图@](#地图)
 - [通知@](#通知)
-- [时间日期@](#时间日期)
-- [设计模式@](#设计模式)
 - [版本新API的Demo@](#版本新api的demo)
 - [代码安全与密码@](#代码安全与密码)
 - [动态更新@](#动态更新)
@@ -175,18 +172,193 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [katana-swift](https://github.com/BendingSpoons/katana-swift) - Swift Apps in a Swoosh! A modern framework for creating iOS apps, inspired by React and Redux. http://katana.bendingspoons.com
 
-#### 响应式框架
+#### 响应式框架@
+
 * [RxSwift](https://github.com/ReactiveX/RxSwift) - RxSwift:函数响应式编程框架，非常👍👍👍.
 * [RxPermission.swift](https://github.com/sunshinejr/RxPermission) - 通过绑定 RxSwift 实现的 RxPermission。
 * [Permission.swift](https://github.com/delba/Permission) - 统一的 API 请求 iOS 本地设备及资源权限类库。
 * [ReactiveAnimation](https://github.com/ReactiveCocoa/ReactiveAnimation) - ReactiveCocoa 推出了一个叫 ReactiveAnimation 的子项目，直接用完全用 Swift 来实现了。
 * [Swiftest](https://github.com/bppr/Swiftest) - BDD 全称 Behavior Driven Development，行为驱动开发。各种 DD 数不胜数，孰优孰劣争论不休，其实归根结底还是要根据使用场景进行选择。
 
-#### 页面路由
+#### 页面路由@
+
 * [ACRouter](https://github.com/Archerlly/ACRouter) - Swift版页面路由, 组件化过程中快速页面解耦.
 
-#### UI@
+#### KVO@
 
+* [Hanson](https://github.com/blendle/Hanson) 轻量级的KVO
+
+#### 网络@
+#### 网络连接@
+
+* [Alamofire](https://github.com/Alamofire/Alamofire) - 非常赞👍👍👍 Alamofire是AFNetworking的作者mattt新写的网络请求的swift库。[Alamofire 最佳实践](https://github.com/ipader/SwiftGuide/wiki/Alamofire%20%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5)
+* [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS, written in Swift 2.2 :large_orange_diamond:
+* [AlamofireObjectMapper.swift](https://github.com/tristanhimmelman/AlamofireObjectMapper) - 将Alamofire JSON响应数据 转为swift对象。
+* [RxAlamofire.swift](https://github.com/RxSwiftCommunity/RxAlamofire) - 为Alamofire提供函数响应式（FRP）调用接口,以优雅的方式使用Alamofire进行网络请求。
+* [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) - WebSockect 客户端类库。开放的通讯协议，有利于构建强大地跨平台应用。
+* [Transporter](https://github.com/nghialv/Transporter) - swift， 短小、精悍、易用的多文件（并发或顺序）上传和下载传输库。还支持后台运行、传输进程跟踪、暂停/续传/取消/重试控制等功能。
+* [Just](https://github.com/JustHTTP/Just) - 小而美的 HTTP 类。功能简单、直接、完整且健壮性高-- swift。
+* [Future](https://github.com/nghialv/Future) - 基于微框架设计思想的异步执行及结果响应类，代码即简单又干净-- swift。
+* [HFDownLoad](https://github.com/hongfenglt/HFDownLoad) - iOS开发网络篇之文件下载、大文件下载、断点下载:NSData方式、NSURLConnection方式、NSURLSession下载方式 [下载方式具体的思路、区别见Blog](http://blog.csdn.net/hongfengkt/article/details/48290561) 。
+* [Pitaya.swift](https://github.com/johnlui/Pitaya) - Pitaya 是纯 Swift 写的 iOS 网络库，支持 Basic Authorization、SSL 钢钉、HTTP raw body / JSON body、快速文件上传等特性，并通过内置 JSONNeverDie 实现了对 JSON 的完全支持，开箱即用。 [中文文档](https://github.com/johnlui/Pitaya/wiki/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3)
+* [starscream.swift](https://github.com/daltoniam/starscream) - starscream.swift:WebSocket客户端类库。
+* [SwiftNet.swift](https://github.com/FengDeng/SwiftNet) - 基于 RxSwift 和 Alamofire 的网络请求简易封装库。
+* [Networking.Swift](https://github.com/3lvis/Networking) - 使用简单、功能惊喜，基于 NSURLSession 的网络封装。
+* [Moya](https://github.com/Moya/Moya) - 对Alamofire的封装，使用枚举将网络层实现细节与页面逻辑代码分离，方便单元测试，支持stub测试，配合RxSwift食用更佳，[博客教程](http://www.hmttommy.com/2015/12/15/Moya/)
+* [EFInternetIndicator](https://github.com/ezefranca/EFInternetIndicator)swift 轻巧的一款 iOS 网络变更通知工具。
+
+#### 网络聊天@
+
+* [MessageKit.swift](https://github.com/MessageKit/MessageKit) - 消息 UI 库 JSQMessagesViewController 的 Swift 版。
+* [jchat-swift](https://github.com/jpush/jchat-swift) - 一个聊天 App,具有完备的即时通讯功能,JChat 的功能基于极光 JMessage SDK 来开发。
+
+#### 网络测试@
+
+* [Reachability.swift](https://github.com/ashleymills/Reachability.swift) - 用于替换苹果的 Reachability 类，可以方便地检测当前是否联网以及具体的联网状态。
+* [NetReachability](https://github.com/crazypoo/SimpleCarrie) - swift2.0 简单的方法检查网络连接的连通性，提供通知中心集成接口。
+* [SimpleBS.swift](https://github.com/bin1991/SimpleBS) - 网络测试小工具。
+
+#### 网页框架@
+
+* [Perfect.swift](https://github.com/PerfectlySoft/Perfect) - Perfect 致力于 Swift 服务端应用，从打造专业应用服务器开始。[Swift服务端编程：Perfect项目上手指南](http://blog.csdn.net/kinfey/article/details/50644752)
+* [swift-http](https://github.com/huytd/swift-http) - Swift HTTP Server，又一个 Swift 服务器，最大的亮点是支持 Docker 部署。
+* [Swifton](https://github.com/necolt/Swifton) - Swifton是一个优秀的Swift on Rails 的Web Framework。
+* [Taylor.swift](https://github.com/izqui/Taylor) - Taylor一个swift的轻量级的http服务器的库。
+* [NetworkObjects.swift](https://github.com/colemancda/NetworkObjects) - NetworkObjects.swift轻量版HttpServer框架，跨平台解决方案。
+* [vapor.swift](https://github.com/qutheory/vapor) - vapor.swift：swift的服务器库 vapor。
+* [Kitura.swift](https://github.com/IBM-Swift/Kitura) - Kitura.swift：安装、使用步骤及文档最为清晰地来自 IBM Swift 开发组的开源 Web 服务器。此外，IBM 云服务 Bluemix 也为 Swift 打开通路。
+
+#### NetworkExtension@
+
+* [NEKit](https://github.com/zhuhaow/NEKit) 一个网络扩展工具库,A toolkit for Network Extension Framework
+* [SpechtLite](https://github.com/zhuhaow/SpechtLite) A rule-based proxy for macOS
+
+#### 网络解析@
+
+##### CSV@
+
+* [CSwiftV](https://github.com/Daniel1of1/CSwiftV) - A csv parser written in swift conforming to rfc4180 :large_orange_diamond:
+* [SwiftCSV](https://github.com/naoty/SwiftCSV) - CSV parser for Swift :large_orange_diamond:
+
+##### Json@
+
+* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift. :large_orange_diamond:
+* [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - 很赞 ObjectMapper 是一个基于 Swift 语言开发的能够让 JSON 与 Object 之间轻易转换的类库。通过 ObjectMapper 我们可以将 JSON 数据转换成 Model 对象或将 Model 对象转换成 JSON 数据。 Simple JSON Object mapping written in Swift
+* [Decodable](https://github.com/Anviking/Decodable) - Swift 2 JSON parsing done (more) right :large_orange_diamond:
+* [Jay](https://github.com/czechboy0/Jay) - Pure-Swift JSON parser & formatter. Linux & OS X ready. :large_orange_diamond:
+* [XMLDictionary](https://github.com/nicklockwood/XMLDictionary) - ios与mac os平台下xml与NSDictionary相互转化开源类库。
+* [AEXML.swift](https://github.com/tadija/AEXML) - AEXML.swift简单又易于的XML解析类及示例。
+* [CFRuntime](https://github.com/CoderMJLee/MJExtension) - “Swift 版的 MJExtension，运行时、反射与一键字典模型互转”。
+* [protobuf-swift](https://github.com/alexeyxo/protobuf-swift) - Protocol Buffers 的 Swift 语言实现库。P.S. Protocol Buffers 是 Google 开源项目，主要功能是实现直接序列化结构化的对象数据，方便跨平台快速传递，开发者也可以直接修改 protobuf 中的数据。相比 XML 和 JSON，protobuf 解析更快，存储更小。
+* [JSONCodable](https://github.com/matthewcheok/JSONCodable) - 基于 Swift 2.0 新特性（Protocol Extensions and Error Handling）的JSON 解析类。
+* [JSONNeverDie.swift](https://github.com/johnlui/JSONNeverDie) - JSON 到 Model 类的自动映射工具。
+* [Fuzi.swift](https://github.com/cezheng/Fuzi) - Swift实现的轻量快速的 XML/HTML 解析器。
+* [SWXMLHash.swift](https://github.com/drmohundro/SWXMLHash) - 易用的 XML 解析类库。非常实用的“轮子”。
+* [YYModel](https://github.com/ibireme/YYModel) - 高性能的 iOS JSON 模型框架。
+* [TidyJSON.swift](https://github.com/benloong/TidyJSON) - TidyJSON.swift一款简单、易用、明了的 JSON 解析小类库。
+* [PMJSON.swift](https://github.com/postmates/PMJSON) - PMJSON.swift简单、实用、高效的 JSON 解析类库。
+* [Unbox.swift](https://github.com/JohnSundell/Unbox) - 极为易用、轻量，更少辅助代码的 JSON 解析类。
+* [Wrap.swift](https://github.com/JohnSundell/Wrap) - 方便、易用的对象转 JSON 类库。
+* [JASON](https://github.com/delba/JASON) - 高效的Json解析（Swift） Fast JSON parsing for Swift
+* [JSONCodable](https://github.com/matthewcheok/JSONCodable) - Swift json编码解码三方库 Hassle-free JSON encoding and decoding in Swift
+* [Coolie](https://github.com/nixzhu/Coolie) - Swift json转model的三方库 Coolie helps you to create models (& their constructors) from JSON file.
+* [Tailor](https://github.com/zenangst/Tailor) - 一个非常快和方便的对象映射Swift三方库 A super fast & convenient object mapper tailored for your needs.
+* [alexander](https://github.com/hodinkee/alexander) - 一个非常简洁的json处理三方库 An extremely simple JSON helper written in Swift.
+* [Freddy](https://github.com/bignerdranch/Freddy) - 一个可以重用的json解析库 A reusable framework for parsing JSON in Swift.
+* [mapper](https://github.com/lyft/mapper) - 一个json反序列化库 A JSON deserialization library for Swift
+* [AlamofireJsonToObjects](https://github.com/evermeer/AlamofireJsonToObjects) - 一个将json data转为Swift对象的类扩展 An Alamofire extension which converts JSON response data into swift objects using EVReflection
+* [Alembic](https://github.com/ra1028/Alembic) - 功能性的json解析库 Functional JSON parsing, mapping to objects, and serialize to JSON :large_orange_diamond:
+* [Wrap](https://github.com/JohnSundell/Wrap) - The easy to use Swift JSON encoder :large_orange_diamond:
+* [Arrow](https://github.com/freshOS/Arrow) - 一个Swift JSON解析库 JSON Parsing Library for Swift
+* [Genome](https://github.com/LoganWright/Genome) - 一个易用、多样、安全，包含错误映射的JSON转Model的Swift库. A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0 (Supports Linux)
+
+#### AutoLayout@
+
+* [Snap](https://github.com/SnapKit/SnapKit) - Snap是Masonry Auto Layout DSL的Swift版本，是一款轻量级的布局框架，使用了更良好的语法封装了AutoLayout。Snap支持iOS和OS X。
+* [Cartography](https://github.com/robb/Cartography) 一个很赞的Auto Layout库。
+* [Neon.swift](https://github.com/mamaral/Neon) - 功能强大的 UI 布局神器。
+* [EasyPeasy.swift](https://github.com/nakiostudio/EasyPeasy) - 编程方式自动布局框架库。
+* [TangramKit](https://github.com/youngsoft/TangramKit) TangramKit is a powerful iOS UI framework implemented by Swift. It integrates the functions with Android layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use LinearLayout,RelativeLayout,FrameLayout,TableLayout,FlowLayout,FloatLayout,LayoutSizeClass to build your App 自动布局 UIView UITableView UICollectionView
+
+#### 数据存储@
+
+#### 缓存处理@
+* [Cache.swift](https://github.com/soffes/Cache) - 一款简单、易用的缓存库。支持 MemoryCache, DiskCache 以及前两项组合的 MultiCache。
+* [Cache.swift](https://github.com/hyperoslo/Cache) - Nothing but Cache。
+* [AwesomeCache.swift](https://github.com/aschuch/AwesomeCache) - Delightful on-disk cache (written in Swift)。
+* [Track.swift](https://github.com/maquannene/Track) - 基于文件系统和链表的 Cache。分为 Disk 和 Memory，线程安全，支持 LRU 淘汰，性能尚可。
+
+#### CoreData@
+
+* [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack :large_orange_diamond:
+
+#### 数据库@
+
+* [realm-cocoa](https://github.com/realm/realm-cocoa) 一个号称要代替Core Data & SQLite的用于移动端的数据库，非常不错👍👍 ，同时支持Objective-C.
+* [RealmIncrementalStore.swift](https://github.com/eure/RealmIncrementalStore) - RealmIncrementalStore.swift:集 Realm 数据库和 CoreData 对象模型两者优势的 Realm 数据库访问类库。
+* [Breeze](https://github.com/andrelind/Breeze) - 用Swift写的一个轻量级的CoreData管理工具，并且还支持iCloud 。
+* [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - Swift，更容易地访问 CoreData 对象封装类库。除了 CRUD，还提供指针定位，强大的排序、筛选，异步数据获取，以及独立线程后台存取数据。
+* [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - 纯swift实现的类型安全的SQLite3封装，数据存储和JSON解析是永恒的话题。
+* [fluent.swift](https://github.com/qutheory/fluent) - 纯swift实现的类型安全的SQLite3封装，数据存储和JSON解析是永恒的话题。
+* [swiftydb](http://www.appcoda.com/swiftydb/) - 是一个第三方 SQLite 工具，能够大大简化数据库操作。如果你不放心 Realm，那就用 SwiftyDB 吧。[使用教程](http://swift.gg/2016/05/17/swiftydb/)、[demo](https://github.com/appcoda/SwiftyDB-Demo)
+* [Graph.swift](https://github.com/CosmicMind/Graph) - 设计新颖、使用简单基于 Core Data 的数据驱动框架库 （作者Daniel Dahan）。
+* [SwiftStore](https://github.com/hemantasapkota/SwiftStore) - Key-Value store for Swift backed by LevelDB :large_orange_diamond:
+
+#### 多媒体@
+#### PDF@
+
+* [FolioReaderKit](https://github.com/FolioReader/FolioReaderKit) - 非常棒👍的阅读器框架，支持自定义字体、字体大小、文本高亮、列表编辑删除、主题、白天夜间模式等等非常多的特性。
+* [PDFGenerator](https://github.com/sgr-ksmt/PDFGenerator) - 一个简单的PDF生成器.
+* [SimplePDF](https://github.com/nRewik/SimplePDF) - 轻松创建一个简单的PDF文件或者Data，能够增加文本、图片、空格、线、表格，支持页面布局，调整内容样式.
+* [PSPDFKit](https://pspdfkit.com/) - Render PDF, add/edit annotations, fill forms, add/edit pages, view/create digital signatures.
+* [TPPDF](https://github.com/Techprimate/TPPDF) - 一个容易使用的创建PDF的库
+
+#### 流媒体@
+
+* [lf.swift](https://github.com/shogo4405/lf.swift) - 相机和麦克风流媒体库，支持RTMP，HLS for iOS，macOS。
+* [StreamingKit](https://github.com/tumtumtum/StreamingKit) - A fast and extensible gapless AudioPlayer/AudioStreamer for OSX and iOS.
+* [Jukebox](https://github.com/teodorpatras/Jukebox) - 音频播放器，可播放本地和网络音频流
+* [Airstream](https://github.com/qasim/Airstream) - 一个基于AirPlay在Apple devices之间进行音频流传输的库，比如iphone音乐在Apple TV上面播放。
+* [OTAcceleratorCore](https://github.com/opentok/accelerator-core-ios) - 通过Tokbox将音频/视频（屏幕共享）轻松集成到任何iOS应用程序.包括视频通话、语音通话等。
+
+#### 音频@
+
+* [recordDemo.swift](https://github.com/lfb-cd/recordDemo) - 一个Swift语言实现直接可以用的录音Demo，[实现说明](http://www.jianshu.com/p/f0b88355d7cb)。
+* [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro) - 集成 LastFM 的专业电台应用（基于 Swift 2.0）。
+* [AudioKit.swift](https://github.com/audiokit/AudioKit) - 音频合成、加工及分析平台（支持 iOS、OS X、tvOS）框架库。无论其易用性，还是功能性及专业性。
+
+#### VR@
+
+* [swift-360-videos](https://github.com/team-pie/DDDKit) - 360度视频播放器，以swift3编写的iOS - SceneKit的一个子集. Pure swift (no SceneKit) 3D library with focus on video and 360.
+
+#### 音频@
+
+* [AudioBus](https://developer.audiob.us/) - 下一代的音频路由 Add Next Generation Live App-to-App Audio Routing.
+* [AudioKit](https://github.com/audiokit/AudioKit) - 一个非常强大的音频合成、加工、分析平台工具，支持iOS、macOS、tvOS、
+* [Cephalopod](https://github.com/evgenyneu/Cephalopod) - 一个基于AVIudioPlayer的音效推子，支持 iOS，tvOS和macOS。
+* [Chirp](https://github.com/trifl/Chirp) - 播放和删除声音最容易的方法
+* [Beethoven](https://github.com/vadymmarkov/Beethoven) - 音高检测大师
+* [AudioPlayerSwift]( https://github.com/tbaranes/AudioPlayerSwift) - 一个使音频播放更简单的类AudioPlayer，支持 iOS, macOS and tvOS apps.
+* [AudioPlayer](https://github.com/delannoyk/AudioPlayer) - 一个基于AVPlayer的播放本地和网络音频的库
+* [TuningFork](https://github.com/comyar/TuningFork) - 简单的调音师
+* [MusicKit](https://github.com/benzguo/MusicKit) - 一个合成和转换音乐的框架
+* [TheAmazingAudioEngine2](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine2) - 一个惊人的、精致的用于音频App的音频库
+* [InteractivePlayerView](https://github.com/AhmettKeskin/InteractivePlayerView) - 自定义音乐播放View
+* [ESTMusicIndicator](https://github.com/Aufree/ESTMusicIndicator) - 很酷的音乐动画指示View
+* [SwiftySound](https://github.com/adamcichy/SwiftySound) 一个让你一行代码就可以播放音频的三方库
+
+#### 视频@
+#### 视频播放@
+
+* [MobilePlayer](https://github.com/mobileplayer/mobileplayer-ios) - 一个强大、可自定义的媒体播放器.
+* [Periscope-VideoViewController.swift](https://github.com/gontovnik/Periscope-VideoViewController) - 简洁实用的视频快进、倒带控制视图类库。
+* [MPMoviePlayerController-Subtitles](https://github.com/mhergon/MPMoviePlayerController-Subtitles) - 一个播放STR文件的简单方法
+* [Player](https://github.com/piemonte/Player) - ▶️  一个简单方法播放视频和流媒体的播放器，支持iOS和tvOS
+* [mobileplayer-ios.swift](https://github.com/mobileplayer/mobileplayer-ios) - 很不错的高度可定制播放器项目。
+* [BMPlayer.swift](https://github.com/BrikerMan/BMPlayer) - 基于 AVPlayer 使用 Swift 封装的视频播放器，方便快速集成,支持横屏、竖屏，上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。
+* [PlayerView](https://github.com/davidlondono/PlayerView) - 一个使用代理和AVPlayer的播放View
+
+#### UI@
 #### 日历@
 
 * [FSCalendar](https://github.com/WenchaoD/FSCalendar) - 一个包含objective-c和Swift版本的优秀的日历
@@ -329,6 +501,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 搜索@
 
 * [YNSearch](https://github.com/younatics/YNSearch) 一个非常棒，完全自定义的搜索View，支持历史记录，标签等等功能.
+* [fuse-swift](https://github.com/krisk/fuse-swift) A lightweight fuzzy-search library, with zero dependencies
 
 #### 倒计时@
 
@@ -475,97 +648,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) 很多流行的算法和数据结构的具体实现，非常赞👍👍👍
 
-#### AutoLayout@
-
-* [Snap](https://github.com/SnapKit/SnapKit) - Snap是Masonry Auto Layout DSL的Swift版本，是一款轻量级的布局框架，使用了更良好的语法封装了AutoLayout。Snap支持iOS和OS X。
-* [Cartography](https://github.com/robb/Cartography) 一个很赞的Auto Layout库。
-* [Neon.swift](https://github.com/mamaral/Neon) - 功能强大的 UI 布局神器。
-* [EasyPeasy.swift](https://github.com/nakiostudio/EasyPeasy) - 编程方式自动布局框架库。
-* [TangramKit](https://github.com/youngsoft/TangramKit) TangramKit is a powerful iOS UI framework implemented by Swift. It integrates the functions with Android layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use LinearLayout,RelativeLayout,FrameLayout,TableLayout,FlowLayout,FloatLayout,LayoutSizeClass to build your App 自动布局 UIView UITableView UICollectionView
-
-#### 网络相关@
-
-#### 网络连接@
-
-* [Alamofire](https://github.com/Alamofire/Alamofire) - 非常赞👍👍👍 Alamofire是AFNetworking的作者mattt新写的网络请求的swift库。[Alamofire 最佳实践](https://github.com/ipader/SwiftGuide/wiki/Alamofire%20%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5)
-* [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS, written in Swift 2.2 :large_orange_diamond:
-* [AlamofireObjectMapper.swift](https://github.com/tristanhimmelman/AlamofireObjectMapper) - 将Alamofire JSON响应数据 转为swift对象。
-* [RxAlamofire.swift](https://github.com/RxSwiftCommunity/RxAlamofire) - 为Alamofire提供函数响应式（FRP）调用接口,以优雅的方式使用Alamofire进行网络请求。
-* [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) - WebSockect 客户端类库。开放的通讯协议，有利于构建强大地跨平台应用。
-* [Transporter](https://github.com/nghialv/Transporter) - swift， 短小、精悍、易用的多文件（并发或顺序）上传和下载传输库。还支持后台运行、传输进程跟踪、暂停/续传/取消/重试控制等功能。
-* [Just](https://github.com/JustHTTP/Just) - 小而美的 HTTP 类。功能简单、直接、完整且健壮性高-- swift。
-* [Future](https://github.com/nghialv/Future) - 基于微框架设计思想的异步执行及结果响应类，代码即简单又干净-- swift。
-* [HFDownLoad](https://github.com/hongfenglt/HFDownLoad) - iOS开发网络篇之文件下载、大文件下载、断点下载:NSData方式、NSURLConnection方式、NSURLSession下载方式 [下载方式具体的思路、区别见Blog](http://blog.csdn.net/hongfengkt/article/details/48290561) 。
-* [Pitaya.swift](https://github.com/johnlui/Pitaya) - Pitaya 是纯 Swift 写的 iOS 网络库，支持 Basic Authorization、SSL 钢钉、HTTP raw body / JSON body、快速文件上传等特性，并通过内置 JSONNeverDie 实现了对 JSON 的完全支持，开箱即用。 [中文文档](https://github.com/johnlui/Pitaya/wiki/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3)
-* [starscream.swift](https://github.com/daltoniam/starscream) - starscream.swift:WebSocket客户端类库。
-* [SwiftNet.swift](https://github.com/FengDeng/SwiftNet) - 基于 RxSwift 和 Alamofire 的网络请求简易封装库。
-* [Networking.Swift](https://github.com/3lvis/Networking) - 使用简单、功能惊喜，基于 NSURLSession 的网络封装。
-* [Moya](https://github.com/Moya/Moya) - 对Alamofire的封装，使用枚举将网络层实现细节与页面逻辑代码分离，方便单元测试，支持stub测试，配合RxSwift食用更佳，[博客教程](http://www.hmttommy.com/2015/12/15/Moya/)
-* [EFInternetIndicator](https://github.com/ezefranca/EFInternetIndicator)swift 轻巧的一款 iOS 网络变更通知工具。
-
-#### 网络聊天@
-
-* [MessageKit.swift](https://github.com/MessageKit/MessageKit) - 消息 UI 库 JSQMessagesViewController 的 Swift 版。
-* [jchat-swift](https://github.com/jpush/jchat-swift) - 一个聊天 App,具有完备的即时通讯功能,JChat 的功能基于极光 JMessage SDK 来开发。
-
-#### 网络测试@
-
-* [Reachability.swift](https://github.com/ashleymills/Reachability.swift) - 用于替换苹果的 Reachability 类，可以方便地检测当前是否联网以及具体的联网状态。
-* [NetReachability](https://github.com/crazypoo/SimpleCarrie) - swift2.0 简单的方法检查网络连接的连通性，提供通知中心集成接口。
-* [SimpleBS.swift](https://github.com/bin1991/SimpleBS) - 网络测试小工具。
-
-#### 网页框架@
-
-* [Perfect.swift](https://github.com/PerfectlySoft/Perfect) - Perfect 致力于 Swift 服务端应用，从打造专业应用服务器开始。[Swift服务端编程：Perfect项目上手指南](http://blog.csdn.net/kinfey/article/details/50644752)
-* [swift-http](https://github.com/huytd/swift-http) - Swift HTTP Server，又一个 Swift 服务器，最大的亮点是支持 Docker 部署。
-* [Swifton](https://github.com/necolt/Swifton) - Swifton是一个优秀的Swift on Rails 的Web Framework。
-* [Taylor.swift](https://github.com/izqui/Taylor) - Taylor一个swift的轻量级的http服务器的库。
-* [NetworkObjects.swift](https://github.com/colemancda/NetworkObjects) - NetworkObjects.swift轻量版HttpServer框架，跨平台解决方案。
-* [vapor.swift](https://github.com/qutheory/vapor) - vapor.swift：swift的服务器库 vapor。
-* [Kitura.swift](https://github.com/IBM-Swift/Kitura) - Kitura.swift：安装、使用步骤及文档最为清晰地来自 IBM Swift 开发组的开源 Web 服务器。此外，IBM 云服务 Bluemix 也为 Swift 打开通路。
-
-#### 网络解析@
-
-##### CSV@
-
-* [CSwiftV](https://github.com/Daniel1of1/CSwiftV) - A csv parser written in swift conforming to rfc4180 :large_orange_diamond:
-* [SwiftCSV](https://github.com/naoty/SwiftCSV) - CSV parser for Swift :large_orange_diamond:
-
-##### Json@
-
-* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift. :large_orange_diamond:
-* [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - 很赞 ObjectMapper 是一个基于 Swift 语言开发的能够让 JSON 与 Object 之间轻易转换的类库。通过 ObjectMapper 我们可以将 JSON 数据转换成 Model 对象或将 Model 对象转换成 JSON 数据。 Simple JSON Object mapping written in Swift
-* [Decodable](https://github.com/Anviking/Decodable) - Swift 2 JSON parsing done (more) right :large_orange_diamond:
-* [Jay](https://github.com/czechboy0/Jay) - Pure-Swift JSON parser & formatter. Linux & OS X ready. :large_orange_diamond:
-* [XMLDictionary](https://github.com/nicklockwood/XMLDictionary) - ios与mac os平台下xml与NSDictionary相互转化开源类库。
-* [AEXML.swift](https://github.com/tadija/AEXML) - AEXML.swift简单又易于的XML解析类及示例。
-* [CFRuntime](https://github.com/CoderMJLee/MJExtension) - “Swift 版的 MJExtension，运行时、反射与一键字典模型互转”。
-* [protobuf-swift](https://github.com/alexeyxo/protobuf-swift) - Protocol Buffers 的 Swift 语言实现库。P.S. Protocol Buffers 是 Google 开源项目，主要功能是实现直接序列化结构化的对象数据，方便跨平台快速传递，开发者也可以直接修改 protobuf 中的数据。相比 XML 和 JSON，protobuf 解析更快，存储更小。
-* [JSONCodable](https://github.com/matthewcheok/JSONCodable) - 基于 Swift 2.0 新特性（Protocol Extensions and Error Handling）的JSON 解析类。
-* [JSONNeverDie.swift](https://github.com/johnlui/JSONNeverDie) - JSON 到 Model 类的自动映射工具。
-* [Fuzi.swift](https://github.com/cezheng/Fuzi) - Swift实现的轻量快速的 XML/HTML 解析器。
-* [SWXMLHash.swift](https://github.com/drmohundro/SWXMLHash) - 易用的 XML 解析类库。非常实用的“轮子”。
-* [YYModel](https://github.com/ibireme/YYModel) - 高性能的 iOS JSON 模型框架。
-* [TidyJSON.swift](https://github.com/benloong/TidyJSON) - TidyJSON.swift一款简单、易用、明了的 JSON 解析小类库。
-* [PMJSON.swift](https://github.com/postmates/PMJSON) - PMJSON.swift简单、实用、高效的 JSON 解析类库。
-* [Unbox.swift](https://github.com/JohnSundell/Unbox) - 极为易用、轻量，更少辅助代码的 JSON 解析类。
-* [Wrap.swift](https://github.com/JohnSundell/Wrap) - 方便、易用的对象转 JSON 类库。
-* [JASON](https://github.com/delba/JASON) - 高效的Json解析（Swift） Fast JSON parsing for Swift
-* [JSONCodable](https://github.com/matthewcheok/JSONCodable) - Swift json编码解码三方库 Hassle-free JSON encoding and decoding in Swift
-* [Coolie](https://github.com/nixzhu/Coolie) - Swift json转model的三方库 Coolie helps you to create models (& their constructors) from JSON file.
-* [Tailor](https://github.com/zenangst/Tailor) - 一个非常快和方便的对象映射Swift三方库 A super fast & convenient object mapper tailored for your needs.
-* [alexander](https://github.com/hodinkee/alexander) - 一个非常简洁的json处理三方库 An extremely simple JSON helper written in Swift.
-* [Freddy](https://github.com/bignerdranch/Freddy) - 一个可以重用的json解析库 A reusable framework for parsing JSON in Swift.
-* [mapper](https://github.com/lyft/mapper) - 一个json反序列化库 A JSON deserialization library for Swift
-* [AlamofireJsonToObjects](https://github.com/evermeer/AlamofireJsonToObjects) - 一个将json data转为Swift对象的类扩展 An Alamofire extension which converts JSON response data into swift objects using EVReflection
-* [Alembic](https://github.com/ra1028/Alembic) - 功能性的json解析库 Functional JSON parsing, mapping to objects, and serialize to JSON :large_orange_diamond:
-* [Wrap](https://github.com/JohnSundell/Wrap) - The easy to use Swift JSON encoder :large_orange_diamond:
-* [Arrow](https://github.com/freshOS/Arrow) - 一个Swift JSON解析库 JSON Parsing Library for Swift
-* [Genome](https://github.com/LoganWright/Genome) - 一个易用、多样、安全，包含错误映射的JSON转Model的Swift库. A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0 (Supports Linux)
-
-##### XML&HTML@
-##### Other Parsing@
-
 #### VR@
 
 * [VRDemo-Swift](https://github.com/Huanhoo/VRDemo-Swift) VRDemo是用Swift配合OpenGL ES实现的360度全景播放器
@@ -617,38 +699,13 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [XCGLogger.swift](https://github.com/DaveWoodCom/XCGLogger) - XCGLogger.swift功能完整的日志管理类库。
 * [Peek.swift](https://github.com/shaps80/Peek) - 更友好、手势方式检查界面内组件布局信息（相当于浏览器元素检查功能），界面调试利器。
 
-#### 数据存储@
-
-#### 缓存处理@
-* [Cache.swift](https://github.com/soffes/Cache) - 一款简单、易用的缓存库。支持 MemoryCache, DiskCache 以及前两项组合的 MultiCache。
-* [Cache.swift](https://github.com/hyperoslo/Cache) - Nothing but Cache。
-* [AwesomeCache.swift](https://github.com/aschuch/AwesomeCache) - Delightful on-disk cache (written in Swift)。
-* [Track.swift](https://github.com/maquannene/Track) - 基于文件系统和链表的 Cache。分为 Disk 和 Memory，线程安全，支持 LRU 淘汰，性能尚可。
-
-#### CoreData@
-
-* [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack :large_orange_diamond:
-
-#### 数据库@
-
-* [realm-cocoa](https://github.com/realm/realm-cocoa) 一个号称要代替Core Data & SQLite的用于移动端的数据库，非常不错👍👍 ，同时支持Objective-C.
-* [RealmIncrementalStore.swift](https://github.com/eure/RealmIncrementalStore) - RealmIncrementalStore.swift:集 Realm 数据库和 CoreData 对象模型两者优势的 Realm 数据库访问类库。
-* [Breeze](https://github.com/andrelind/Breeze) - 用Swift写的一个轻量级的CoreData管理工具，并且还支持iCloud 。
-* [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - Swift，更容易地访问 CoreData 对象封装类库。除了 CRUD，还提供指针定位，强大的排序、筛选，异步数据获取，以及独立线程后台存取数据。
-* [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - 纯swift实现的类型安全的SQLite3封装，数据存储和JSON解析是永恒的话题。
-* [fluent.swift](https://github.com/qutheory/fluent) - 纯swift实现的类型安全的SQLite3封装，数据存储和JSON解析是永恒的话题。
-* [swiftydb](http://www.appcoda.com/swiftydb/) - 是一个第三方 SQLite 工具，能够大大简化数据库操作。如果你不放心 Realm，那就用 SwiftyDB 吧。[使用教程](http://swift.gg/2016/05/17/swiftydb/)、[demo](https://github.com/appcoda/SwiftyDB-Demo)
-* [Graph.swift](https://github.com/CosmicMind/Graph) - 设计新颖、使用简单基于 Core Data 的数据驱动框架库 （作者Daniel Dahan）。
-* [SwiftStore](https://github.com/hemantasapkota/SwiftStore) - Key-Value store for Swift backed by LevelDB :large_orange_diamond:
-
-#### 序列化@
-
-#### WebView与WKWebView@
+#### WebView@
 
 * [IOSCallJsOrJsCallIOS](https://github.com/CoderJackyHuang/IOSCallJsOrJsCallIOS) - IOSCallJsOrJsCallIOS：利用iOS7.0后出来的JavaScriptCore framework，webview与Js交互是常见的需求。OC版本与swift版本。[《OC JavaScriptCore与js交互》](http://www.henishuo.com/oc-js/),[《Swift JavaScriptCore与js交互》](http://www.henishuo.com/swift-js/)。
 * [WKWebViewTestDemo.swift](https://github.com/CoderJackyHuang/WKWebViewTestDemo) - WKWebViewTestDemo：WKWebView新特性及JS交互,[文章讲解](http://www.henishuo.com/wkwebview-js/)。
 * [React.swift](https://github.com/alexdrone/Render) - 启发自 React 的纯 Swift 函数版基于 UIKit 封装类库。这种结构是否似曾相识。
-* [GRMustache] (https://github.com/groue/GRMustache) 一个类似templateEngine的html渲染工具，可以更加有效的帮助大家完成数据生成HTML的过程。
+* [GRMustache](https://github.com/groue/GRMustache) 一个类似templateEngine的html渲染工具，可以更加有效的帮助大家完成数据生成HTML的过程。
+* [MarkdownView](https://github.com/keitaoouchi/MarkdownView) Markdown View for iOS. MarkdownView is a WKWebView based UI element, and internally use bootstrap, highlight.js, markdown-it.
 
 #### FaceBook@
 
@@ -830,60 +887,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [CameraManager](https://github.com/imaginary-cloud/CameraManager) - 相机管理封装类库。看着极好用的样子----swift。
 * [SkfSwiftCammer](https://github.com/wubianxiaoxian/SkfSwiftCammer) - 一个相机demo，在oc里面调用了swift。
 
-#### 多媒体@
-#### PDF@
-
-* [FolioReaderKit](https://github.com/FolioReader/FolioReaderKit) - 非常棒👍的阅读器框架，支持自定义字体、字体大小、文本高亮、列表编辑删除、主题、白天夜间模式等等非常多的特性。
-* [PDFGenerator](https://github.com/sgr-ksmt/PDFGenerator) - 一个简单的PDF生成器.
-* [SimplePDF](https://github.com/nRewik/SimplePDF) - 轻松创建一个简单的PDF文件或者Data，能够增加文本、图片、空格、线、表格，支持页面布局，调整内容样式.
-* [PSPDFKit](https://pspdfkit.com/) - Render PDF, add/edit annotations, fill forms, add/edit pages, view/create digital signatures.
-* [TPPDF](https://github.com/Techprimate/TPPDF) - 一个容易使用的创建PDF的库
-
-#### 流媒体@
-
-* [lf.swift](https://github.com/shogo4405/lf.swift) - 相机和麦克风流媒体库，支持RTMP，HLS for iOS，macOS。
-* [StreamingKit](https://github.com/tumtumtum/StreamingKit) - A fast and extensible gapless AudioPlayer/AudioStreamer for OSX and iOS.
-* [Jukebox](https://github.com/teodorpatras/Jukebox) - 音频播放器，可播放本地和网络音频流
-* [Airstream](https://github.com/qasim/Airstream) - 一个基于AirPlay在Apple devices之间进行音频流传输的库，比如iphone音乐在Apple TV上面播放。
-* [OTAcceleratorCore](https://github.com/opentok/accelerator-core-ios) - 通过Tokbox将音频/视频（屏幕共享）轻松集成到任何iOS应用程序.包括视频通话、语音通话等。
-
-#### 音频@
-
-* [recordDemo.swift](https://github.com/lfb-cd/recordDemo) - 一个Swift语言实现直接可以用的录音Demo，[实现说明](http://www.jianshu.com/p/f0b88355d7cb)。
-* [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro) - 集成 LastFM 的专业电台应用（基于 Swift 2.0）。
-* [AudioKit.swift](https://github.com/audiokit/AudioKit) - 音频合成、加工及分析平台（支持 iOS、OS X、tvOS）框架库。无论其易用性，还是功能性及专业性。
-
-#### VR@
-
-* [swift-360-videos](https://github.com/team-pie/DDDKit) - 360度视频播放器，以swift3编写的iOS - SceneKit的一个子集. Pure swift (no SceneKit) 3D library with focus on video and 360.
-
-#### 音频@
-
-* [AudioBus](https://developer.audiob.us/) - 下一代的音频路由 Add Next Generation Live App-to-App Audio Routing.
-* [AudioKit](https://github.com/audiokit/AudioKit) - 一个非常强大的音频合成、加工、分析平台工具，支持iOS、macOS、tvOS、
-* [Cephalopod](https://github.com/evgenyneu/Cephalopod) - 一个基于AVIudioPlayer的音效推子，支持 iOS，tvOS和macOS。
-* [Chirp](https://github.com/trifl/Chirp) - 播放和删除声音最容易的方法
-* [Beethoven](https://github.com/vadymmarkov/Beethoven) - 音高检测大师
-* [AudioPlayerSwift]( https://github.com/tbaranes/AudioPlayerSwift) - 一个使音频播放更简单的类AudioPlayer，支持 iOS, macOS and tvOS apps.
-* [AudioPlayer](https://github.com/delannoyk/AudioPlayer) - 一个基于AVPlayer的播放本地和网络音频的库
-* [TuningFork](https://github.com/comyar/TuningFork) - 简单的调音师
-* [MusicKit](https://github.com/benzguo/MusicKit) - 一个合成和转换音乐的框架
-* [TheAmazingAudioEngine2](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine2) - 一个惊人的、精致的用于音频App的音频库
-* [InteractivePlayerView](https://github.com/AhmettKeskin/InteractivePlayerView) - 自定义音乐播放View
-* [ESTMusicIndicator](https://github.com/Aufree/ESTMusicIndicator) - 很酷的音乐动画指示View
-* [SwiftySound](https://github.com/adamcichy/SwiftySound) 一个让你一行代码就可以播放音频的三方库
-
-#### 视频@
-#### 视频播放@
-
-* [MobilePlayer](https://github.com/mobileplayer/mobileplayer-ios) - 一个强大、可自定义的媒体播放器.
-* [Periscope-VideoViewController.swift](https://github.com/gontovnik/Periscope-VideoViewController) - 简洁实用的视频快进、倒带控制视图类库。
-* [MPMoviePlayerController-Subtitles](https://github.com/mhergon/MPMoviePlayerController-Subtitles) - 一个播放STR文件的简单方法
-* [Player](https://github.com/piemonte/Player) - ▶️  一个简单方法播放视频和流媒体的播放器，支持iOS和tvOS
-* [mobileplayer-ios.swift](https://github.com/mobileplayer/mobileplayer-ios) - 很不错的高度可定制播放器项目。
-* [BMPlayer.swift](https://github.com/BrikerMan/BMPlayer) - 基于 AVPlayer 使用 Swift 封装的视频播放器，方便快速集成,支持横屏、竖屏，上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。
-* [PlayerView](https://github.com/davidlondono/PlayerView) - 一个使用代理和AVPlayer的播放View
-
 #### 地图@
 
 * [Cluster](https://github.com/efremidze/Cluster) 非常不错的地图标注聚合.
@@ -893,10 +896,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [NotificationBanner](https://github.com/Daltron/NotificationBanner) 最容易的方法显示高度自定义的通知.
 * [Homeoff](https://github.com/lizyyy/Homeoff) - 用swift写了一个模仿Launcher通知中心快捷方式的应用。支持20个应用，并增加了一个返回到桌面来解放Home键的功能。
 * [SwiftNotificationCenter](https://github.com/100mango/SwiftNotificationCenter) - 一个面向协议的类型安全、线程安全、内存安全的通知中心。
-
-
-#### 时间日期@
-#### 设计模式@
 
 #### 版本新API的Demo@
 
