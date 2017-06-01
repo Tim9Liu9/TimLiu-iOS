@@ -805,6 +805,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [MQRCodeReaderViewController](https://github.com/zhengjinghua/MQRCodeReaderViewController) - 二维码扫描控件, UI 做了优化, 仿造微信, 直接拖进项目就可使用。
 * [MQRCodeReaderViewController](https://github.com/zhengjinghua/MQRCodeReaderViewController) iOS 二维码扫描控件, UI 做了优化, 仿造微信, 直接拖进项目就可使用, 支持 CocoaPods 安装. WeChat-like QRCode reader, drop-in version, support for CocoaPods
 * [QRWeiXinDemo](https://github.com/lcddhr/QRWeiXinDemo)仿微信二维码扫描，中间透明区域
+* [EFQRCode](https://github.com/EyreFree/EFQRCode) - iOS 花式二维码生成库
 
 #### PDF@
 
