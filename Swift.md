@@ -16,6 +16,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [响应式框架@](#响应式框架)
   - [页面路由@](#页面路由)
   - [KVO@](#KVO)
+- [服务端@](@服务端)  
 - [网络@](#相关)
   - [网络连接@](#网络连接)
   - [图像获取@](#图像获取)
@@ -90,7 +91,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [设计@](#设计)
   - [好的文章@](#好的文章)
   - [美工资源@](#美工资源)
-- [测试及调试@](#测试及调试)
+- [调试@](#调试)
+  - [测试@](#测试)
+  - [分析@](#分析)
 - [WebView@](#webview)
 - [FaceBook@](#faceBook)
 - [通讯录@](#通讯录)
@@ -136,6 +139,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [MySampleCode](https://github.com/bestswifter/MySampleCode) Swift的一些Demo
 
 #### 完整App@
+
+* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)Collaborative List of Open-Source iOS Apps 非常赞👍👍👍 。
 * [Swift 30 Projects](https://github.com/soapyigu/Swift30Projects) - 最新 Swift 3.0 的30个小App，更注重代码规范和架构设计(故胤道长)
 * [V2ex-Swift](https://github.com/Finb/V2ex-Swift) - 用 Swift 写的 V2EX 客户端。
 * [iBBS-Swift](https://github.com/iAugux/iBBS-Swift) - “新手开源一个用Swift（2.0）写的论坛客户端”。[BBS 服务端](http://obbs.sinaapp.com/)。
@@ -187,6 +192,11 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### KVO@
 
 * [Hanson](https://github.com/blendle/Hanson) 轻量级的KVO
+
+#### 服务端@
+
+* [Perfect](https://github.com/PerfectlySoft/Perfect) Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)
+* [vapor](https://github.com/vapor/vapor) A server-side Swift web framework.
 
 #### 网络@
 #### 网络连接@
@@ -309,6 +319,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [CameraManager](https://github.com/imaginary-cloud/CameraManager) - 相机管理封装类库。看着极好用的样子----swift。
 * [SkfSwiftCammer](https://github.com/wubianxiaoxian/SkfSwiftCammer) - 一个相机demo，在oc里面调用了swift。
+* [TLStoryCamera](https://github.com/timelessg/TLStoryCamera) 仿照instagramStory & WeiBoStory。可以在拍摄视频后贴图，贴字，涂鸦。
 
 #### PDF@
 
@@ -339,13 +350,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [recordDemo.swift](https://github.com/lfb-cd/recordDemo) - 一个Swift语言实现直接可以用的录音Demo，[实现说明](http://www.jianshu.com/p/f0b88355d7cb)。
 * [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro) - 集成 LastFM 的专业电台应用（基于 Swift 2.0）。
 * [AudioKit.swift](https://github.com/audiokit/AudioKit) - 音频合成、加工及分析平台（支持 iOS、OS X、tvOS）框架库。无论其易用性，还是功能性及专业性。
-
-#### VR@
-
-* [swift-360-videos](https://github.com/team-pie/DDDKit) - 360度视频播放器，以swift3编写的iOS - SceneKit的一个子集. Pure swift (no SceneKit) 3D library with focus on video and 360.
-
-#### 音频@
-
+* [DeckTransition](https://github.com/HarshilShah/DeckTransition) A library to recreate the iOS 10 Apple Music now playing transition
 * [AudioBus](https://developer.audiob.us/) - 下一代的音频路由 Add Next Generation Live App-to-App Audio Routing.
 * [AudioKit](https://github.com/audiokit/AudioKit) - 一个非常强大的音频合成、加工、分析平台工具，支持iOS、macOS、tvOS、
 * [Cephalopod](https://github.com/evgenyneu/Cephalopod) - 一个基于AVIudioPlayer的音效推子，支持 iOS，tvOS和macOS。
@@ -359,6 +364,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [InteractivePlayerView](https://github.com/AhmettKeskin/InteractivePlayerView) - 自定义音乐播放View
 * [ESTMusicIndicator](https://github.com/Aufree/ESTMusicIndicator) - 很酷的音乐动画指示View
 * [SwiftySound](https://github.com/adamcichy/SwiftySound) 一个让你一行代码就可以播放音频的三方库
+
+#### VR@
+
+* [swift-360-videos](https://github.com/team-pie/DDDKit) - 360度视频播放器，以swift3编写的iOS - SceneKit的一个子集. Pure swift (no SceneKit) 3D library with focus on video and 360.
 
 #### 视频@
 #### 视频播放@
@@ -491,8 +500,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 颜色@
 
 #### 图表@
-* [swift-linechart](https://github.com/zemirco/swift-linechart) - 功能完整、实用的折线图组件。使用方便，参数配置简单。是不可多得的优质组件--swift。
+
 * [Charts](https://github.com/danielgindi/Charts) - 一款优秀的图表开源库 MPAndroidChart 的 Swift 语言实现版（支持 Objective-C 和 Swift 调用），非常赞👍👍👍.
+* [swift-linechart](https://github.com/zemirco/swift-linechart) - 功能完整、实用的折线图组件。使用方便，参数配置简单。是不可多得的优质组件--swift。
 * [SpreadsheetView](https://github.com/kishikawakatsumi/SpreadsheetView) 很棒👍 的电子表格库. 可以完全配置的电子表格View,使用此库你能很容易的创建出复杂布局的表格，比如时间表、甘特图、课程表，就像你使用Excel一样.
 * [Scrollable-GraphView.swift](https://github.com/philackm/Scrollable-GraphView) - 灵动感十足的自适应、可定制滚动曲（折）线图表库。
 
@@ -779,7 +789,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [FengNiao](https://github.com/onevcat/FengNiao) 一个清理Xcode中没使用的资源文件的命令行工具.
 
-#### 测试及调试@
+#### 调试@
 
 * [depcheck](https://github.com/wojteklu/depcheck) Swift 工程分析工具(Dependency analyzer tool for Swift projects)
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - 相当于 CocoaLumberjack 或 Log4j 的 Swift 版本，功能上甚至更强大。另外，源代码中已经内含了完整的 API 文档，使用非常方便。
@@ -793,6 +803,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [XCGLogger.swift](https://github.com/DaveWoodCom/XCGLogger) - XCGLogger.swift功能完整的日志管理类库。
 * [Peek.swift](https://github.com/shaps80/Peek) - 更友好、手势方式检查界面内组件布局信息（相当于浏览器元素检查功能），界面调试利器。
 
+#### 分析@
+
+* [GoogleReporter](https://github.com/ksmandersen/GoogleReporter) Easily integrate your app with Google Analytics
+
 #### WebView@
 
 * [IOSCallJsOrJsCallIOS](https://github.com/CoderJackyHuang/IOSCallJsOrJsCallIOS) - IOSCallJsOrJsCallIOS：利用iOS7.0后出来的JavaScriptCore framework，webview与Js交互是常见的需求。OC版本与swift版本。[《OC JavaScriptCore与js交互》](http://www.henishuo.com/oc-js/),[《Swift JavaScriptCore与js交互》](http://www.henishuo.com/swift-js/)。
@@ -800,6 +814,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [React.swift](https://github.com/alexdrone/Render) - 启发自 React 的纯 Swift 函数版基于 UIKit 封装类库。这种结构是否似曾相识。
 * [GRMustache](https://github.com/groue/GRMustache) 一个类似templateEngine的html渲染工具，可以更加有效的帮助大家完成数据生成HTML的过程。
 * [MarkdownView](https://github.com/keitaoouchi/MarkdownView) Markdown View for iOS. MarkdownView is a WKWebView based UI element, and internally use bootstrap, highlight.js, markdown-it.
+* [swift-deep-linking](https://github.com/ijoshsmith/swift-deep-linking) 深度链接 A simple way to consume custom deep link URLs in a Swift app
 
 #### FaceBook@
 
@@ -883,6 +898,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Spots.swift](https://github.com/hyperoslo/Spots) - 一套为了加速开发效率、将 view models 采用 JSON 格式存储于云端 view controller 框架库。
 * [PinpointKit.swift](https://github.com/Lickability/PinpointKit) - 简单的手势动作快速触发反馈组件。主要功能包含自动截屏、附加说明和日志。支持添加可定制箭头、着重框、文本、模糊打码等常用快照编辑功能。它非常适合开发过程中测试人员反馈缺陷。
 * [Switcher.swift](https://github.com/X140Yu/Switcher) - 一个 OS X 小 App，可以很轻松地切换 App Store 和 iTunes 的账号，对于同时使用多个 Apple ID 的人来说非常地方便。
+* [MotionBook](https://github.com/younatics/MotionBook) Awesome iOS UI/UX Animation Book
 
 #### 地图@
 
@@ -929,3 +945,4 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 未分类@
 
 * [Eureka](https://github.com/xmartlabs/Eureka ) 简洁方便的 iOS 表单生成器 （Swift 3）
+* [SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin) A tool to convert Swift code to Kotlin.
