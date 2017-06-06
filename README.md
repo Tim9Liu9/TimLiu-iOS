@@ -1776,6 +1776,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [crashlytics](https://www.fabric.io/onboard) Twitter出的一个崩溃分析软件
 * [Knuff](https://github.com/KnuffApp/Knuff)调试iOS App远程推送(APNs)的工具
 * [PPAutoPackageScript](https://github.com/jkpang/PPAutoPackageScript) - Xcode8以后的iOS自动打包脚本,配置简单/方便
+* [CocoaDebugKit](https://github.com/Patrick-Kladek/CocoaDebugKit) Debugging made easy. Automatically create QuickLook images of custom objects
 
 #### 接口调试工具@
 
