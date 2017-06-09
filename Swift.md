@@ -16,6 +16,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [响应式框架@](#响应式框架)
   - [页面路由@](#页面路由)
   - [KVO@](#KVO)
+  - [版本管理@](#版本管理)
 - [服务端@](@服务端)  
 - [网络@](#相关)
   - [网络连接@](#网络连接)
@@ -192,6 +193,11 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### KVO@
 
 * [Hanson](https://github.com/blendle/Hanson) 轻量级的KVO
+
+#### 版本管理@
+
+* [Carthage](https://github.com/Carthage/Carthage) 非常好用的类似CocoaPods的依赖库管理工具。
+* [CocoaPods](https://github.com/CocoaPods/CocoaPods) 非常好用的依赖库管理工具。
 
 #### 服务端@
 
@@ -404,7 +410,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Concorde](https://github.com/contentful-labs/Concorde/) - 下载和编码JPEG图片.
 * [core-image-explorer](https://github.com/objcio/issue-21-core-image-explorer) -  Core Image 滤镜处理图片-- swift ，[Core Image 介绍](http://objccn.io/issue-21-6/)。
 * [CTPanoramaView](https://github.com/scihant/CTPanoramaView) - 显示球面、圆柱形的摄像.
-* [TimingFunctionEditor](https://github.com/schwa/TimingFunctionEditor) - TimingFunctionEditor用swift编写， 贝塞尔曲线编辑器，编辑后可以预览或拷贝代码片段直接使用。P.S. 该项目采用更简单的依赖管理器。 [Carthage](https://github.com/Carthage/Carthage) ，而非常用的 CocoaPods。[Carthage介绍中文](http://www.cocoachina.com/ios/20141204/10528.html)。
+* [TimingFunctionEditor](https://github.com/schwa/TimingFunctionEditor) - TimingFunctionEditor用swift编写， 贝塞尔曲线编辑器，编辑后可以预览或拷贝代码片段直接使用。P.S. 该项目采用更简单的依赖管理器。
 * [Toucan](https://github.com/gavinbunney/Toucan) - 非常不错的图片处理库，支持图片裁剪、圆角、尺寸调整等.
 * [JLStickerTextView](https://github.com/luiyezheng/JLStickerTextView) - 一个给UIImageView添加一个、多个Label的库，并且可以对其进行编辑、旋转、大小调整.
 * [YUCIHighPassSkinSmoothing](https://github.com/YuAo/YUCIHighPassSkinSmoothing) -using Apple's Core Image Framework 实现的平滑的美化图片的库.
