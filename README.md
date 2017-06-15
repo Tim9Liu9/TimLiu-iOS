@@ -83,6 +83,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [图像缓存@](#图像缓存)
   - [图像识别@](#图像识别)
   - [图像圆角@](#图像圆角)
+- [算法@](#算法)
 - [上架@](#上架)
 - [Xcode8插件@](#Xcode8插件)
 - [动态更新@](#动态更新)
@@ -988,6 +989,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 图像圆角@
 
 * [ZYCornerRadius](https://github.com/liuzhiyi1992/ZYCornerRadius) 赞 一句代码，圆角风雨无阻。A Category to make cornerRadius for UIImageView have no Offscreen-Rendered, be more efficiency. http://zyden.vicp.cc/zycornerradius/
+
+#### 算法@
+
+* [LearningMasteringAlgorithms-C](https://github.com/yourtion/LearningMasteringAlgorithms-C) Mastering Algorithms with C 《算法精解：C语言描述》源码及Xcode工程、Linux工程
 
 #### 上架@
 

@@ -169,6 +169,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Coderpursue.swift](https://github.com/wenghengcong/Coderpursue) - 一款 Github 第三方客户端，使用最新 Swift 语言编写。
 * [BTApp](https://github.com/Ryan0520/BTApp) - BTApp 仿半糖 iOS App 的 Demo 应用。
 * [LXFFM](https://github.com/LinXunFeng/LXFFM) 高仿喜马拉雅FM
+* [TodayNews](https://github.com/hrscy/TodayNews) Swift开源项目-模仿今日头条
 
 #### Xcode8插件@
 
