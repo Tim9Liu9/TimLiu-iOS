@@ -80,6 +80,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [图像@](#图像)
   - [拍照@](#拍照)
   - [图像处理@](#图像处理)
+  - [图像浏览@](#图像浏览)
   - [图像缓存@](#图像缓存)
   - [图像识别@](#图像识别)
   - [图像圆角@](#图像圆角)
@@ -945,6 +946,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [SXPhotoShow](https://github.com/dsxNiubility/SXPhotoShow) - UICollectionViewFlowLayout流水布局 是当下collectionView中常用且普通的布局方式。本代码也写了三种好看的布局，其中LineLayout和流水布局有很大的相同点就直接继承UICollectionViewFlowLayout，然后StackLayout，CircleLayout这两种都是直接继承自最原始的UICollectionViewLayout 布局方案。
 * [PictureWatermark](https://github.com/cgwangding/PictureWatermark) - 主要实现了给图片加文字以及图片水印的功能，已封装成了UIImage的类别，方便使用。
 * [PhotoBrowser](https://github.com/CharlinFeng/PhotoBrowser) 照片浏览器
+* [ZLPhotoBrowser](https://github.com/longitachi/ZLPhotoBrowser) 方便易用的相册多选框架，支持预览/相册内拍照、预览快速多选相片，3DTouch预览照片，单选gif、Live Photo及video；相册混合选择；原图功能；支持多语言国际化（中文简/繁，英语，日语）；在线下载iCloud端图片；自定义最大选择量及最大预览量；自定义照片升序降序排列；自定义照片显示圆角弧度
 * [StitchingImage](https://github.com/zhengjinghua/StitchingImage) - 仿微信群组封面拼接控件, 直接拖进项目就可使用，[教程](http://gold.xitu.io/entry/56395f5360b20b143a9178f6)。
 * [SDECollectionViewAlbumTransition](https://github.com/seedante/SDECollectionViewAlbumTransition) - 用自定义的 push 和 pop 实现了有趣的 iOS 相册翻开动画效果。
 * [DNImagePicker](https://github.com/AwesomeDennis/DNImagePicker) - 类似wechat的图片选择。
@@ -979,6 +981,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [YYWebImage](https://github.com/ibireme/YYWebImage/) - 一个图片加载库 YYWebImage，支持 APNG、WebP、GIF 播放，支持渐进式图片加载，更高性能的缓存，更多图像处理方法，可以替代 SDWebImage 等开源库，[相关文章](http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/)。
 * [JDSwiftAvatarProgress](https://github.com/JellyDevelopment/JDSwiftAvatarProgress) - 容易定制的异步图片加载进度条
 * [ImageButter](https://github.com/dollarshaveclub/ImageButter) - 平滑的处理网络图片，支持缓存，异步编码，加载进度View，GIFs动画等.
+
 
 #### 图像识别@
 
@@ -1154,6 +1157,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout)UICollectionView的高级使用方法哦SFFocusViewLayou
 * [RACollectionViewReorderableTripletLayout](https://github.com/ra1028/RACollectionViewReorderableTripletLayout)自定义的CollectionView布局，可以通过拖动进行cell的重新排序。
+* [IGListKit](https://github.com/Instagram/IGListKit) IGListKit是Instagram推出的新的UICollectionView框架，使用数据驱动，旨在创造一个更快更灵活的列表控件。
 * [CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu)CollectionView做的两级菜单，可以折叠第二级菜单
 * [TableFlip](https://github.com/mergesort/TableFlip) A simpler way to do cool UITableView animations
 * [DraggingSort](https://github.com/HelloYeah/DraggingSort) 长按拖拽排序
@@ -1881,6 +1885,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [Under the Radar](https://www.relay.fm/radar)
 
 #### 学习资料@
+
 * [articles](https://github.com/objccn/articles) Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本
 * [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions) iOS面试题集锦（附答案）
 * [growth-ebook](https://github.com/phodal/growth-ebook) Growth Engineering: The Definitive Guide。全栈增长工程师指南
@@ -1905,6 +1910,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [demo](https://github.com/coolnameismy/demo) 刘彦玮的技术博客中文章对应的demo
 * [awesome-growth](https://github.com/phodal/awesome-growth) IT技能图谱
 * [ios_core_animation_advanced_techniques](https://github.com/ZsIsMe/ios_core_animation_advanced_techniques) 核心动画学习资料 [其中的核心动画电子书](https://zsisme.gitbooks.io/ios-/content/)
+* [Apple-OfficialTranslation-SourceAnnotation](https://github.com/CustomPBWaters/Apple-OfficialTranslation-SourceAnnotation) Apple官方译文框架源码注解，当你「了解权威 & 进阶原理」的时候，网搜的众多中 ~ ~（自行脑补）。一劳永逸，渐进式学习。 以简化初学者入门和老司机回顾的繁索过程，尽快切入主题，快速使用起来。
 
 #### 他人开源总结@
 
