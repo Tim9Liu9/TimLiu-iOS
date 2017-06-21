@@ -471,7 +471,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### UI@
 #### 日历@
 
-* [FSCalendar](https://github.com/WenchaoD/FSCalendar) - 一个包含objective-c和Swift版本的优秀的日历
 * [FSCalendar](https://github.com/WenchaoD/FSCalendar) 一款漂亮，强大的 iOS 日历组件 A fully customizable iOS calendar library, compatible with Objective-C and Swift
 
 #### 下拉刷新@
