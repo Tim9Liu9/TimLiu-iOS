@@ -985,6 +985,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### 图像识别@
 
+* [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - C++ 人脸识别 包含正面和多视角人脸检测两个算法.优点:速度快(OpenCV haar+adaboost的2-3倍), 准确度高 (FDDB非公开类评测排名第二），能估计人脸角度。
 * [YLFaceuDemo](https://github.com/Guikunzhi/YLFaceuDemo) - 在直播应用中添加Faceu贴纸效果。Faceu贴纸效果其实就是在人脸上贴一些图片，同时这些图片是跟随着人脸的位置改变的。[说明](http://www.jianshu.com/p/ba1f79f8f6fa)
 * [IDCardRecognition](https://github.com/zhongfenglee/IDCardRecognition)中国大陆第二代身份证识别，自动读出身份证上的信息（姓名、性别、民族、住址、身份证号码）并截取身份证照片 Edit
 * [CameraStickerDemo](https://github.com/Sinkup/CameraStickerDemo) 基于GPUImage的实时视频流贴纸Demo
@@ -1559,7 +1560,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [DateTimeKit](https://github.com/exsortis/DateTimeKit) - 一个超赞的时间处理的库，Joda-Time ！ 他能帮你轻松处理时区，处理时间加减，计算到期时间等等场景下的问题。
 * [iOS源代码](http://opensource.apple.com/source/CF/) - iOS源代码。
-* [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - C++ 人脸识别 包含正面和多视角人脸检测两个算法.优点:速度快(OpenCV haar+adaboost的2-3倍), 准确度高 (FDDB非公开类评测排名第二），能估计人脸角度。
 * [Slidden](https://github.com/Brimizer/Slidden) - 一个老外开源的开发自定义键盘的库，利用这个开源库，可以方便的配置键位、颜色以及键位对应的图片。
 * [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding) - 用户键盘弹出自动计算高度，进行屏幕滚动操作。
 * [CDPMonitorKeyboard](http://d.cocoachina.com/code/detail/298267) - CDPMonitorKeyboard封装,可以解决输入视图(例如textField,textView等)被键盘覆盖问题，并可设置高于键盘多少。
