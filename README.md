@@ -130,6 +130,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [Category@](#Category)
   - [Color@](#Color)
   - [Github相关@](#Github相关)
+  - [键盘@](#键盘)
 - [文本@](#文本)
   - [文本输入@](#文本输入)
   - [富文本@](#富文本)
@@ -1449,6 +1450,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [boennemann - badges](https://github.com/boennemann/badges) - 各种徽章
 * [GitTorrent](https://github.com/cjb/GitTorrent)
 
+#### 键盘@
+
+* [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - 处理键盘事件强大的库，有OC和Swift版本，纯代码、Storyboard和Xib都适用。
+
 #### 文本@
 #### 文本输入@
 
@@ -1566,7 +1571,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [ZYKeyboardUtil](https://github.com/liuzhiyi1992/ZYKeyboardUtil) - 全自动处理键盘遮挡事件，只需要一个Block，全自动处理任何多层嵌套复杂界面 因键盘升降 造成的输入控件遮挡问题。
 第三方键盘分次弹出问题 ,[说明](http://ios.jobbole.com/85135/)。
 * [KeyboardToolBar](https://github.com/Jiar/KeyboardToolBar/) - 从此不再担心键盘遮住输入框，[文档](http://www.jianshu.com/p/48993ff982c1)。
-* [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - 处理键盘事件强大的库，有OC和Swift版本，纯代码、Storyboard和Xib都适用。
 * [MotionKitr](https://github.com/MHaroonBaig/MotionKitr) - 为核心运动框架（The Core Motion framework）提供友好的类库封装，以更方便使用三轴陀螺仪和加速感应器特性。
 * [Review Monitor](https://launchkit.io/reviews/) -  第一时间自动推送 Apple Store 的用户评论到你的邮件箱或者 Slack，第一时间跟进用户反馈，打造优秀 App 必备工具！类似的有：App annie 的类似功能。
 * [WBWebViewConsole](https://github.com/Naituw/WBWebViewConsole) - 类似微博iPhone客户端的 “调试选项” 吗？把其中的 “内置浏览器网页调试” 开源在 Github 上了。
@@ -1897,7 +1901,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * A-[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)  GitHub上所有Awesome Awesomeness 系列集合. 这个系列集合收集上GitHub上优秀的开源项目、框架、书籍、网站、类库等实用资源的集合。
 * [豆瓣iOS开源库列表](https://www.douban.com/note/276160185/?type=like) - 豆瓣iOS开源库列表，很多开源项目。
 * [iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques) - 中文版iOS 高级动画技术。
-* [iOS开发的一些奇巧淫技1](http://www.jianshu.com/p/50b63a221f09) - TableView不显示没内容的Cell怎么办; 键盘事件：[IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager);  app不流畅:[KMCGeigerCounter](https://github.com/kconner/KMCGeigerCounter);
+* [iOS开发的一些奇巧淫技1](http://www.jianshu.com/p/50b63a221f09) - TableView不显示没内容的Cell怎么办;  app不流畅:[KMCGeigerCounter](https://github.com/kconner/KMCGeigerCounter);
 * [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout) CollectionView实现悬停的header
 * [iOS开发的一些奇巧淫技2](http://www.jianshu.com/p/08f194e9904c) -  用一个pan手势来代替UISwipegesture的各个方向、拉伸图片、播放GIF、上拉刷新、把tableview里cell的小对勾的颜色改变、navigationbar弄成透明的而不是带模糊的效果、改变uitextfield placeholder的颜色和位置。
 * [cocoapods安装指南](http://code4app.com/article/cocoapods-install-usage) - cocoapods安装指南。
