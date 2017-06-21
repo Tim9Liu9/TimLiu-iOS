@@ -988,6 +988,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [YLFaceuDemo](https://github.com/Guikunzhi/YLFaceuDemo) - 在直播应用中添加Faceu贴纸效果。Faceu贴纸效果其实就是在人脸上贴一些图片，同时这些图片是跟随着人脸的位置改变的。[说明](http://www.jianshu.com/p/ba1f79f8f6fa)
 * [IDCardRecognition](https://github.com/zhongfenglee/IDCardRecognition)中国大陆第二代身份证识别，自动读出身份证上的信息（姓名、性别、民族、住址、身份证号码）并截取身份证照片 Edit
 * [CameraStickerDemo](https://github.com/Sinkup/CameraStickerDemo) 基于GPUImage的实时视频流贴纸Demo
+* [AiyaEffectsIOS](https://github.com/aiyaapp/AiyaEffectsIOS) 宝宝特效 SDK IOS Demo，支持美颜，3D特效，3D动画特效，2D特效等，免费使用 visual effects IOS demo, support 3D effect, 3D Animation, 2D effect for FREE http://www.bbtexiao.com/
 
 #### 图像圆角@
 
