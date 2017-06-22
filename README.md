@@ -1296,7 +1296,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### 小红点@
 
 * [WZLBadge](https://github.com/weng1250/WZLBadge) - 小红点，Badge，支持横竖屏支持iOS5~iOS8允许高度定制化，包括“红点”的背景颜色，文字(字体大小、颜色)，位置等。[说明](http://code.cocoachina.com/detail/316890/%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0%E5%A4%9A%E9%A3%8E%E6%A0%BC%E7%9A%84%E6%8E%A8%E9%80%81%E5%B0%8F%E7%BA%A2%E7%82%B9/).
-* [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub) - 快速给 UIView 添加上炫酷的通知图标（Badge、红点、提示）。  
+* [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub) - 快速给 UIView 添加上炫酷的通知图标（Badge、红点、提示）。 
+* [PPBadgeView](https://github.com/jkpang/PPBadgeView) - iOS自定义Badge组件, 支持UIView、UITabBarItem、UIBarButtonItem ,支持Objective-C/Swift双版本;
 
 #### page@
 
@@ -2030,3 +2031,5 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 * [说明]( ) 此库是完全开源收集整理，服务于广大iOS开发工作者的开源集合资料库，欢迎大家踊跃贡献.
 * [awesome-github](https://github.com/AntBranch/awesome-github) A curated list of awesome GitHub guides, articles, sites, tools, projects and resources. 收集这个列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
+
+
