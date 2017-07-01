@@ -171,6 +171,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [BTApp](https://github.com/Ryan0520/BTApp) - BTApp 仿半糖 iOS App 的 Demo 应用。
 * [LXFFM](https://github.com/LinXunFeng/LXFFM) 高仿喜马拉雅FM
 * [TodayNews](https://github.com/hrscy/TodayNews) Swift开源项目-模仿今日头条
+* [notGIF](https://github.com/atuooo/notGIF) - 一款展示、管理和分享相册中 GIF 的应用，并适配了 iMessage Extension。
 
 #### Xcode8插件@
 
