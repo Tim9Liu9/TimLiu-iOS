@@ -124,6 +124,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### Swift学习资料@
 
+* [swift-evolution](https://github.com/apple/swift-evolution) Swift更新日志
 * [SwiftGuide](https://github.com/ipader/SwiftGuide) 很赞 的Swift学习资料
 * [leetcode](https://leetcode.com/accounts/login/) 一个练习、评估自己水平的代码平台，跟ACM有点类似
 * [SwiftGuide](https://github.com/ipader/SwiftGuide) 非常赞 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排。http://dev.swiftguide.cn
