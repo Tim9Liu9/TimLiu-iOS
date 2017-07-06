@@ -1182,6 +1182,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - 非常赞 最多人用的loading。
 * [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) - 非常赞 SVProgressHUD的loading，如果你需要定制化的等待提示器，这个就是了（也许是最好的）。
+* [JDStatusBarNotification](https://github.com/calimarkus/JDStatusBarNotification) 非常赞👍👍👍 的自定义顶部通知. Easy, customizable notifications displayed on top of the statusbar.
 * [Toast](https://github.com/scalessec/Toast) An Objective-C category that adds toast notifications to the UIView object class.
 * [EBuyCommon](https://github.com/LvJianfeng/EBuyCommon) - 1.基于MBProgressHUD实现得图形加载提示方式，及其它标题方式提醒。2.弹窗。
 * [WZDraggableSwitchHeaderView](https://github.com/wongzigii/WZDraggableSwitchHeaderView)Show status for transition across viewControllers.
