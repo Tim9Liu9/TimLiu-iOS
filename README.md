@@ -651,6 +651,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [LazyObject](https://github.com/iwasrobbed/LazyObject) - Lazily deserialize JSON into strongly typed Swift objects :large_orange_diamond:
 * [Elevate](https://github.com/Nike-Inc/Elevate) - Elevate is a JSON parsing framework that leverages Swift to make parsing simple, reliable and composable. :large_orange_diamond:
 * [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) - An Alamofire extension which converts JSON response data into swift objects using ObjectMapper :large_orange_diamond:
+* [WAMapping](https://github.com/Wasappli/WAMapping) 一个将字典和iOS对象相互转化的库. A library to turn dictionary into object and vice versa for iOS. Designed for speed!
 
 #### XML&HTML@
 
