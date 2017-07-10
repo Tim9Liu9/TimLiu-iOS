@@ -576,6 +576,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [DVR](https://github.com/venmo/DVR) - 针对网络请求的测试框架，超实用的工具。且支持 iOS, OSX, watchOS 全平台。
 * [HFDownLoad](https://github.com/hongfenglt/HFDownLoad) - iOS开发网络篇之文件下载、大文件下载、断点下载:NSData方式、NSURLConnection方式、NSURLSession下载方式 [下载方式具体的思路、区别见Blog](http://blog.csdn.net/hongfengkt/article/details/48290561) 。
 * [PPNetworkHelper](https://github.com/jkpang/PPNetworkHelper) - AFN3.x与YYCache的二次封装,一句话搞定网络请求与缓存,和FMDB说拜拜!
+* [WANetworkRouting](https://github.com/Wasappli/WANetworkRouting) - An iOS library to route API paths to objects on client side with request, mapping, routing and auth layers
 
 #### socket@
 
