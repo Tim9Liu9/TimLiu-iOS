@@ -45,6 +45,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [日历@](#日历)
   - [下拉刷新@](#下拉刷新)
   - [模糊效果@](#模糊效果)
+  - [选择器@](#选择器)
   - [富文本@](#富文本)
   - [字体@](#字体)
   - [颜色@](#颜色)
@@ -485,6 +486,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 模糊效果@
 
 * [Blurable.swift](https://github.com/FlexMonkey/Blurable) - swift模糊组件。
+
+#### 选择器@
+
+* [McPicker](https://github.com/kmcgill88/McPicker-iOS) - A customizable, closure driven UIPickerView drop-in solution with animations that is rotation ready. :large_orange_diamond:
 
 #### 富文本@
 
