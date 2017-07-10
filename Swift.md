@@ -77,6 +77,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [Xcode插件@](#Xcode插件)
   - [Xcode相关@](#Xcode相关)
 - [游戏@](#游戏)
+- [文本@](@文本)
 - [动画@](#动画)
   - [特效@](@特效)
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
@@ -686,6 +687,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 
 #### 游戏@
+
+#### 文本@
+
+* [DefaultStringConvertible](https://github.com/jessesquires/DefaultStringConvertible) - A default CustomStringConvertible implementation for Swift types 🔶[e]
 
 #### 动画@
 
