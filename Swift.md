@@ -72,11 +72,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [其他UI@](#其他ui)
 - [多线程@](#多线程)
 - [工具@](#工具)
-  - [开发工具@](#开发工具)
-  - [Xcode插件@](#Xcode插件)
-  - [Xcode相关@](#Xcode相关)
   - [Category@](#category)
   - [Color@](#Color)
+  - [Xcode插件@](#Xcode插件)
+  - [Xcode相关@](#Xcode相关)
 - [游戏@](#游戏)
 - [动画@](#动画)
   - [特效@](@特效)
@@ -88,13 +87,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [开发资料@](#开发资料)
   - [播客@](#播客)
   - [他人开源总结@](#他人开源总结)
-  - [开发博客列表@](#开发博客列表)
-  - [学习笔记、书籍@](#学习笔记书籍)
   - [设计@](#设计)
   - [好的文章@](#好的文章)
-  - [美工资源@](#美工资源)
-- [调试@](#调试)
-  - [测试@](#测试)
+- [测试调试@](#测试调试)
   - [分析@](#分析)
 - [WebView@](#webview)
 - [FaceBook@](#faceBook)
@@ -779,8 +774,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [awesome-swift](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
 * [SwiftMarch](https://github.com/SwiftOldDriver/SwiftMarch) - 从开发者角度介绍被广泛运用于实际Swift项目中的开源库。
 
-#### 开发博客列表@
-#### 学习笔记、书籍@
 #### 设计@
 #### 好的文章@
 
@@ -788,10 +781,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Xcode使用技巧](http://www.jianshu.com/p/cda4b0fe07e0) - SwiftGG 交流分享：Xcode使用技巧。
 * [Swift编程的15个技巧](http://geek.csdn.net/news/detail/58593) - Swift编程的15个技巧。
 
-
-#### 美工资源@
-
-#### 开发工具@
 #### Xcode插件@
 
 * [Swimat](https://github.com/Jintin/Swimat) - Swimat，是一款Xcode 插件，帮你一键格式化 swift 代码。
@@ -802,8 +791,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [FengNiao](https://github.com/onevcat/FengNiao) 一个清理Xcode中没使用的资源文件的命令行工具.
 
-#### 调试@
+#### 测试调试@
 
+* [FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) 支持同时启动多个模拟器的库，FaceBook出品.
 * [depcheck](https://github.com/wojteklu/depcheck) Swift 工程分析工具(Dependency analyzer tool for Swift projects)
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - 相当于 CocoaLumberjack 或 Log4j 的 Swift 版本，功能上甚至更强大。另外，源代码中已经内含了完整的 API 文档，使用非常方便。
 * [Quick](https://github.com/Quick/Quick) - 用于Swift中的单元测试（也可用于Objective-C），与Xcode整合在一起。如果你是Objective-C的粉丝，我建议用Specta代替这个，但是对Swift使用者来说，Quick是最佳选择。
