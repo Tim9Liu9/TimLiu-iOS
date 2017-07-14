@@ -98,6 +98,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [颜色@](#颜色)
   - [表相关@(TabbleView、Tabbar、即时聊天界面)](#表相关@(TabbleView、Tabbar、即时聊天界面))
     - [TableView@](#TableView)
+    - [TableView适配@](#TableView适配)
     - [CollectionView@](#CollectionView)
   - [对话交互@](#对话交互)
     - [隐藏与显示@](#隐藏与显示)
@@ -1130,7 +1131,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [WXTabBarController](https://github.com/leichunfeng/WXTabBarController) - 在系统 UITabBarController 的基础上完美实现了安卓版微信 TabBar 的滑动切换功能，单手操作 iPhone 6 Plus 切换 TabBar 一直是一件很痛苦的事情，而滑动切换是一种不错的解决方案，支持屏幕旋转。
 * [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) - 皮筋式弹性缩放工具栏示例及演示。
 * [横向展示文本内容的自定义cell](http://d.cocoachina.com/code/detail/298409) - 可以横向展示文本内容的自定义cell，根据文本无限滚动。
-* [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) - UITableView-FDTemplateLayoutCell 是一个方便缓存 UITableViewCell 的高度的框架。
 * [ExpandingStackCells](https://github.com/jozsef-vesza/ExpandingStackCells) - 采用 UIStackView 实现表格单元格扩展内容显示示例及解决方案。
 * [FDStackView](https://github.com/forkingdog/FDStackView) - 可以将 UIStackView 的最低支持版本拉低到 iOS6，无需配置，没有代码侵染，扔到工程里后直接用系统 UIStackView 的 API 即可，同时兼容 Storyboard。
 * [MDIHorizontalSectionTableViewController](https://github.com/WeeTom/MDIHorizontalSectionTableViewController) - 根据产品需求开源了一个交互项目，可以理解为横向Section的TableView，section和cell同时支持拖拽，后续安卓版本也会开源出来。
@@ -1157,6 +1157,10 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [YZHeaderScaleImage](https://github.com/iThinkerYZ/YZHeaderScaleImage)一行代码快速集成tableView中头部缩放视图
 * [ExpandTableView](https://github.com/zhengwenming/ExpandTableView) 可折叠展开的tableView，QQ好友分组列表。
 * [SwipeTableView](https://github.com/Roylee-ML/SwipeTableView) Both scroll horizontal and vertical for segment scrollview which have a same header. — 类似半糖、美丽说主页与QQ音乐歌曲列表布局效果，实现不同菜单的左右滑动切换，同时支持类似tableview的顶部工具栏悬停（既可以左右滑动，又可以上下滑动）。兼容下拉刷新，自定义 collectionview实现自适应 contentSize 还可实现瀑布流功能
+
+#### TableView适配@
+
+* [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) - UITableView-FDTemplateLayoutCell 是一个方便缓存 UITableViewCell 的高度的框架。
 
 #### CollectionView@
 
