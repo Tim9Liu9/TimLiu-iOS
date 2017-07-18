@@ -2038,6 +2038,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 #### mac@
 
 * [radiant-player-mac](https://github.com/radiant-player/radiant-player-mac) 一个Google Play音乐转换成与Mac整合的独立，美观的mac音乐播放器。
+* [DevDataTool](https://github.com/MxABC/DevDataTool) OSX系统 转换、加解密工具
 
 #### 深度学习@
 
