@@ -80,12 +80,14 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [游戏@](#游戏)
 - [文本@](@文本)
 - [动画@](#动画)
+  - [转场动画@](#转场动画)
   - [特效@](@特效)
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
   - [gif动画@](#gif动画)
   - [其他动画@](#其他动画)
 - [算法@](#算法)
 - [VR@](#VR)
+- [AR@](#AR)
 - [开发资料@](#开发资料)
   - [播客@](#播客)
   - [他人开源总结@](#他人开源总结)
@@ -114,6 +116,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [AppleWatch@](#applewatch)
 - [VPN@](#vpn)
 - [物联网@](#物联网)
+- [mac@](#mac)
 - [未分类@](#未分类)
 
 -------
@@ -170,6 +173,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [LXFFM](https://github.com/LinXunFeng/LXFFM) 高仿喜马拉雅FM
 * [TodayNews](https://github.com/hrscy/TodayNews) Swift开源项目-模仿今日头条
 * [notGIF](https://github.com/atuooo/notGIF) - 一款展示、管理和分享相册中 GIF 的应用，并适配了 iMessage Extension。
+* [TheGreatGame](https://github.com/dreymonde/TheGreatGame)  Open-source first-class iOS app dedicated to Women’s Euro 2017
 
 #### Xcode8插件@
 
@@ -178,9 +182,11 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### App框架@
 
 * [katana-swift](https://github.com/BendingSpoons/katana-swift) - Swift Apps in a Swoosh! A modern framework for creating iOS apps, inspired by React and Redux. http://katana.bendingspoons.com
+* [SlackKit](https://github.com/SlackKit/SlackKit) SlackKit makes it easy to build Slack apps in Swift.
 
 #### 响应式框架@
 
+* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) Streams of values over time  一个支持FRP(函数响应式编程)的框架 非常👍👍👍 .
 * [RxSwift](https://github.com/ReactiveX/RxSwift) - RxSwift:函数响应式编程框架，非常👍👍👍.
 * [RxPermission.swift](https://github.com/sunshinejr/RxPermission) - 通过绑定 RxSwift 实现的 RxPermission。
 * [Permission.swift](https://github.com/delba/Permission) - 统一的 API 请求 iOS 本地设备及资源权限类库。
@@ -205,11 +211,13 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Perfect](https://github.com/PerfectlySoft/Perfect) Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)
 * [PerfectTemplate](https://github.com/PerfectlySoft/PerfectTemplate) Empty Starter Project (for Perfect).
 * [vapor](https://github.com/vapor/vapor) A server-side Swift web framework.
+* [SwiftQ](https://github.com/John-Connolly/SwiftQ) SwiftQ is a distributed task queue for server side swift applications.
 
 #### 网络@
 #### 网络连接@
 
 * [Alamofire](https://github.com/Alamofire/Alamofire) - 非常赞👍👍👍 Alamofire是AFNetworking的作者mattt新写的网络请求的swift库。[Alamofire 最佳实践](https://github.com/ipader/SwiftGuide/wiki/Alamofire%20%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5)
+* [Moya](https://github.com/Moya/Moya) - 对Alamofire的封装，使用枚举将网络层实现细节与页面逻辑代码分离，方便单元测试，支持stub测试，配合RxSwift食用更佳，[博客教程](http://www.hmttommy.com/2015/12/15/Moya/)
 * [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS, written in Swift 2.2 :large_orange_diamond:
 * [AlamofireObjectMapper.swift](https://github.com/tristanhimmelman/AlamofireObjectMapper) - 将Alamofire JSON响应数据 转为swift对象。
 * [RxAlamofire.swift](https://github.com/RxSwiftCommunity/RxAlamofire) - 为Alamofire提供函数响应式（FRP）调用接口,以优雅的方式使用Alamofire进行网络请求。
@@ -222,7 +230,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [starscream.swift](https://github.com/daltoniam/starscream) - starscream.swift:WebSocket客户端类库。
 * [SwiftNet.swift](https://github.com/FengDeng/SwiftNet) - 基于 RxSwift 和 Alamofire 的网络请求简易封装库。
 * [Networking.Swift](https://github.com/3lvis/Networking) - 使用简单、功能惊喜，基于 NSURLSession 的网络封装。
-* [Moya](https://github.com/Moya/Moya) - 对Alamofire的封装，使用枚举将网络层实现细节与页面逻辑代码分离，方便单元测试，支持stub测试，配合RxSwift食用更佳，[博客教程](http://www.hmttommy.com/2015/12/15/Moya/)
 * [EFInternetIndicator](https://github.com/ezefranca/EFInternetIndicator)swift 轻巧的一款 iOS 网络变更通知工具。
 
 #### 网络聊天@
@@ -376,6 +383,11 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [swift-360-videos](https://github.com/team-pie/DDDKit) - 360度视频播放器，以swift3编写的iOS - SceneKit的一个子集. Pure swift (no SceneKit) 3D library with focus on video and 360.
 
+#### AR@
+
+* [ARuler](https://github.com/duzexu/ARuler) Mesure distance using apple ARKit
+* [awesome-arkit](https://github.com/olucurious/awesome-arkit) A curated list of awesome ARKit projects and resources.
+
 #### 视频@
 #### 视频播放@
 
@@ -427,6 +439,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### 图像缓存@
 
+* [Kingfisher](https://github.com/onevcat/Kingfisher) A lightweight, pure-Swift library for downloading and caching images from the web 非常👍👍👍 .
 * [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) - 一个非常赞，非常简单的图片、视频浏览库，网格状的样式.
 * [MapleBacon](https://github.com/zalando-incubator/MapleBacon) - 一个图片下载、缓存库
 * [ImageViewer](https://github.com/MailOnline/ImageViewer) - 类似Twitter的图片查看器.
@@ -693,6 +706,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### 游戏@
 
+* [Legend-Wings](https://github.com/woguan/Legend-Wings) iOS Swift Game - Push SpriteKit to the limit
+
 #### 文本@
 
 * [DefaultStringConvertible](https://github.com/jessesquires/DefaultStringConvertible) - A default CustomStringConvertible implementation for Swift types 🔶[e]
@@ -700,6 +715,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 动画@
 
 * [fave-button](https://github.com/xhamr/fave-button) 给button增加了很多可爱的动画.
+
+#### 转场动画@
+
+* [Hero](https://github.com/lkzhao/Hero) 非常👍👍👍 的转场动画库.
 
 #### 特效@
 
@@ -780,7 +799,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### 他人开源总结@
 
-* [awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources. Feel free to contribute!
+* [awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources 非常👍👍👍 .
 * [awesome-swift](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
 * [SwiftMarch](https://github.com/SwiftOldDriver/SwiftMarch) - 从开发者角度介绍被广泛运用于实际Swift项目中的开源库。
 
@@ -828,6 +847,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [GRMustache](https://github.com/groue/GRMustache) 一个类似templateEngine的html渲染工具，可以更加有效的帮助大家完成数据生成HTML的过程。
 * [MarkdownView](https://github.com/keitaoouchi/MarkdownView) Markdown View for iOS. MarkdownView is a WKWebView based UI element, and internally use bootstrap, highlight.js, markdown-it.
 * [swift-deep-linking](https://github.com/ijoshsmith/swift-deep-linking) 深度链接 A simple way to consume custom deep link URLs in a Swift app
+* [highlight](https://github.com/taggon/highlight) Rich featured syntax highlighter for Keynote slides.
 
 #### FaceBook@
 
@@ -954,7 +974,13 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### 物联网@
 
+#### mac@
+
+* [iina](https://github.com/lhc70000/iina) The modern video player for macOS,非常👍👍👍 .
+* [swift14macOSApps](https://github.com/KrisYu/swift14macOSApps) 几个Mac小Demo.
+
 #### 未分类@
 
+* [AlternativeIcon-Example](https://github.com/KimDarren/AlternativeIcon-Example) 😱 Change your iOS application's icon programmatically since iOS 10.3
 * [Eureka](https://github.com/xmartlabs/Eureka ) 简洁方便的 iOS 表单生成器 （Swift 3）
 * [SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin) A tool to convert Swift code to Kotlin.
