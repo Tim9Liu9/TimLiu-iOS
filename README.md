@@ -1915,6 +1915,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 #### 学习资料@
 
+* [Analyze](https://github.com/Draveness/Analyze) 深入解析 iOS 开源项目
 * [articles](https://github.com/objccn/articles) Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本
 * [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions) iOS面试题集锦（附答案）
 * [growth-ebook](https://github.com/phodal/growth-ebook) Growth Engineering: The Definitive Guide。全栈增长工程师指南
