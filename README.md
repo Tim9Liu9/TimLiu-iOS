@@ -219,6 +219,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### GitHub@
 
+ * [python_github_collect_star](https://github.com/Tim9Liu9/python_github_collect_star) 收集github上项目的star数、fork数、watch数
  * [GitHub Pages 指南](http://jekyllcn.com/) - 官方文档翻译版
  * [GitHub Pages 指南 - 极客学院](http://wiki.jikexueyuan.com/project/github-pages-basics/) - 本指南是 GitHub Pages 官网 GitHub Pages Basics 的中文翻译版本。
  * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) -一些酷酷的Git和GitHub功能收集
