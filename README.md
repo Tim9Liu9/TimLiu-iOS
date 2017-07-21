@@ -42,6 +42,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [framework@](#framework)
   - [混合开发@](#混合开发)
   - [样例App@](#样例App)
+- [服务端@后台@](#服务端#后台)
 - [网络@](#网络相关)
   - [网络连接@](#网络连接)
   - [socket@](#socket)
@@ -565,6 +566,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 样例App@
 
 * [MeiTuan](https://github.com/huanxsd/MeiTuan) 高仿美团客户端 React-Native版，支持iOS、Android
+
+#### 服务端@后台@
+
+* [GCDWebServer](https://github.com/swisspol/GCDWebServer) 基于GCD的轻量级的HTTP服务器
 
 #### 网络@
 #### 网络连接@
@@ -1694,6 +1699,7 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
 * [Crashlytics](http://try.crashlytics.com/) - Crashlytics 崩溃报告 崩溃日志   [使用说明](http://www.infoq.com/cn/articles/crashlytics-crash-statistics-tools) 。
 * [KSCrash](https://github.com/kstenerud/KSCrash) - iOS Crash 捕获上报工具， 可以自己配置服务器， 也可以与它推荐的服务器搭配使用
 * [AvoidCrash](https://github.com/chenfanfang/AvoidCrash) 利用runtime处理崩溃问题的一个框架
+* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - 是一个快速、简单，但很强大的日志框架，可以自定义打印日志的颜色。 A fast & simple, yet powerful & flexible logging framework for Mac and iOS
 * [Bugtags-iOS](https://github.com/bugtags/Bugtags-iOS) 一个简单、有效的bug和崩溃报告工具.
 * [fastlane](https://github.com/fastlane/fastlane) - 非常棒👍👍👍一套iOS开发和持续集成的命令行工具fastlane，可以用来快速搭建CI甚至自动提交的开发环境。这套工具中包括了上传ipa文件，自动截取多语言截屏，生成推送证书，管理产品证书等一系列实用工具。 The easiest way to automate building and releasing your iOS and Android apps https://fastlane.tools
 * [FLEX](https://github.com/Flipboard/FLEX) 非常赞的 一个Xcode界面调试工具，FLEX是一个需要注入式的一种框架，从描述来看，功能非常多。主要来讲的话能够对正在运行的应用进行样式的修改和控件的读取。FLEX会赐予你SuperPower！！！
@@ -1714,7 +1720,6 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [snoop-it](https://code.google.com/archive/p/snoop-it/) - snoop-it比UIViewController-Swizzled好用，代码托管在google上。
 * [Versions](https://github.com/zenangst/Versions) - 版本比较小工具。
 * [MobileWebPageTest](http://code4app.com/ios/MobileWebPerformanceTest/5465d3e9933bf00c658b4f43) - MobileWebPageTest是用来测试移动网页性能的软件，它可以对页面的加载和渲染过程进行截屏，协助开发者分析出页面性能瓶颈。
-* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - 是一个快速、简单，但很强大的日志框架，可以自定义打印日志的颜色。 A fast & simple, yet powerful & flexible logging framework for Mac and iOS
 * [KKLog](https://github.com/Coneboy-k/KKLog) - 一个日志管理系统。
 * [Buildasaur](https://github.com/czechboy0/Buildasaur) - 自动测试框架 Buildasaur。
 * [使用Quick框架和Nimble来测试ViewControler](http://www.devtf.cn/?p=739) - Quick是一个用于创建BDD测试的框架。配合Nimbl，可以为你创建更符合预期目标的测试。
