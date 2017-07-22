@@ -152,6 +152,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [好的文章@](#好的文章)
   - [美工资源@](#美工资源)
 - [测试调试@](#测试调试)
+  - [Xcode工具@](#Xcode工具)
   - [crash@](#crash)
   - [Runtime@](#Runtime)
   - [Xcode插件@](#Xcode插件)
@@ -531,6 +532,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [TKeyboard](https://github.com/music4kid/TKeyboard) 这款应用名为：TKeyboard。有一个 Mac 端和一个 iOS 端 App。简单来说，可以通过蓝牙，使用 Mac 的键盘输入内容到 iPhone 设备中。
 * [BDJProjectExample](https://github.com/yizzuide/BDJProjectExample) 基于VIPER设计模式，以XFLegoVIPER框架为引擎的仿《百思不得姐》项目
 * [UberSignature](https://github.com/uber/UberSignature) 一个通过触摸前面的App.
+* [HiPDA](https://github.com/leizh007/HiPDA) HiPDA的非官方客户端（iOS版）！
 
 #### 框架@                                                        [返回目录](#目录)
 
@@ -1024,6 +1026,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### 综合UI@
 
+* [Texture](https://github.com/TextureGroup/Texture)Texture——保持最复杂的用户界面的流畅和响应  Smooth asynchronous user interfaces for iOS apps. 
 * [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS) Many Google Material Design Controls for iOS native application
 * [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS) 大神模仿谷歌做的各种各样的iOS原生特效控件，非常全面.
 
@@ -1251,6 +1254,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 #### 导航栏@
 
+* [WRNavigationBar](https://github.com/wangrui460/WRNavigationBar) 超简单！！！ 一行代码设置状态栏、导航栏按钮、标题、颜色、透明度，移动等
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) 一个可以上拉隐藏导航栏和下拉显示导航栏的框架
 * [JTNavigationController](https://github.com/JNTian/JTNavigationController) 一个拥有更平滑的navigationBar切换动画的NavigationController
 * [NavigationController](https://github.com/Roxasora/RxWebViewController) 实现类似微信的 webView 导航效果，包括进度条，左滑返回上个网页或者直接关闭，就像 UINavigationController
@@ -1696,6 +1700,10 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
 * [calabash-ios](https://github.com/calabash/calabash-ios) 自动测试 Calabash is an automated testing technology for Android and iOS native and hybrid applications.
 * [iConsole](https://github.com/nicklockwood/iConsole) 调试利器 In-app console for viewing logs and typing debug commands in iPhone apps
 
+#### Xcode工具@
+
+* [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info) react-native获取设备信息组件,支持iOS、Android.
+
 #### crash@
 
 * [Crashlytics](http://try.crashlytics.com/) - Crashlytics 崩溃报告 崩溃日志   [使用说明](http://www.infoq.com/cn/articles/crashlytics-crash-statistics-tools) 。
@@ -1902,6 +1910,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 * [Analyze](https://github.com/Draveness/Analyze) 深入解析 iOS 开源项目
 * [articles](https://github.com/objccn/articles) Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本
+* [RNStudyNotes](https://github.com/crazycodeboy/RNStudyNotes) React Native 研究与实践
 * [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions) iOS面试题集锦（附答案）
 * [growth-ebook](https://github.com/phodal/growth-ebook) Growth Engineering: The Definitive Guide。全栈增长工程师指南
 * [ideabook](https://github.com/phodal/ideabook)一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
