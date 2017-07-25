@@ -885,6 +885,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 视频处理@
 
 * [BeautifyFaceDemo](https://github.com/Guikunzhi/BeautifyFaceDemo) - 一个基于 GPUImage 的实时直播磨皮滤镜的开源实现,主要功能脸部去斑磨皮！
+* [simplest_ffmpeg_mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) ffmpeg examples in Android / IOS / WinPhone
 
 #### 视频录制@
 
@@ -1723,7 +1724,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [PonyDebugger](https://github.com/square/PonyDebugger)由 Square 公司推出的一款优秀的 iOS 应用网络调试工具, 用户可以实时看到应用程序的网络请求, 也可以对 iOS 应用程序的核心数据栈进行远程调试
 * [KIF](https://github.com/kif-framework/KIF) - 是一个开源的用户界面UI测试框架. 使用 KIF, 并利用 iOS中的辅助功能 API, 你将能够编写模拟用户输入，诸如点击，触摸和文本输入，自动化的UI测试.
 * [pxctest](https://github.com/plu/pxctest) Execute tests in parallel on multiple iOS Simulators 在多个 iOS 模拟器上并行测试。
-* [dSYMTools](https://github.com/answer-huang/dSYMTools)友盟 dSYM analyze
+* [dSYMTools](https://github.com/answer-huang/dSYMTools)友盟 dSYM analyze  备用地址[https://github.com/mrhyh/dSYMTools]
 * [HeapInspector](https://github.com/tapwork/HeapInspector-for-iOS) - HeapInspector是一个用于检测应用中的内存泄漏的开源调试工具。
 * [UIViewController-Swizzled](https://github.com/RuiAAPeres/UIViewController-Swizzled) - 把你进入的每一个controller的类名打出来,如果看一些特别复杂的项目的时候直接运行demo就可以知道执行次序了。
 * [snoop-it](https://code.google.com/archive/p/snoop-it/) - snoop-it比UIViewController-Swizzled好用，代码托管在google上。
@@ -1809,6 +1810,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [Knuff](https://github.com/KnuffApp/Knuff)调试iOS App远程推送(APNs)的工具
 * [PPAutoPackageScript](https://github.com/jkpang/PPAutoPackageScript) - Xcode8以后的iOS自动打包脚本,配置简单/方便
 * [CocoaDebugKit](https://github.com/Patrick-Kladek/CocoaDebugKit) Debugging made easy. Automatically create QuickLook images of custom objects
+* [AssetsExtractor](https://github.com/pcjbird/AssetsExtractor) 『Assets提取工具』是一款OSX平台上用于将Assets.car或xxx.app中打包的png图片、pdf等资源重新提取出来的开发者工具。Assets.car常见于iOS/Mac/Unity等开发中的资源打包。
 
 #### 接口调试工具@
 
