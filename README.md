@@ -926,6 +926,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Cool-iOS-Camera](https://github.com/GabrielAlva/Cool-iOS-Camera) - Cool-iOS-Camera。
 * [FastttCamera](https://github.com/IFTTT/FastttCamera) - FastttCamera 快速照相
 * [DBCamera](https://github.com/danielebogo/DBCamera) DBCamera is a simple custom camera with AVFoundation
+* [ZPCamera](https://github.com/hawk0620/ZPCamera) An OpenSource Camera App
 
 #### 图像处理@
 
@@ -942,6 +943,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [TinyCrayon](https://github.com/TinyCrayon/TinyCrayon-iOS-SDK) - 一个智能、易用的图片裁剪、Image markingSDK
 * [GPUImage Demo](https://github.com/loyinglin/GPUImage) 源码级别对GPUImage进行剖析 以及 尝试
 * [YBPasterImage](https://github.com/wangyingbo/YBPasterImage) 给图片添加滤镜、贴纸和标签功能，支持14种滤镜效果，17种标签样式。
+* [hotoimagefilter](https://www.kancloud.cn/trent/hotoimagefilter/102786) 专业介绍图像处理中各种滤镜的算法实现，C#版本.
 
 #### 图像浏览@
 
@@ -1027,7 +1029,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### 综合UI@
 
-* [Texture](https://github.com/TextureGroup/Texture)Texture——保持最复杂的用户界面的流畅和响应  Smooth asynchronous user interfaces for iOS apps. 
+* [Texture](https://github.com/TextureGroup/Texture)Texture——保持最复杂的用户界面的流畅和响应  Smooth asynchronous user interfaces for iOS apps.
 * [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS) Many Google Material Design Controls for iOS native application
 * [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS) 大神模仿谷歌做的各种各样的iOS原生特效控件，非常全面.
 
@@ -1937,6 +1939,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [awesome-growth](https://github.com/phodal/awesome-growth) IT技能图谱
 * [ios_core_animation_advanced_techniques](https://github.com/ZsIsMe/ios_core_animation_advanced_techniques) 核心动画学习资料 [其中的核心动画电子书](https://zsisme.gitbooks.io/ios-/content/)
 * [Apple-OfficialTranslation-SourceAnnotation](https://github.com/CustomPBWaters/Apple-OfficialTranslation-SourceAnnotation) Apple官方译文框架源码注解，当你「了解权威 & 进阶原理」的时候，网搜的众多中 ~ ~（自行脑补）。一劳永逸，渐进式学习。 以简化初学者入门和老司机回顾的繁索过程，尽快切入主题，快速使用起来。
+* [RuntimeBrowser](https://github.com/nst/RuntimeBrowser) This is a class browser for the Objective-C runtime on iOS and OS X.
 
 #### 他人开源总结@
 
