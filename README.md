@@ -1095,7 +1095,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [ZFChart](https://github.com/Zirkfied/ZFChart) - 模仿PNChart写的一个图表库，用法简单，暂时有柱状图，线状图，饼图三种类型，后续可能会更新新的类型。
 * [ios-charts](https://github.com/danielgindi/Charts) - 一款优秀 Android 图表开源库 MPAndroidChart 的 Swift 语言实现版（支持 Objective-C 和 Swift 调用）。缺省提供的示例代码为 Objective-C。
 * [JYRadarChart](https://github.com/johnnywjy/JYRadarChart) 一个很赞的图表库
-* [XJYChart](https://github.com/JunyiXie/XJYChart) 一个轻量级并且实用的图表框架
 
 #### 颜色@
 
