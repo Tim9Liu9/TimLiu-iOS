@@ -10,6 +10,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 ## 目录
 - [Swift学习资料@](#swift学习资料)
+- [iOS11@](#iOS11)
 - [完整App@](#完整app)
 - [Xcode8插件@](#xcode8插件)
 - [App框架@](#app框架)
@@ -41,6 +42,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [音频@](#音频)
   - [视频@](#视频)
     - [视频播放@](#视频播放)
+- [机器学习@](#机器学习)
 - [UI@](#ui)
   - [日历@](#日历)
   - [下拉刷新@](#下拉刷新)
@@ -50,7 +52,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [字体@](#字体)
   - [颜色@](#颜色)
   - [图表@](#图表)
-  - [表相关(TabbleView、Tabbar、即时聊天界面)@](#表相关tabbleviewtabbar即时聊天界面)
+  - [TableView@CollectionView@表@](#TableView、CollectionView、表相关、即时聊天UI)
   - [隐藏与显示@](#隐藏与显示)
   - [HUD与Toast@](#hud与toast)
   - [对话框@](#对话框)
@@ -140,6 +142,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Swift-On-iOS](https://github.com/johnlui/Swift-On-iOS) - JohnLui 的 Swift On iOS 代码仓库。
 * [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - 30DaysofSwift 自学 iOS - [三十天三十个 Swift 项目](http://weibo.com/ttarticle/p/show?id=2309403942494873235448)。
 * [MySampleCode](https://github.com/bestswifter/MySampleCode) Swift的一些Demo
+
+#### iOS11
+
+* [iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples) Examples of new iOS 11 APIs
 
 #### 完整App@
 
@@ -384,8 +390,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### AR@
 
-* [ARuler](https://github.com/duzexu/ARuler) Mesure distance using apple ARKit
 * [awesome-arkit](https://github.com/olucurious/awesome-arkit) A curated list of awesome ARKit projects and resources.
+* [ARuler](https://github.com/duzexu/ARuler) Mesure distance using apple ARKit
+* [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) Combines the high accuracy of AR with the scale of GPS data.
+* [ARCharts](https://github.com/Boris-Em/ARCharts) Lovely Augmented Reality Charts for iOS - Built with ARKit
 
 #### 视频@
 #### 视频播放@
@@ -397,6 +405,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [mobileplayer-ios.swift](https://github.com/mobileplayer/mobileplayer-ios) - 很不错的高度可定制播放器项目。
 * [BMPlayer.swift](https://github.com/BrikerMan/BMPlayer) - 基于 AVPlayer 使用 Swift 封装的视频播放器，方便快速集成,支持横屏、竖屏，上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。
 * [PlayerView](https://github.com/davidlondono/PlayerView) - 一个使用代理和AVPlayer的播放View
+
+#### 机器学习@
+
+* [SeeFood](https://github.com/kingreza/SeeFood) Inspired by HBO's Silicon Valley: SeeFood is an iOS app that uses CoreML to detect various dishes
 
 ####图像@
 
@@ -472,6 +484,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [DouBanMeinv.swift](https://github.com/luzefeng/DouBanMeinv) - 抓取豆瓣美女图片，瀑布流显示。
 * [LLPhotoBrowser](https://github.com/LvJianfeng/LLPhotoBrowser) - Swift3图片浏览库，支持网络图，本地图，UIImage同时使用，支持识别二维码，支持横屏看图，支持长按弹出功能窗口
 * [preview-transition.swift](https://github.com/Ramotion/preview-transition) - 通过向导式代码实现步骤，实现完整、自然流畅的图片预览及转场功能。
+* [Gemini](https://github.com/shoheiyokoyama/Gemini) Gemini is rich scroll based animation framework for iOS, written in Swift.
 
 #### 相册@
 
@@ -527,8 +540,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Scrollable-GraphView.swift](https://github.com/philackm/Scrollable-GraphView) - 灵动感十足的自适应、可定制滚动曲（折）线图表库。
 
 #### TableView@、CollectionView@
-#### 表相关(TabbleView、Tabbar、即时聊天界面)@
+#### TableView、CollectionView、表相关、即时聊天UI
 
+* [folding-cell](https://github.com/Ramotion/folding-cell) FoldingCell is an expanding content cell with animation inspired by folding paper material design UI
 * [SwipeCellKit](https://github.com/jerkoch/SwipeCellKit) 很赞的tableView左滑删除效果
 * [Eureka.swift](https://github.com/xmartlabs/Eureka) - Eureka 是 XLForm 的 Swift 的移植版本, 一个可以帮助开发者们快速构建 iOS 各种复杂表单的库, 具有较高的可扩展性, 方便自定制样式。
 * [HBHorizontalTableView](https://github.com/izyhuang/HBHorizontalTableView) - swift，TableView 横向滚动小示例（仿照 AppStore 应用展示）。
@@ -554,10 +568,13 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 隐藏与显示@
 
 #### HUD与Toast@
+
 * [Toast-Swift](https://github.com/scalessec/Toast-Swift) - 高可定制易用的 Toast 弹出信息或通知用户界面组件类。
+
 
 #### 对话框@
 
+* [AZDialogViewController](https://github.com/Minitour/AZDialogViewController) A highly customizable alert dialog controller that mimics Snapchat's alert dialog.
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop) - 轻量、易用的小清新弹出列表及信息提示组件真心不错。
 * [PCLBlurEffectAlert.swift](https://github.com/hryk224/PCLBlurEffectAlert) - 细节定制较丰富的弹出警报窗口组件。
 * [GSAlert.swftt](https://github.com/wxxsw/GSAlert) - 苹果在iOS8推出了全新的UIAlertController，旧的UIAlertView和UIActionSheet渐渐被废弃，但如果你仍然支持iOS7系统，你将不得不写两套代码。GSAlert解决了这个问题。
@@ -688,7 +705,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Chronos-Swift](https://github.com/comyar/Chronos-Swift) GCD工具类
 * [Me](https://github.com/pascalbros/Me) 嵌套异步计算的一个超级轻量级的解决方案
 * [SwiftyTask](https://github.com/CR-Creations/SwiftyTask) 一个高性能的排队系统，用于管理App中的全部任务。
-
+* [Queuer](https://github.com/FabrizioBrancati/Queuer) Queuer is a queue manager, built on top of OperationQueue and Dispatch (aka GCD).
 
 #### 工具@
 #### category@
@@ -810,7 +827,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [Swimat](https://github.com/Jintin/Swimat) - Swimat，是一款Xcode 插件，帮你一键格式化 swift 代码。
 * [XcodeSwiftSnippets](https://github.com/burczyk/XcodeSwiftSnippets) - XcodeSwiftSnippets, 提供了很多可在 Xcode 上使用的 Swift 代码片段, 通过自动补全的方式极大的提高了开发效率。
-
+* [XcodeGen](https://github.com/yonaskolb/XcodeGen) Command line tool that generates your Xcode project from a simple spec and your folder structure
 
 #### Xcode相关@
 
@@ -929,6 +946,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 地图@
 
 * [Cluster](https://github.com/efremidze/Cluster) 非常不错的地图标注聚合.
+* [ArcKit](https://github.com/sobri909/ArcKit) Location and activity recording framework for iOS
 
 #### 通知@
 
