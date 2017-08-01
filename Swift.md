@@ -728,6 +728,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### 动画@
 
+* [FleaMarket](https://github.com/SunLiner/FleaMarket) "咸鱼"新特性-视频动画
 * [fave-button](https://github.com/xhamr/fave-button) 给button增加了很多可爱的动画.
 
 #### 转场动画@
