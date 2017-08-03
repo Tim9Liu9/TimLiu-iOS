@@ -798,6 +798,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 转场@
 
 * [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary) 不错的转场动画库
+* [WXSTransition](https://github.com/alanwangmodify/WXSTransition) 转场动画集合
 
 #### 多媒体@
 #### GIF@
@@ -930,6 +931,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [FastttCamera](https://github.com/IFTTT/FastttCamera) - FastttCamera 快速照相
 * [DBCamera](https://github.com/danielebogo/DBCamera) DBCamera is a simple custom camera with AVFoundation
 * [ZPCamera](https://github.com/hawk0620/ZPCamera) An OpenSource Camera App
+* [HeartBeatsPlugin](https://github.com/YvanLiu/HeartBeatsPlugin) 手机摄像头测心率 带心率折线图 和 返回瞬时心率
 
 #### 图像处理@
 
