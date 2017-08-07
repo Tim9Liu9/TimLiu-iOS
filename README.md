@@ -797,6 +797,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### 转场@
 
+* [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) A gallery app of custom animated transitions for iOS.
 * [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary) 不错的转场动画库
 * [WXSTransition](https://github.com/alanwangmodify/WXSTransition) 转场动画集合
 
