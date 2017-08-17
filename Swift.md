@@ -757,6 +757,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### 其他动画@
 
+* [GoogleNewsStandAnimation](https://github.com/AbhimanyuForiOS/GoogleNewsStandAnimation) It is same like Google News Stand Animation with Customise Configuration file in Swift iOS Technology.
 * [popping](https://github.com/schneiderandre/popping) - popping是一个POP 使用实例工程
 * [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) 一个容易读，和使用的链式动画库.同时支持Objective-C
 * [PopMenu](https://github.com/xhzengAIB/PopMenu) - 用POP动画引擎写的Sina微博的Menu菜单。
