@@ -308,8 +308,12 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [Neon.swift](https://github.com/mamaral/Neon) - 功能强大的 UI 布局神器。
 * [EasyPeasy.swift](https://github.com/nakiostudio/EasyPeasy) - 编程方式自动布局框架库。
 * [TangramKit](https://github.com/youngsoft/TangramKit) TangramKit is a powerful iOS UI framework implemented by Swift. It integrates the functions with Android layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use LinearLayout,RelativeLayout,FrameLayout,TableLayout,FlowLayout,FloatLayout,LayoutSizeClass to build your App 自动布局 UIView UITableView UICollectionView
+* [layout](https://github.com/schibsted/layout) A declarative UI framework for iOS
 
 #### 数据存储@
+
+* [DataSources](https://github.com/muukii/DataSources) 💾 🔜📱 Type-safe data-driven List-UI Framework. (We can also use ASCollectionNode)
+* [Disk](https://github.com/saoudrizwan/Disk) Delightful framework for iOS to easily persist structs, images, and data
 
 #### 缓存处理@
 * [Cache.swift](https://github.com/soffes/Cache) - 一款简单、易用的缓存库。支持 MemoryCache, DiskCache 以及前两项组合的 MultiCache。
@@ -394,6 +398,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [ARuler](https://github.com/duzexu/ARuler) Mesure distance using apple ARKit
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) Combines the high accuracy of AR with the scale of GPS data.
 * [ARCharts](https://github.com/Boris-Em/ARCharts) Lovely Augmented Reality Charts for iOS - Built with ARKit
+* [arkit-smb-homage](https://github.com/bjarnel/arkit-smb-homage) An implementation of a Super Mario Bros-like game in augmented reality with ARKit and SceneKit.
 
 #### 视频@
 #### 视频播放@
@@ -495,6 +500,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### UI@
 #### 日历@
 
+* [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) The Unofficial Apple iOS Swift Calendar View. iOS calendar Library. iOS calendar Control. 100% Customizable
 * [FSCalendar](https://github.com/WenchaoD/FSCalendar) 一款漂亮，强大的 iOS 日历组件 A fully customizable iOS calendar library, compatible with Objective-C and Swift
 
 #### 下拉刷新@
@@ -799,6 +805,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [PeekPop.swift](https://github.com/marmelroy/PeekPop) - 3DTouch动画组件。
 * [fantastic-ios-animation.swift](https://github.com/onmyway133/fantastic-ios-animation) - 基于 UI 组件类别分类，且带精彩动画效果的 iOS 组件库集合。
 * [GridPanelDemo](https://github.com/JasonZengJ/GridPanelDemo) 赞，一个点击翻转的动画Demo
+* [astrology-motion-ios](https://github.com/handsomecode/astrology-motion-ios) Astrology animation written in Swift 3
+
 
 #### 算法@
 
