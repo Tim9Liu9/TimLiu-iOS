@@ -309,6 +309,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [EasyPeasy.swift](https://github.com/nakiostudio/EasyPeasy) - 编程方式自动布局框架库。
 * [TangramKit](https://github.com/youngsoft/TangramKit) TangramKit is a powerful iOS UI framework implemented by Swift. It integrates the functions with Android layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use LinearLayout,RelativeLayout,FrameLayout,TableLayout,FlowLayout,FloatLayout,LayoutSizeClass to build your App 自动布局 UIView UITableView UICollectionView
 * [layout](https://github.com/schibsted/layout) A declarative UI framework for iOS
+* [CassowarySwift](https://github.com/tribalworldwidelondon/CassowarySwift) A Swift port of the Cassowary linear constraint solver
 
 #### 数据存储@
 
@@ -999,6 +1000,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### mac@
 
 * [iina](https://github.com/lhc70000/iina) The modern video player for macOS,非常👍👍👍 .
+* [mas](https://github.com/mas-cli/mas) Mac App Store command line interface
 * [swift14macOSApps](https://github.com/KrisYu/swift14macOSApps) 几个Mac小Demo.
 
 #### 未分类@
