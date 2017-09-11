@@ -590,6 +590,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [TBActionSheet.swift](https://github.com/yulingtianxia/TBActionSheet) - 支持Carthage，可自定义度100%的 ActionSheet，支持微信样式。
 * [NoticeBar](https://github.com/qiuncheng/NoticeBar)Notice View相关的简易库，叫做NoticeBar, 在NavigationBar、Tabbar、statusBar上显示提示信息，信息可包含文字和图片等，并且内置了四种提示消息。
 * [PPAssetsActionController](https://github.com/pantuspavel/PPAssetsActionController) - 高度可定制的Action Sheet.
+* [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - 用于以屏幕顶部或底部的状态栏的形式显示简短的消息。
 
 #### popover@
 
