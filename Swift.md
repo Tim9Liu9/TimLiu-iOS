@@ -497,6 +497,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [DKImagePickerController](https://github.com/zhangao0086/DKImagePickerController) 相册选取
 * [TLPhotoPicker](https://github.com/tilltue/TLPhotoPicker) 类似facebook的一个相册多图选取框架.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written by swift
+* [MediaBrowser](https://github.com/younatics/MediaBrowser) — 照片/视频浏览器，支持UIImage对象、PHAsset对象、资源库URL、网络图像/视频、本地文件
 
 #### UI@
 #### 日历@
