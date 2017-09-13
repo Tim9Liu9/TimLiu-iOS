@@ -1190,7 +1190,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [SlideTapBar](http://d.cocoachina.com/code/detail/286102) - 滚动栏菜单，向上滚动时隐藏tabbar，向下滚动马上显示tabbar。
 * [FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) - 可折叠Tab Bar和Tab Bar Controller。
-* [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) 叠。[实现教程](http://tech.glowing.com/cn/change-uinavigationbar-backgroundcolor-dynamically/)
 * [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - LTNavigationBar在右滑返回的时候NavigationBar显示都不完美,KMNavigationBarTransition一个用来统一管理导航栏转场以及当 push 或者 pop 的时候使动画效果更加顺滑的通用库，并且同时支持竖屏和横屏。
 * [HYNavBarHidden](https://github.com/HelloYeah/HYNavBarHidden) - 导航条滚动透明，超简单好用的监听滚动,导航条渐隐的UI效果实现。
 * [BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar) - 非常赞，是一个使导航栏高度可以动态变化的 UI 库。固定Header的效果库，一个拥有非常灵活高度的标题栏，可以为使用软件的用户提供更多的阅读和滑动空间，现在已经被众多app所采用。
@@ -1265,6 +1264,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) 一个可以上拉隐藏导航栏和下拉显示导航栏的框架
 * [JTNavigationController](https://github.com/JNTian/JTNavigationController) 一个拥有更平滑的navigationBar切换动画的NavigationController
 * [NavigationController](https://github.com/Roxasora/RxWebViewController) 实现类似微信的 webView 导航效果，包括进度条，左滑返回上个网页或者直接关闭，就像 UINavigationController
+* [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) 叠。[实现教程](http://tech.glowing.com/cn/change-uinavigationbar-backgroundcolor-dynamically/)
 
 #### 设置@
 
@@ -1402,7 +1402,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [答题选择切换页](http://code.cocoachina.com/view/128281) - 将scrollview和tableview封装在一起，在初始化的时候简单的将数据带上，就可以一页一页的左右来回滑动。
 * [SCTrelloNavigation](https://github.com/SergioChan/SCTrelloNavigation) - 类似trello的导航动效控件实现。
 * [RGCategoryView](https://github.com/refinemobi/RGCategoryView) - 仿了个苏宁易购的分类页面。
-* [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) - BEMCheckBox 是一个用于 iOS 应用上构建漂亮, 高度可定制化动画效果的复选框类库, 最低支持到 iOS 7 系统, 有多种不同风格的动画效果可供选择。
 * [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) - 通过几条线段实现的非常Q萌的动画按钮效果。
 * [LNPopupController](https://github.com/LeoNatan/LNPopupController) - AppleMusic式pop up，弹出是页面，可以上下拉动。
 * [DGRunkeeperSwitch](https://github.com/gontovnik/DGRunkeeperSwitch/) - 动画segment，节选器。
@@ -1422,6 +1421,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [drawablebubble](https://github.com/KittenYang/KYCuteView)QQ中未读气泡拖拽消失的实现分析[分析文章](http://kittenyang.com/drawablebubble/)
 * [PPNumberButton](https://github.com/jkpang/PPNumberButton)高仿京东淘宝商品数量的加减按钮,可定制程度较高,使用简单!
 * [YJFavorEmitter](https://github.com/SplashZ/YJFavorEmitter) 一个非常好用的点赞粒子发射器
+* [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) - BEMCheckBox 是一个用于 iOS 应用上构建漂亮, 高度可定制化动画效果的复选框类库, 最低支持到 iOS 7 系统, 有多种不同风格的动画效果可供选择。
+* [BFPaperCheckbox](https://github.com/bfeher/BFPaperCheckbox) iOS Checkboxes inspired by Google's Paper Material Design.
 
 #### 工具@
 #### 综合@
@@ -1523,7 +1524,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [JX_GCDTimer](https://github.com/Joeyqiushi/JX_GCDTimer) 定时器，NSTimer和GCD哪个更好
 * [BLStopwatch](https://github.com/beiliao-mobile/BLStopwatch) 代码耗时打点计时器
 * [Thread](https://github.com/mrhyh/Thread) 多线程Demo集合
-
 
 #### 日历@
 
