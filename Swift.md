@@ -57,9 +57,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [HUD与Toast@](#hud与toast)
   - [对话框@](#对话框)
   - [popover@](#popover)
-  - [状态栏@](#状态栏)
   - [导航栏@](#导航栏)
-  - [设置@](#设置)
   - [主题@](#主题)
   - [电影选座@](#电影选座)
   - [瀑布流@](#瀑布流)
@@ -600,17 +598,13 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [ElongationPreview](https://github.com/Ramotion/elongation-preview) - 一个优雅的push-pop风格的视图控制器  ElongationPreview is an elegant push-pop style view controller with 3D-Touch support and gestures. :large_orange_diamond:
 * [Pageboy](https://github.com/MerrickSapsford/Pageboy) -  一个简单、易学的page View Controller A simple, highly informative page view controller. :large_orange_diamond:
 
-#### 状态栏@
-
 #### 导航栏@
 
 * [Tiptoes](https://github.com/caiyue1993/Tiptoes) 提供了一种自定义 Navigation Bar 的新思路，并实现了转场渐变效果，灵感来自于 Unread 。
 
-#### 设置@
-
 #### Label@
 
-* [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) 炫酷的Label效果 Graceful morphing effects for UILabel written in Swift.
+* [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) 炫酷的Label效果 [EXPERIMENTAL] Graceful morphing effects for UILabel written in Swift.
 
 #### 主题@
 
