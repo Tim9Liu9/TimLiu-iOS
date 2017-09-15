@@ -538,7 +538,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [nimbus](https://github.com/jverkoey/nimbus) Nimbus是一个开源的iOS框架，比起Three20，Nimbus的文档更为全面、丰富，能够实现很多非常炫的界面特效。因此，开发者可以借助Nimbus来降低项目设计的复杂度。
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa 受函数响应式编程激发。不同于使用可变的变量替换和就地修改，RAC提供Signals来捕获当前值和将来值（ [使用介绍](http://yulingtianxia.com/blog/2014/07/29/reactivecocoa/) ），[不错的例子](http://iiiyu.com/2014/12/26/learning-ios-notes-thirty-six/),入门好教程：[ReactiveCocoa入门教程：第一部分 ](http://www.cocoachina.com/ios/20150123/10994.html)。[Reactive Cocoa 3.0 在 MVVM 中的应用](http://ios.jobbole.com/82232/) ,[小码哥：快速让你上手ReactiveCocoa之基础篇](http://www.jianshu.com/p/87ef6720a096)。
-* [react-native-maps](https://github.com/airbnb/react-native-maps) React Native Mapview component for iOS + Android
+* [react-native-maps](https://github.com/airbnb/react-native-maps) React Native Mapview component for iOS + Android.
+* [react-native-svg](https://github.com/react-native-community/react-native-svg) SVG library for React Native. react-native-svg is built to provide a SVG interface to react native on both iOS and Android.
+* [react-native-code-push](https://github.com/Microsoft/react-native-code-push) React Native module for CodePush.
 * [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController) - 低耦合集成TabBarController,最低只需传两个数组即可完成主流App框架搭建。
 * [samurai-native](https://github.com/hackers-painters/samurai-native) 是一个基于浏览器内核通过HTML+CSS 开发原生移动应用的iOS框架。
 * [HHRouter](https://github.com/Huohua/HHRouter) 一言以蔽之，URL Router 即将 UIViewController 映射成 URL，从而支持通过 URL 进行界面跳转。是的，就和 Web 一样。当然，这并不是 Web Developer 转职为 iOS Developer 后所做的无聊玩具。URL Router 有着许多切实的好处。
@@ -831,6 +833,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### PDF@
 
 * [Reader](https://github.com/vfr/Reader) - Reader可提供类似iBooks的文档导航，支持屏幕旋转和所有方向，并通过密码保护加密PDF文件，支持PDF链接和旋转页面。
+* [PDFXKit](https://github.com/PSPDFKit/PDFXKit) A drop-in replacement for Apple PDFKit powered by our PSPDFKit framework under the hood.
 
 #### 流媒体@
 
@@ -1169,6 +1172,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [YZHeaderScaleImage](https://github.com/iThinkerYZ/YZHeaderScaleImage)一行代码快速集成tableView中头部缩放视图
 * [ExpandTableView](https://github.com/zhengwenming/ExpandTableView) 可折叠展开的tableView，QQ好友分组列表。
 * [SwipeTableView](https://github.com/Roylee-ML/SwipeTableView) Both scroll horizontal and vertical for segment scrollview which have a same header. — 类似半糖、美丽说主页与QQ音乐歌曲列表布局效果，实现不同菜单的左右滑动切换，同时支持类似tableview的顶部工具栏悬停（既可以左右滑动，又可以上下滑动）。兼容下拉刷新，自定义 collectionview实现自适应 contentSize 还可实现瀑布流功能
+* [TableViewAnimationKit](https://github.com/alanwangmodify/TableViewAnimationKit) TableView Animation ，move your tableView
 
 #### TableView适配@
 
@@ -1243,6 +1247,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [AMPopTip](https://github.com/andreamazz/AMPopTip) 一个可以定义frame的带动画的popover. An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
 * [DXPopover](https://github.com/xiekw2010/DXPopover) 很赞 DXPopover微信右上角的+点击展示列表效果，弹窗菜单。 A Popover mimic Facebook app popover using UIKit
+* [zhPopupController](https://github.com/snail-z/zhPopupController) Popup your custom view is easy, support custom mask style, transition effects and gesture to drag.
 * [LewPopupViewController](https://github.com/pljhonglu/LewPopupViewController) ios 弹出视图
 * [PopMenu](https://github.com/xhzengAIB/PopMenu) - 用POP动画引擎写的Sina微博的Menu菜单。
 * [MLMOptionSelectView](https://github.com/MengLiMing/MLMOptionSelectView) 弹出-选择-展示框
@@ -1748,6 +1753,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 
 #### Xcode插件@
 
+* [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev) 原有iOSOpenDev的升级，非越狱插件开发集成神器！ CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps, Without Jailbreak.
 * [xTextHandler](https://github.com/cyanzhong/xTextHandler) Xcode源码编辑扩展工具(Xcode8版) Xcode Source Editor Extension Tools (Xcode 8 Plugins)
 * [首先学习使用Xcode](http://www.cocoachina.com/special/xcode/) - 学习使用Xcode构建出色的应用程序！在Xcode启动的时候，Xcode将会寻找位于~/Library/Application Support/Developer/Shared/Xcode/Plug-ins文件夹中的后缀名为.xcplugin的bundle作为插件进行加载（运行其中的可执行文件）。
 * [RPAXU](https://github.com/cikelengfeng/RPAXU) 每当 Xcode 升级之后，都会导致原有的 Xcode 插件不能使用，这是因为每个插件的 Info.plist 中记录了该插件兼容的 Xcode 版本的DVTPlugInCompatibilityUUID，而每个版本的 Xcode 的 DVTPlugInCompatibilityUUID 都是不同的。如果想让原来的插件继续工作，我们就得将新版 Xcode 的 DVTPlugInCompatibilityUUID 加入到每一个插件的 Info 文件中，手动添加的话比较费时间还可能出错，所以作者写了一个脚本来做这件事。
@@ -1808,6 +1814,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 #### 开发调试工具@
 
 * [IPAPatch](https://github.com/Naituw/IPAPatch) 免越狱调试、修改第三方App，很👍👍
+* [MSLeakHunter](https://github.com/mindsnacks/MSLeakHunter) - 自动检测 UIViewController 和 UIView 对象的内存泄露。Find memory leaks in your iOS app at develop time. [MLeaksFinder 的使用参照](https://github.com/Zepo/MLeaksFinder)
 * [iOS-private-api-checker](https://github.com/NetEaseGame/iOS-private-api-checker) iOS-private-api-checker 苹果iOS私有API检查工具
 * [gitbook](https://github.com/GitbookIO/gitbook) GitBook 是一个基于Node.js 的命令行工具，可使用Github/Git 和Markdown 来制作精美的电子书。 GitBook需要使用markdown格式编写，如果你不了解可以看看这里。
 * [crashlytics](https://www.fabric.io/onboard) Twitter出的一个崩溃分析软件
@@ -1831,7 +1838,6 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - 能够帮助 iOS 开发者们精确的测量视图, 可直接在调试应用中查看具体某个视图的坐标, 宽高等参数。
 * [MMPlaceHolder](https://github.com/adad184/MMPlaceHolder) - 一行代码显示UIView的位置及相关参数。
 * [KMCGeigerCounter](https://github.com/kconner/KMCGeigerCounter) - KMCGeigerCounter通过复杂和简单的视图演示了类似盖革计数器的帧速计算功能。掉帧通常是可见的，但是很难区分55fps和60fps之间的不同，而KMCGeigerCounter可以让你观测到掉落5帧的情况。
-* [MSLeakHunter](https://github.com/mindsnacks/MSLeakHunter) - 自动检测 UIViewController 和 UIView 对象的内存泄露。[MLeaksFinder 的使用参照](https://github.com/Zepo/MLeaksFinder)
 * [ipapy](https://github.com/hades0918/ipapy) - iOS项目自动打包脚本，并且上传到fir.im，然后发送邮件给测试人员。
 * [fbretaincycledetector](https://github.com/facebook/fbretaincycledetector) - Facebook出品,通过Runtime监测循环引用。
 * [FBAllocationTracker](https://github.com/facebook/FBAllocationTracker) - Facebook出品,跟踪oc对象的分配情况。
@@ -2045,6 +2051,9 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 * [radiant-player-mac](https://github.com/radiant-player/radiant-player-mac) 一个Google Play音乐转换成与Mac整合的独立，美观的mac音乐播放器。
 * [DevDataTool](https://github.com/MxABC/DevDataTool) OSX系统 转换、加解密工具
+* [LuLu](https://github.com/objective-see/LuLu) 防火墙 LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic
+* [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开
+* [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) A dynamic library tweak for WeChat macOS - 微信 macOS 客户端撤回拦截与多开
 
 #### 深度学习@
 
