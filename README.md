@@ -152,11 +152,11 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [好的文章@](#好的文章)
   - [美工资源@](#美工资源)
 - [测试调试@](#测试调试)
+  - [调试优化@](#调试优化)
   - [Xcode工具@](#Xcode工具)
   - [crash@](#crash)
   - [Runtime@](#Runtime)
   - [Xcode插件@](#Xcode插件)
-  - [开发调试工具@](#开发调试工具)
   - [接口调试工具@](#接口调试工具)
 - [版本适配@](#版本适配)
 - [WebView与WKWebView@](#WebView与WKWebView)
@@ -989,6 +989,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [BeautyHour](https://github.com/xujingzhou/BeautyHour) - 完整应用，功能与“美图秀秀”雷同。
 * [WSImagePicker](https://github.com/wsjtwzs/WSImagePicker) 高性能多选图片库，类似于微信发布朋友圈中 ‘获取相册及拍照’模块
 * [JTSImageViewController](https://github.com/jaredsinclair/JTSImageViewController) - 图片浏览
+* [SGPhotoBrowser](https://github.com/Soulghost/SGPhotoBrowser) 图片浏览.
 
 #### 图像缓存@
 
@@ -1712,6 +1713,19 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
 * [calabash-ios](https://github.com/calabash/calabash-ios) 自动测试 Calabash is an automated testing technology for Android and iOS native and hybrid applications.
 * [iConsole](https://github.com/nicklockwood/iConsole) 调试利器 In-app console for viewing logs and typing debug commands in iPhone apps
 
+#### 调试优化@
+
+* [IPAPatch](https://github.com/Naituw/IPAPatch) 免越狱调试、修改第三方App，很👍👍
+* [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization) 关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit
+* [MSLeakHunter](https://github.com/mindsnacks/MSLeakHunter) - 自动检测 UIViewController 和 UIView 对象的内存泄露。Find memory leaks in your iOS app at develop time. [MLeaksFinder 的使用参照](https://github.com/Zepo/MLeaksFinder)
+* [iOS-private-api-checker](https://github.com/NetEaseGame/iOS-private-api-checker) iOS-private-api-checker 苹果iOS私有API检查工具
+* [gitbook](https://github.com/GitbookIO/gitbook) GitBook 是一个基于Node.js 的命令行工具，可使用Github/Git 和Markdown 来制作精美的电子书。 GitBook需要使用markdown格式编写，如果你不了解可以看看这里。
+* [crashlytics](https://www.fabric.io/onboard) Twitter出的一个崩溃分析软件
+* [Knuff](https://github.com/KnuffApp/Knuff)调试iOS App远程推送(APNs)的工具
+* [PPAutoPackageScript](https://github.com/jkpang/PPAutoPackageScript) - Xcode8以后的iOS自动打包脚本,配置简单/方便
+* [CocoaDebugKit](https://github.com/Patrick-Kladek/CocoaDebugKit) Debugging made easy. Automatically create QuickLook images of custom objects
+* [AssetsExtractor](https://github.com/pcjbird/AssetsExtractor) 『Assets提取工具』是一款OSX平台上用于将Assets.car或xxx.app中打包的png图片、pdf等资源重新提取出来的开发者工具。Assets.car常见于iOS/Mac/Unity等开发中的资源打包。
+
 #### Xcode工具@
 
 * [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info) react-native获取设备信息组件,支持iOS、Android.
@@ -1810,18 +1824,6 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [BuildTimeAnalyzer-for-Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - 实用的编译时间分析 Xcode 插件。
 * [FastStub-Xcode](https://github.com/music4kid/FastStub-Xcode) - 一只快速生成代码的Xcode插件，[说明](http://mrpeak.cn/blog/faststub/)。
 * [ESTranslate-Xcode](https://github.com/EnjoySR/ESTranslate-Xcode) - 一个快速翻译Xcode代码里面单词(我主要用于翻译句子～)的插件，快捷键：Ctrl+Shift+T。
-
-#### 开发调试工具@
-
-* [IPAPatch](https://github.com/Naituw/IPAPatch) 免越狱调试、修改第三方App，很👍👍
-* [MSLeakHunter](https://github.com/mindsnacks/MSLeakHunter) - 自动检测 UIViewController 和 UIView 对象的内存泄露。Find memory leaks in your iOS app at develop time. [MLeaksFinder 的使用参照](https://github.com/Zepo/MLeaksFinder)
-* [iOS-private-api-checker](https://github.com/NetEaseGame/iOS-private-api-checker) iOS-private-api-checker 苹果iOS私有API检查工具
-* [gitbook](https://github.com/GitbookIO/gitbook) GitBook 是一个基于Node.js 的命令行工具，可使用Github/Git 和Markdown 来制作精美的电子书。 GitBook需要使用markdown格式编写，如果你不了解可以看看这里。
-* [crashlytics](https://www.fabric.io/onboard) Twitter出的一个崩溃分析软件
-* [Knuff](https://github.com/KnuffApp/Knuff)调试iOS App远程推送(APNs)的工具
-* [PPAutoPackageScript](https://github.com/jkpang/PPAutoPackageScript) - Xcode8以后的iOS自动打包脚本,配置简单/方便
-* [CocoaDebugKit](https://github.com/Patrick-Kladek/CocoaDebugKit) Debugging made easy. Automatically create QuickLook images of custom objects
-* [AssetsExtractor](https://github.com/pcjbird/AssetsExtractor) 『Assets提取工具』是一款OSX平台上用于将Assets.car或xxx.app中打包的png图片、pdf等资源重新提取出来的开发者工具。Assets.car常见于iOS/Mac/Unity等开发中的资源打包。
 
 #### 接口调试工具@
 
