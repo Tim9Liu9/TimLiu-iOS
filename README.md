@@ -178,6 +178,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [深度学习@](#深度学习)
 - [mac@](#mac)
 - [未分类@](#未分类)
+- [其他领域@](#其他领域)
 
 #### 具体内容 =============================
 
@@ -1909,6 +1910,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [kitematic](https://github.com/docker/kitematic) - Mac 上使用 Docker 最简单的方案。
 
 #### 学习资料@
+
 #### 播客@
 
 * [The Ray Wenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
@@ -1922,6 +1924,8 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 #### 学习资料@
 
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books)非常棒👍👍👍 经常更新的免费资源列表，包括书籍，播客，网站，开发工具等等。对于正在学习代码的人来说挺实用；  Whether you're learning to code or are already an experienced programmer, this GitHub repository is an incredible resource of free programming books. ... You'll find books on professional development, specific platforms like Android and Oracle Server, and about 80 programming languages.
+* [coding-interview-university](https://github.com/jwasham/coding-interview-university) 非常棒👍👍👍 A complete computer science study plan to become a software engineer.
 * [Analyze](https://github.com/Draveness/Analyze) 深入解析 iOS 开源项目
 * [articles](https://github.com/objccn/articles) Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本
 * [RNStudyNotes](https://github.com/crazycodeboy/RNStudyNotes) React Native 研究与实践
@@ -2069,3 +2073,13 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 * [说明]( ) 此库是完全开源收集整理，服务于广大iOS开发工作者的开源集合资料库，欢迎大家踊跃贡献.
 * [awesome-github](https://github.com/AntBranch/awesome-github) A curated list of awesome GitHub guides, articles, sites, tools, projects and resources. 收集这个列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
+
+#### 其他领域@
+
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) 非常棒👍👍👍  We’re a community that helps you learn to code, then get experience by contributing to open source projects used by nonprofits.
+* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) A book series on JavaScript. @YDKJS on twitter.
+* [bootstrap](https://github.com/twbs/bootstrap) Bootstrap 的 Github 帐户，著名的响应式网页设计框架。主要提供技术信息，还提供其他有用站点的其他链接。如果你正在寻找有关框架的更详细的文档，可以访问. Bootstrap is a free front-end framework for faster and easier web development. Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins
+* [wiki](https://github.com/d3/d3/wiki) D3 (Data-Driven Documents or D3.js) is a JavaScript library for visualizing data using web standards.
+* [awesome-python](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources
+* [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) 专注于使用 vanilla JavaScript 解决典型的编程问题，这个仓库的兴起与 React 的兴起密切相关； Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+* [public-apis](https://github.com/toddmotto/public-apis) 经常更新的web开发公共JSON API 列表。 A collective list of public JSON APIs for use in web development.
