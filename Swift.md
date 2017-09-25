@@ -58,8 +58,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [对话框@](#对话框)
   - [popover@](#popover)
   - [导航栏@](#导航栏)
-  - [主题@](#主题)
-  - [电影选座@](#电影选座)
   - [瀑布流@](#瀑布流)
   - [菜单@](#菜单)
   - [TabBar@](#tabbar)
@@ -138,13 +136,15 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [SwiftGuide](https://github.com/ipader/SwiftGuide) -  这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排-- 非常不错，值得推荐。
 * [Awesome Swift](https://swift.zeef.com/robin.eggenkamp) - 一个收集了很多 Swift 开发资源的网站。
 * [Developing_iOS_8_Apps_With_Swift](https://github.com/CS193P-Translation-Group/Developing_iOS_8_Apps_With_Swift) - Developing iOS 8 Apps with Swift 字幕简体中文翻译项目（斯坦福白胡子老头swift教学视频）。
-* [Swift-On-iOS](https://github.com/johnlui/Swift-On-iOS) - JohnLui 的 Swift On iOS 代码仓库。
-* [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - 30DaysofSwift 自学 iOS - [三十天三十个 Swift 项目](http://weibo.com/ttarticle/p/show?id=2309403942494873235448)。
-* [MySampleCode](https://github.com/bestswifter/MySampleCode) Swift的一些Demo
+* [Swift-On-iOS](https://github.com/johnlui/Swift-On-iOS) - JohnLui 的 Swift On iOS 代码仓库.
+* [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - 30DaysofSwift 自学 iOS - [三十天三十个 Swift 项目](http://weibo.com/ttarticle/p/show?id=2309403942494873235448).
+* [MySampleCode](https://github.com/bestswifter/MySampleCode) Swift的一些Demo.
 
-#### iOS11
+#### iOS11@
 
-* [iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples) Examples of new iOS 11 APIs
+* [iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples) Examples of new iOS 11 APIs.
+* [NotchKit](https://github.com/HarshilShah/NotchKit) A simple way to hide the notch on the iPhone X.
+* [HairPowder](https://github.com/intmain/HairPowder) Hair Powder for iPhoneX "M" Shape pattern baldness design.
 
 #### 完整App@
 
@@ -394,11 +394,12 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### AR@
 
-* [awesome-arkit](https://github.com/olucurious/awesome-arkit) A curated list of awesome ARKit projects and resources.
+* [awesome-arkit](https://github.com/olucurious/awesome-arkit) 👍👍👍 A curated list of awesome ARKit projects and resources.
 * [ARuler](https://github.com/duzexu/ARuler) Mesure distance using apple ARKit
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) Combines the high accuracy of AR with the scale of GPS data.
 * [ARCharts](https://github.com/Boris-Em/ARCharts) Lovely Augmented Reality Charts for iOS - Built with ARKit
 * [arkit-smb-homage](https://github.com/bjarnel/arkit-smb-homage) An implementation of a Super Mario Bros-like game in augmented reality with ARKit and SceneKit.
+* [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) Code examples for ARKit.
 
 #### 视频@
 #### 视频播放@
@@ -605,10 +606,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### Label@
 
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) 炫酷的Label效果 [EXPERIMENTAL] Graceful morphing effects for UILabel written in Swift.
-
-#### 主题@
-
-#### 电影选座@
 
 #### 瀑布流@
 
