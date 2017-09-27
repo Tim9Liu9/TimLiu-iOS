@@ -67,7 +67,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [评分@](#评分)
   - [键盘@](#键盘)
   - [搜索@](#搜索)
-  - [倒计时@](#倒计时)
+  - [时间@](#时间)
   - [Button@](#Button)
   - [其他UI@](#其他ui)
 - [多线程@](#多线程)
@@ -652,6 +652,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 倒计时@
 
 * [SRCountdownTimer](https://github.com/rsrbk/SRCountdownTimer) 一个圆形倒计时View
+* [Time](https://github.com/dreymonde/Time) 🕰 Type-safe time calculations in Swift, powered by generics
 
 #### Button@
 
