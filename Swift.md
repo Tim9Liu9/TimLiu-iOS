@@ -102,6 +102,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [其他库@](#其他库)
 - [图像@](#图像)
   - [人脸识别@](#人脸识别)
+  - [图像识别@](#图像识别)
   - [图像处理@](#图像处理)
   - [图像缓存@](#图像缓存)
   - [图像浏览@](#图像浏览)
@@ -424,6 +425,10 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [APKenBurnsView](https://github.com/Alterplay/APKenBurnsView) - 面部识别
 * [AAFaceDetection](https://github.com/aaronabentheuer/AAFaceDetection) - AAFaceDetection--swift，简单、实用的面部识别封装库。虽然该技术从 iOS 5 发展，不过真正有趣的应用还不多。
+
+#### 图像识别@
+
+* [ChineseIDCardOCR](https://github.com/KevinGong2013/ChineseIDCardOCR) 🇨🇳中国二代身份证光学识别
 
 #### 图像处理@
 
