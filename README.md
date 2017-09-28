@@ -1328,8 +1328,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [PPBadgeView](https://github.com/jkpang/PPBadgeView) - iOS自定义Badge组件, 支持UIView、UITabBarItem、UIBarButtonItem ,支持Objective-C/Swift双版本;
 
 #### page@
-
-* [PageMenu](https://github.com/uacaps/PageMenu) A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram)
+* [NinaPagerView](https://github.com/RamWire/NinaPagerView) 一行代码搞定顶部菜单栏。类似网易新闻、今日头条、虎扑看球等app做的一个顶部菜单栏，每栏中有独立的控制器，可自己定制。
+* [PageMenu](https://github.com/uacaps/PageMenu) A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram) [⚠️已失去维护]
 * [MXSegmentedPager](https://github.com/maxep/MXSegmentedPager) 分页滚动，多个分页的pageController效果
 * [XHTwitterPaggingViewer](https://github.com/xhzengAIB/XHTwitterPaggingViewer) A twitter like navigation bar, page viewer.
 
