@@ -22,7 +22,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 ###  目录
 - [参考@](#参考)
 - [版本管理@](#版本管理)
-  - [依赖管理@](#依赖管理)
   - [Git用法@](#Git用法)
   - [GitHub@](#GitHub)
   - [GitBook@](#GitBook)
@@ -183,8 +182,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 具体内容 =============================
 
 #### 版本管理@
-
-#### 依赖管理@
 
 #### Git用法@           [返回Git](#Git)                                   
 
