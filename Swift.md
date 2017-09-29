@@ -61,7 +61,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [瀑布流@](#瀑布流)
   - [菜单@](#菜单)
   - [TabBar@](#tabbar)
-  - [进度@](#进度)
+  - [进度条@](#进度条)
   - [引导页@](#引导页)
   - [page@](#page)
   - [评分@](#评分)
@@ -582,8 +582,8 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### HUD与Toast@
 
+* [InputBarAccessoryView](https://github.com/nathantannar4/InputBarAccessoryView)  A simple and easily customizable InputAccessoryView for making message input bars! As featured in MessageKit.
 * [Toast-Swift](https://github.com/scalessec/Toast-Swift) - 高可定制易用的 Toast 弹出信息或通知用户界面组件类。
-
 
 #### 对话框@
 
@@ -625,8 +625,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) 给tabbar item增加动画效果的一个组件.
 * [CBMDTabbarController](https://github.com/cbangchen/CBMDTabbarController) It is a smooth MD tabbarController used on iOS, which implement by Swift.
 
-#### 进度@
+#### 进度条@
 
+* [ButtonProgressBar-iOS](https://github.com/thePsguy/ButtonProgressBar-iOS) A small and flexible UIButton subclass with animated loading progress, and completion animation.
 * [KYCircularProgress](https://github.com/kentya6/KYCircularProgress) - 简单、实用路径可定进程条。
 
 #### 引导页@
@@ -637,6 +638,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### page@
 
+* [FSPagerView](https://github.com/WenchaoD/FSPagerView) FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - 非常赞 的iOS下的PagerTabStrip。
 * [PinterestSegment](https://github.com/TBXark/PinterestSegment) 仿 Pinterest 的 Segment 控件(swift), 行数 200+
 
@@ -853,6 +855,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) 支持同时启动多个模拟器的库，FaceBook出品.
 * [depcheck](https://github.com/wojteklu/depcheck) Swift 工程分析工具(Dependency analyzer tool for Swift projects)
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - 相当于 CocoaLumberjack 或 Log4j 的 Swift 版本，功能上甚至更强大。另外，源代码中已经内含了完整的 API 文档，使用非常方便。
+* [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) 内存分析，帮助找出循环引用等内存问题.Find retain cycles / memory leaks sooner.
 * [Quick](https://github.com/Quick/Quick) - 用于Swift中的单元测试（也可用于Objective-C），与Xcode整合在一起。如果你是Objective-C的粉丝，我建议用Specta代替这个，但是对Swift使用者来说，Quick是最佳选择。
 * [Sleipnir](https://github.com/railsware/Sleipnir) - Swift的测试框架。
 * [XXPlaceHolder.swift](https://github.com/adad184/XXPlaceHolder) - MMPlaceHolder的swift版本。
