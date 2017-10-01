@@ -475,6 +475,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [NewsBlur](https://github.com/samuelclay/NewsBlur) 作者独自一个人 Samuel Clay 做出来的一款名为 NewsBlur 的新闻阅读器, 很多人都称其为 Google Reader 的替代品, 这是它的源码 NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 * [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native)用 React Native 完成的 HackerNews 客户端。
 * [WeChat](https://github.com/zhengwenming/WeChat) 实现类似微信朋友圈或者QQ空间，评论回复，九宫格布局。处理键盘弹出后定位到当前点击的被评论人处。另：滑动时候FPS在57-60之间，纵享丝滑！
+* [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) An IM App like WeChat App has to send text, pictures, audio, video, location messaging, managing local address book, share a circle of friends, drifting friends, shake a fun and more interesting features.
 * [iOSAppTemplate](https://github.com/tbl00c/iOSAppTemplate)高仿微信，iOS应用开发模板，个人总结。
 * [Bilibili_Wuxianda](https://github.com/MichaelHuyp/Bilibili_Wuxianda)赞 高仿Bilibili客户端
 * [Coding-iOS](https://github.com/Coding/Coding-iOS) - Coding iOS 客户端源代码
@@ -1288,6 +1289,8 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 #### Search@
 
 * [PYSearch](https://github.com/iphone5solo/PYSearch) 非常赞 An elegant search controller for iOS.
+* [search](https://github.com/mrhyh/search) 搜索历史标签
+* [CYLSearchViewController](https://github.com/ChenYilong/CYLSearchViewController) 模仿iPhone短信聊天里的搜索框样式，点击搜索后，搜索框平滑移动到导航栏上。
 
 #### 主题@
 
