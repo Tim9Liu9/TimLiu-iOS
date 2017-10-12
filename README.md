@@ -533,6 +533,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [BDJProjectExample](https://github.com/yizzuide/BDJProjectExample) 基于VIPER设计模式，以XFLegoVIPER框架为引擎的仿《百思不得姐》项目
 * [UberSignature](https://github.com/uber/UberSignature) 一个通过触摸前面的App.
 * [HiPDA](https://github.com/leizh007/HiPDA) HiPDA的非官方客户端（iOS版）！
+* [yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo) a demo developed using weex/weex高仿网易严选App.
 
 #### 框架@                                                        [返回目录](#目录)
 
