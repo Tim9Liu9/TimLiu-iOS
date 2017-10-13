@@ -1438,6 +1438,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [YJFavorEmitter](https://github.com/SplashZ/YJFavorEmitter) 一个非常好用的点赞粒子发射器
 * [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) - BEMCheckBox 是一个用于 iOS 应用上构建漂亮, 高度可定制化动画效果的复选框类库, 最低支持到 iOS 7 系统, 有多种不同风格的动画效果可供选择。
 * [BFPaperCheckbox](https://github.com/bfeher/BFPaperCheckbox) iOS Checkboxes inspired by Google's Paper Material Design.
+* [GMenuController](https://github.com/GIKICoder/GMenuController) 具有和UIMenuController一致的UI 与交互行为. menuItem可指定target. 可定制化UI.对外API与原生UIMenuController 一致.
 
 #### 工具@
 #### 综合@
