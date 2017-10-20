@@ -390,9 +390,7 @@ A curated list of iOS objective-C ecosystem.
 * [legit](https://github.com/kennethreitz/legit) - 灵感来自于github for mac的git 命令行工具
 * [git-sweep](https://github.com/arc90/git-sweep) - git命令行工具，帮助你清理已经merge到master的分支
 * [github-email](https://github.com/paulirish/github-email) - 获取用户的邮箱
-* [git-smart](https://github.com/geelen/git-smart)
-* [git-subtree](https://github.com/apenwarr/git-subtree)
-* [git-town](https://github.com/Originate/git-town)
+* [git-town](https://github.com/Originate/git-town) Generic, high-level Git workflow support!
 * [git-fire](https://github.com/qw3rtman/git-fire) - 紧急情况下保存代码
 * [gitsome](https://github.com/donnemartin/gitsome) - Git/GitHub命令行工具
 * [maintainer](https://github.com/gaocegege/maintainer) - 让你的 GitHub repo 对开发者更加友好的命令行工具
