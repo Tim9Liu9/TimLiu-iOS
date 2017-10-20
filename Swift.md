@@ -42,6 +42,20 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [音频@](#音频)
   - [视频@](#视频)
     - [视频播放@](#视频播放)
+- [图像@](#图像)
+  - [人脸识别@](#人脸识别)
+  - [图像识别@](#图像识别)
+  - [图像处理@](#图像处理)
+  - [图像缓存@](#图像缓存)
+  - [图像浏览@](#图像浏览)
+  - [相册@](相册#)
+- [数据结构/算法@](#数据结构/算法)
+- [动画@](#动画)
+  - [转场动画@](#转场动画)
+  - [特效@](@特效)
+  - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
+  - [gif动画@](#gif动画)
+  - [其他动画@](#其他动画)
 - [机器学习@](#机器学习)
 - [UI@](#ui)
   - [日历@](#日历)
@@ -78,13 +92,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
   - [Xcode相关@](#Xcode相关)
 - [游戏@](#游戏)
 - [文本@](@文本)
-- [动画@](#动画)
-  - [转场动画@](#转场动画)
-  - [特效@](@特效)
-  - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
-  - [gif动画@](#gif动画)
-  - [其他动画@](#其他动画)
-- [算法@](#算法)
 - [VR@](#VR)
 - [AR@](#AR)
 - [开发资料@](#开发资料)
@@ -100,14 +107,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 - [Email@](#email)
 - [三方分享、支付、登录等等@](#三方分享支付登录等等)
 - [其他库@](#其他库)
-- [图像@](#图像)
-  - [人脸识别@](#人脸识别)
-  - [图像识别@](#图像识别)
-  - [图像处理@](#图像处理)
-  - [图像缓存@](#图像缓存)
-  - [图像浏览@](#图像浏览)
-  - [相册@](相册#)
 - [VR@](VR@)
+- [AR@](AR@)
+- [蓝牙@][蓝牙@]
 - [地图@](#地图)
 - [通知@](#通知)
 - [版本新API的Demo@](#版本新api的demo)
@@ -325,6 +327,13 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### CoreData@
 
 * [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack :large_orange_diamond:
+* [Sync](https://github.com/3lvis/Sync) - :arrows_counterclockwise: Modern Swift JSON synchronization to Core Data :large_orange_diamond:
+* [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - A powerful and simple Core Data wrapper framework written in Swift. :large_orange_diamond:
+* [AERecord](https://github.com/tadija/AERecord) - Super awesome Core Data wrapper in Swift. :large_orange_diamond:
+* [Graph](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for CoreData in Swift. :large_orange_diamond:
+* [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack :large_orange_diamond:
+* [DATAStack](https://github.com/3lvis/DATAStack) - 100% Swift Simple Boilerplate Free Core Data Stack. NSPersistentContainer. :large_orange_diamond:
+* [Cadmium](https://github.com/jmfieldman/cadmium) - A complete swift framework that wraps CoreData and helps facilitate best practices. :large_orange_diamond:
 
 #### 数据库@
 
@@ -337,6 +346,21 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [swiftydb](http://www.appcoda.com/swiftydb/) - 是一个第三方 SQLite 工具，能够大大简化数据库操作。如果你不放心 Realm，那就用 SwiftyDB 吧。[使用教程](http://swift.gg/2016/05/17/swiftydb/)、[demo](https://github.com/appcoda/SwiftyDB-Demo)
 * [Graph.swift](https://github.com/CosmicMind/Graph) - 设计新颖、使用简单基于 Core Data 的数据驱动框架库 （作者Daniel Dahan）。
 * [SwiftStore](https://github.com/hemantasapkota/SwiftStore) - Key-Value store for Swift backed by LevelDB :large_orange_diamond:
+* [Prephirences](https://github.com/phimage/Prephirences) - Prephirences is a Swift library that provides useful protocols and convenience methods to manage application preferences, configurations and app-state. :large_orange_diamond:
+* [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) - Statically-typed NSUserDefaults. :large_orange_diamond:
+* [SugarRecord](https://github.com/carambalabs/SugarRecord) - Data persistence management library written in Swift 3.0 :large_orange_diamond:
+* [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3. :large_orange_diamond:
+* [GRDB.swift](https://github.com/groue/GRDB.swift) - A versatile SQLite toolkit for Swift, with WAL mode support :large_orange_diamond:
+* [Fluent](https://github.com/vapor/fluent) - Simple ActiveRecord implementation for working with your database in Swift. :large_orange_diamond:
+* [YapDatabaseExtensions](https://github.com/danthorpe/YapDatabaseExtensions) - YapDatabase extensions for use with Swift :large_orange_diamond:
+* [SwiftMongoDB](https://github.com/Danappelxx/SwiftMongoDB) - A MongoDB interface for Swift :large_orange_diamond:
+* [SwiftStore](https://github.com/hemantasapkota/SwiftStore) - Key-Value store for Swift backed by LevelDB :large_orange_diamond:
+* [MongoDB](https://github.com/PerfectlySoft/Perfect-MongoDB) - A Swift wrapper around the mongo-c client library, enabling access to MongoDB servers. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
+* [SQLite](https://github.com/PerfectlySoft/Perfect-SQLite) - A Swift wrapper around the SQLite 3 client library, enabling access to SQLite servers. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
+* [MySQL](https://github.com/PerfectlySoft/Perfect-MySQL) - A Swift wrapper around the MySQL client library, enabling access to MySQL servers. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
+* [Redis](https://github.com/PerfectlySoft/Perfect-Redis) - A Swift wrapper around the Redis client library, enabling access to Redis. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
+* [PostgreSQL](https://github.com/PerfectlySoft/Perfect-PostgreSQL) - A Swift wrapper around the libpq client library, enabling access to PostgreSQL servers. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
+* [FileMaker](https://github.com/PerfectlySoft/Perfect-FileMaker) - A Swift wrapper around the FileMaker XML Web publishing interface, enabling access to FileMaker servers. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
 
 #### 多媒体@
 #### 相机@
@@ -402,6 +426,12 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [arkit-smb-homage](https://github.com/bjarnel/arkit-smb-homage) An implementation of a Super Mario Bros-like game in augmented reality with ARKit and SceneKit.
 * [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) Code examples for ARKit.
 
+#### 蓝牙@
+
+* [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth) - 是一个非常容易使用的蓝牙库, 适用于 iOS 和 Mac OS, 基于原生 CoreBluetooth 框架封装, 可以帮开发者们更简单地使用 CoreBluetooth API, 使用链式方法体, 使得代码更简洁、优雅。[iOS蓝牙开发（四）：BabyBluetooth蓝牙库介绍](http://www.cocoachina.com/ios/20160219/15301.html)
+* [RxBluetoothKit.swift](https://github.com/Polidea/RxBluetoothKit) - 基于 RxSwift 的蓝牙通讯库。
+* [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth) - The easiest way to use Bluetooth (BLE) in iOS/MacOS.
+
 #### 视频@
 #### 视频播放@
 
@@ -412,10 +442,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [mobileplayer-ios.swift](https://github.com/mobileplayer/mobileplayer-ios) - 很不错的高度可定制播放器项目。
 * [BMPlayer.swift](https://github.com/BrikerMan/BMPlayer) - 基于 AVPlayer 使用 Swift 封装的视频播放器，方便快速集成,支持横屏、竖屏，上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。
 * [PlayerView](https://github.com/davidlondono/PlayerView) - 一个使用代理和AVPlayer的播放View
-
-#### 机器学习@
-
-* [SeeFood](https://github.com/kingreza/SeeFood) Inspired by HBO's Silicon Valley: SeeFood is an iOS app that uses CoreML to detect various dishes
 
 ####图像@
 
@@ -503,6 +529,102 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [TLPhotoPicker](https://github.com/tilltue/TLPhotoPicker) 类似facebook的一个相册多图选取框架.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written by swift
 * [MediaBrowser](https://github.com/younatics/MediaBrowser) — 照片/视频浏览器，支持UIImage对象、PHAsset对象、资源库URL、网络图像/视频、本地文件
+
+#### 数据结构/算法@
+
+* [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) 很多流行的算法和数据结构的具体实现，非常赞👍👍👍
+* [SwiftSortedList](https://github.com/bemindinteractive/SwiftSortedList) - A sorted list implementation written in Swift :large_orange_diamond:
+* [BTree](https://github.com/attaswift/BTree) - Fast ordered collections for Swift using in-memory B-trees :large_orange_diamond:
+* [SwiftStructures](https://github.com/waynewbishop/SwiftStructures) - Examples of commonly used data structures and algorithms in Swift. :large_orange_diamond:
+* [diff](https://github.com/soffes/diff) - Simple diff library in pure Swift :large_orange_diamond:
+* [Dollar](https://github.com/ankurp/Dollar) - A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript https://www.dollarswift.org/. :large_orange_diamond:
+* [Result](https://github.com/antitypical/Result) - Swift type modeling the success/failure of arbitrary operations. :large_orange_diamond:
+* [Buffer](https://github.com/alexdrone/Buffer) - Swift μ-framework for efficient array diffs, collection observation and cell configuration. :large_orange_diamond:
+* [SwiftGraph](https://github.com/davecom/SwiftGraph) - Graph data structure and utility functions in pure Swift. :large_orange_diamond:
+* [SwiftPriorityQueue](https://github.com/davecom/SwiftPriorityQueue) - A priority queue with a classic binary heap implementation in pure Swift. :large_orange_diamond:
+* [HeckelDiff](https://github.com/mcudich/HeckelDiff) - A fast Swift diffing library. :large_orange_diamond:
+* [Dekoter](https://github.com/artemstepanenko/Dekoter) - `NSCoding`'s counterpart for Swift structs. :large_orange_diamond:
+* [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations! :large_orange_diamond:
+
+#### 动画@
+
+* [FleaMarket](https://github.com/SunLiner/FleaMarket) "咸鱼"新特性-视频动画
+* [fave-button](https://github.com/xhamr/fave-button) 给button增加了很多可爱的动画.
+
+#### 转场动画@
+
+* [Hero](https://github.com/lkzhao/Hero) 非常👍👍👍 的转场动画库.
+
+#### 特效@
+
+* [Pastel](https://github.com/cruisediary/Pastel) 类似Instagram的梯度背景色界面动画效果. 🎨 Gradient animation effect like Instagram
+
+#### 侧滑与右滑返回手势@
+
+* [SideMenu](https://github.com/Yalantis/Side-Menu.iOS/tree/master/SideMenu) - swift实现，一款带动画效果可定制 Slide Menu，可以学习其动画实现思路。P.S. 对于Hamburger式菜单，虽然很常用，不过，苹果并不鼓励使用，甚至有开发小组对其弊病用自家上线应用前后数据对比进行了抨击。
+* [QQConfiguration](https://github.com/shinept/QQConfiguration) - swift，QQ-iPhone端框架，左侧菜单栏拖动手势。
+* [SwiftPages](https://github.com/GabrielAlva/SwiftPages) - 高可定制类似 Instagram 视图滑动切换功能类库。API 简单、易用。
+* [FlowingMenu.swift](https://github.com/yannickl/FlowingMenu) - 菜单如此出场方式（橡皮筋弹跳式动画）好玩又有趣。
+
+#### gif动画@
+
+* [YLGIFImage-Swift](https://github.com/liyong03/YLGIFImage-Swift) - YLGIFImage-Swift。
+* [gifu.Swift](https://github.com/kaishin/gifu) - gifu.Swift高性能GIF显示类库。
+* [droptogif](https://github.com/mortenjust/droptogif) -  droptogif视频拖拽到应用窗口后自动转换为 GIF 动画（其转换进程动画效果也超赞）。
+* [JWAnimatedImage.swift](https://github.com/wangjwchn/JWAnimatedImage) - JWAnimatedImage.swift集中了目前主流的 GIF 显示库(如 FLAnimatedImage,Gifu 等)的优点，进行重构，代码短小精悍。而且使用了新的 frame 提取算法。
+* [SwiftyGif](https://github.com/kirualex/SwiftyGif) - 高性能 Gif 播放引擎。
+* [PHImageKit.swift](https://github.com/producthunt/PHImageKit) - 出自 Product Hunter 开发小组的带下载、缓存的 GIF 播放组件库。使用简单又方便。
+
+#### 其他动画@
+
+* [GoogleNewsStandAnimation](https://github.com/AbhimanyuForiOS/GoogleNewsStandAnimation) It is same like Google News Stand Animation with Customise Configuration file in Swift iOS Technology.
+* [popping](https://github.com/schneiderandre/popping) - popping是一个POP 使用实例工程
+* [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) 一个容易读，和使用的链式动画库.同时支持Objective-C
+* [PopMenu](https://github.com/xhzengAIB/PopMenu) - 用POP动画引擎写的Sina微博的Menu菜单。
+* [Spring](https://github.com/MengTo/Spring) - Spring是一个Swift编写的开源库，可简化Swift编写的iOS动画。支持shake、pop、morph、squeeze、wobble、swing、flipX、flipY、fall、squeezeLeft、squeezeRight以及squeezeDown等多种动画形式，用 IBDesignable 让使用者可以在 Xcode 中快速设置动画效果。
+* [JGTransitionCollectionView](https://github.com/JayGajjar/JGTransitionCollectionView) - swift，基于集合视图扩展实现完成自动布局及单元项 Flip式动画效果（效果很赞）。组件使用方便、自然（只需设置集合视图数据源的标准方式即可）。
+* [KYShareMenu](https://github.com/KittenYang/KYShareMenu) - 带弹性动画的分享菜单。
+* [BuildAnInfiniteCarousel](https://github.com/johnlui/Swift-On-iOS/tree/master/BuildAnInfiniteCarousel) - 自己动手造无限循环图片轮播，[教程](https://autolayout.club/2015/10/29/%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E9%80%A0%E6%97%A0%E9%99%90%E5%BE%AA%E7%8E%AF%E5%9B%BE%E7%89%87%E8%BD%AE%E6%92%AD/)。
+* [LLCycleScrollView](https://github.com/LvJianfeng/LLCycleScrollView) - iOS图片轮播(图片循环播放), 支持文本图片结合,支持图片数据的延时加载,支持StoryBoard,支持本地图片显示及与网络图的混合显示
+* [tispr-card-stack](https://github.com/tispr/tispr-card-stack) - swift 卡片风格动画切换组件及完整交互示例。
+* [ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift) - swift 卡片堆叠效果的实现（ZLSwipeableView)】可实现类似Tinder和Potluck应用程序的卡片堆叠效果，该项目基于[ZLSwipeableView objective-c](https://github.com/zhxnlai/ZLSwipeableView/)实现。1.自定义动画。2.自定义滑动切换。3.自定义方向。4.撤销。
+* [Koloda](https://github.com/Yalantis/Koloda) - 基于卡片的 Tinder-style 动画效果示例。精细绝人。更赞的是额外附了详细开发教程 How We Built Tinder-Like Koloda Animation in Swift [网页链接](https://yalantis.com/blog/how-we-built-tinder-like-koloda-in-swift/) 。Yalantis 出品动画程序款款精品。
+* [KDIntroView](https://github.com/likedan/KDIntroView) - swift 动态介绍视图框架及演示。另外两个相似的类库是 RazzleDazzle和 Presentation，择需使用。
+* [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle) - 【IFTTT开源Swift编写的帧动画框架--RazzleDazzle】RazzleDazzle 是IFTTT开源的一个iOS帧动画框架，非常适用于APP初次使用时的介绍和引导信息。JazzHands是UIKit一个简单的关键帧基础动画框架，可通过手势、scrollview、KVO等控制动画，被IFTTT应用在IFTTT for iPhone上。
+* [SIFloatingCollection_Swift](https://github.com/ProudOfZiggy/SIFloatingCollection_Swift) - 可定制的 Apple Music 风格浮动形状动画组件及演示。
+* [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - swift， UICollectionViewController之间切换的动画。
+* [CardsAnimationDemo](https://github.com/adow/CardsAnimationDemo) - swift， [《使用 UICollectionView 实现的一个卡片动画》](http://swiftcn.io/topics/64?f=w)不是直接操作所有 UIView 和 CALayer 的 transform3D 属性来实现整个效果的，而是使用 UICollectionView 来完成所有的视图管理和实现。
+* [TKRubberIndicator.swift](https://github.com/TBXark/TKRubberIndicator) - 一个很不错的 page control。
+* [TTGEmojiRate.swift](https://github.com/zekunyan/TTGEmojiRate) - TTGEmojiRate.swift以Emoji表情为基础绘图，[Swift开源项目: TTGEmojiRate的实现](http://tutuge.me/2015/10/25/ttgemojirate-lib/)。
+* [CardAnimation.swift](https://github.com/seedante/CardAnimation) - CardAnimation 是国人开发的一个用 Swift 实现卡片垂直翻转动画的 Demo, [实现思路](http://www.jianshu.com/p/286222d4edf8)。
+* [UIViewXXYBoom.swift](https://github.com/xxycode/UIViewXXYBoom) - 一个炫酷好玩的爆炸效果，[如何实现这个效果](http://xxycode.com/ru-he-zhi-zuo-ge-xuan-ku-hao-wan-de-bao-zha-xiao-guo-2/)。
+* [ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift) - [ZLSwipeableView](https://github.com/zhxnlai/ZLSwipeableView) - ZLSwipeableViewSwift在Tinder and Potluck中的动画效果实现思路（连续卡片翻页效果），最贴心的是作者提供了OC和Swift两个版本来供开发者使用，非常丝滑顺畅的效果。
+* [RYCuteView](https://github.com/Resory/RYCuteView) - 用UIBezierPath实现果冻效果。 [教程](http://www.jianshu.com/p/21db20189c40)
+* [IBAnimatable.swift](https://github.com/JakeLin/IBAnimatable) - 第三方开源库IBAnimatable可以帮助我们在Interface Builder和Swift Playground里面设计UI, 交互, 导航模式, 换场和动画。整个App 都是通过 IBAnimatable 在Interface Builder 设计完成，没有任何一行代码。
+* [MotionMachine.swift](https://github.com/poetmountain/MotionMachine) - 功能强大、优雅、模块化动画库。
+* [circle-menu.swift](https://github.com/Ramotion/circle-menu) - 动画效率很赞的圆形缩放菜单演示及类库。
+* [BWWalkthrough.swift](https://github.com/ariok/BWWalkthrough) - BWWalkthrough.swift界面切换中加入灵动的动画效果。
+* [hamburger-button.swift](https://github.com/robb/hamburger-button) - hamburger-button.swift一个汉堡包动画关闭按钮。
+* [HamburgerButton.swift](https://github.com/fastred/HamburgerButton) - HamburgerButton.swift一个汉堡包动画返回按钮。
+* [MDCSwipeToChooseView](https://github.com/modocache/MDCSwipeToChoose) - MDCSwipeToChooseView翻牌子效果。
+* [Advance.swift](https://github.com/storehouse/Advance) - 简单易用、功能强大的动画框架库。在手势交互、帧动画、自定义动画及仿真类型将是不错的选择。
+* [HWAnimationTransition_Swift](https://github.com/Loveway/HWAnimationTransition_Swift) 、[HWAnimationTransition_OC](https://github.com/Loveway/HWAnimationTransition_OC) - 类似于格瓦拉启动页中的放大转场动画（objective-C && Swift）。[教程](http://www.jianshu.com/p/8c29fce5a994)
+* [NumberMorphView.swift](https://github.com/me-abhinav/NumberMorphView) - 可爱的数字补间（变身）动画类库。
+* [DisplaySwitcher.swift](https://github.com/Yalantis/DisplaySwitcher) - 两个集合视图在不同布局（平铺和列表）间平滑切换。Yalantis 出品。
+* [DynamicButton.swift](https://github.com/yannickl/DynamicButton) - 一套完整、且带动画过渡的图标按钮库。
+* [TKDotSegment.swift](https://github.com/TBXark/TKDotSegment) - 是一个带有圆点动画的 segment。
+* [LiquidLoader.swift](https://github.com/yoavlt/LiquidLoader) - 液态加载动画的轻量级 UI 组件。
+* [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) - 15DaysofAnimationsinSwift动画。
+* [Interpolate.swift](https://github.com/marmelroy/Interpolate) - 手势驱动交互式转场动画框架库。这个很专业，且非常有意思。
+* [PeekPop.swift](https://github.com/marmelroy/PeekPop) - 3DTouch动画组件。
+* [fantastic-ios-animation.swift](https://github.com/onmyway133/fantastic-ios-animation) - 基于 UI 组件类别分类，且带精彩动画效果的 iOS 组件库集合。
+* [GridPanelDemo](https://github.com/JasonZengJ/GridPanelDemo) 赞，一个点击翻转的动画Demo
+* [astrology-motion-ios](https://github.com/handsomecode/astrology-motion-ios) Astrology animation written in Swift 3
+
+#### 机器学习@
+
+* [SeeFood](https://github.com/kingreza/SeeFood) Inspired by HBO's Silicon Valley: SeeFood is an iOS app that uses CoreML to detect various dishes
+
 
 #### UI@
 #### 日历@
@@ -739,86 +861,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 * [DefaultStringConvertible](https://github.com/jessesquires/DefaultStringConvertible) - A default CustomStringConvertible implementation for Swift types 🔶[e]
 
-#### 动画@
-
-* [FleaMarket](https://github.com/SunLiner/FleaMarket) "咸鱼"新特性-视频动画
-* [fave-button](https://github.com/xhamr/fave-button) 给button增加了很多可爱的动画.
-
-#### 转场动画@
-
-* [Hero](https://github.com/lkzhao/Hero) 非常👍👍👍 的转场动画库.
-
-#### 特效@
-
-* [Pastel](https://github.com/cruisediary/Pastel) 类似Instagram的梯度背景色界面动画效果. 🎨 Gradient animation effect like Instagram
-
-#### 侧滑与右滑返回手势@
-
-* [SideMenu](https://github.com/Yalantis/Side-Menu.iOS/tree/master/SideMenu) - swift实现，一款带动画效果可定制 Slide Menu，可以学习其动画实现思路。P.S. 对于Hamburger式菜单，虽然很常用，不过，苹果并不鼓励使用，甚至有开发小组对其弊病用自家上线应用前后数据对比进行了抨击。
-* [QQConfiguration](https://github.com/shinept/QQConfiguration) - swift，QQ-iPhone端框架，左侧菜单栏拖动手势。
-* [SwiftPages](https://github.com/GabrielAlva/SwiftPages) - 高可定制类似 Instagram 视图滑动切换功能类库。API 简单、易用。
-* [FlowingMenu.swift](https://github.com/yannickl/FlowingMenu) - 菜单如此出场方式（橡皮筋弹跳式动画）好玩又有趣。
-
-#### gif动画@
-
-* [YLGIFImage-Swift](https://github.com/liyong03/YLGIFImage-Swift) - YLGIFImage-Swift。
-* [gifu.Swift](https://github.com/kaishin/gifu) - gifu.Swift高性能GIF显示类库。
-* [droptogif](https://github.com/mortenjust/droptogif) -  droptogif视频拖拽到应用窗口后自动转换为 GIF 动画（其转换进程动画效果也超赞）。
-* [JWAnimatedImage.swift](https://github.com/wangjwchn/JWAnimatedImage) - JWAnimatedImage.swift集中了目前主流的 GIF 显示库(如 FLAnimatedImage,Gifu 等)的优点，进行重构，代码短小精悍。而且使用了新的 frame 提取算法。
-* [SwiftyGif](https://github.com/kirualex/SwiftyGif) - 高性能 Gif 播放引擎。
-* [PHImageKit.swift](https://github.com/producthunt/PHImageKit) - 出自 Product Hunter 开发小组的带下载、缓存的 GIF 播放组件库。使用简单又方便。
-
-#### 其他动画@
-
-* [GoogleNewsStandAnimation](https://github.com/AbhimanyuForiOS/GoogleNewsStandAnimation) It is same like Google News Stand Animation with Customise Configuration file in Swift iOS Technology.
-* [popping](https://github.com/schneiderandre/popping) - popping是一个POP 使用实例工程
-* [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) 一个容易读，和使用的链式动画库.同时支持Objective-C
-* [PopMenu](https://github.com/xhzengAIB/PopMenu) - 用POP动画引擎写的Sina微博的Menu菜单。
-* [Spring](https://github.com/MengTo/Spring) - Spring是一个Swift编写的开源库，可简化Swift编写的iOS动画。支持shake、pop、morph、squeeze、wobble、swing、flipX、flipY、fall、squeezeLeft、squeezeRight以及squeezeDown等多种动画形式，用 IBDesignable 让使用者可以在 Xcode 中快速设置动画效果。
-* [JGTransitionCollectionView](https://github.com/JayGajjar/JGTransitionCollectionView) - swift，基于集合视图扩展实现完成自动布局及单元项 Flip式动画效果（效果很赞）。组件使用方便、自然（只需设置集合视图数据源的标准方式即可）。
-* [KYShareMenu](https://github.com/KittenYang/KYShareMenu) - 带弹性动画的分享菜单。
-* [BuildAnInfiniteCarousel](https://github.com/johnlui/Swift-On-iOS/tree/master/BuildAnInfiniteCarousel) - 自己动手造无限循环图片轮播，[教程](https://autolayout.club/2015/10/29/%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E9%80%A0%E6%97%A0%E9%99%90%E5%BE%AA%E7%8E%AF%E5%9B%BE%E7%89%87%E8%BD%AE%E6%92%AD/)。
-* [LLCycleScrollView](https://github.com/LvJianfeng/LLCycleScrollView) - iOS图片轮播(图片循环播放), 支持文本图片结合,支持图片数据的延时加载,支持StoryBoard,支持本地图片显示及与网络图的混合显示
-* [tispr-card-stack](https://github.com/tispr/tispr-card-stack) - swift 卡片风格动画切换组件及完整交互示例。
-* [ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift) - swift 卡片堆叠效果的实现（ZLSwipeableView)】可实现类似Tinder和Potluck应用程序的卡片堆叠效果，该项目基于[ZLSwipeableView objective-c](https://github.com/zhxnlai/ZLSwipeableView/)实现。1.自定义动画。2.自定义滑动切换。3.自定义方向。4.撤销。
-* [Koloda](https://github.com/Yalantis/Koloda) - 基于卡片的 Tinder-style 动画效果示例。精细绝人。更赞的是额外附了详细开发教程 How We Built Tinder-Like Koloda Animation in Swift [网页链接](https://yalantis.com/blog/how-we-built-tinder-like-koloda-in-swift/) 。Yalantis 出品动画程序款款精品。
-* [KDIntroView](https://github.com/likedan/KDIntroView) - swift 动态介绍视图框架及演示。另外两个相似的类库是 RazzleDazzle和 Presentation，择需使用。
-* [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle) - 【IFTTT开源Swift编写的帧动画框架--RazzleDazzle】RazzleDazzle 是IFTTT开源的一个iOS帧动画框架，非常适用于APP初次使用时的介绍和引导信息。JazzHands是UIKit一个简单的关键帧基础动画框架，可通过手势、scrollview、KVO等控制动画，被IFTTT应用在IFTTT for iPhone上。
-* [SIFloatingCollection_Swift](https://github.com/ProudOfZiggy/SIFloatingCollection_Swift) - 可定制的 Apple Music 风格浮动形状动画组件及演示。
-* [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - swift， UICollectionViewController之间切换的动画。
-* [CardsAnimationDemo](https://github.com/adow/CardsAnimationDemo) - swift， [《使用 UICollectionView 实现的一个卡片动画》](http://swiftcn.io/topics/64?f=w)不是直接操作所有 UIView 和 CALayer 的 transform3D 属性来实现整个效果的，而是使用 UICollectionView 来完成所有的视图管理和实现。
-* [TKRubberIndicator.swift](https://github.com/TBXark/TKRubberIndicator) - 一个很不错的 page control。
-* [TTGEmojiRate.swift](https://github.com/zekunyan/TTGEmojiRate) - TTGEmojiRate.swift以Emoji表情为基础绘图，[Swift开源项目: TTGEmojiRate的实现](http://tutuge.me/2015/10/25/ttgemojirate-lib/)。
-* [CardAnimation.swift](https://github.com/seedante/CardAnimation) - CardAnimation 是国人开发的一个用 Swift 实现卡片垂直翻转动画的 Demo, [实现思路](http://www.jianshu.com/p/286222d4edf8)。
-* [UIViewXXYBoom.swift](https://github.com/xxycode/UIViewXXYBoom) - 一个炫酷好玩的爆炸效果，[如何实现这个效果](http://xxycode.com/ru-he-zhi-zuo-ge-xuan-ku-hao-wan-de-bao-zha-xiao-guo-2/)。
-* [ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift) - [ZLSwipeableView](https://github.com/zhxnlai/ZLSwipeableView) - ZLSwipeableViewSwift在Tinder and Potluck中的动画效果实现思路（连续卡片翻页效果），最贴心的是作者提供了OC和Swift两个版本来供开发者使用，非常丝滑顺畅的效果。
-* [RYCuteView](https://github.com/Resory/RYCuteView) - 用UIBezierPath实现果冻效果。 [教程](http://www.jianshu.com/p/21db20189c40)
-* [IBAnimatable.swift](https://github.com/JakeLin/IBAnimatable) - 第三方开源库IBAnimatable可以帮助我们在Interface Builder和Swift Playground里面设计UI, 交互, 导航模式, 换场和动画。整个App 都是通过 IBAnimatable 在Interface Builder 设计完成，没有任何一行代码。
-* [MotionMachine.swift](https://github.com/poetmountain/MotionMachine) - 功能强大、优雅、模块化动画库。
-* [circle-menu.swift](https://github.com/Ramotion/circle-menu) - 动画效率很赞的圆形缩放菜单演示及类库。
-* [BWWalkthrough.swift](https://github.com/ariok/BWWalkthrough) - BWWalkthrough.swift界面切换中加入灵动的动画效果。
-* [hamburger-button.swift](https://github.com/robb/hamburger-button) - hamburger-button.swift一个汉堡包动画关闭按钮。
-* [HamburgerButton.swift](https://github.com/fastred/HamburgerButton) - HamburgerButton.swift一个汉堡包动画返回按钮。
-* [MDCSwipeToChooseView](https://github.com/modocache/MDCSwipeToChoose) - MDCSwipeToChooseView翻牌子效果。
-* [Advance.swift](https://github.com/storehouse/Advance) - 简单易用、功能强大的动画框架库。在手势交互、帧动画、自定义动画及仿真类型将是不错的选择。
-* [HWAnimationTransition_Swift](https://github.com/Loveway/HWAnimationTransition_Swift) 、[HWAnimationTransition_OC](https://github.com/Loveway/HWAnimationTransition_OC) - 类似于格瓦拉启动页中的放大转场动画（objective-C && Swift）。[教程](http://www.jianshu.com/p/8c29fce5a994)
-* [NumberMorphView.swift](https://github.com/me-abhinav/NumberMorphView) - 可爱的数字补间（变身）动画类库。
-* [DisplaySwitcher.swift](https://github.com/Yalantis/DisplaySwitcher) - 两个集合视图在不同布局（平铺和列表）间平滑切换。Yalantis 出品。
-* [DynamicButton.swift](https://github.com/yannickl/DynamicButton) - 一套完整、且带动画过渡的图标按钮库。
-* [TKDotSegment.swift](https://github.com/TBXark/TKDotSegment) - 是一个带有圆点动画的 segment。
-* [LiquidLoader.swift](https://github.com/yoavlt/LiquidLoader) - 液态加载动画的轻量级 UI 组件。
-* [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) - 15DaysofAnimationsinSwift动画。
-* [Interpolate.swift](https://github.com/marmelroy/Interpolate) - 手势驱动交互式转场动画框架库。这个很专业，且非常有意思。
-* [PeekPop.swift](https://github.com/marmelroy/PeekPop) - 3DTouch动画组件。
-* [fantastic-ios-animation.swift](https://github.com/onmyway133/fantastic-ios-animation) - 基于 UI 组件类别分类，且带精彩动画效果的 iOS 组件库集合。
-* [GridPanelDemo](https://github.com/JasonZengJ/GridPanelDemo) 赞，一个点击翻转的动画Demo
-* [astrology-motion-ios](https://github.com/handsomecode/astrology-motion-ios) Astrology animation written in Swift 3
-
-
-#### 算法@
-
-* [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) 很多流行的算法和数据结构的具体实现，非常赞👍👍👍
-
 #### VR@
 
 * [VRDemo-Swift](https://github.com/Huanhoo/VRDemo-Swift) VRDemo是用Swift配合OpenGL ES实现的360度全景播放器
@@ -826,6 +868,9 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 #### 开发资料@
 
 #### 播客@
+
+* [Swift Playhouse](http://www.swiftplayhouse.com/)
+* [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
 
 #### 他人开源总结@
 
@@ -919,8 +964,6 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 * [打开自带地图、百度地图、腾讯地图](http://code.cocoachina.com/view/128249) - 打开自带地图、百度地图、腾讯地图。
 * [MapManager.swift](https://github.com/varshylmobile/MapManager) - MapManager.swift地图及路径管理封装库。
 * [eviltransform.swift](https://github.com/googollee/eviltransform) - eviltransform.swift解决国内GPS地图坐标偏移问题,它将政府加密过的GCJ-02坐标，转成世界通用的WGS-84坐标。
-* [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth) - 是一个非常容易使用的蓝牙库, 适用于 iOS 和 Mac OS, 基于原生 CoreBluetooth 框架封装, 可以帮开发者们更简单地使用 CoreBluetooth API, 使用链式方法体, 使得代码更简洁、优雅。[iOS蓝牙开发（四）：BabyBluetooth蓝牙库介绍](http://www.cocoachina.com/ios/20160219/15301.html)
-* [RxBluetoothKit.swift](https://github.com/Polidea/RxBluetoothKit) - 基于 RxSwift 的蓝牙通讯库。
 * [BluetoothKit.swift](https://github.com/rasmusth/BluetoothKit) - 基于 CoreBluetooth API 实现iOS/OS X 设备间蓝牙通讯封装类库。功能强大、传输稳定，示例完整，很酷。
 * [CoreDataStack.swift](https://github.com/bignerdranch/CoreDataStack) - 存储栈。
 * [SYNQueue.swift](https://github.com/THREDOpenSource/SYNQueue) - 执行队列类库。
