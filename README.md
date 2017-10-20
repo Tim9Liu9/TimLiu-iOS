@@ -9,8 +9,6 @@
 
 这是一个用于iOS开发的各种开源库、开源资料、开源技术等等的索引库.
 
-github排名 [https://github.com/trending](https://github.com/trending),github搜索：[https://github.com/search](https://github.com/search)
-
 ### 使用方法
 
 根据目录关键字搜索，记得包含@，以保证搜索目录关键字的唯一性。

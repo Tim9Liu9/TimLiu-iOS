@@ -1,5 +1,4 @@
 # TimLiu-iOS
-github排名 [https://github.com/trending](https://github.com/trending),github搜索：[https://github.com/search](https://github.com/search)
 
 [Objective-C版本点击这里](https://github.com/Tim9Liu9/TimLiu-iOS/blob/master/README.md)
 欢迎加入QQ交流群:  594119878
