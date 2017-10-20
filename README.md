@@ -5,15 +5,16 @@
 [Swift版本点击这里](https://github.com/Tim9Liu9/TimLiu-iOS/blob/master/Swift.md)
 欢迎加入QQ交流群:  594119878
 
-### 介绍
+### About
 
 这是一个用于iOS开发的各种开源库、开源资料、开源技术等等的索引库.
 
-### 使用方法
+### How to Use
 
-根据目录关键字搜索，记得包含@，以保证搜索目录关键字的唯一性。
+- Simply press <kbd>command</kbd> + <kbd>F</kbd> + <kbd>"xxx@"</kbd> to search for a keyword
+- Go through our *Content Menu*
 
-### 问题反馈
+### Feedback
 
 期待大家和我们一起共同维护，同时也期望大家随时能提出宝贵的意见（直接提交issues即可）。请广大网友只按照目录结构（即使目录结构有问题）添加三方库，并提交pull request。目录问题大家提出issues后楼主会及时更改的。
 
