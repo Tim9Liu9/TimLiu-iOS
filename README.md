@@ -7,7 +7,7 @@
 
 ### About
 
-这是一个用于iOS开发的各种开源库、开源资料、开源技术等等的索引库.
+A curated list of iOS objective-C ecosystem.
 
 ### How to Use
 
