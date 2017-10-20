@@ -1,7 +1,7 @@
 # TimLiu-iOS
 
 [Objective-C版本点击这里](https://github.com/Tim9Liu9/TimLiu-iOS/blob/master/README.md)
-欢迎加入QQ交流群:  594119878
+欢迎加入QQ群交流:  594119878
 
 使用方法：根据目录关键字搜索，记得包含@，以保证搜索目录关键字的唯一性。
 

@@ -3,7 +3,7 @@
 [![Language](https://img.shields.io/badge/language-ObjC-blue.svg)](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)  
 
 [Swift版本点击这里](https://github.com/Tim9Liu9/TimLiu-iOS/blob/master/Swift.md)
-欢迎加入QQ交流群:  594119878
+欢迎加入QQ群交流:  594119878
 
 ### About
 
@@ -21,19 +21,6 @@ A curated list of iOS objective-C ecosystem.
 ###  目录
 - [参考@](#参考)
 - [版本管理@](#版本管理)
-  - [Git用法@](#Git用法)
-  - [GitHub@](#GitHub)
-  - [GitBook@](#GitBook)
-  - [Git文章@](#Git文章)
-  - [GithubRank@](#GithubRank)
-  - [桌面工具@](#桌面工具)
-  - [Github客户端@](#Github客户端)
-  - [Github插件@](#Github插件)
-  - [命令行@](#命令行)
-  - [Git平台与工具@](#Git平台与工具)
-  - [Github项目@](#Github项目)
-  - [Git库@](#Git库)
-  - [Github浏览器工具@](#Github浏览器工具)
 - [完整App@](#完整App)
 - [框架@](#框架)
   - [react@](#react)
@@ -183,6 +170,19 @@ A curated list of iOS objective-C ecosystem.
 #### 具体内容 =============================
 
 #### 版本管理@
+- [Git用法@](#Git用法)
+- [GitHub@](#GitHub)
+- [GitBook@](#GitBook)
+- [Git文章@](#Git文章)
+- [GithubRank@](#GithubRank)
+- [桌面工具@](#桌面工具)
+- [Github客户端@](#Github客户端)
+- [Github插件@](#Github插件)
+- [命令行@](#命令行)
+- [Git平台与工具@](#Git平台与工具)
+- [Github项目@](#Github项目)
+- [Git库@](#Git库)
+- [Github浏览器工具@](#Github浏览器工具)
 
 #### Git用法@           [返回Git](#Git)                                   
 
