@@ -697,6 +697,7 @@ A curated list of iOS objective-C ecosystem.
 #### 数据存储@
 
 * [FMDB](https://github.com/ccgus/fmdb) - sqlite的工具， [多线程FMDatabaseQueue实例](https://github.com/tangqiaoboy/FmdbSample)，[FMDB数据库的使用演示和封装工具类](https://github.com/liuchunlao/LVDatabaseDemo)，[基于fmdb 的基本操作](http://code.cocoachina.com/view/128312) 通过 fmdb 进行的数据库的 基本操作(增删改查 )查找是使用 UISearchBar 和UISearchDisplayController 进行混合使用。
+* [GDataBase](https://github.com/GIKICoder/GDataBase) - 基于FMDB的ORM数据库存储解决方案. 面向模型和线程安全的API. 一句代码存储,读取.对存储模型无需继承BaseObject. 可自定义多主键,可使用sqlite关键字.可自定义序列化字段等.支持模型黑名单.支持数据库表存储value base64编/解码.对模型无侵入,只需遵守相关协议即可.极大方便项目中使用.
 * [realm-cocoa](https://github.com/realm/realm-cocoa) 一个号称要代替Core Data & SQLite的用于移动端的数据库，非常不错👍👍 ，同时支持Swift.
 * [YapDatabase](https://github.com/yapstudios/YapDatabase) - YapDatabase is an extensible database for iOS & Mac.
 * [CoreModel](https://github.com/CharlinFeng/CoreModel) Replace CoreData
