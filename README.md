@@ -740,6 +740,24 @@ A curated list of iOS objective-C ecosystem.
 * [YYCache](https://github.com/ibireme/YYCache) - 高性能的 iOS 缓存框架。
 * [RuntimeDemo](https://github.com/CoderJackyHuang/RuntimeDemo) - runtime自动归档/解档,[源码分析](http://www.henishuo.com/runtime-archive-unarchive-automaticly/)。
 
+
+
+#### 数据库Tool@
+
+* [RealmObjectEditor](https://github.com/Ahmed-Ali/RealmObjectEditor) Realm Object Editor is a visual editor where you can create your Realm entities, attributes and relationships inside a nice user interface. Once you finish, you can save your schema document for later use and you can export your entities in Swift, Objective-C and Java.
+* [FMDB](https://github.com/ccgus/fmdb) - sqlite的工具， [多线程FMDatabaseQueue实例](https://github.com/tangqiaoboy/FmdbSample)，[FMDB数据库的使用演示和封装工具类](https://github.com/liuchunlao/LVDatabaseDemo)，[基于fmdb 的基本操作](http://code.cocoachina.com/view/128312) 通过 fmdb 进行的数据库的 基本操作(增删改查 )查找是使用 UISearchBar 和UISearchDisplayController 进行混合使用。
+* [GDataBase](https://github.com/GIKICoder/GDataBase) 基于ORM的FMDB数据库存储解决方案. 面向模型和线程安全的API. 一句代码存储,读取.对存储模型无需继承BaseObject. 可自定义多主键,可使用sqlite关键字.自定义序列化字段等.极大方便项目中使用.
+
+* [WHC_ModelSqliteKit](https://github.com/netyouli/WHC_ModelSqliteKit) 专业的数据库存储解决方
+* [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: http://sqlitebrowser.org
+* [GXDatabaseUtils](https://github.com/Gerry1218/GXDatabaseUtils) - 在FMDB基础上的工具。
+* [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) - CoreData第一库，MagicalRecord就像是给Core Data提供了一层外包装，隐藏掉所有不相关的东西。 其中事务管理及查询是其比较大的亮点，整套 API 功能完整。
+* [GKDatabase](https://github.com/ChrisCaixx/GKDatabase) -基于SQLite3简单封装了下,实现了一行代码解决增删改查等常用的功能!并没有太过高深的知识,主要用了runtime和KVC:请看Demo~ 原理篇请看这里:[简书地址](http://www.jianshu.com/p/0e598147debc)
+* [CoreStore](https://github.com/AfryMask/AFBrushBoard) -  Core Data 管理类库。 其中事务管理及查询是其比较大的亮点，整套 API 功能完整。
+* [mogenerator](http://rentzsch.github.io/mogenerator/) - mogenerator为你定义了的Core Data生成默认的数据类。与xCode不一样的是(xCode一个Entity只生成一个NSManagedObject的子类)，mogenerator会为每一个Entity生成两个类。一个为机器准备，一个为人类准备。为机器准备的类一直去匹配data model。为人类准备的类就给你轻松愉快的去修改和保存。
+* [Presentation](https://github.com/hyperoslo/Presentation) - 重量级好项目 Presentation，它可以方便你制作定制的动画式教程、Release Notes、个性化演讲稿等。
+* [SQLCipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher使用256-bit AES加密，SQLCipher分为收费版本和免费版本。[官方教程](https://www.zetetic.net/sqlcipher/ios-tutorial/)， [加密你的SQLite](http://foggry.com/blog/2014/05/19/jia-mi-ni-de-sqlite/) - 各种sqlite数据库加密介绍。 [SQLCipherDemo下载](http://download.csdn.net/detail/wzzvictory_tjsd/7379055) 。
+
 #### 序列化@
 
 * [FastCoding](https://github.com/nicklockwood/FastCoding) 是用来替代OSX及iOS中默认的序列化实现。它结构简单（仅头文件和.m文件两个）、支持ARC，线程安全，速度较内置实现更快。下次做项目的时候可以试着用用。
