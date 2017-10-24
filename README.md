@@ -531,6 +531,7 @@ A curated list of iOS objective-C ecosystem.
 * [UberSignature](https://github.com/uber/UberSignature) 一个通过触摸前面的App.
 * [HiPDA](https://github.com/leizh007/HiPDA) HiPDA的非官方客户端（iOS版）！
 * [yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo) a demo developed using weex/weex高仿网易严选App.
+* [MeiTuan](https://github.com/huanxsd/MeiTuan) 高仿美团客户端 React-Native版，支持iOS、Android
 
 #### 框架@                                                        [返回目录](#目录)
 
@@ -570,10 +571,6 @@ A curated list of iOS objective-C ecosystem.
 #### 混合开发@
 
 * [rexxar-ios](https://github.com/douban/rexxar-ios) 豆瓣推的混合开发库 Mobile Hybrid Framework Rexxar iOS Container
-
-#### 样例App@
-
-* [MeiTuan](https://github.com/huanxsd/MeiTuan) 高仿美团客户端 React-Native版，支持iOS、Android
 
 #### 服务端@后台@
 
@@ -726,7 +723,6 @@ A curated list of iOS objective-C ecosystem.
 * [PersistentStorageSerializable](https://github.com/IvanRublev/PersistentStorageSerializable) - Swift library that makes easier to serialize the user's preferences (app's settings) with system User Defaults or Property List file on disk. :large_orange_diamond:
 * [WCDB](https://github.com/Tencent/wcdb) - WCDB is an efficient, complete, easy-to-use mobile database framework for iOS, macOS.
 * [StorageKit](https://github.com/StorageKit/StorageKit) - Your Data Storage Troubleshooter 🛠
-* [UserDefaults](https://
 
 #### 缓存处理@
 
@@ -1075,6 +1071,7 @@ A curated list of iOS objective-C ecosystem.
 * [Solve-App-Store-Review-Problemm](https://github.com/wg689/Solve-App-Store-Review-Problem) (ipv6,ipv6被拒绝,后台定位等审核问题的终极解决方案汇总)。
 
 #### Xcode8插件@
+
 * [Import](https://github.com/markohlebar/Import) 快捷导入头文件-Xcode extension for adding imports from anywhere in the code.
 * [XcodeSourceEditorExtension-Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) 对齐属性声明 This Xcode source editor extension align your assignment statement.
 * [Dash-iOS](https://github.com/Kapeli/Dash-iOS) Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets https://kapeli.com/dash_ios
@@ -1465,7 +1462,6 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [FJTagCollectionView](http://code.cocoachina.com/view/129152) - 标签（适配宽度）。
 * [DFTimelineView](https://github.com/anyunzhong/DFTimelineView) - DFTimelineView仿微信朋友圈 时间轴。
 * [HYBImageCliped](https://github.com/CoderJackyHuang/HYBImageCliped) - 可给任意继承UIView的控件添加任意多个圆角、可根据颜色生成图片且可带任意个圆角、给UIButton设置不同状态下的图片且可带任意圆角、给UIImageView设置任意图片，支持带圆角或者直接生成圆形。
-
 * [StackViewController](https://github.com/seedco/StackViewController) - 方便 iOS 开发者使用 UIStackView 构建表单或其它静态内容视图。
 * [LLBootstrapButton](https://github.com/lilei644/LLBootstrapButton) - Bootstrap 3.0扁平化风格按钮，自带图标，一句代码直接调用！
 * [JMRoundedCorner](https://github.com/raozhizhen/JMRoundedCorner) - UIView设置不触发离屏渲染的圆角！
@@ -1880,7 +1876,6 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 * [PostMan](https://www.getpostman.com/) google出品的接口调试工具
 
-
 #### AppleWatch
 
 * [Tesla汽车AppleWatch app demo演示](https://github.com/eleks/rnd-apple-watch-tesla) - 通过AppleWatch控制特斯拉汽车，同时可以看到汽车的相关信息，比如剩余电量、可续行里程等，以及解锁/上锁车门、调节司机和乘客的四区域空调温度、开启车辆大灯、定位汽车等。[源码推荐说明](http://www.cocoachina.com/ios/20150205/11116.html)。
@@ -2126,7 +2121,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 #### 参考@
 
-* [说明]( ) 此库是完全开源收集整理，服务于广大iOS开发工作者的开源集合资料库，欢迎大家踊跃贡献.
+* [说明](说明) 此库是完全开源收集整理，服务于广大iOS开发工作者的开源集合资料库，欢迎大家踊跃贡献.
 * [awesome-github](https://github.com/AntBranch/awesome-github) A curated list of awesome GitHub guides, articles, sites, tools, projects and resources. 收集这个列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
 
 #### 其他领域@
