@@ -1576,6 +1576,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [GrowingTextView](https://github.com/HansPinckaers/GrowingTextView)  一个非常棒的UITextView库
 * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)作者是 Thumb Labs 的联合创始人, JVFloatLabeledTextField 是 UITextField 的子类, 主要实现输入框标签浮动效果, 创作灵感来自 Dribbble, 已出现多个移植版本 UITextField subclass with floating labels - inspired by Matt D. Smith's design: http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users
+* [GBigbang](https://github.com/GIKICoder/GBigbang) 一个分词功能组件/大爆炸/tagFlowView
 
 #### 富文本@   [返回目录](#目录)
 
