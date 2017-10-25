@@ -181,6 +181,7 @@
 * [TodayNews](https://github.com/hrscy/TodayNews) Swift开源项目-模仿今日头条
 * [notGIF](https://github.com/atuooo/notGIF) - 一款展示、管理和分享相册中 GIF 的应用，并适配了 iMessage Extension。
 * [TheGreatGame](https://github.com/dreymonde/TheGreatGame)  Open-source first-class iOS app dedicated to Women’s Euro 2017
+* [Swift-YouTube-Player](https://github.com/gilesvangruisen/Swift-YouTube-Player) Swift library for embedding and controlling YouTube videos in your iOS applications!
 
 #### Xcode8插件@
 
@@ -522,6 +523,7 @@
 * [Agrume](https://github.com/JanGorman/Agrume) - 一个图片查看库
 * [SwiftPhotoGallery](https://github.com/Inspirato/SwiftPhotoGallery) - 一个简单的、全屏显示图片的库，支持缩放、手势、单击关闭、Twitter的关闭风格、Includes a customizable page indicator 等等.
 * [ImageSlideshow](https://github.com/zvonicek/ImageSlideshow) - 图片幻灯片和图片轮播器.
+* [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) iOS/Android image picker with support for camera, configurable compression, multiple images and cropping
 * [CDFlipView](https://github.com/jibeex/CDFlipView) - 多组图片的翻转的库， A view that takes a set of images, make transition from one to another by using flipping effects.
 * [TGLParallaxCarousel](https://github.com/taglia3/TGLParallaxCarousel) - 一个轻量级的3D线性旋转木马.
 * [Lightbox](https://github.com/hyperoslo/Lightbox) - 一个方便的图片查看器.
