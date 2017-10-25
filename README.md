@@ -29,8 +29,8 @@ A curated list of iOS objective-C ecosystem.
   - [混合开发@](#混合开发)
   - [样例App@](#样例App)
 - [服务端@后台@](#服务端#后台)
-- [网络@](#网络相关)
-  - [网络连接@](#网络连接)
+- [网络@](#网络)
+  - [网络请求@](#网络请求)
   - [socket@](#socket)
   - [网络下载@](#网络下载@)
   - [图像获取@](#图像获取)
@@ -49,7 +49,6 @@ A curated list of iOS objective-C ecosystem.
 - [动画@](#动画)
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
   - [转场@](#转场)
-  - [gifAnimation@](#gifAnimation)
 - [多媒体@](#多媒体)
   - [GIF@](#GIF)
   - [VR@](#VR)
@@ -577,7 +576,7 @@ A curated list of iOS objective-C ecosystem.
 * [GCDWebServer](https://github.com/swisspol/GCDWebServer) 基于GCD的轻量级的HTTP服务器
 
 #### 网络@
-#### 网络连接@
+#### 网络请求@
 
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - ASI不升级以后，最多人用的网络连接开源库 [iOS开发下载文件速度计算](http://www.superqq.com/blog/2015/01/29/ioskai-fa-xia-zai-wen-jian-su-du-ji-suan/) , [AFNetworking 3.0迁移指南](http://www.cocoachina.com/ios/20151022/13831.html) , [AFNetworking2.0源码解析<一>](http://www.cocoachina.com/ios/20140829/9480.html) 、[AFNetworking2.0源码解析<二>](http://www.cocoachina.com/ios/20140904/9523.html)、[AFNetworking源码解析<三>](http://www.cocoachina.com/ios/20140916/9632.html)、[AFNetworking源码解析<四>](http://www.cocoachina.com/ios/20141120/10265.html)。
 * [YTKNetwork](https://github.com/yuantiku/YTKNetwork) - 是基于 AFNetworking 封装的 iOS网络库，提供了更高层次的网络访问抽象。相比AFNetworking，YTKNetwork提供了以下更高级的功能：按时间或版本号缓存网络请求内容、检查返回 JSON 内容的合法性、文件的断点续传、批量的网络请求发送、filter和插件机制等。
@@ -824,12 +823,6 @@ A curated list of iOS objective-C ecosystem.
 * [WZXJianShuPopDemo](https://github.com/Wzxhaha/WZXJianShuPopDemo) - 仿简书、淘宝等等的View弹出效果，已封装好，使用简单。[实现原理](http://www.jianshu.com/p/a697d2a38b3c)
 * [LSAnimator](https://github.com/Lision/LSAnimator) 非侵入式的多链式动画
 
-#### gifAnimation@
-
-* [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView-PlayGIF。
-* [YLGIFImage](https://github.com/liyong03/YLGIFImage) - 异步方式实现突Gif突破编码、显示，低内存占用。
-* [droptogif](https://github.com/mortenjust/droptogif) -  droptogif视频拖拽到应用窗口后自动转换为 GIF 动画（其转换进程动画效果也超赞）。
-
 #### 转场@
 
 * [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) A gallery app of custom animated transitions for iOS.
@@ -840,6 +833,17 @@ A curated list of iOS objective-C ecosystem.
 #### GIF@
 
 * [FLAnimatedImage](https://github.com/liric28/FLAnimatedImage) - 非常不错的gif播放处理的工具。
+* [YLGIFImage](https://github.com/liyong03/YLGIFImage) - 异步方式实现突Gif突破编码、显示，低内存占用。
+* [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - 高性能GIF动画引擎.Performant animated GIF engine for iOS
+* [AnimatedGIFImageSerialization](https://github.com/mattt/AnimatedGIFImageSerialization) - Complete Animated GIF Support for iOS, with Functions, NSJSONSerialization-style Class, and (Optional) UIImage Swizzling
+* [XAnimatedImage](https://github.com/khaledmtaha/XAnimatedImage) - XAnimatedImage is a performant animated GIF engine for iOS written in Swift based on FLAnimatedImage :large_orange_diamond:
+* [SwiftGif](https://github.com/bahlo/SwiftGif) - :sparkles: A small UIImage extension with gif support :large_orange_diamond:
+* [APNGKit](https://github.com/onevcat/APNGKit) - High performance and delightful way to play with APNG format in iOS. :large_orange_diamond:
+* [YYImage](https://github.com/ibireme/YYImage) - Image framework for iOS to display/encode/decode animated WebP, APNG, GIF, and more.
+* [NSGIF2](https://github.com/metasmile/NSGIF2) - Simplify creation of a GIF from the provided video file url.
+* [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance GIF engine :large_orange_diamond:
+* [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView-PlayGIF。
+* [droptogif](https://github.com/mortenjust/droptogif) -  droptogif视频拖拽到应用窗口后自动转换为 GIF 动画（其转换进程动画效果也超赞）。
 
 #### VR@
 

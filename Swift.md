@@ -18,8 +18,8 @@
   - [KVO@](#KVO)
   - [版本管理@](#版本管理)
 - [服务端@](@服务端)  
-- [网络@](#相关)
-  - [网络连接@](#网络连接)
+- [网络@](#网络)
+  - [网络请求@](#网络请求)
   - [图像获取@](#图像获取)
   - [网络聊天@](#网络聊天)
   - [网络测试@](#网络测试)
@@ -37,6 +37,7 @@
   - [相机@](#相机)
   - [二维码@](#二维码)
   - [PDF@](#pdf)
+  - [GIF@](#GIF)
   - [流媒体@](#流媒体)
   - [音频@](#音频)
   - [视频@](#视频)
@@ -220,7 +221,7 @@
 * [SwiftQ](https://github.com/John-Connolly/SwiftQ) SwiftQ is a distributed task queue for server side swift applications.
 
 #### 网络@
-#### 网络连接@
+#### 网络请求@
 
 * [Alamofire](https://github.com/Alamofire/Alamofire) - 非常赞👍👍👍 Alamofire是AFNetworking的作者mattt新写的网络请求的swift库。[Alamofire 最佳实践](https://github.com/ipader/SwiftGuide/wiki/Alamofire%20%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5)
 * [Moya](https://github.com/Moya/Moya) - 对Alamofire的封装，使用枚举将网络层实现细节与页面逻辑代码分离，方便单元测试，支持stub测试，配合RxSwift食用更佳，[博客教程](http://www.hmttommy.com/2015/12/15/Moya/)
@@ -383,6 +384,11 @@
 * [SwiftPDFGenerator](https://github.com/kayoslab/SwiftPDFGenerator) - PDF generator using UIViews; Swift Version of 'UIView 2 PDF'. :large_orange_diamond:
 * [PSPDFKit](https://pspdfkit.com/) - Render PDF, add/edit annotations, fill forms, add/edit pages, view/create digital signatures.
 * [TPPDF](https://github.com/Techprimate/TPPDF) - Generate PDF using commands and automatic layout. :large_orange_diamond:
+
+#### GIF@
+
+* [AImage](https://github.com/wangjwchn/AImage) - A animated GIF&APNG engine for iOS in Swift with low memory & cpu usage.Optimized for Multi-Image case.:large_orange_diamond:
+* [gifu](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS in Swift :large_orange_diamond:
 
 #### 流媒体@
 
