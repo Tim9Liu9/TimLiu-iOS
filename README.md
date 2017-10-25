@@ -1581,6 +1581,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 * [YYText](https://github.com/ibireme/YYText) - 功能强大的 iOS 富文本框架。
 * [Shimmer](https://github.com/facebook/Shimmer) - BlingBling闪光效果，酷炫的Label的效果，可以用于加载等待提示。
+* [GRichLabel ](https://github.com/GIKICoder/GRichLabel) - 支持选择复制.支持自定义选择弹出menu的富文本Label.内部使用YYAsyncLayer提供异步绘制任务.
 * [TFHpple ](https://github.com/topfunky/hpple) - TFHpple解析html的轻量级框架
 * [RTLabel](https://github.com/honcheng/RTLabel) - RTLabel 基于UILabel类的拓展,能够支持Html标记的富文本显示，它是基于Core Text,因此也支持Core Text上的一些东西。32位，很久没有更新了。
 * [RTLabel](https://github.com/bingxue314159/RTLabel) - 富文本，RTLabel支持64位。
