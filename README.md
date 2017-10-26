@@ -164,6 +164,7 @@ A curated list of iOS objective-C ecosystem.
 - [mac@](#mac)
 - [未分类@](#未分类)
 - [其他领域@](#其他领域)
+- [开发环境@](#开发环境)
 
 #### 具体内容 =============================
 
@@ -578,7 +579,7 @@ A curated list of iOS objective-C ecosystem.
 #### 网络请求@
 
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - ASI不升级以后，最多人用的网络连接开源库 [iOS开发下载文件速度计算](http://www.superqq.com/blog/2015/01/29/ioskai-fa-xia-zai-wen-jian-su-du-ji-suan/) , [AFNetworking 3.0迁移指南](http://www.cocoachina.com/ios/20151022/13831.html) , [AFNetworking2.0源码解析<一>](http://www.cocoachina.com/ios/20140829/9480.html) 、[AFNetworking2.0源码解析<二>](http://www.cocoachina.com/ios/20140904/9523.html)、[AFNetworking源码解析<三>](http://www.cocoachina.com/ios/20140916/9632.html)、[AFNetworking源码解析<四>](http://www.cocoachina.com/ios/20141120/10265.html)。
-* [YTKNetwork](https://github.com/yuantiku/YTKNetwork) - 是基于 AFNetworking 封装的 iOS网络库，提供了更高层次的网络访问抽象。相比AFNetworking，YTKNetwork提供了以下更高级的功能：按时间或版本号缓存网络请求内容、检查返回 JSON 内容的合法性、文件的断点续传、批量的网络请求发送、filter和插件机制等。
+* [YTKNetwork](https://github.com/yuantiku/YTKNetwork) - 是基于 AFNetworking 封装的 iOS网络库，提供了更高层次的网络访问抽象。相比AFNetworking，YTKNetwork提供了以下更高级的功能：按时间或版本号缓存网络请求内容、检查返回 JSON 内容的合法性、文件的断点续传、批量的网络请求发送、filter和插件机制等，猿题库出品.
 * [RestKit](https://github.com/RestKit/RestKit) RestKit是一款专为iOS设计的Objective-C框架，旨在与RESTful web服务的交互变得更简单快速。它基于强大的对象映射系统，并且结合了一个干净、简单的HTTP请求/响应API，大大减少了完成任务所需的代码量。 RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X
 * [HYBNetworking](https://github.com/CoderJackyHuang/HYBNetworking) - 基于AFN封装的网络库，可以通用。[基于AFNetworking封装网络库说明](http://www.henishuo.com/base-on-afnetworking-wrapper/)目前已经提供了通用的GET/POST、上传、下载API等。
 * [LxFTPRequest](https://github.com/DeveloperLx/LxFTPRequest) - 支持获取FTP服务器资源列表，下载/上传文件，创建/销毁ftp服务器文件/目录，以及下载断点续传，下载/上传进度，自动判断地址格式合法性跟踪等功能！国人开发，QQ：349124555。
@@ -2177,3 +2178,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [awesome-python](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources
 * [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) 专注于使用 vanilla JavaScript 解决典型的编程问题，这个仓库的兴起与 React 的兴起密切相关； Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 * [public-apis](https://github.com/toddmotto/public-apis) 经常更新的web开发公共JSON API 列表。 A collective list of public JSON APIs for use in web development.
+
+#### 开发环境@
+
+* [Homebrew](https://github.com/Homebrew/brew) Homebrew是一款Mac OS平台下的软件包管理工具，拥有安装、卸载、更新、查看、搜索等很多实用的功能。简单的一条指令，就可以实现包管理，而不用你关心各种依赖和文件路径的情况，十分方便快捷。
