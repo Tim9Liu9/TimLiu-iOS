@@ -24,7 +24,6 @@ A curated list of iOS objective-C ecosystem.
 - [完整App@](#完整App)
 - [框架@](#框架)
   - [react@](#react)
-  - [响应式@](#响应式)
   - [framework@](#framework)
   - [混合开发@](#混合开发)
   - [样例App@](#样例App)
@@ -254,7 +253,7 @@ A curated list of iOS objective-C ecosystem.
 * [2014年GitHub 中国开发者年度报告](http://githuber.info/report) - 使用python分析数据后的报告.
 * [Gist介绍与用法](http://platinhom.github.io/2015/11/26/gist/) - Gist https://gist.github.com/ 是Github的一个子服务.
 * [最活跃的GitHub用户](https://gist.github.com/paulmillr/2657075/) - 想看最活跃用户可以看这里.
-* [10+ HELPFUL GITHUB HACKS TO IMMEDIATELY BOOST YOUR PRODUCTIVITY](http://usersnap.com/blog/github-hacks-productivity/) - 10个立即提高你生产力的GitHub技能.
+* [10个立即提高你生产力的GitHub技能](http://usersnap.com/blog/github-hacks-productivity/)
 * [Top 10 Git Tutorials for Beginners](http://sixrevisions.com/resources/git-tutorials-beginners/) - 教你使用git最好的10本书.
 * [使用GitHub进行团队合作](http://xiaocong.github.io/blog/2013/03/20/team-collaboration-with-github/) - 译文.
 * [一键收藏至Github](http://www.jianshu.com/p/19d2f3a3b5d8) - 通过 Rails 收藏文章，并自动提交至 github.
@@ -467,96 +466,92 @@ A curated list of iOS objective-C ecosystem.
 
 #### 完整App@
 
-* [PPRows for Mac](https://github.com/jkpang/PPRows) - 在Mac上优雅的计算你写了多少行代码。
-* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - iOS开源App集合，分：swift与Objective-C--国外人整理。
-* [NewsBlur](https://github.com/samuelclay/NewsBlur) 作者独自一个人 Samuel Clay 做出来的一款名为 NewsBlur 的新闻阅读器, 很多人都称其为 Google Reader 的替代品, 这是它的源码 NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
-* [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native)用 React Native 完成的 HackerNews 客户端。
-* [WeChat](https://github.com/zhengwenming/WeChat) 实现类似微信朋友圈或者QQ空间，评论回复，九宫格布局。处理键盘弹出后定位到当前点击的被评论人处。另：滑动时候FPS在57-60之间，纵享丝滑！
-* [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) An IM App like WeChat App has to send text, pictures, audio, video, location messaging, managing local address book, share a circle of friends, drifting friends, shake a fun and more interesting features.
-* [iOSAppTemplate](https://github.com/tbl00c/iOSAppTemplate)高仿微信，iOS应用开发模板，个人总结。
-* [Bilibili_Wuxianda](https://github.com/MichaelHuyp/Bilibili_Wuxianda)赞 高仿Bilibili客户端
-* [Coding-iOS](https://github.com/Coding/Coding-iOS) - Coding iOS 客户端源代码
-* [Coding-iPad](https://github.com/Coding/Coding-iPad) - Coding iPad 客户端源代码
-* [Monkey](https://github.com/coderyi/Monkey) - GitHub第三方iOS客户端
-* [firefox-ios](https://github.com/mozilla/firefox-ios) Firefox for iOS
-* [RSSRead](https://github.com/ming1016/RSSRead) “已阅”（iOS上开源RSS新闻阅读器）
-* [zulip-ios](https://github.com/zulip/zulip-ios) Dropbox收购公司内部社交服务商Zulip,然后全部开源，这是iOS App
-* [ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS) - Objective-C写的XMPP聊天应用
-* [FirebaseChat](https://github.com/relatedcode/FirebaseChat) - Objective-C写的完整的聊天应用
-* [Meizi](https://github.com/Sunnyyoung/Meizi) - 豆瓣妹子图iOS客户端
-* [PlainReader](https://github.com/guojiubo/PlainReader) 简阅是一款 iOS(iPhone + iPad) 新闻类客户端，内容抓取自 cnBeta.COM。在售期间倍受好评，但由于版权问题已于今年一月从 AppStore 下架，下架至今，每天仍有几千人在使用这款 App。
-* [ECMobile_iOS](https://github.com/GeekZooStudio/ECMobile_iOS) 基于ECShop的手机商城客户端
-* [wikipedia-ios](https://github.com/wikimedia/wikipedia-ios) 维基百科官方App, 已上架
-* [Sol](https://github.com/comyarzaheri/Sol) 漂亮的扁平风格的天气App
-* [v2ex](https://github.com/singro/v2ex)v2ex第三方iOS客户端。V2EX是一个知名技术创意网站，由设计师、程序员及有创意的人参与的社区。 它基于兴趣将用户创建的内容组织分类成不同“节点”，网站以内容的活跃程度决定在首页排序的位置。
-* [WNXHuntForCity](https://github.com/ZhongTaoTian/WNXHuntForCity)城觅By-Objective-C
-* [breadwallet](https://github.com/voisine/breadwallet) breadwallet - bitcoin wallet
-* [GreatReader](https://github.com/semweb/GreatReader) GreatReader PDF阅读客户端
-* [Tropos](https://github.com/thoughtbot/Tropos)天气客户端
-* [WordPress-iOS](https://github.com/wordpress-mobile/WordPress-iOS)WordPress iOS官方客户端. 笔者强烈推荐的开源项目.
-* [TeamTalk](https://github.com/mogujie/TeamTalk) 蘑菇街TeamTalk. 开源IM. 笔者强烈推荐.
-* [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit)一个类似微信App的IM应用，拥有发送文字、图片、语音、视频、地理位置消息，管理本地通信录、分享朋友 圈、漂流交友、摇一摇和更多有趣的功能。笔者推荐的学习IM的好东西.
-* [iOS-Oncenote](https://github.com/chenyufeng1991/iOS-Oncenote) 这是一款类似于印象笔记Evernote的生活类iOS应用——朝夕笔记 Oncenote。我希望能为更多的iOS开发者提供帮助与服务。当然App中还有不少bug和可扩展的功能模块，也希望各位开发者为该项目贡献自己的code力量。大家可以通过点击右上角的fork到自己的Github仓库，也可以点击star实时关注项目进度。
-* [GSD_WeiXin](https://github.com/gsdios/GSD_WeiXin) 高仿微信
-* [v2ex](https://github.com/singro/v2ex) - v2ex 的客户端，新闻、论坛。
-* [wikipedia-ios](https://github.com/wikimedia/wikipedia-ios) - wikipedia-ios 客户端。
-* [DeckRocket](https://github.com/jpsim/DeckRocket) - 在相同 WiFi 网络环境内，通过iPhone 控制并播放 Mac 中的 PDF 文档。
-* [DSLolita](https://github.com/sam408130/DSLolita) - 模仿新浪微博做的一款app，有发送博文，评论，点赞，私聊功能。
-* [STPhotoBrowser](https://github.com/STShenZhaoliang/STPhotoBrowser) - 高仿新浪微博的图片浏览器，极佳的编写方式，易扩展，低耦合。
-* [Tropos](https://github.com/thoughtbot/Tropos) - Tropos, 由 thoughtbot 推出的一款用 Objective-C 写的开源天气类应用, 截至今天, thoughtbot 已在 GitHub 上贡献了 174 个开源项目, 实在令人敬佩。
-* [SmileWeather](https://github.com/liu044100/SmileWeather) -开源天气类应用,天气图标很完整。  
-* [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) - GitBucket 2.0 通过审核啦，她是我在公司实践了一年多 MVVM 和 RAC 的基础上，利用业余时间开发的第三方 GitHub 客户端，旨在能够对想实践 MVVM 和 RAC 的 iOS 开发者有所帮助。[AppStore地址](https://itunes.apple.com/cn/app/id961330940?mt=8)，欢迎下载使用GitBucket和收藏MVVMReactiveCocoa。
-* [Tomate](https://github.com/dasdom/Tomate) - 这个圆盘式计时器让你更专注于工作或学习。P.S. App Store 上架收费应用（0.99 欧）。
-* [WNXHuntForCity](https://github.com/ZhongTaoTian/WNXHuntForCity) - iOS高仿城觅项目（开发思路和代码）。
-* [ZYChat](https://github.com/zyprosoft/ZYChat) - 关于聊天界面的可消息类型扩展，响应绑定设计。
-* [meituan](https://github.com/lookingstars/meituan) - 美团5.7iOS版（高仿），功能包括，团购首页，高德地图搜索附近美食并显示在地图上，上门服务，商家，友盟分享。
-* [JFMeiTuan](https://github.com/tubie/JFMeiTuan) - 造美团应用界面构建的 iOS 应用, 第二个是 @tubiebutu 的 JFMeiTuan。
-* [SXNews](https://github.com/dsxNiubility/SXNews) - 模仿网易新闻做的新闻软件，完成了主导航页，新闻详情页，图片浏览页，评论页。效果不错，比网上流传的各种和网易新闻UI架构有关的代码都要完整，都要好。
-* [Monkey](https://github.com/coderyi/Monkey) - Monkey for GitHub是一个GitHub开发者和仓库排名的开源App。这次主要增加了登录GitHub的功能，随手follow和star，并且增加发现模块，包括GitHub的trending，动态，showcases等。
-* [Uther](https://github.com/callmewhy/Uther) -  跟蠢萌的外星人聊天，还能帮你记事”。[itunes下载](https://itunes.apple.com/cn/app/uther/id1024104920) 。
-* [高仿斗鱼TV](http://code.cocoachina.com/view/128246) - 高仿斗鱼TV，点击头部滚动视图可以播放视频。
-* [Coding-iPad](https://github.com/Coding/Coding-iPad) - Coding-iPad 是@Coding的官方 iPad 客户端, 又是一个完整的开源应用。
-* [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) - 目前最实用简洁的github客户端了。
-* [phphub-ios](https://github.com/Aufree/phphub-ios) - PHPHub的iOS客户端，同时兼容iPhone和iPad。
-* [LeagueofLegends](https://github.com/HarrisHan/LeagueofLegends) - 一个关于英雄联盟的完整iOS开源项目，接口均来自多玩，腾讯各大游戏平台。
-* [BTApp](https://github.com/Ryan0520/BTApp) - BTApp 仿半糖 iOS App 的 Demo 应用。
-* [iOS完整App资源收集](https://github.com/CoderJackyHuang/MDArtileFiles) - iOS开发学习者都希望得到实战训练，但是很多资料都是只有一小部分代码，并不能形成完成的App，笔者在此处收集了很多开源的完整的App，都有源代码哦！--标哥的技术博客
-* [XCFApp-1](https://github.com/callmejoejoe/XCFApp) - 高仿下厨房App，Objective-C，Xcode7.2，数据通过Charles抓的，有接口也有本地数据。说明：关于代码被清空，会用git的你肯定明白，[教程](http://www.jianshu.com/p/a8f619a2c622/)
-* [YoCelsius](https://github.com/YouXianMing/YoCelsius) - 已经上线的一款天气预报的应用,几乎所有的交互动画效果，想学习动画的开发人员可以作为参考。
-* [DayDayNews](https://github.com/gaoyuhang/DayDayNews) 仿网易新闻客户端，实现新闻浏览，视频播放，仿搜狐视频、百思不得姐等当前主流视频播放器，实现流媒体播放，自动监听屏幕转动，实现横屏播放 , 抓取百度图片，瀑布流显示，夜间模式，环信即时通讯
-* [ECMobile_iOS](https://github.com/GeekZooStudio/ECMobile_iOS)基于ECShop的手机商城客户端（iOS、Android、Php一体）
-* [TKeyboard](https://github.com/music4kid/TKeyboard) 这款应用名为：TKeyboard。有一个 Mac 端和一个 iOS 端 App。简单来说，可以通过蓝牙，使用 Mac 的键盘输入内容到 iPhone 设备中。
-* [BDJProjectExample](https://github.com/yizzuide/BDJProjectExample) 基于VIPER设计模式，以XFLegoVIPER框架为引擎的仿《百思不得姐》项目
-* [UberSignature](https://github.com/uber/UberSignature) 一个通过触摸前面的App.
-* [HiPDA](https://github.com/leizh007/HiPDA) HiPDA的非官方客户端（iOS版）！
-* [yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo) a demo developed using weex/weex高仿网易严选App.
-* [MeiTuan](https://github.com/huanxsd/MeiTuan) 高仿美团客户端 React-Native版，支持iOS、Android
+* [PPRows for Mac](https://github.com/jkpang/PPRows) - 在Mac上优雅的计算你写了多少行代码.
+* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - iOS开源App集合(swift、Objective-C).
+* [NewsBlur](https://github.com/samuelclay/NewsBlur) - 作者独自一个人 Samuel Clay 做出来的一款名为 NewsBlur 的新闻阅读器, 很多人都称其为 Google Reader 的替代品, 这是它的源码.
+* [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) - 用React Native 完成的 HackerNews 客户端.
+* [WeChat](https://github.com/zhengwenming/WeChat)- 实现类似微信朋友圈或者QQ空间，评论回复，九宫格布局。处理键盘弹出后定位到当前点击的被评论人处。另：滑动时候FPS在57-60之间，纵享丝滑.
+* [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) - An IM App like WeChat App has to send text, pictures, audio, video, location messaging, managing local address book, share a circle of friends, drifting friends, shake a fun and more interesting features.
+* [iOSAppTemplate](https://github.com/tbl00c/iOSAppTemplate) - 高仿微信，iOS应用开发模板，个人总结.
+* [Bilibili_Wuxianda](https://github.com/MichaelHuyp/Bilibili_Wuxianda) - 赞 高仿Bilibili客户端.
+* [Coding-iOS](https://github.com/Coding/Coding-iOS) - Coding iOS 客户端源代码.
+* [Coding-iPad](https://github.com/Coding/Coding-iPad) - Coding iPad 客户端源代码.
+* [Monkey](https://github.com/coderyi/Monkey) - GitHub第三方iOS客户端.
+* [firefox-ios](https://github.com/mozilla/firefox-ios) Firefox for iOS.
+* [RSSRead](https://github.com/ming1016/RSSRead) - “已阅”（iOS上开源RSS新闻阅读器）.
+* [zulip-ios](https://github.com/zulip/zulip-ios) - Dropbox收购公司内部社交服务商Zulip,然后全部开源，这是iOS App.
+* [ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS) - Objective-C写的XMPP聊天应用.
+* [FirebaseChat](https://github.com/relatedcode/FirebaseChat) - Objective-C写的完整的聊天应用.
+* [Meizi](https://github.com/Sunnyyoung/Meizi) - 豆瓣妹子图iOS客户端.
+* [PlainReader](https://github.com/guojiubo/PlainReader)  - 简阅是一款 iOS(iPhone + iPad) 新闻类客户端，内容抓取自 cnBeta.COM。在售期间倍受好评，但由于版权问题已于今年一月从 AppStore 下架，下架至今，每天仍有几千人在使用这款 App.
+* [ECMobile_iOS](https://github.com/GeekZooStudio/ECMobile_iOS)  - 基于ECShop的手机商城客户端.
+* [wikipedia-ios](https://github.com/wikimedia/wikipedia-ios) - 维基百科官方App, 已上架.
+* [Sol](https://github.com/comyarzaheri/Sol) - 漂亮的扁平风格的天气App.
+* [v2ex](https://github.com/singro/v2ex) - v2ex第三方iOS客户端。V2EX是一个知名技术创意网站，由设计师、程序员及有创意的人参与的社区.
+* [WNXHuntForCity](https://github.com/ZhongTaoTian/WNXHuntForCity) - 城觅By-Objective-C.
+* [breadwallet](https://github.com/voisine/breadwallet) - breadwallet - bitcoin wallet.
+* [GreatReader](https://github.com/semweb/GreatReader) - GreatReader PDF阅读客户端.
+* [Tropos](https://github.com/thoughtbot/Tropos) - 天气客户端.
+* [WordPress-iOS](https://github.com/wordpress-mobile/WordPress-iOS) - WordPress iOS官方客户端. 笔者强烈推荐的开源项目.
+* [TeamTalk](https://github.com/mogujie/TeamTalk)  - 蘑菇街TeamTalk. 开源IM. 笔者强烈推荐.
+* [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) - 一个类似微信App的IM应用，拥有发送文字、图片、语音、视频、地理位置消息，管理本地通信录、分享朋友 圈、漂流交友、摇一摇和更多有趣的功能。
+* [iOS-Oncenote](https://github.com/chenyufeng1991/iOS-Oncenote)  - 这是一款类似于印象笔记Evernote的生活类iOS应用——朝夕笔记 Oncenote。我希望能为更多的iOS开发者提供帮助与服务.
+* [GSD_WeiXin](https://github.com/gsdios/GSD_WeiXin) 高仿微信.
+* [v2ex](https://github.com/singro/v2ex) - v2ex 的客户端，新闻、论坛.
+* [wikipedia-ios](https://github.com/wikimedia/wikipedia-ios) - wikipedia-ios 客户端.
+* [DeckRocket](https://github.com/jpsim/DeckRocket) - 在相同 WiFi 网络环境内，通过iPhone 控制并播放 Mac 中的 PDF 文档.
+* [DSLolita](https://github.com/sam408130/DSLolita) - 模仿新浪微博做的一款app，有发送博文，评论，点赞，私聊功能.
+* [STPhotoBrowser](https://github.com/STShenZhaoliang/STPhotoBrowser) - 高仿新浪微博的图片浏览器，极佳的编写方式，易扩展，低耦合.
+* [Tropos](https://github.com/thoughtbot/Tropos) - Tropos, 由 thoughtbot 推出的一款用 Objective-C 写的开源天气类应用.
+* [SmileWeather](https://github.com/liu044100/SmileWeather) - 开源天气类应用,天气图标很完整.
+* [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) - 基于MVVM的GitBucket客户端2.0.[AppStore地址](https://itunes.apple.com/cn/app/id961330940?mt=8)，欢迎下载使用GitBucket和收藏MVVMReactiveCocoa.
+* [Tomate](https://github.com/dasdom/Tomate) - 这个圆盘式计时器让你更专注于工作或学习。P.S. App Store 上架收费应用（0.99 欧）.
+* [WNXHuntForCity](https://github.com/ZhongTaoTian/WNXHuntForCity) - iOS高仿城觅项目（开发思路和代码）.
+* [ZYChat](https://github.com/zyprosoft/ZYChat) - 关于聊天界面的可消息类型扩展，响应绑定设计.
+* [meituan](https://github.com/lookingstars/meituan) - 美团5.7iOS版（高仿），功能包括，团购首页，高德地图搜索附近美食并显示在地图上，上门服务，商家，友盟分享.
+* [JFMeiTuan](https://github.com/tubie/JFMeiTuan) - 造美团应用界面构建的 iOS 应用, 第二个是 @tubiebutu 的 JFMeiTuan.
+* [SXNews](https://github.com/dsxNiubility/SXNews) - 模仿网易新闻做的新闻软件，完成了主导航页，新闻详情页，图片浏览页，评论页.
+* [Monkey](https://github.com/coderyi/Monkey) - GitHub开发者和仓库排名的开源App.
+* [Uther](https://github.com/callmewhy/Uther) -  跟蠢萌的外星人聊天，还能帮你记事”.[itunes下载](https://itunes.apple.com/cn/app/uther/id1024104920).
+* [高仿斗鱼TV](http://code.cocoachina.com/view/128246) - 高仿斗鱼TV，点击头部滚动视图可以播放视频.
+* [Coding-iPad](https://github.com/Coding/Coding-iPad) - @Coding的官方 iPad 客户端.
+* [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) - 目前最实用简洁的github客户端了.
+* [phphub-ios](https://github.com/Aufree/phphub-ios) - PHPHub的iOS客户端，同时兼容iPhone和iPad.
+* [LeagueofLegends](https://github.com/HarrisHan/LeagueofLegends) - 一个关于英雄联盟的完整iOS开源项目，接口均来自多玩，腾讯各大游戏平台.
+* [BTApp](https://github.com/Ryan0520/BTApp) - BTApp 仿半糖 iOS App 的 Demo 应用.
+* [iOS完整App资源收集](https://github.com/CoderJackyHuang/MDArtileFiles) - 很多开源的完整的App--标哥的技术博客.
+* [XCFApp-1](https://github.com/callmejoejoe/XCFApp) - 高仿下厨房App，Objective-C，Xcode7.2，数据通过Charles抓的，有接口也有本地数据。说明：关于代码被清空，会用git的你肯定明白，[教程](http://www.jianshu.com/p/a8f619a2c622/).
+* [YoCelsius](https://github.com/YouXianMing/YoCelsius) - 已经上线的一款天气预报的应用,几乎所有的交互动画效果，想学习动画的开发人员可以作为参考.
+* [DayDayNews](https://github.com/gaoyuhang/DayDayNews) - 仿网易新闻客户端，实现新闻浏览，视频播放，仿搜狐视频、百思不得姐等当前主流视频播放器，实现流媒体播放，自动监听屏幕转动，实现横屏播放 , 抓取百度图片，瀑布流显示，夜间模式，环信即时通讯.
+* [ECMobile_iOS](https://github.com/GeekZooStudio/ECMobile_iOS) - 基于ECShop的手机商城客户端（iOS、Android、Php一体）.
+* [TKeyboard](https://github.com/music4kid/TKeyboard) - 这款应用名为：TKeyboard。有一个 Mac 端和一个 iOS 端 App。简单来说，可以通过蓝牙，使用 Mac 的键盘输入内容到 iPhone 设备中.
+* [BDJProjectExample](https://github.com/yizzuide/BDJProjectExample)  - 基于VIPER设计模式，以XFLegoVIPER框架为引擎的仿《百思不得姐》项目.
+* [UberSignature](https://github.com/uber/UberSignature) - 一个通过触摸前面的App.
+* [HiPDA](https://github.com/leizh007/HiPDA) - HiPDA的非官方客户端（iOS版）.
+* [yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo) - a demo developed using weex/weex高仿网易严选App.
+* [MeiTuan](https://github.com/huanxsd/MeiTuan) - 高仿美团客户端 React-Native版，支持iOS、Android.
 
-#### 框架@                                                        [返回目录](#目录)
+#### 框架@                                               
 
-* [nimbus](https://github.com/jverkoey/nimbus) Nimbus是一个开源的iOS框架，比起Three20，Nimbus的文档更为全面、丰富，能够实现很多非常炫的界面特效。因此，开发者可以借助Nimbus来降低项目设计的复杂度。
-* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa 受函数响应式编程激发。不同于使用可变的变量替换和就地修改，RAC提供Signals来捕获当前值和将来值（ [使用介绍](http://yulingtianxia.com/blog/2014/07/29/reactivecocoa/) ），[不错的例子](http://iiiyu.com/2014/12/26/learning-ios-notes-thirty-six/),入门好教程：[ReactiveCocoa入门教程：第一部分 ](http://www.cocoachina.com/ios/20150123/10994.html)。[Reactive Cocoa 3.0 在 MVVM 中的应用](http://ios.jobbole.com/82232/) ,[小码哥：快速让你上手ReactiveCocoa之基础篇](http://www.jianshu.com/p/87ef6720a096)。
-* [react-native-maps](https://github.com/airbnb/react-native-maps) React Native Mapview component for iOS + Android.
-* [react-native-svg](https://github.com/react-native-community/react-native-svg) SVG library for React Native. react-native-svg is built to provide a SVG interface to react native on both iOS and Android.
-* [react-native-code-push](https://github.com/Microsoft/react-native-code-push) React Native module for CodePush.
-* [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController) - 低耦合集成TabBarController,最低只需传两个数组即可完成主流App框架搭建。
-* [samurai-native](https://github.com/hackers-painters/samurai-native) 是一个基于浏览器内核通过HTML+CSS 开发原生移动应用的iOS框架。
-* [HHRouter](https://github.com/Huohua/HHRouter) 一言以蔽之，URL Router 即将 UIViewController 映射成 URL，从而支持通过 URL 进行界面跳转。是的，就和 Web 一样。当然，这并不是 Web Developer 转职为 iOS Developer 后所做的无聊玩具。URL Router 有着许多切实的好处。
-* [katana-swift]（https://github.com/BendingSpoons/katana-swift）一个用于编写iOS应用程序的现代Swift框架，灵感来自React和Redux。 Swift Apps in a Swoosh! A modern framework for creating iOS apps, inspired by React and Redux.
-* [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit) 异步界面渲染库,为极限优化View效果而生（同时提供 UIView bridge 接口） Smooth asynchronous user interfaces for iOS apps.
-* [XFLegoVIPER](https://github.com/yizzuide/XFLegoVIPER) A lightweight framework base on VIPER architecture for iOS, to build robust and maintained large scale project.
-* [publishImageAndVideoAnsRecord](https://github.com/DayCrazy/publishImageAndVideoAnsRecord) 因为公司有很多模块，几乎每个模块都需要发布视频、语言、照片。所以在很多库的基础上，搭建了一个集合，其中包括带placeHolder的TextView、录制小视频、录制音频、选择照片或拍照。其中包括了很多网络上的资源，只是做了集合，在此留个记录，也希望对一些有需求额的朋友有帮助。
-* [XBSettingController](https://github.com/changjianfeishui/XBSettingController) 快速搭建类个人中心及应用设置界面
-* [EVNEstorePlatform](https://github.com/zonghongyan/EVNEstorePlatform) App项目框架 [简书解析](http://www.jianshu.com/p/89e25c288d76?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-* [TemplateCocoa](https://github.com/turkeyaa/TemplateCocoa) 本教程旨在让我们更加快速、高效的开发移动app
+* [nimbus](https://github.com/jverkoey/nimbus)  - Nimbus是一个开源的iOS框架，比起Three20，Nimbus的文档更为全面、丰富，能够实现很多非常炫的界面特效.
+* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa受函数响应式编程激发。不同于使用可变的变量替换和就地修改，RAC提供Signals来捕获当前值和将来值（ [使用介绍](http://yulingtianxia.com/blog/2014/07/29/reactivecocoa/) ），[不错的例子](http://iiiyu.com/2014/12/26/learning-ios-notes-thirty-six/),入门好教程：[ReactiveCocoa入门教程：第一部分 ](http://www.cocoachina.com/ios/20150123/10994.html)。[Reactive Cocoa 3.0 在 MVVM 中的应用](http://ios.jobbole.com/82232/) ,[小码哥：快速让你上手ReactiveCocoa之基础篇](http://www.jianshu.com/p/87ef6720a096)。
+* [react-native-maps](https://github.com/airbnb/react-native-maps) - React Native Mapview component for iOS + Android.
+* [react-native-svg](https://github.com/react-native-community/react-native-svg)  - SVG library for React Native. react-native-svg is built to provide a SVG interface to react native on both iOS and Android.
+* [react-native-code-push](https://github.com/Microsoft/react-native-code-push) - React Native module for CodePush.
+* [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController) - 低耦合集成TabBarController,最低只需传两个数组即可完成主流App框架搭建.
+* [samurai-native](https://github.com/hackers-painters/samurai-native) - 是一个基于浏览器内核通过HTML+CSS 开发原生移动应用的iOS框架.
+* [HHRouter](https://github.com/Huohua/HHRouter) - 一言以蔽之，URL Router 即将 UIViewController 映射成 URL，从而支持通过 URL 进行界面跳转。是的，就和 Web 一样。当然，这并不是 Web Developer 转职为 iOS Developer 后所做的无聊玩具。URL Router 有着许多切实的好处.
+* [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit) - 异步界面渲染库,为极限优化View效果而生（同时提供 UIView bridge 接口）.
+* [XFLegoVIPER](https://github.com/yizzuide/XFLegoVIPER)  - A lightweight framework base on VIPER architecture for iOS, to build robust and maintained large scale project.
+* [publishImageAndVideoAnsRecord](https://github.com/DayCrazy/publishImageAndVideoAnsRecord) 发布视频、语言、照片模块集合，其中包括带placeHolder的TextView、录制小视频、录制音频、选择照片或拍照.
+* [XBSettingController](https://github.com/changjianfeishui/XBSettingController) - 快速搭建类个人中心及应用设置界面.
+* [EVNEstorePlatform](https://github.com/zonghongyan/EVNEstorePlatform)  - App项目框架 [简书解析](http://www.jianshu.com/p/89e25c288d76?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [TemplateCocoa](https://github.com/turkeyaa/TemplateCocoa) - 本教程旨在让我们更加快速、高效的开发移动app.
 
 #### React@
 
-* [react-native](https://github.com/facebook/react-native) A framework for building native apps with React.
-* [weex](https://github.com/alibaba/weex) A framework for building Mobile cross-platform UI.
-
-#### 响应式@
-
+* [react-native](https://github.com/facebook/react-native)  - A framework for building native apps with React.
+* [weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI.
 * [LoginWithReactiveCocoa](https://github.com/CrazySurfBoy/LoginWithReactiveCocoa) - ReactiveCocoa - 登录交互效果的实现。
 * [BeeFramework](https://github.com/gavinkwoe/BeeFramework) -  与ReactiveCocoa类似，[BeeFramework用户指南 v1.0](http://www.lanrenios.com/tutorials/all/2012/1220/641.html)。
 * [Objective-Chain](https://github.com/Tricertops/Objective-Chain) - Objective-Chain是一个面向对象的响应式框架，作者表示该框架吸收了 ReactiveCocoa 的思想，并且想做得更面向对象一些。
@@ -564,15 +559,15 @@ A curated list of iOS objective-C ecosystem.
 
 #### framework@
 
-* [Small](https://github.com/wequick/Small) A small framework to split app into small parts
+* [Small](https://github.com/wequick/Small) - A small framework to split app into small parts.
 
 #### 混合开发@
 
-* [rexxar-ios](https://github.com/douban/rexxar-ios) 豆瓣推的混合开发库 Mobile Hybrid Framework Rexxar iOS Container
+* [rexxar-ios](https://github.com/douban/rexxar-ios) - 豆瓣推的混合开发库 Mobile Hybrid Framework Rexxar iOS Container.
 
 #### 服务端@后台@
 
-* [GCDWebServer](https://github.com/swisspol/GCDWebServer) 基于GCD的轻量级的HTTP服务器
+* [GCDWebServer](https://github.com/swisspol/GCDWebServer) - 基于GCD的轻量级的HTTP服务器.
 
 #### 网络@
 #### 网络请求@
