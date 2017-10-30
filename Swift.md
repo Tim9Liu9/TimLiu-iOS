@@ -3,9 +3,18 @@
 [Objective-C版本点击这里](https://github.com/Tim9Liu9/TimLiu-iOS/blob/master/README.md)
 欢迎加入QQ群交流:  594119878
 
-使用方法：根据目录关键字搜索，记得包含@，以保证搜索目录关键字的唯一性。
+### About
 
-问题反馈：请广大网友只按照目录结构（即使目录结构有问题）添加三方库，并pull request。目录问题大家提出issues后楼主会及时更改的。
+A curated list of iOS objective-C ecosystem.
+
+### How to Use
+
+- Simply press <kbd>command</kbd> + <kbd>F</kbd> + <kbd>"xxx@"</kbd> to search for a keyword
+- Go through our *Content Menu*
+
+### Feedback
+
+期待大家和我们一起共同维护，同时也期望大家随时能提出宝贵的意见（直接提交issues即可）。请广大网友只按照目录结构（即使目录结构有问题）添加三方库，并提交pull request。目录问题大家提出issues后楼主会及时更改的。
 
 ## 目录
 - [Swift学习资料@](#swift学习资料)
