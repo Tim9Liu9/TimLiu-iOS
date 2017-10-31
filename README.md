@@ -28,6 +28,7 @@ A curated list of iOS objective-C ecosystem.
   - [混合开发@](#混合开发)
   - [样例App@](#样例App)
 - [服务端@后台@](#服务端#后台)
+- [安全@](#安全)
 - [网络@](#网络)
   - [网络请求@](#网络请求)
   - [socket@](#socket)
@@ -568,6 +569,10 @@ A curated list of iOS objective-C ecosystem.
 #### 服务端@后台@
 
 * [GCDWebServer](https://github.com/swisspol/GCDWebServer) - 基于GCD的轻量级的HTTP服务器.
+
+#### 安全
+
+* [Objective-C-RSA](https://github.com/ideawu/Objective-C-RSA) - Doing RSA encryption and decryption with Objective-C on iOS.
 
 #### 网络@
 #### 网络请求@
