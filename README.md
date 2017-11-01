@@ -19,15 +19,12 @@ A curated list of iOS objective-C ecosystem.
 期待大家和我们一起共同维护，同时也期望大家随时能提出宝贵的意见（直接提交issues即可）。请广大网友只按照目录结构（即使目录结构有问题）添加三方库，并提交pull request。目录问题大家提出issues后楼主会及时更改的。
 
 ###  目录
-- [参考@](#参考)
-- [版本管理@](#版本管理)
 - [完整App@](#完整App)
 - [框架@](#框架)
   - [react@](#react)
   - [framework@](#framework)
   - [混合开发@](#混合开发)
   - [样例App@](#样例App)
-- [服务端@后台@](#服务端#后台)
 - [安全@](#安全)
 - [网络@](#网络)
   - [网络请求@](#网络请求)
@@ -73,6 +70,7 @@ A curated list of iOS objective-C ecosystem.
   - [图像圆角@](#图像圆角)
 - [数据结构/算法@](#数据结构/算法)
 - [上架@](#上架)
+- [服务端@后台@](#服务端#后台)
 - [Xcode8插件@](#Xcode8插件)
 - [动态更新@](#动态更新)
 - [App更新提示@](#App更新提示)
@@ -155,6 +153,20 @@ A curated list of iOS objective-C ecosystem.
   - [通知相关请搜索“对话交互@”@](#通知相关请搜索“对话交互@”@)
 - [时间日期@](#时间日期)
 - [设计模式@](#设计模式)
+- [版本管理@](#版本管理)
+  - [Git用法@](#Git用法)
+  - [GitHub@](#GitHub)
+  - [GitBook@](#GitBook)
+  - [Git文章@](#Git文章)
+  - [GithubRank@](#GithubRank)
+  - [桌面工具@](#桌面工具)
+  - [Github客户端@](#Github客户端)
+  - [Github插件@](#Github插件)
+  - [命令行@](#命令行)
+  - [Git平台与工具@](#Git平台与工具)
+  - [Github项目@](#Github项目)
+  - [Git库@](#Git库)
+  - [Github浏览器工具@](#Github浏览器工具)
 - [皮肤@语言国际化@](#皮肤#语言国际化)
 - [版本新API的Demo@](#版本新API的Demo)
 - [代码安全与密码@](#代码安全与密码)
@@ -167,303 +179,6 @@ A curated list of iOS objective-C ecosystem.
 - [开发环境@](#开发环境)
 
 #### 具体内容 =============================
-
-#### 版本管理@
-- [Git用法@](#Git用法)
-- [GitHub@](#GitHub)
-- [GitBook@](#GitBook)
-- [Git文章@](#Git文章)
-- [GithubRank@](#GithubRank)
-- [桌面工具@](#桌面工具)
-- [Github客户端@](#Github客户端)
-- [Github插件@](#Github插件)
-- [命令行@](#命令行)
-- [Git平台与工具@](#Git平台与工具)
-- [Github项目@](#Github项目)
-- [Git库@](#Git库)
-- [Github浏览器工具@](#Github浏览器工具)
-
-#### Git用法@           [返回Git](#Git)                                   
-
-* [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 高质量的Git中文教程.
-* [lark](https://github.com/larkjs/lark/wiki/怎样贡献代码) - 怎样在Github上面贡献代码.
-* [my-git](https://github.com/xirong/my-git) - 有关git的学习资料.
-* [gitignore](https://github.com/github/gitignore) - .gitignore模板集合，包含了各种语言.
-* [Linus讲解git](https://www.youtube.com/watch?v=4XpnKHJAok8) - Google大会演讲，Linus介绍他创造git的原因，对比了git和svn.
-* [Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 史上最浅显易懂的Git教程.
-* [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) - 助你入门 git 的简明指南，木有高深内容 ;)
-* [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html) - 来自阮一峰的网络日志，列出了 Git 最常用的命令。
-* [Pro Git（中文版）](https://git.oschina.net/progit/) - Pro Git（中文版).
-* [Git Submodule使用完整教程](http://www.kafeitu.me/git/2012/03/27/git-submodule.html) - Git Submodule使用完整教程.
-* [Git权威指南](http://www.worldhello.net/gotgit/) - Git权威指南.
-* [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) - git-flow 是一个 git 扩展集，按 Vincent Driessen 的分支模型提供高层次的库操作.
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) - git-flow 备忘清单.
-* [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/setting-up-a-repository/) - Atlassian Git Tutorials.
-* [Try Git ( Interactive)](https://try.github.io/levels/1/challenges/1) - 互动性的教你使用git.
-* [Git (简体中文)](https://wiki.archlinux.org/index.php/Git_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)) - Git (简体中文).
-* [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html) - Git Community Book 中文版.
-* [awesome-github-templates](https://github.com/devspace/awesome-github-templates) - github issue 和 pull request教程模板.
-* [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 高质量的Git中文教程，来自国外社区的优秀文章和个人实践.
-* [git-it](http://jlord.us/git-it/) - GitHub一位女员工写的Git教程.
-* [Git Town](http://www.git-town.com/) - GitTown 定义了很多高级的 git 命令，例如 git ship / git sync 等以方便 git 的使用.
-* [git-tips](https://github.com/git-tips/tips) - 最常用的Git的提示和技巧。
-* [「Githug」Git 游戏通关流程](http://www.jianshu.com/p/482b32716bbe) - 这个命令行工具通过游戏的方式来练习你的 Git 技能.
-* [progit2-zh](https://github.com/progit/progit2-zh) - Pro Git，第二版，简体中文.
-* [git-style-guide](https://github.com/agis-/git-style-guide)- git风格指南.
-* [Git 进阶技巧](https://github.com/xhacker/GitProTips/blob/master/zh_CN.md) - 适合了解 Git 的基本使用，知道 commit、push、pull，希望掌握 Git 更多功能的人阅读.
-* [learn-git-basics](https://github.com/NataliaLKB/learn-git-basics) - git指南.
-* [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days/blob/master/zh-tw/README.md) 30 天精通 Git 版本控管.
-* [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html) - 图解git中的最常用命令.
-* [沉浸式学 Git](http://igit.linuxtoy.org/contents.html) - 简洁github教程.
-* [工作中常用的Git命令行](https://github.com/DefaultYuan/Git-Pro) - 自己在工作中常用的Git命令行的小总结.
-
-#### GitHub@
-
- * [python_github_collect_star](https://github.com/Tim9Liu9/python_github_collect_star) - 收集github上项目的star数、fork数、watch数
- * [GitHub Pages 指南](http://jekyllcn.com/) - GitHub官方文档翻译版.
- * [GitHub Pages 指南 - 极客学院](http://wiki.jikexueyuan.com/project/github-pages-basics/) - GitHub Pages 官网 GitHub Pages Basics 的中文翻译版本.
- * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - 一些酷酷的Git和GitHub功能收集.
- * [jekyll官方文档中文翻译版](http://jekyllcn.com/) - 将纯文本转换为静态博客网站.
- * [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html) - 示范如何在github上搭建Blog，你可以从中掌握github的Pages功能，以及Jekyll软件的基本用法。更重要的是，你会体会到一种建立网站的全新思路.
- * [免费使用Jekyll+Github Page搭建博客入门攻略](http://www.cellier.me/2015/01/04/jekyll%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/) - Jekyll建站
- * [jekyll 学习资料整理](https://github.com/mba811/jekyll-study) - 在学习的同时将内容整理很多相关资料.
- * [jekyll-style-guide](http://ben.balter.com/jekyll-style-guide/) - jekyll-style-guide.
- * [hexo你的博客](http://ibruce.info/2013/11/22/hexo-your-blog/) - hexo出自台湾大学生[tommy351](https://twitter.com/tommy351)之手，是一个基于Node.js的静态博客程序，其编译上百篇文字只需要几秒.
- * [如何搭建一个独立博客——简明Github Pages与Hexo教程](http://www.jianshu.com/p/05289a4bc8b2) - 详尽的独立博客搭建教程，里面介绍了域名注册、DNS设置、github和Hexo设置等过程.
- * [Hexo中文版](https://hexo.io/zh-cn/) - hexo官网中文版.
- * [像geek一样写博客](http://wiki.jikexueyuan.com/project/github-page/) - 结合了Octopress.
-
-#### GitBook@
-
- * [GitBook简明教程](http://www.chengweiyang.cn/gitbook/index.html) - 本教程主要围绕 GitBook 的安装，使用，集成，书籍发布，个性化以及实用插件几个方面.
- * [Gitbook入门教程](https://yuzeshan.gitbooks.io/gitbook-studying/content/index.html) - 本书将简单介绍如何安装、编写、生成、发布一本在线图书,且示例全部在windows下展示(其他系统差不多一致).
- * [Git教学](https://kingofamani.gitbooks.io/git-teach/content/index.html) - GIT版本控制.
- * [Gitbook 使用入门](https://github.com/wwq0327/gitbook-zh) - 本书将简单介绍如何安装、编写、生成、发布一本在线图书.
- * [api-guide](https://github.com/GitbookIO/api-guide) - gitbook的api文档.
-
-#### Git文章@
-
-* [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html) - 本文尝试谈谈GitHub的文化、技巧与影响.
-* [GitHub连击500天：让理想的编程成为习惯](https://www.phodal.com/blog/github-500-program-as-usual/) - phodal对于GitHub的看法.
-* [Github装逼指南——Travis CI 和 Codecov](https://segmentfault.com/a/1190000004415437) - 关于持续集成和统计单测覆盖率.
-* [如何用Github去管理你的Idea](http://zhuanlan.zhihu.com/phodal/20442311) - 用Github的README.md和Issues来管理我的idea.
-* [GitHub开源项目负责人谈开源](http://www.infoq.com/cn/news/2015/10/GitHub-OpenSource) - Brandon就其与开源的缘分、当前工作的职责、GitHub及员工与开源的关系等方面的问题一一进行了回答.
-* [亲爱的GitHub](https://github.com/dear-github/dear-github) - 致GitHub的一封公开信.
-* [thank-you-github](https://github.com/thank-you-github/thank-you-github) - 一封从GitHub毕业的公开信.
-* [用Github issues作为blog的例子](https://github.com/lifesinger/blog/labels/blog)- 用Github issues作为blog的例子.
-* [2014年GitHub 中国开发者年度报告](http://githuber.info/report) - 使用python分析数据后的报告.
-* [Gist介绍与用法](http://platinhom.github.io/2015/11/26/gist/) - Gist https://gist.github.com/ 是Github的一个子服务.
-* [最活跃的GitHub用户](https://gist.github.com/paulmillr/2657075/) - 想看最活跃用户可以看这里.
-* [10个立即提高你生产力的GitHub技能](http://usersnap.com/blog/github-hacks-productivity/)
-* [Top 10 Git Tutorials for Beginners](http://sixrevisions.com/resources/git-tutorials-beginners/) - 教你使用git最好的10本书.
-* [使用GitHub进行团队合作](http://xiaocong.github.io/blog/2013/03/20/team-collaboration-with-github/) - 译文.
-* [一键收藏至Github](http://www.jianshu.com/p/19d2f3a3b5d8) - 通过 Rails 收藏文章，并自动提交至 github.
-* [Github Hacking](http://www.jianshu.com/p/d6b54f1d60f1) - Github的各种黑客技能.
-* [如何参与一个GitHub开源项目？](http://www.csdn.net/article/2014-04-14/2819293-Contributing-to-Open-Source-on-GitHub) - 如何参与一个GitHub开源项目?
-* [试译：开源项目成功的十条准则](http://www.zhuangbiaowei.com/blog/?cat=31) -作者将自己30年来的开发经验，总结为开源软件的十条成功法则。
-* [漫谈Github与开源](http://www.wdk.pw/802.html) -本文作者为大二在读Geek学生关于GitHub与开源的理解。
-* [关于Pull Request的十个建议](http://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/) - 作者Mark Seemann.
-* [Github上都有哪些有用但不为大家熟知的小功能？](https://www.zhihu.com/question/36974348)
-* [如果你用GitHub，可以这样提高效率](http://huang-jerryc.com/2016/01/15/%E5%A6%82%E6%9E%9C%E4%BD%A0%E7%94%A8GitHub%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87/) - 基于Github，搭建一整套代码管理服务
-* [如何选择开源许可证？](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html) - 六种开源协议GPL、BSD、MIT、Mozilla、Apache和LGPL之间的区别.
-* [如何用好github中的watch、star、fork](http://www.jianshu.com/p/6c366b53ea41) - 介绍watch、star、fork的具体作用.
-* [git-commit-guide](https://github.com/bluejava/git-commit-guide) - git commit message 指南.
-* [git操作是不是很难记住？](http://www.jianshu.com/p/e870fdd971fc) - 笔者试着分类git的常用操作，方便同样是刚入门git的你查阅.
-* [GUI for git|SourceTree|入门基础](http://www.jianshu.com/p/be9f0484af9d) - SourceTree简介.
-* [话说Svn与Git的区别](http://www.jianshu.com/p/bfec042349ca) - SVN的特点是简单，只是需要一个放代码的地方时用是OK的。Git的特点版本控制可以不依赖网络做任何事情，对分支和合并有更好的支持.
-* [多用Git少交税](http://www.jianshu.com/p/8a985c622e61)
-* [Git版本控制与工作流](http://www.jianshu.com/p/67afe711c731) - 针对git版本控制和工作流的总结.
-* [在github上写博客](http://www.jianshu.com/p/1260517bbedb)
-* [GitHub & Bitbucket & GitLab & Coding 的对比分析](http://blog.flow.ci/github-bitbucket-gitlab-coding)
-
-#### GithubRank@
-
-* [GitHub Rank (China)](http://githubrank.com/) - GitHub上中国程序员的排名网站，根据follower.
-* [GitHub Ranking | GitHub Awards](http://github-awards.com/) - GitHub上程序员的排名网站，根据star.
-* [GitHub Ranking](https://github-ranking.com/) - GitHub用户和仓库排名，根据star，不区分语言.
-* [diycode - GitHub Ranking](http://www.diycode.cc/trends) - GitHub 全球 Developers, Organizations and Repositories 排行榜.
-
-#### 桌面工具@
-
-* [ohmystar](http://www.ohmystarapp.com/) - Mac上管理你GitHub star的工具
-* [GithubPulse](https://github.com/tadeuzagallo/GithubPulse) - OS X状态栏的APP，帮你记住你在GitHub每天的贡献.
-* [githubtrending](http://www.githubtrending.com/) - OS X状态栏的APP，显示GitHub Trending，也有iOS端.
-* [ghstatus](https://itunes.apple.com/cn/app/ghstatus/id883585153?mt=12) - OS X状态栏的APP，显示GitHub Status.
-* [pophub](http://questbe.at/pophub/) - OS X状态栏的APP，显示GitHub 的activities.
-* [git-dude](https://github.com/sickill/git-dude) - git commit通知.
-* [gitee](https://github.com/Nightonke/Gitee) - Gitee, OS X status bar application for Github 漂亮的GitHub数据统计工具，还有notifications功能.
-
-#### Github客户端@
-
-* [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) - GitBucket iOS App，一个GitHub第三方客户端.
-* [Monkey](https://github.com/coderyi/Monkey) - Monkey是一个GitHub第三方iOS客户端，主要是用来展示GitHub上的开发者的排名，以及仓库的排名.
-* [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) - 一个React Native写的Github客户端，支持iOS和Android.
-* [githot](https://github.com/andyiac/githot) - GitHot是一个Android App,用来发现世界上最流行的项目和人.
-* [CodeHub](https://github.com/thedillonb/CodeHub) - CodeHub是C#写的，它是iOS设备上最好的GitHub仓库浏览和维护工具.
-* [ioctocat](https://github.com/dennisreimann/ioctocat) - GitHub的iOS客户端.
-* [napcat](https://itunes.apple.com/cn/app/napcat-github-client-for-open/id606238223?mt=8) - 一个比较全面的GitHub的iOS客户端.
-* [RepoStumble](https://github.com/thedillonb/RepoStumble) - 查看GitHub仓库的手机客户端.
-* [GithubTrends](https://github.com/laowch/GithubTrends) - Material Design风格的查看GitHub仓库trending app.
-* [ForkHub](https://github.com/jonan/ForkHub) - Android平台的GitHub客户端.
-* [GitEgo](https://github.com/hrules6872/GitEgo) - Android平台的GitHub客户端.
-* [Sources](https://github.com/vulgur/Sources) - 一个极简的 Github 客户端，Sources。内置几十个语法高亮的主题可供选择.
-* [igithub](https://github.com/schacon/igithub) - github 的iOS端.
-* [gitmonitor-ios](https://github.com/theotow/gitmonitor-ios) - 一个通知你不用再push代码的iOS app.
-* [GithubWidget](https://github.com/Nightonke/GithubWidget) - 轻量级显示Github用户的贡献、星数、Follower数、热门仓库的App.
-* [GitPocket](https://github.com/jindulys/GitPocket) - Swift编写GitHub客户端.
-* [GitHubContributionsiOS](https://github.com/JustinFincher/GitHubContributionsiOS) - 显示你的GitHub Contributions的Today Extension,App Store链接,[Contributions for GitHub](https://itunes.apple.com/us/app/contributions-for-github/id1153432612?l=zh&ls=1&mt=8).
-
-#### Github插件@
-
-* [octotree](https://github.com/buunguyen/octotree) - 浏览器扩展，树状格式显示GitHub的代码.
-* [octo-linker](https://github.com/octo-linker/chrome-extension) - 这款谷歌 Chrome 扩展允许您轻松地浏览 GitHub.com 上的文件和包.
-* [github-hovercard](https://github.com/Justineo/github-hovercard) - GitHub Hovercard 是一个浏览器扩展，实现了展示用户在 Github 上信息的信息卡功能，支持 Firefox 和 Chrome 浏览器.
-* [notifier-for-github-chrome](https://github.com/sindresorhus/notifier-for-github-chrome) - 一个浏览器扩展，它能显示 Github 通知的未读数量.
-* [github-menu-back](https://github.com/summerblue/github-menu-back) - 一款修改 GitHub 导航栏为之前状态的 Chrome 插件.
-* [gitsense-extensions](https://github.com/gitsense/gitsense-extensions) - GitSense 是一个 Chrome 插件，可以让你在浏览 Github 的时候体验更好.
-* [git-draw](https://github.com/ben174/git-draw) - 谷歌 Chrome 扩展，给GitHub提交历史画个画.
-* [ShowInGitHub](https://github.com/larsxschneider/ShowInGitHub) - Xcode插件，打开选中行的GitHub提交页面.
-* [Reveal-In-GitHub](https://github.com/lzwjava/Reveal-In-GitHub) - 有关GitHub的Xcode插件.
-* [Visual Studio](https://github.com/github/VisualStudio) - 有关GitHub的Visual Studio插件.
-* [github-sublime-theme](https://github.com/AlexanderEkdahl/github-sublime-theme) - GitHub Sublime 主题.
-* [GitHubinator](https://github.com/ehamiter/GitHubinator) - sublime插件，显示选中文本上的远程GitHub仓库.
-* [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - Alfred 2上使用GitHub命令.
-* [ZenHub](https://github.com/ZenHubIO/support) -ZenHub 能优化你的 GitHub 工作流，是轻量级的 Chrome 浏览器插件.
-* [github-gmail](https://github.com/muan/github-gmail) - 在Gmail内快速打开GitHub的通知.
-* [chrome-github-avatars](https://github.com/anasnakawa/chrome-github-avatars) - 谷歌Chrome扩展，可以让你的GitHub主页显示用户的头像.
-* [tab-size-on-github](https://github.com/sindresorhus/tab-size-on-github) - 谷歌Chrome和Opera扩展，让代码缩进为4个空格而不是8个.
-* [hide-files-on-github](https://github.com/sindresorhus/hide-files-on-github) - 谷歌Chrome和Opera扩展，隐藏点文件.
-* [github-highlight-selected](https://github.com/Nuclides/github-highlight-selected) - 谷歌Chrome和Safari扩展，代码高亮，看起来像sublime.
-* [github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete) - 谷歌Chrome和Safari以及Firefox扩展，在GitHub的搜索栏加入自动补全功能.
-* [chrome-github-mate](https://github.com/rubyerme/chrome-github-mate) - 谷歌Chrome扩展，下载单个文件.
-* [Pages2Repo](https://github.com/Frozenfire92/Pages2Repo) - 谷歌Chrome扩展，通过GitHub Pages网站就能访问仓库.
-* [lovely-forks](https://github.com/musically-ut/lovely-forks) - 谷歌Chrome扩展，显示fork你仓库中star最多的.
-* [github-pr-filter](https://github.com/danielhusar/github-pr-filter) - 谷歌Chrome扩展，在pr中过滤文件.
-* [github-ast-viewer](https://github.com/lukehorvat/github-ast-viewer) - 谷歌Chrome扩展，增加代码的抽象语法树.
-* [github-canned-responses](https://github.com/notwaldorf/github-canned-responses) - 谷歌Chrome扩展，评论pr或者issue的时候有一些可选项.
-* [categoric](https://github.com/ozlerhakan/categoric) - 谷歌Chrome扩展，为你的通知分类.
-* [octo-preview](https://github.com/DrewML/octo-preview) - 谷歌Chrome扩展，预览你评论的markdown内容.
-* [GifHub](https://github.com/DrewML/GifHub) - 谷歌Chrome扩展，GifHub一个往GitHub评论里边插入Gif动画的Chrome插件.
-* [star-history-plugin](https://github.com/timqian/star-history-plugin) - 查看仓库star历史的插件.
-* [open-on-github](https://github.com/atom/open-on-github) - atom插件，打开文件在github.com.
-* [refined-github](https://github.com/sindresorhus/refined-github) - chrome插件，简化你的github，增加了一些可用的功能.
-* [gitpress](https://github.com/enricob/gitpress) - github的wordpress插件，用于列出用户的仓库.
-* [jquery-github](https://github.com/zenorocha/jquery-github) - jquery的插件显示github仓库.
-* [sublime-text-git](https://github.com/kemayo/sublime-text-git) - sublime的git插件.
-* [git-plugin](https://github.com/jenkinsci/git-plugin) - jenkins的git插件.
-* [github-oauth-plugin](https://github.com/jenkinsci/github-oauth-plugin) - jenkins的github oauth登录插件.
-* [twitter-for-github](https://github.com/bevacqua/twitter-for-github) - 在github上显示用户twitter的chrome插件.
-* [Hudson-GIT-plugin](https://github.com/magnayn/Hudson-GIT-plugin) - Hudson上的GIT插件.
-* [git-time-machine](https://github.com/littlebee/git-time-machine) - atom插件查看提交历史.
-* [GitDiff](https://github.com/johnno1962/GitDiff) - Xcode插件.
-* [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - git的vim 插件.
-
-#### Git平台与工具@
-
-* [git](https://github.com/git/git) - git源码.
-* [sourcetree](https://www.atlassian.com/software/sourcetree) - Windows 和Mac OS X 下免费的 Git客户端.
-* [gitbucket](https://github.com/gitbucket/gitbucket) - Scala编写的开源Git平台，扩展性好，兼容GitHub.
-* [gogs](https://github.com/gogits/gogs) - Gogs (Go Git Service) 是一款极易搭建的自助 Git 服务.
-* [gitlab](https://github.com/gitlabhq/gitlabhq) - 一个用于仓库管理系统的开源项目.
-* [git-annex](https://github.com/joeyh/git-annex) - git管理大文件.
-* [gitx](https://github.com/pieter/gitx) - Mac平台上的Git GUI客户端.
-* [gity](https://github.com/beheadedmyway/gity) - mac的git客户端.
-* [svn2git](https://github.com/nirvdrum/svn2git) - ruby 实现的迁移svn工程到git.
-* [stupidgit](https://github.com/gyim/stupidgit) - python编写的git的跨平台GUI.
-* [GitUp](https://github.com/git-up/GitUp) - Objective-C编写的Mac上的Git客户端.
-
-#### 命令行@
-
-* [hub](https://github.com/github/hub) - github官方出品的命令行工具，让你更好地使用github.
-* [gitflow](https://github.com/nvie/gitflow) Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
-* [gh](https://github.com/jingweno/gh) - gh 是一个用 Go 语言开发的 Github 命令行客户端.
-* [node-gh](https://github.com/node-gh/gh) - Node GH 是基于 Node.js 编写的 Github 命令行工具.
-* [gitsome](https://github.com/donnemartin/gitsome/) - supercharged Github Client.
-* [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - 吐槽别人的烂代码.
-* [git-pulls](https://github.com/schacon/git-pulls) - github pull requests的命令后行工具.
-* [git-scribe](https://github.com/schacon/git-scribe) - 写电子书的命令行工具.
-* [github-gem](https://github.com/defunkt/github-gem) - github命令行工具.
-* [ghterm](https://github.com/github-archive/ghterm) - github终端.
-* [git-sh](https://github.com/rtomayko/git-sh) - 适合git的bash工作环境.
-* [legit](https://github.com/kennethreitz/legit) - 灵感来自于github for mac的git 命令行工具.
-* [git-sweep](https://github.com/arc90/git-sweep) - git命令行工具，帮助你清理已经merge到master的分支.
-* [github-email](https://github.com/paulirish/github-email) - 获取用户的邮箱.
-* [git-town](https://github.com/Originate/git-town) Generic, high-level Git workflow support.
-* [git-fire](https://github.com/qw3rtman/git-fire) - 紧急情况下保存代码.
-* [gitsome](https://github.com/donnemartin/gitsome) - Git/GitHub命令行工具.
-* [maintainer](https://github.com/gaocegege/maintainer) - 让你的 GitHub repo 对开发者更加友好的命令行工具.
-
-#### Github项目@
-
-* [resume.github.com](https://github.com/resume/resume.github.com) - 根据用户的github信息生成简历
-* [github-trending](https://github.com/josephyzhou/github-trending) - 记录下GitHub历史上的每日trending.
-* [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - 黑色的GitHub网站风格.
-* [github-gists](https://github.com/kevva/github-gists) - 拿到一个GitHub用户的所有gist.
-* [Get-Your-GitHub-Card](https://github.com/codesboy/Get-Your-GitHub-Card) - 基于jquery拿到你的GitHub用户资料.
-* [ohmyrepo](https://github.com/no13bus/ohmyrepo) - 一个 GitHub 仓库分析工具.
-* [greenhat](https://github.com/4148/greenhat) - 一个让GitHub全绿的“旁门左道”的东西.
-* [gitfiti](https://github.com/gelstudios/gitfiti) - 滥用github提交历史.
-* [Github-profile-name-writer](https://github.com/ironmaniiith/Github-profile-name-writer) - 把github提交历史变成你的名字.
-* [github-contributions](https://github.com/IonicaBizau/github-contributions) - 可以让你的 github 提交日历排出有趣的图案.
-* [github-corners](https://github.com/tholman/github-corners) - 显示 "Fork me on GitHub".
-* [GitHub-jQuery-Repo-Widget](https://github.com/JoelSutherland/GitHub-jQuery-Repo-Widget) - 一个GitHub风格的挂件，方便在页面中展示GitHub项目.
-* [GitHub Archive](https://github.com/igrigorik/githubarchive.org) - GitHub Archive 是一个记录GitHub时间线的项目.
-* [github-cards](https://github.com/lepture/github-cards) - GitHub Cards 用来展示你的简介.
-* [githut](https://github.com/littleark/githut) - 可视化了GitHub Archive的数据.
-* [lolcommits](https://github.com/mroth/lolcommits) - 每次提交Git都自拍一张.
-* [github-selfies](https://github.com/thieman/github-selfies) - Github Selfies 可以在你 Github 的需求和贡献上加上你的自拍照.
-* [badges](https://github.com/boennemann/badges) - 收集GitHub上readme页显示的与javascript有关的各种徽章.
-* [MediumArticles](http://www.jianshu.com/p/19d2f3a3b5d8) - 一键收藏至Github.
-* [GitHunt](https://github.com/apollostack/GitHunt) - 为你喜欢的仓库投票的项目.
-* [githug](https://github.com/Gazler/githug) - 通过游戏的方式来练习Git的命令行工具.
-* [css3-github-buttons](https://github.com/necolas/css3-github-buttons) - 帮助你创建github风格的 button.
-* [git-crypt](https://github.com/AGWA/git-crypt) - git加密.
-* [is-github-down](https://github.com/sindresorhus/is-github-down) - 检查github有没有down机.
-* [miaopull](https://github.com/aquarhead/miaopull) - 自动化pull工具.
-* [go-git](https://github.com/src-d/go-git)- 通过go来从git服务器读取仓库.
-* [GitViz](https://github.com/Readify/GitViz) - 帮助你训练git时的可视化工具.
-* [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 学习git的可视化工具.
-
-#### Git库@
-
-* [octokit](https://github.com/octokit) - GitHub API的官方封装库.
-* [GitHub Java API (org.eclipse.egit.github.core)](https://github.com/eclipse/egit-github/tree/master/org.eclipse.egit.github.core) - eclipse出品，Java写的GitHub API的封装库.
-* [github - michael](https://github.com/michael/github) - JavaScript写的GitHub API的封装库.
-* [PyGithub](https://github.com/PyGithub/PyGithub) - Python的GitHub API封装库.
-* [UAGithubEngine](https://github.com/owainhunt/uagithubengine) - Objective-C的GitHub API封装库.
-* [RxGitHubAPI](https://github.com/FengDeng/RxGitHubAPI) - 基于RxSwift的GitHub API封装库.
-* [GitHub API for Java](http://github-api.kohsuke.org/) - 面向对象的GitHub API库.
-* [GitHubObjC](https://github.com/ernstsson/GitHubObjC) - Objective-C实现的GitHub API库.
-* [go-github](https://github.com/google/go-github) - Go实现的GitHub API库.
-* [ruby-github](https://github.com/peter-murach/github) - Ruby实现的GitHub API库.
-* [libgit2](https://github.com/libgit2/libgit2) - Git核心库，通过它可以写一个自己的git应用.
-* [Gift](https://github.com/modocache/Gift) - 通过Swift绑定libgit2，通过它你可以clone一个仓库，查看commit，提交等.
-* [gitkit-js](https://github.com/SamyPesse/gitkit-js) - gitkit-js，SamyPesse开源的git的javascript实现，包含一系列API,可以管理git仓库，包括读文件，commit， clone，push，fetch等，可以工作在浏览器和node.js上.
-* [github3.py](https://github.com/sigmavirus24/github3.py) - GitHub API v3的python接口.
-* [PyGithub](https://github.com/PyGithub/PyGithub) - GitHub API v3的python接口.
-* [github-backup](https://github.com/joeyh/github-backup) - 备份GitHub仓库，包括branches, tags, other forks, issues, comments, wikis, milestones, pull requests, watchers, stars. 通过haskell编写.
-* [github - Haskell](https://github.com/PyGithub/PyGithub) - GitHub API 的Haskell接口.
-* [objective-git](https://github.com/schacon/objective-git) - Git的Objective-C实现.
-* [node-gitlab](https://github.com/node-gitlab/node-gitlab) - gitlab的node api.
-* [php-github-api](https://github.com/KnpLabs/php-github-api) - php的github api.
-* [cocoagit](https://github.com/geoffgarside/cocoagit) - git的objetive-c实现.
-* [ruby-github](https://github.com/mbleigh/ruby-github) - mbleigh写的ruby的github api.
-* [Git.framework](https://github.com/geoffgarside/Git.framework) - mac os x 平台的objective-c的git实现.
-* [pygit2](https://github.com/libgit2/pygit2) - libgit2的python版.
-* [git.js](https://github.com/danlucraft/git.js) - git的js实现.
-* [nodegit](https://github.com/nodegit/nodegit) - git的node实现.
-* [GitSharp](https://github.com/henon/GitSharp) - .Net实现的git.
-* [erlangit](https://github.com/schacon/erlangit) - erlang 的git实现.
-* [github4j](https://github.com/defunct/github4j) - 一个github 下载的java api.
-* [libgit2sharp](https://github.com/libgit2/libgit2sharp) - .Net实现的git.
-* [Gift](https://github.com/modocache/Gift) - Swift编写的git实现.
-* [SwiftGit2](https://github.com/SwiftGit2/SwiftGit2) - Swift编写的git实现.
-* [GithubPilot](https://github.com/jindulys/GithubPilot) - Swift的GitHub API 封装.
-* [GitYourFeedback](https://github.com/gabek/GitYourFeedback) - 让你可以直接在iOS App内feedback时向GitHub提交issue.
-
-#### Github浏览器工具@
-
-* [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) GitHub浏览器扩展收集列表.
 
 #### 完整App@
 
@@ -566,11 +281,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [rexxar-ios](https://github.com/douban/rexxar-ios) - 豆瓣推的混合开发库 Mobile Hybrid Framework Rexxar iOS Container.
 
-#### 服务端@后台@
-
-* [GCDWebServer](https://github.com/swisspol/GCDWebServer) - 基于GCD的轻量级的HTTP服务器.
-
-#### 安全
+#### 安全@
 
 * [Objective-C-RSA](https://github.com/ideawu/Objective-C-RSA) - Doing RSA encryption and decryption with Objective-C on iOS.
 
@@ -1103,6 +814,10 @@ A curated list of iOS objective-C ecosystem.
 #### 上架@
 
 * [Solve-App-Store-Review-Problemm](https://github.com/wg689/Solve-App-Store-Review-Problem) (ipv6,ipv6被拒绝,后台定位等审核问题的终极解决方案汇总)。
+
+#### 服务端@后台@
+
+* [GCDWebServer](https://github.com/swisspol/GCDWebServer) - 基于GCD的轻量级的HTTP服务器.
 
 #### Xcode8插件@
 
@@ -1756,6 +1471,289 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
 * [DecouplingKit] (https://github.com/coderyi/DecouplingKit)   iOS模块化过程中模块间解耦方案。
 * [Trip-to-iOS-Design-Patterns](https://github.com/skyming/Trip-to-iOS-Design-Patterns)
 
+#### 版本管理@
+#### Git用法@                                 
+
+* [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 高质量的Git中文教程.
+* [lark](https://github.com/larkjs/lark/wiki/怎样贡献代码) - 怎样在Github上面贡献代码.
+* [my-git](https://github.com/xirong/my-git) - 有关git的学习资料.
+* [gitignore](https://github.com/github/gitignore) - .gitignore模板集合，包含了各种语言.
+* [Linus讲解git](https://www.youtube.com/watch?v=4XpnKHJAok8) - Google大会演讲，Linus介绍他创造git的原因，对比了git和svn.
+* [Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 史上最浅显易懂的Git教程.
+* [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) - 助你入门 git 的简明指南，木有高深内容 ;)
+* [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html) - 来自阮一峰的网络日志，列出了 Git 最常用的命令。
+* [Pro Git（中文版）](https://git.oschina.net/progit/) - Pro Git（中文版).
+* [Git Submodule使用完整教程](http://www.kafeitu.me/git/2012/03/27/git-submodule.html) - Git Submodule使用完整教程.
+* [Git权威指南](http://www.worldhello.net/gotgit/) - Git权威指南.
+* [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) - git-flow 是一个 git 扩展集，按 Vincent Driessen 的分支模型提供高层次的库操作.
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) - git-flow 备忘清单.
+* [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/setting-up-a-repository/) - Atlassian Git Tutorials.
+* [Try Git ( Interactive)](https://try.github.io/levels/1/challenges/1) - 互动性的教你使用git.
+* [Git (简体中文)](https://wiki.archlinux.org/index.php/Git_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)) - Git (简体中文).
+* [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html) - Git Community Book 中文版.
+* [awesome-github-templates](https://github.com/devspace/awesome-github-templates) - github issue 和 pull request教程模板.
+* [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 高质量的Git中文教程，来自国外社区的优秀文章和个人实践.
+* [git-it](http://jlord.us/git-it/) - GitHub一位女员工写的Git教程.
+* [Git Town](http://www.git-town.com/) - GitTown 定义了很多高级的 git 命令，例如 git ship / git sync 等以方便 git 的使用.
+* [git-tips](https://github.com/git-tips/tips) - 最常用的Git的提示和技巧。
+* [「Githug」Git 游戏通关流程](http://www.jianshu.com/p/482b32716bbe) - 这个命令行工具通过游戏的方式来练习你的 Git 技能.
+* [progit2-zh](https://github.com/progit/progit2-zh) - Pro Git，第二版，简体中文.
+* [git-style-guide](https://github.com/agis-/git-style-guide)- git风格指南.
+* [Git 进阶技巧](https://github.com/xhacker/GitProTips/blob/master/zh_CN.md) - 适合了解 Git 的基本使用，知道 commit、push、pull，希望掌握 Git 更多功能的人阅读.
+* [learn-git-basics](https://github.com/NataliaLKB/learn-git-basics) - git指南.
+* [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days/blob/master/zh-tw/README.md) 30 天精通 Git 版本控管.
+* [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html) - 图解git中的最常用命令.
+* [沉浸式学 Git](http://igit.linuxtoy.org/contents.html) - 简洁github教程.
+* [工作中常用的Git命令行](https://github.com/DefaultYuan/Git-Pro) - 自己在工作中常用的Git命令行的小总结.
+
+#### GitHub@
+
+ * [python_github_collect_star](https://github.com/Tim9Liu9/python_github_collect_star) - 收集github上项目的star数、fork数、watch数
+ * [GitHub Pages 指南](http://jekyllcn.com/) - GitHub官方文档翻译版.
+ * [GitHub Pages 指南 - 极客学院](http://wiki.jikexueyuan.com/project/github-pages-basics/) - GitHub Pages 官网 GitHub Pages Basics 的中文翻译版本.
+ * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - 一些酷酷的Git和GitHub功能收集.
+ * [jekyll官方文档中文翻译版](http://jekyllcn.com/) - 将纯文本转换为静态博客网站.
+ * [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html) - 示范如何在github上搭建Blog，你可以从中掌握github的Pages功能，以及Jekyll软件的基本用法。更重要的是，你会体会到一种建立网站的全新思路.
+ * [免费使用Jekyll+Github Page搭建博客入门攻略](http://www.cellier.me/2015/01/04/jekyll%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/) - Jekyll建站
+ * [jekyll 学习资料整理](https://github.com/mba811/jekyll-study) - 在学习的同时将内容整理很多相关资料.
+ * [jekyll-style-guide](http://ben.balter.com/jekyll-style-guide/) - jekyll-style-guide.
+ * [hexo你的博客](http://ibruce.info/2013/11/22/hexo-your-blog/) - hexo出自台湾大学生[tommy351](https://twitter.com/tommy351)之手，是一个基于Node.js的静态博客程序，其编译上百篇文字只需要几秒.
+ * [如何搭建一个独立博客——简明Github Pages与Hexo教程](http://www.jianshu.com/p/05289a4bc8b2) - 详尽的独立博客搭建教程，里面介绍了域名注册、DNS设置、github和Hexo设置等过程.
+ * [Hexo中文版](https://hexo.io/zh-cn/) - hexo官网中文版.
+ * [像geek一样写博客](http://wiki.jikexueyuan.com/project/github-page/) - 结合了Octopress.
+
+#### GitBook@
+
+ * [GitBook简明教程](http://www.chengweiyang.cn/gitbook/index.html) - 本教程主要围绕 GitBook 的安装，使用，集成，书籍发布，个性化以及实用插件几个方面.
+ * [Gitbook入门教程](https://yuzeshan.gitbooks.io/gitbook-studying/content/index.html) - 本书将简单介绍如何安装、编写、生成、发布一本在线图书,且示例全部在windows下展示(其他系统差不多一致).
+ * [Git教学](https://kingofamani.gitbooks.io/git-teach/content/index.html) - GIT版本控制.
+ * [Gitbook 使用入门](https://github.com/wwq0327/gitbook-zh) - 本书将简单介绍如何安装、编写、生成、发布一本在线图书.
+ * [api-guide](https://github.com/GitbookIO/api-guide) - gitbook的api文档.
+
+#### Git文章@
+
+* [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html) - 本文尝试谈谈GitHub的文化、技巧与影响.
+* [GitHub连击500天：让理想的编程成为习惯](https://www.phodal.com/blog/github-500-program-as-usual/) - phodal对于GitHub的看法.
+* [Github装逼指南——Travis CI 和 Codecov](https://segmentfault.com/a/1190000004415437) - 关于持续集成和统计单测覆盖率.
+* [如何用Github去管理你的Idea](http://zhuanlan.zhihu.com/phodal/20442311) - 用Github的README.md和Issues来管理我的idea.
+* [GitHub开源项目负责人谈开源](http://www.infoq.com/cn/news/2015/10/GitHub-OpenSource) - Brandon就其与开源的缘分、当前工作的职责、GitHub及员工与开源的关系等方面的问题一一进行了回答.
+* [亲爱的GitHub](https://github.com/dear-github/dear-github) - 致GitHub的一封公开信.
+* [thank-you-github](https://github.com/thank-you-github/thank-you-github) - 一封从GitHub毕业的公开信.
+* [用Github issues作为blog的例子](https://github.com/lifesinger/blog/labels/blog)- 用Github issues作为blog的例子.
+* [2014年GitHub 中国开发者年度报告](http://githuber.info/report) - 使用python分析数据后的报告.
+* [Gist介绍与用法](http://platinhom.github.io/2015/11/26/gist/) - Gist https://gist.github.com/ 是Github的一个子服务.
+* [最活跃的GitHub用户](https://gist.github.com/paulmillr/2657075/) - 想看最活跃用户可以看这里.
+* [10个立即提高你生产力的GitHub技能](http://usersnap.com/blog/github-hacks-productivity/)
+* [Top 10 Git Tutorials for Beginners](http://sixrevisions.com/resources/git-tutorials-beginners/) - 教你使用git最好的10本书.
+* [使用GitHub进行团队合作](http://xiaocong.github.io/blog/2013/03/20/team-collaboration-with-github/) - 译文.
+* [一键收藏至Github](http://www.jianshu.com/p/19d2f3a3b5d8) - 通过 Rails 收藏文章，并自动提交至 github.
+* [Github Hacking](http://www.jianshu.com/p/d6b54f1d60f1) - Github的各种黑客技能.
+* [如何参与一个GitHub开源项目？](http://www.csdn.net/article/2014-04-14/2819293-Contributing-to-Open-Source-on-GitHub) - 如何参与一个GitHub开源项目?
+* [试译：开源项目成功的十条准则](http://www.zhuangbiaowei.com/blog/?cat=31) -作者将自己30年来的开发经验，总结为开源软件的十条成功法则。
+* [漫谈Github与开源](http://www.wdk.pw/802.html) -本文作者为大二在读Geek学生关于GitHub与开源的理解。
+* [关于Pull Request的十个建议](http://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/) - 作者Mark Seemann.
+* [Github上都有哪些有用但不为大家熟知的小功能？](https://www.zhihu.com/question/36974348)
+* [如果你用GitHub，可以这样提高效率](http://huang-jerryc.com/2016/01/15/%E5%A6%82%E6%9E%9C%E4%BD%A0%E7%94%A8GitHub%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87/) - 基于Github，搭建一整套代码管理服务
+* [如何选择开源许可证？](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html) - 六种开源协议GPL、BSD、MIT、Mozilla、Apache和LGPL之间的区别.
+* [如何用好github中的watch、star、fork](http://www.jianshu.com/p/6c366b53ea41) - 介绍watch、star、fork的具体作用.
+* [git-commit-guide](https://github.com/bluejava/git-commit-guide) - git commit message 指南.
+* [git操作是不是很难记住？](http://www.jianshu.com/p/e870fdd971fc) - 笔者试着分类git的常用操作，方便同样是刚入门git的你查阅.
+* [GUI for git|SourceTree|入门基础](http://www.jianshu.com/p/be9f0484af9d) - SourceTree简介.
+* [话说Svn与Git的区别](http://www.jianshu.com/p/bfec042349ca) - SVN的特点是简单，只是需要一个放代码的地方时用是OK的。Git的特点版本控制可以不依赖网络做任何事情，对分支和合并有更好的支持.
+* [多用Git少交税](http://www.jianshu.com/p/8a985c622e61)
+* [Git版本控制与工作流](http://www.jianshu.com/p/67afe711c731) - 针对git版本控制和工作流的总结.
+* [在github上写博客](http://www.jianshu.com/p/1260517bbedb)
+* [GitHub & Bitbucket & GitLab & Coding 的对比分析](http://blog.flow.ci/github-bitbucket-gitlab-coding)
+
+#### GithubRank@
+
+* [GitHub Rank (China)](http://githubrank.com/) - GitHub上中国程序员的排名网站，根据follower.
+* [GitHub Ranking | GitHub Awards](http://github-awards.com/) - GitHub上程序员的排名网站，根据star.
+* [GitHub Ranking](https://github-ranking.com/) - GitHub用户和仓库排名，根据star，不区分语言.
+* [diycode - GitHub Ranking](http://www.diycode.cc/trends) - GitHub 全球 Developers, Organizations and Repositories 排行榜.
+
+#### 桌面工具@
+
+* [ohmystar](http://www.ohmystarapp.com/) - Mac上管理你GitHub star的工具
+* [GithubPulse](https://github.com/tadeuzagallo/GithubPulse) - OS X状态栏的APP，帮你记住你在GitHub每天的贡献.
+* [githubtrending](http://www.githubtrending.com/) - OS X状态栏的APP，显示GitHub Trending，也有iOS端.
+* [ghstatus](https://itunes.apple.com/cn/app/ghstatus/id883585153?mt=12) - OS X状态栏的APP，显示GitHub Status.
+* [pophub](http://questbe.at/pophub/) - OS X状态栏的APP，显示GitHub 的activities.
+* [git-dude](https://github.com/sickill/git-dude) - git commit通知.
+* [gitee](https://github.com/Nightonke/Gitee) - Gitee, OS X status bar application for Github 漂亮的GitHub数据统计工具，还有notifications功能.
+
+#### Github客户端@
+
+* [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) - GitBucket iOS App，一个GitHub第三方客户端.
+* [Monkey](https://github.com/coderyi/Monkey) - Monkey是一个GitHub第三方iOS客户端，主要是用来展示GitHub上的开发者的排名，以及仓库的排名.
+* [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) - 一个React Native写的Github客户端，支持iOS和Android.
+* [githot](https://github.com/andyiac/githot) - GitHot是一个Android App,用来发现世界上最流行的项目和人.
+* [CodeHub](https://github.com/thedillonb/CodeHub) - CodeHub是C#写的，它是iOS设备上最好的GitHub仓库浏览和维护工具.
+* [ioctocat](https://github.com/dennisreimann/ioctocat) - GitHub的iOS客户端.
+* [napcat](https://itunes.apple.com/cn/app/napcat-github-client-for-open/id606238223?mt=8) - 一个比较全面的GitHub的iOS客户端.
+* [RepoStumble](https://github.com/thedillonb/RepoStumble) - 查看GitHub仓库的手机客户端.
+* [GithubTrends](https://github.com/laowch/GithubTrends) - Material Design风格的查看GitHub仓库trending app.
+* [ForkHub](https://github.com/jonan/ForkHub) - Android平台的GitHub客户端.
+* [GitEgo](https://github.com/hrules6872/GitEgo) - Android平台的GitHub客户端.
+* [Sources](https://github.com/vulgur/Sources) - 一个极简的 Github 客户端，Sources。内置几十个语法高亮的主题可供选择.
+* [igithub](https://github.com/schacon/igithub) - github 的iOS端.
+* [gitmonitor-ios](https://github.com/theotow/gitmonitor-ios) - 一个通知你不用再push代码的iOS app.
+* [GithubWidget](https://github.com/Nightonke/GithubWidget) - 轻量级显示Github用户的贡献、星数、Follower数、热门仓库的App.
+* [GitPocket](https://github.com/jindulys/GitPocket) - Swift编写GitHub客户端.
+* [GitHubContributionsiOS](https://github.com/JustinFincher/GitHubContributionsiOS) - 显示你的GitHub Contributions的Today Extension,App Store链接,[Contributions for GitHub](https://itunes.apple.com/us/app/contributions-for-github/id1153432612?l=zh&ls=1&mt=8).
+
+#### Github插件@
+
+* [octotree](https://github.com/buunguyen/octotree) - 浏览器扩展，树状格式显示GitHub的代码.
+* [octo-linker](https://github.com/octo-linker/chrome-extension) - 这款谷歌 Chrome 扩展允许您轻松地浏览 GitHub.com 上的文件和包.
+* [github-hovercard](https://github.com/Justineo/github-hovercard) - GitHub Hovercard 是一个浏览器扩展，实现了展示用户在 Github 上信息的信息卡功能，支持 Firefox 和 Chrome 浏览器.
+* [notifier-for-github-chrome](https://github.com/sindresorhus/notifier-for-github-chrome) - 一个浏览器扩展，它能显示 Github 通知的未读数量.
+* [github-menu-back](https://github.com/summerblue/github-menu-back) - 一款修改 GitHub 导航栏为之前状态的 Chrome 插件.
+* [gitsense-extensions](https://github.com/gitsense/gitsense-extensions) - GitSense 是一个 Chrome 插件，可以让你在浏览 Github 的时候体验更好.
+* [git-draw](https://github.com/ben174/git-draw) - 谷歌 Chrome 扩展，给GitHub提交历史画个画.
+* [ShowInGitHub](https://github.com/larsxschneider/ShowInGitHub) - Xcode插件，打开选中行的GitHub提交页面.
+* [Reveal-In-GitHub](https://github.com/lzwjava/Reveal-In-GitHub) - 有关GitHub的Xcode插件.
+* [Visual Studio](https://github.com/github/VisualStudio) - 有关GitHub的Visual Studio插件.
+* [github-sublime-theme](https://github.com/AlexanderEkdahl/github-sublime-theme) - GitHub Sublime 主题.
+* [GitHubinator](https://github.com/ehamiter/GitHubinator) - sublime插件，显示选中文本上的远程GitHub仓库.
+* [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - Alfred 2上使用GitHub命令.
+* [ZenHub](https://github.com/ZenHubIO/support) -ZenHub 能优化你的 GitHub 工作流，是轻量级的 Chrome 浏览器插件.
+* [github-gmail](https://github.com/muan/github-gmail) - 在Gmail内快速打开GitHub的通知.
+* [chrome-github-avatars](https://github.com/anasnakawa/chrome-github-avatars) - 谷歌Chrome扩展，可以让你的GitHub主页显示用户的头像.
+* [tab-size-on-github](https://github.com/sindresorhus/tab-size-on-github) - 谷歌Chrome和Opera扩展，让代码缩进为4个空格而不是8个.
+* [hide-files-on-github](https://github.com/sindresorhus/hide-files-on-github) - 谷歌Chrome和Opera扩展，隐藏点文件.
+* [github-highlight-selected](https://github.com/Nuclides/github-highlight-selected) - 谷歌Chrome和Safari扩展，代码高亮，看起来像sublime.
+* [github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete) - 谷歌Chrome和Safari以及Firefox扩展，在GitHub的搜索栏加入自动补全功能.
+* [chrome-github-mate](https://github.com/rubyerme/chrome-github-mate) - 谷歌Chrome扩展，下载单个文件.
+* [Pages2Repo](https://github.com/Frozenfire92/Pages2Repo) - 谷歌Chrome扩展，通过GitHub Pages网站就能访问仓库.
+* [lovely-forks](https://github.com/musically-ut/lovely-forks) - 谷歌Chrome扩展，显示fork你仓库中star最多的.
+* [github-pr-filter](https://github.com/danielhusar/github-pr-filter) - 谷歌Chrome扩展，在pr中过滤文件.
+* [github-ast-viewer](https://github.com/lukehorvat/github-ast-viewer) - 谷歌Chrome扩展，增加代码的抽象语法树.
+* [github-canned-responses](https://github.com/notwaldorf/github-canned-responses) - 谷歌Chrome扩展，评论pr或者issue的时候有一些可选项.
+* [categoric](https://github.com/ozlerhakan/categoric) - 谷歌Chrome扩展，为你的通知分类.
+* [octo-preview](https://github.com/DrewML/octo-preview) - 谷歌Chrome扩展，预览你评论的markdown内容.
+* [GifHub](https://github.com/DrewML/GifHub) - 谷歌Chrome扩展，GifHub一个往GitHub评论里边插入Gif动画的Chrome插件.
+* [star-history-plugin](https://github.com/timqian/star-history-plugin) - 查看仓库star历史的插件.
+* [open-on-github](https://github.com/atom/open-on-github) - atom插件，打开文件在github.com.
+* [refined-github](https://github.com/sindresorhus/refined-github) - chrome插件，简化你的github，增加了一些可用的功能.
+* [gitpress](https://github.com/enricob/gitpress) - github的wordpress插件，用于列出用户的仓库.
+* [jquery-github](https://github.com/zenorocha/jquery-github) - jquery的插件显示github仓库.
+* [sublime-text-git](https://github.com/kemayo/sublime-text-git) - sublime的git插件.
+* [git-plugin](https://github.com/jenkinsci/git-plugin) - jenkins的git插件.
+* [github-oauth-plugin](https://github.com/jenkinsci/github-oauth-plugin) - jenkins的github oauth登录插件.
+* [twitter-for-github](https://github.com/bevacqua/twitter-for-github) - 在github上显示用户twitter的chrome插件.
+* [Hudson-GIT-plugin](https://github.com/magnayn/Hudson-GIT-plugin) - Hudson上的GIT插件.
+* [git-time-machine](https://github.com/littlebee/git-time-machine) - atom插件查看提交历史.
+* [GitDiff](https://github.com/johnno1962/GitDiff) - Xcode插件.
+* [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - git的vim 插件.
+
+#### Git平台与工具@
+
+* [git](https://github.com/git/git) - git源码.
+* [sourcetree](https://www.atlassian.com/software/sourcetree) - Windows 和Mac OS X 下免费的 Git客户端.
+* [gitbucket](https://github.com/gitbucket/gitbucket) - Scala编写的开源Git平台，扩展性好，兼容GitHub.
+* [gogs](https://github.com/gogits/gogs) - Gogs (Go Git Service) 是一款极易搭建的自助 Git 服务.
+* [gitlab](https://github.com/gitlabhq/gitlabhq) - 一个用于仓库管理系统的开源项目.
+* [git-annex](https://github.com/joeyh/git-annex) - git管理大文件.
+* [gitx](https://github.com/pieter/gitx) - Mac平台上的Git GUI客户端.
+* [gity](https://github.com/beheadedmyway/gity) - mac的git客户端.
+* [svn2git](https://github.com/nirvdrum/svn2git) - ruby 实现的迁移svn工程到git.
+* [stupidgit](https://github.com/gyim/stupidgit) - python编写的git的跨平台GUI.
+* [GitUp](https://github.com/git-up/GitUp) - Objective-C编写的Mac上的Git客户端.
+
+#### 命令行@
+
+* [hub](https://github.com/github/hub) - github官方出品的命令行工具，让你更好地使用github.
+* [gitflow](https://github.com/nvie/gitflow) Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
+* [gh](https://github.com/jingweno/gh) - gh 是一个用 Go 语言开发的 Github 命令行客户端.
+* [node-gh](https://github.com/node-gh/gh) - Node GH 是基于 Node.js 编写的 Github 命令行工具.
+* [gitsome](https://github.com/donnemartin/gitsome/) - supercharged Github Client.
+* [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - 吐槽别人的烂代码.
+* [git-pulls](https://github.com/schacon/git-pulls) - github pull requests的命令后行工具.
+* [git-scribe](https://github.com/schacon/git-scribe) - 写电子书的命令行工具.
+* [github-gem](https://github.com/defunkt/github-gem) - github命令行工具.
+* [ghterm](https://github.com/github-archive/ghterm) - github终端.
+* [git-sh](https://github.com/rtomayko/git-sh) - 适合git的bash工作环境.
+* [legit](https://github.com/kennethreitz/legit) - 灵感来自于github for mac的git 命令行工具.
+* [git-sweep](https://github.com/arc90/git-sweep) - git命令行工具，帮助你清理已经merge到master的分支.
+* [github-email](https://github.com/paulirish/github-email) - 获取用户的邮箱.
+* [git-town](https://github.com/Originate/git-town) Generic, high-level Git workflow support.
+* [git-fire](https://github.com/qw3rtman/git-fire) - 紧急情况下保存代码.
+* [gitsome](https://github.com/donnemartin/gitsome) - Git/GitHub命令行工具.
+* [maintainer](https://github.com/gaocegege/maintainer) - 让你的 GitHub repo 对开发者更加友好的命令行工具.
+
+#### Github项目@
+
+* [resume.github.com](https://github.com/resume/resume.github.com) - 根据用户的github信息生成简历
+* [github-trending](https://github.com/josephyzhou/github-trending) - 记录下GitHub历史上的每日trending.
+* [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - 黑色的GitHub网站风格.
+* [github-gists](https://github.com/kevva/github-gists) - 拿到一个GitHub用户的所有gist.
+* [Get-Your-GitHub-Card](https://github.com/codesboy/Get-Your-GitHub-Card) - 基于jquery拿到你的GitHub用户资料.
+* [ohmyrepo](https://github.com/no13bus/ohmyrepo) - 一个 GitHub 仓库分析工具.
+* [greenhat](https://github.com/4148/greenhat) - 一个让GitHub全绿的“旁门左道”的东西.
+* [gitfiti](https://github.com/gelstudios/gitfiti) - 滥用github提交历史.
+* [Github-profile-name-writer](https://github.com/ironmaniiith/Github-profile-name-writer) - 把github提交历史变成你的名字.
+* [github-contributions](https://github.com/IonicaBizau/github-contributions) - 可以让你的 github 提交日历排出有趣的图案.
+* [github-corners](https://github.com/tholman/github-corners) - 显示 "Fork me on GitHub".
+* [GitHub-jQuery-Repo-Widget](https://github.com/JoelSutherland/GitHub-jQuery-Repo-Widget) - 一个GitHub风格的挂件，方便在页面中展示GitHub项目.
+* [GitHub Archive](https://github.com/igrigorik/githubarchive.org) - GitHub Archive 是一个记录GitHub时间线的项目.
+* [github-cards](https://github.com/lepture/github-cards) - GitHub Cards 用来展示你的简介.
+* [githut](https://github.com/littleark/githut) - 可视化了GitHub Archive的数据.
+* [lolcommits](https://github.com/mroth/lolcommits) - 每次提交Git都自拍一张.
+* [github-selfies](https://github.com/thieman/github-selfies) - Github Selfies 可以在你 Github 的需求和贡献上加上你的自拍照.
+* [badges](https://github.com/boennemann/badges) - 收集GitHub上readme页显示的与javascript有关的各种徽章.
+* [MediumArticles](http://www.jianshu.com/p/19d2f3a3b5d8) - 一键收藏至Github.
+* [GitHunt](https://github.com/apollostack/GitHunt) - 为你喜欢的仓库投票的项目.
+* [githug](https://github.com/Gazler/githug) - 通过游戏的方式来练习Git的命令行工具.
+* [css3-github-buttons](https://github.com/necolas/css3-github-buttons) - 帮助你创建github风格的 button.
+* [git-crypt](https://github.com/AGWA/git-crypt) - git加密.
+* [is-github-down](https://github.com/sindresorhus/is-github-down) - 检查github有没有down机.
+* [miaopull](https://github.com/aquarhead/miaopull) - 自动化pull工具.
+* [go-git](https://github.com/src-d/go-git)- 通过go来从git服务器读取仓库.
+* [GitViz](https://github.com/Readify/GitViz) - 帮助你训练git时的可视化工具.
+* [learnGitBranching](https://github.com/pcottle/learnGitBranching) - 学习git的可视化工具.
+
+#### Git库@
+
+* [octokit](https://github.com/octokit) - GitHub API的官方封装库.
+* [GitHub Java API (org.eclipse.egit.github.core)](https://github.com/eclipse/egit-github/tree/master/org.eclipse.egit.github.core) - eclipse出品，Java写的GitHub API的封装库.
+* [github - michael](https://github.com/michael/github) - JavaScript写的GitHub API的封装库.
+* [PyGithub](https://github.com/PyGithub/PyGithub) - Python的GitHub API封装库.
+* [UAGithubEngine](https://github.com/owainhunt/uagithubengine) - Objective-C的GitHub API封装库.
+* [RxGitHubAPI](https://github.com/FengDeng/RxGitHubAPI) - 基于RxSwift的GitHub API封装库.
+* [GitHub API for Java](http://github-api.kohsuke.org/) - 面向对象的GitHub API库.
+* [GitHubObjC](https://github.com/ernstsson/GitHubObjC) - Objective-C实现的GitHub API库.
+* [go-github](https://github.com/google/go-github) - Go实现的GitHub API库.
+* [ruby-github](https://github.com/peter-murach/github) - Ruby实现的GitHub API库.
+* [libgit2](https://github.com/libgit2/libgit2) - Git核心库，通过它可以写一个自己的git应用.
+* [Gift](https://github.com/modocache/Gift) - 通过Swift绑定libgit2，通过它你可以clone一个仓库，查看commit，提交等.
+* [gitkit-js](https://github.com/SamyPesse/gitkit-js) - gitkit-js，SamyPesse开源的git的javascript实现，包含一系列API,可以管理git仓库，包括读文件，commit， clone，push，fetch等，可以工作在浏览器和node.js上.
+* [github3.py](https://github.com/sigmavirus24/github3.py) - GitHub API v3的python接口.
+* [PyGithub](https://github.com/PyGithub/PyGithub) - GitHub API v3的python接口.
+* [github-backup](https://github.com/joeyh/github-backup) - 备份GitHub仓库，包括branches, tags, other forks, issues, comments, wikis, milestones, pull requests, watchers, stars. 通过haskell编写.
+* [github - Haskell](https://github.com/PyGithub/PyGithub) - GitHub API 的Haskell接口.
+* [objective-git](https://github.com/schacon/objective-git) - Git的Objective-C实现.
+* [node-gitlab](https://github.com/node-gitlab/node-gitlab) - gitlab的node api.
+* [php-github-api](https://github.com/KnpLabs/php-github-api) - php的github api.
+* [cocoagit](https://github.com/geoffgarside/cocoagit) - git的objetive-c实现.
+* [ruby-github](https://github.com/mbleigh/ruby-github) - mbleigh写的ruby的github api.
+* [Git.framework](https://github.com/geoffgarside/Git.framework) - mac os x 平台的objective-c的git实现.
+* [pygit2](https://github.com/libgit2/pygit2) - libgit2的python版.
+* [git.js](https://github.com/danlucraft/git.js) - git的js实现.
+* [nodegit](https://github.com/nodegit/nodegit) - git的node实现.
+* [GitSharp](https://github.com/henon/GitSharp) - .Net实现的git.
+* [erlangit](https://github.com/schacon/erlangit) - erlang 的git实现.
+* [github4j](https://github.com/defunct/github4j) - 一个github 下载的java api.
+* [libgit2sharp](https://github.com/libgit2/libgit2sharp) - .Net实现的git.
+* [Gift](https://github.com/modocache/Gift) - Swift编写的git实现.
+* [SwiftGit2](https://github.com/SwiftGit2/SwiftGit2) - Swift编写的git实现.
+* [GithubPilot](https://github.com/jindulys/GithubPilot) - Swift的GitHub API 封装.
+* [GitYourFeedback](https://github.com/gabek/GitYourFeedback) - 让你可以直接在iOS App内feedback时向GitHub提交issue.
+
+#### Github浏览器工具@
+
+* [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) GitHub浏览器扩展收集列表.
+
 #### 皮肤@语言国际化@
 
 * [Hodor](https://github.com/Aufree/Hodor) Hodor 是一套可让你的应用快速支持本地化的解决方案, 允许你在应用内直接更改应用语言而无需退出应用, 类似微信.
@@ -2154,11 +2152,6 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 #### 未分类@
 
 * [Form](https://github.com/hyperoslo/Form) Form 是一个方便开发者创建表单填写工作的 UI 库。
-
-#### 参考@
-
-* [说明](说明) 此库是完全开源收集整理，服务于广大iOS开发工作者的开源集合资料库，欢迎大家踊跃贡献.
-* [awesome-github](https://github.com/AntBranch/awesome-github) A curated list of awesome GitHub guides, articles, sites, tools, projects and resources. 收集这个列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
 
 #### 其他领域@
 
