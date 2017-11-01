@@ -630,6 +630,7 @@ A curated list of iOS objective-C ecosystem.
 * [音乐播放器](http://code.cocoachina.com/view/129435) - 音乐播放器：显示歌词。
 * [amr](http://www.penguin.cz/~utx/amr) - 做即时通讯的音频处理，录音文件是m4a，便于web端的音频播放。
 * [边录音边转码](http://code4app.com/ios/%E8%BE%B9%E5%BD%95%E9%9F%B3%E8%BE%B9%E8%BD%AC%E7%A0%81/521c65d56803fab864000001) - 一边录音，一边将录制成的 wav 格式音频文件转码成 amr 音频格式。只支持真机运行调试。
+* [DFPlayer](https://github.com/ihoudf/DFPlayer) 简单又灵活的iOS音频播放组件.
 
 #### 视频@
 #### 视频播放@
@@ -787,7 +788,6 @@ A curated list of iOS objective-C ecosystem.
 * [YYWebImage](https://github.com/ibireme/YYWebImage/) - 一个图片加载库 YYWebImage，支持 APNG、WebP、GIF 播放，支持渐进式图片加载，更高性能的缓存，更多图像处理方法，可以替代 SDWebImage 等开源库，[相关文章](http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/)。
 * [JDSwiftAvatarProgress](https://github.com/JellyDevelopment/JDSwiftAvatarProgress) - 容易定制的异步图片加载进度条
 * [ImageButter](https://github.com/dollarshaveclub/ImageButter) - 平滑的处理网络图片，支持缓存，异步编码，加载进度View，GIFs动画等.
-
 
 #### 图像识别@
 
