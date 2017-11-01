@@ -1126,6 +1126,7 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [PageMenu](https://github.com/uacaps/PageMenu) A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram) [⚠️已失去维护]
 * [MXSegmentedPager](https://github.com/maxep/MXSegmentedPager) 分页滚动，多个分页的pageController效果
 * [XHTwitterPaggingViewer](https://github.com/xhzengAIB/XHTwitterPaggingViewer) A twitter like navigation bar, page viewer.
+* [SPPage](https://github.com/xichen744/SPPage) 高性能PageController.
 
 #### 轮播@
 
