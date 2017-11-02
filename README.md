@@ -379,14 +379,14 @@ A curated list of iOS objective-C ecosystem.
 
 #### WebView与WKWebView@
 
-* [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) 是一个连接javascript和iOS Native交互的开源框架。使用它可以在UIWebview中响应事件并执行Native方法,也可以使用Native方法调用javascript方法, 正如其名,它好像已做桥梁连接了两端.
+* [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) - 是一个连接javascript和iOS Native交互的开源框架。使用它可以在UIWebview中响应事件并执行Native方法,也可以使用Native方法调用javascript方法, 正如其名,它好像已做桥梁连接了两端.
 * [MGTemplateEngine](https://github.com/mattgemmell/MGTemplateEngine) - MGTemplateEngine比较象 PHP 中的 Smarty、FreeMarker 和 Django的模版引擎，是一个轻量级的引擎，简单好用。只要设置很多不同的HMTL模版，就能轻松的实现一个View多种内容格式的显示，对于不熟悉HTML或者减轻 工作量而言，把这些工作让设计分担一下还是很好的，也比较容易实现设计想要的效果.
 * [GTMNSString-HTML](https://github.com/siriusdely/GTMNSString-HTML) - 谷歌开源的用于过滤HTML标签.
-* [D3Generator](https://github.com/mozhenhau/D3Generator/) - D3Generator根据dict字典生成对象。 适用webview和push推送时，根据后台传回字典实现动态跳转.[实现说明](http://mozhenhau.com/2016/02/07/D3Generator实现万能跳转界面，UIWebview与js随意交互/).
-* [GRMustache] (https://github.com/groue/GRMustache) 一个类似templateEngine的html渲染工具，可以更加有效的帮助大家完成数据生成HTML的过程.
-* [iOS-WebView-JavaScript](https://github.com/shaojiankui/iOS-WebView-JavaScript) iOS UIWebView,WKWebView 与 JavaScript的深度交互.
-* [WKWebView](https://github.com/XFIOSXiaoFeng/WKWebView) OC版WKWebView 支持POST请求 加载本地页面 直接加载网页 JS交互 集成支付宝/微信URL支付功能 仿微信返回按钮.
-* [BAWKWebView](https://github.com/BAHome/BAWKWebView) 用分类封装 WKWebView，一行代码搞定 request、URL、URLString、本地 HTML文件、HTMLString等请求，一个 block 搞定 title、progress、currentURL、当前网页的高度等等所需.
+* [D3Generator](https://github.com/mozhenhau/D3Generator/) - D3Generator根据dict字典生成对象。适用webview和push推送时，根据后台传回字典实现动态跳转.[实现说明](http://mozhenhau.com/2016/02/07/D3Generator实现万能跳转界面，UIWebview与js随意交互/).
+* [GRMustache](https://github.com/groue/GRMustache) - 一个类似templateEngine的html渲染工具，可以更加有效的帮助大家完成数据生成HTML的过程.
+* [iOS-WebView-JavaScript](https://github.com/shaojiankui/iOS-WebView-JavaScript) - iOS UIWebView,WKWebView 与 JavaScript的深度交互.
+* [WKWebView](https://github.com/XFIOSXiaoFeng/WKWebView) - OC版WKWebView 支持POST请求 加载本地页面 直接加载网页 JS交互 集成支付宝/微信URL支付功能 仿微信返回按钮.
+* [BAWKWebView](https://github.com/BAHome/BAWKWebView) - 用分类封装 WKWebView，一行代码搞定 request、URL、URLString、本地 HTML文件、HTMLString等请求，一个 block 搞定 title、progress、currentURL、当前网页的高度等等所需.
 * [Erik](https://github.com/phimage/Erik) - Erik is an headless browser based on WebKit. An headless browser allow to run functional tests, to access and manipulate webpages using javascript. :large_orange_diamond:
 [Erik](https://github.com/phimage/Erik) - Erik is an headless browser based on WebKit. An headless browser allow to run functional tests, to access and manipulate webpages using javascript. :large_orange_diamond:
 * [URLPreview](https://github.com/itsmeichigo/URLPreview) - An NSURL extension for showing preview info of webpages :large_orange_diamond: [e]
@@ -396,7 +396,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [MJExtension](https://github.com/CoderMJLee/MJExtension) - A fast, convenient and nonintrusive conversion between JSON and model.
 * [YYModel](https://github.com/ibireme/YYModel) - High performance model framework for iOS/OSX.
-* [jsonmodel](https://github.com/jsonmodel/jsonmodel) Magical Data Modeling Framework for JSON - allows rapid creation of smart data models. You can use it in your iOS, macOS, watchOS and tvOS apps.
+* [jsonmodel](https://github.com/jsonmodel/jsonmodel) - Magical Data Modeling Framework for JSON - allows rapid creation of smart data models. You can use it in your iOS, macOS, watchOS and tvOS apps.
 * [JSONKit](https://github.com/johnezang/JSONKit) - JSONKit库是非常简单易用而且效率又比较高的，重要的JSONKit适用于ios 5.0以下的版本,使用JSONKit库来解析json文件，只需要下载JSONKit.h 和JSONKit.m添加到工程中；然后加入libz.dylib即可.
 * [JSONModel](https://github.com/icanzilb/JSONModel) - 解析服务器返回的Json数据的库,[JSONModel源码解析一](http://www.jianshu.com/p/3d795ea37835).
 * [Mantle](https://github.com/Mantle/Mantle) - Mantle主要用来将JSON数据模型化为OC对象, 大系统中使用。[为什么选择Mantle](http://blog.csdn.net/itianyi/article/details/40789273).
@@ -406,8 +406,8 @@ A curated list of iOS objective-C ecosystem.
 * [TouchJSON](https://github.com/TouchCode/TouchJSON) - JSon解析库(早已停止更新).
 * [JSON-Framework](https://github.com/stig/json-framework) -  JSON解析库.
 * [Groot](https://github.com/gonzalezreal/Groot) - From JSON to Core Data and back.
-* [KZPropertyMapper](https://github.com/krzysztofzablocki/KZPropertyMapper) - 可以帮助你在对象与Array、Dict数据间进行转换，尤其适用于将json对象转换成objective-c中的实体对象。作者还写了一篇文章[stop-writing-data-parsing-code-in-your-apps](http://merowing.info/2013/07/stop-writing-data-parsing-code-in-your-apps/)介绍它的使用。
-* [FastEasyMapping](https://github.com/Yalantis/FastEasyMapping) - 一个快速对json进行序列化和反序列化的工具 A tool for fast serializing & deserializing of JSON.
+* [KZPropertyMapper](https://github.com/krzysztofzablocki/KZPropertyMapper) - 可以帮助你在对象与Array、Dict数据间进行转换，尤其适用于将json对象转换成objective-c中的实体对象。作者还写了一篇文章[stop-writing-data-parsing-code-in-your-apps](http://merowing.info/2013/07/stop-writing-data-parsing-code-in-your-apps/)介绍它的使用.
+* [FastEasyMapping](https://github.com/Yalantis/FastEasyMapping) - 一个快速对json进行序列化和反序列化的工具.
 * [OCMapper](https://github.com/aryaxt/OCMapper) - Objective-C & Swift library to easily map NSDictionary to model objects, works perfectly with Alamofire. ObjectMapper works similar to GSON.
 * [Cereal](https://github.com/Weebly/Cereal) - 对象序列化三方库 Swift object serialization.
 * [SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator) - json转model的三方库 Generate Swift model files from JSON using either SwiftyJSON or ObjectMapper. Supports NSCoding and provides method for JSON string representation of the model.
@@ -417,12 +417,12 @@ A curated list of iOS objective-C ecosystem.
 * [LazyObject](https://github.com/iwasrobbed/LazyObject) - Lazily deserialize JSON into strongly typed Swift objects :large_orange_diamond:
 * [Elevate](https://github.com/Nike-Inc/Elevate) - Elevate is a JSON parsing framework that leverages Swift to make parsing simple, reliable and composable. :large_orange_diamond:
 * [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) - An Alamofire extension which converts JSON response data into swift objects using ObjectMapper :large_orange_diamond:
-* [WAMapping](https://github.com/Wasappli/WAMapping) 一个将字典和iOS对象相互转化的库. A library to turn dictionary into object and vice versa for iOS. Designed for speed!
+* [WAMapping](https://github.com/Wasappli/WAMapping) - 一个将字典和iOS对象相互转化的库.
 
 #### XML&HTML@
 
 * [Ji](https://github.com/honghaoz/Ji) - XML/HTML parser for Swift. :large_orange_diamond:
-* [Ono](https://github.com/mattt/Ono) - A sensible way to deal with XML & HTML for iOS & OS X
+* [Ono](https://github.com/mattt/Ono) - A sensible way to deal with XML & HTML for iOS & OS X.
 * [AlamofireXmlToObjects](https://github.com/evermeer/AlamofireXmlToObjects) - Fetch a XML feed and parse it into objects :large_orange_diamond:
 * [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML & HTML parser in Swift with XPath & CSS support :large_orange_diamond:
 * [Kanna](https://github.com/tid-kijyun/Kanna)  - Kanna(鉋) is an XML/HTML parser for MacOSX/iOS. :large_orange_diamond:
@@ -432,21 +432,21 @@ A curated list of iOS objective-C ecosystem.
 
 #### 数据存储@
 
-* [FMDB](https://github.com/ccgus/fmdb) - sqlite的工具， [多线程FMDatabaseQueue实例](https://github.com/tangqiaoboy/FmdbSample)，[FMDB数据库的使用演示和封装工具类](https://github.com/liuchunlao/LVDatabaseDemo)，[基于fmdb 的基本操作](http://code.cocoachina.com/view/128312) 通过 fmdb 进行的数据库的 基本操作(增删改查 )查找是使用 UISearchBar 和UISearchDisplayController 进行混合使用。
+* [FMDB](https://github.com/ccgus/fmdb) - sqlite的工具. [多线程FMDatabaseQueue实例](https://github.com/tangqiaoboy/FmdbSample)，[FMDB数据库的使用演示和封装工具类](https://github.com/liuchunlao/LVDatabaseDemo)，[基于fmdb 的基本操作](http://code.cocoachina.com/view/128312) 通过 fmdb 进行的数据库的 基本操作(增删改查 )查找是使用 UISearchBar 和UISearchDisplayController 进行混合使用.
 * [GDataBase](https://github.com/GIKICoder/GDataBase) - 基于FMDB的ORM数据库存储解决方案. 面向模型和线程安全的API. 一句代码存储,读取.对存储模型无需继承BaseObject. 可自定义多主键,可使用sqlite关键字.可自定义序列化字段等.支持模型黑名单.支持数据库表存储value base64编/解码.对模型无侵入,只需遵守相关协议即可.极大方便项目中使用.
-* [realm-cocoa](https://github.com/realm/realm-cocoa) 一个号称要代替Core Data & SQLite的用于移动端的数据库，非常不错👍👍 ，同时支持Swift.
+* [realm-cocoa](https://github.com/realm/realm-cocoa) - 一个号称要代替Core Data & SQLite的用于移动端的数据库，非常不错👍👍 ，同时支持Swift.
 * [YapDatabase](https://github.com/yapstudios/YapDatabase) - YapDatabase is an extensible database for iOS & Mac.
-* [CoreModel](https://github.com/CharlinFeng/CoreModel) Replace CoreData
-* [WHC_ModelSqliteKit](https://github.com/netyouli/WHC_ModelSqliteKit) 专业的数据库存储解决方案
-* [JQFMDB](https://github.com/gaojunquan/JQFMDB) FMDB的封装,操作简单,线程安全,扩展性强,直接操作model或dictionary
-* [RealmObjectEditor](https://github.com/Ahmed-Ali/RealmObjectEditor) Realm Object Editor is a visual editor where you can create your Realm entities, attributes and relationships inside a nice user interface. Once you finish, you can save your schema document for later use and you can export your entities in Swift, Objective-C and Java.
-* [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: http://sqlitebrowser.org
-* [GXDatabaseUtils](https://github.com/Gerry1218/GXDatabaseUtils) - 在FMDB基础上的工具。
+* [CoreModel](https://github.com/CharlinFeng/CoreModel) - Replace CoreData.
+* [WHC_ModelSqliteKit](https://github.com/netyouli/WHC_ModelSqliteKit) - 专业的数据库存储解决方案.
+* [JQFMDB](https://github.com/gaojunquan/JQFMDB) - FMDB的封装,操作简单,线程安全,扩展性强,直接操作model或dictionary.
+* [RealmObjectEditor](https://github.com/Ahmed-Ali/RealmObjectEditor) - Realm Object Editor is a visual editor where you can create your Realm entities, attributes and relationships inside a nice user interface. Once you finish, you can save your schema document for later use and you can export your entities in Swift, Objective-C and Java.
+* [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: http://sqlitebrowser.org.
+* [GXDatabaseUtils](https://github.com/Gerry1218/GXDatabaseUtils) - 在FMDB基础上的工具.
 * [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) - CoreData第一库，MagicalRecord就像是给Core Data提供了一层外包装，隐藏掉所有不相关的东西。 其中事务管理及查询是其比较大的亮点，整套 API 功能完整。
-* [GKDatabase](https://github.com/ChrisCaixx/GKDatabase) -基于SQLite3简单封装了下,实现了一行代码解决增删改查等常用的功能!并没有太过高深的知识,主要用了runtime和KVC:请看Demo~ 原理篇请看这里:[简书地址](http://www.jianshu.com/p/0e598147debc)
-* [CoreStore](https://github.com/AfryMask/AFBrushBoard) -  Core Data 管理类库。 其中事务管理及查询是其比较大的亮点，整套 API 功能完整。
-* [mogenerator](http://rentzsch.github.io/mogenerator/) - mogenerator为你定义了的Core Data生成默认的数据类。与xCode不一样的是(xCode一个Entity只生成一个NSManagedObject的子类)，mogenerator会为每一个Entity生成两个类。一个为机器准备，一个为人类准备。为机器准备的类一直去匹配data model。为人类准备的类就给你轻松愉快的去修改和保存。
-* [Presentation](https://github.com/hyperoslo/Presentation) - 重量级好项目 Presentation，它可以方便你制作定制的动画式教程、Release Notes、个性化演讲稿等。
+* [GKDatabase](https://github.com/ChrisCaixx/GKDatabase) - 基于SQLite3简单封装了下,实现了一行代码解决增删改查等常用的功能!并没有太过高深的知识,主要用了runtime和KVC:请看Demo~ 原理篇请看这里:[简书地址](http://www.jianshu.com/p/0e598147debc).
+* [CoreStore](https://github.com/AfryMask/AFBrushBoard) -  Core Data 管理类库。 其中事务管理及查询是其比较大的亮点，整套 API 功能完整.
+* [mogenerator](http://rentzsch.github.io/mogenerator/) - mogenerator为你定义了的Core Data生成默认的数据类。与xCode不一样的是(xCode一个Entity只生成一个NSManagedObject的子类)，mogenerator会为每一个Entity生成两个类。一个为机器准备，一个为人类准备。为机器准备的类一直去匹配data model。为人类准备的类就给你轻松愉快的去修改和保存.
+* [Presentation](https://github.com/hyperoslo/Presentation) - 重量级好项目 Presentation，它可以方便你制作定制的动画式教程、Release Notes、个性化演讲稿等.
 * [SQLCipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher使用256-bit AES加密，SQLCipher分为收费版本和免费版本。[官方教程](https://www.zetetic.net/sqlcipher/ios-tutorial/)， [加密你的SQLite](http://foggry.com/blog/2014/05/19/jia-mi-ni-de-sqlite/) - 各种sqlite数据库加密介绍。 [SQLCipherDemo下载](http://download.csdn.net/detail/wzzvictory_tjsd/7379055) 。
 * [Couchbase Mobile](https://developer.couchbase.com/mobile/) - Couchbase document store for mobile with cloud sync.
 * [FCModel](https://github.com/marcoarment/FCModel) - An alternative to Core Data for people who like having direct SQL access.
@@ -462,21 +462,21 @@ A curated list of iOS objective-C ecosystem.
 * [Nora](https://github.com/SD10/Nora) - Nora is a Firebase abstraction layer for working with FirebaseDatabase and FirebaseStorage. :large_orange_diamond:
 * [PersistentStorageSerializable](https://github.com/IvanRublev/PersistentStorageSerializable) - Swift library that makes easier to serialize the user's preferences (app's settings) with system User Defaults or Property List file on disk. :large_orange_diamond:
 * [WCDB](https://github.com/Tencent/wcdb) - WCDB is an efficient, complete, easy-to-use mobile database framework for iOS, macOS.
-* [StorageKit](https://github.com/StorageKit/StorageKit) - Your Data Storage Troubleshooter 🛠
+* [StorageKit](https://github.com/StorageKit/StorageKit) - Your Data Storage Troubleshooter 🛠 .
 
 #### 缓存处理@
 
 * [YTKKeyValueStore](https://github.com/yuantiku/YTKKeyValueStore) - Key-Value存储工具类，[说明](http://tangqiaoboy.gitcafe.io/blog/2014/10/03/opensouce-a-key-value-storage-tool/)。
-* [JLKeychain](https://github.com/jl322137/JLKeychain) - 快捷使用keychain存储数据的类，使keychain像NSUserDefaults一样工作。
-* [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - 封装keychain，使keychain像NSUserDefaults一样简单
-* [sskeychain](https://github.com/soffes/sskeychain) - SSKeyChains对苹果安全框架API进行了简单封装,支持对存储在钥匙串中密码、账户进行访问,包括读取、删除和设置。
-* [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - 管理Keychain接入的小助手。
-* [YYCache](https://github.com/ibireme/YYCache) - 高性能的 iOS 缓存框架。
-* [RuntimeDemo](https://github.com/CoderJackyHuang/RuntimeDemo) - runtime自动归档/解档,[源码分析](http://www.henishuo.com/runtime-archive-unarchive-automaticly/)。
+* [JLKeychain](https://github.com/jl322137/JLKeychain) - 快捷使用keychain存储数据的类，使keychain像NSUserDefaults一样工作.
+* [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - 封装keychain，使keychain像NSUserDefaults一样简单.
+* [sskeychain](https://github.com/soffes/sskeychain) - SSKeyChains对苹果安全框架API进行了简单封装,支持对存储在钥匙串中密码、账户进行访问,包括读取、删除和设置.
+* [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - 管理Keychain接入的小助手.
+* [YYCache](https://github.com/ibireme/YYCache) - 高性能的 iOS 缓存框架.
+* [RuntimeDemo](https://github.com/CoderJackyHuang/RuntimeDemo) - runtime自动归档/解档,[源码分析](http://www.henishuo.com/runtime-archive-unarchive-automaticly/).
 
 #### 序列化@
 
-* [FastCoding](https://github.com/nicklockwood/FastCoding) 是用来替代OSX及iOS中默认的序列化实现。它结构简单（仅头文件和.m文件两个）、支持ARC，线程安全，速度较内置实现更快。下次做项目的时候可以试着用用。
+* [FastCoding](https://github.com/nicklockwood/FastCoding) - 是用来替代OSX及iOS中默认的序列化实现。它结构简单（仅头文件和.m文件两个）、支持ARC，线程安全，速度较内置实现更快.
 
 #### coreData@
 
@@ -492,7 +492,7 @@ A curated list of iOS objective-C ecosystem.
 * [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) - Super Awesome Easy Fetching for Core Data.
 * [QueryKit](https://github.com/QueryKit/QueryKit) - A simple type-safe Core Data query language. :large_orange_diamond:
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - Powerful Core Data framework for Incremental Migrations, Fetching, Observering, etc. :large_orange_diamond:
-* [Core Data Query Interface](https://github.com/prosumma/CoreDataQueryInterface) A type-safe, fluent query framework for Core Data. :large_orange_diamond:
+* [Core Data Query Interface](https://github.com/prosumma/CoreDataQueryInterface) - A type-safe, fluent query framework for Core Data. :large_orange_diamond:
 * [CoreDataDandy](https://github.com/fuzz-productions/CoreDataDandy) - A feature-light wrapper around Core Data that simplifies common database operations. :large_orange_diamond:
 * [CoreDataStack](https://github.com/bignerdranch/CoreDataStack) - The Big Nerd Ranch Core Data Stack :large_orange_diamond:
 * [Skopelos](https://github.com/albertodebortoli/Skopelos) - A minimalistic, thread safe, non-boilerplate and super easy to use version of Active Record on Core Data. Simply all you need for doing Core Data. Swift flavour. :large_orange_diamond:
@@ -502,73 +502,74 @@ A curated list of iOS objective-C ecosystem.
 
 #### 动画@
 
-* [lottie-ios](https://github.com/airbnb/lottie-ios) 非常赞 一个用来渲染After Effects矢量动画的iOS库
-* [AIAnimationDemo](https://github.com/aizexin/AIAnimationDemo) 非常不错的一个各种动画Demo集合库👍👍 .
-* [AwesomeMenu](https://github.com/levey/AwesomeMenu) 作者是一位中国人, 该项目主要是使用 CoreAnimation 还原了 Path menu 的动画效果 Path 2.0 menu using CoreAnimation :) https://github.com/levey/AwesomeMenu
-* [MMTweenAnimation](https://github.com/adad184/MMTweenAnimation)一个基于 POP 的扩展，提供了 10 种自定义的动效。
-* [pop](https://github.com/facebook/pop) - facebook出品的非常赞的动画引擎。
-* [Core Animation笔记，基本的使用方法](http://www.starming.com/index.php?v=index&view=62) - Core Animation笔记，基本的使用方法：1.基本动画，2.多步动画，3.沿路径的动画，4.时间函数，5.动画组。
-* [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) - [iOS Animation 主流炫酷动画框架(特效)收集整理](https://github.com/sxyx2008/DevArticles/issues/91) 收集整理了下iOS平台下比较主流炫酷的几款动画框架。
-* [FleaMarket](https://github.com/SunLiner/FleaMarket) "咸鱼"新特性-视频动画
-* [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) - 在应用中采用链式写出酷炫的动画效果, 使代码更加清晰易读，利用block实现的链式编程，同时支持Swift。
-* [awesome-animation](https://github.com/Animatious/awesome-animation) -  在内的十多位童鞋们一起发起的一起动画开源组正式成立啦~Github组织名称：Animatious，这是我们第一期成员先前开源的一些动效库，我们的第一个合作开源项目正在紧锣密鼓的准备~请大家期待设计和代码的碰撞吧。
-* [BCMagicTransition](https://github.com/boycechang/BCMagicTransition)一个动效框架，用于自定义UINavigationController的切换动画，效果类似 Keynote 软件中 Magic Move 切换。它可以用于任意两个UIViewController之间，只需指定两个VC中的相同元素即可。
-* [popping](https://github.com/schneiderandre/popping) - popping是一个POP 使用实例工程
-* [MMTweenAnimation](https://github.com/adad184/MMTweenAnimation) - facebook POP的自定义动画扩展(基于POPCustomAnimation) 提供10种函数式动画。
-* [ZQLRotateMenu](https://github.com/zangqilong198812/ZQLRotateMenu) - 这是一个旋转视图的选择器。
-* [CoolLoadAniamtion](https://github.com/zangqilong198812/CoolLoadAniamtion) - 一个简单但是效果不错的loading动画。
-* [Animations](https://github.com/YouXianMing/Animations)The Animation Collection.
-* [JSDownloadView](https://github.com/Josin22/JSDownloadView) 精巧顺滑的下载动画
-* [SYAppStart](https://github.com/yushuyi/SYAppStart) - App启动插画的自定义过度。
+* [lottie-ios](https://github.com/airbnb/lottie-ios) - 非常赞 一个用来渲染After Effects矢量动画的iOS库.
+* [AIAnimationDemo](https://github.com/aizexin/AIAnimationDemo) - 非常不错的一个各种动画Demo集合库👍👍 .
+* [AwesomeMenu](https://github.com/levey/AwesomeMenu) - 该项目主要是使用 CoreAnimation 还原了 Path menu 的动画效果 Path 2.0 menu using CoreAnimation :) https://github.com/levey/AwesomeMenu
+* [MMTweenAnimation](https://github.com/adad184/MMTweenAnimation) - 一个基于 POP 的扩展，提供了 10 种自定义的动效.
+* [pop](https://github.com/facebook/pop) - facebook出品的非常赞的动画引擎.
+* [Core Animation笔记，基本的使用方法](http://www.starming.com/index.php?v=index&view=62) - Core Animation笔记，基本的使用方法：1.基本动画，2.多步动画，3.沿路径的动画，4.时间函数，5.动画组.
+* [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) - [iOS Animation 主流炫酷动画框架(特效)收集整理](https://github.com/sxyx2008/DevArticles/issues/91) 收集整理了下iOS平台下比较主流炫酷的几款动画框架.
+* [FleaMarket](https://github.com/SunLiner/FleaMarket) - "咸鱼"新特性-视频动画.
+* [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) - 在应用中采用链式写出酷炫的动画效果, 使代码更加清晰易读，利用block实现的链式编程，同时支持Swift.
+* [awesome-animation](https://github.com/Animatious/awesome-animation) - 动效库.
+* [BCMagicTransition](https://github.com/boycechang/BCMagicTransition) - 一个动效框架，用于自定义UINavigationController的切换动画，效果类似 Keynote 软件中 Magic Move 切换。它可以用于任意两个UIViewController之间，只需指定两个VC中的相同元素即可.
+* [popping](https://github.com/schneiderandre/popping) - popping是一个POP使用实例工程.
+* [MMTweenAnimation](https://github.com/adad184/MMTweenAnimation) - facebook POP的自定义动画扩展(基于POPCustomAnimation) 提供10种函数式动画.
+* [ZQLRotateMenu](https://github.com/zangqilong198812/ZQLRotateMenu) - 这是一个旋转视图的选择器.
+* [CoolLoadAniamtion](https://github.com/zangqilong198812/CoolLoadAniamtion) - 一个简单但是效果不错的loading动画.
+* [Animations](https://github.com/YouXianMing/Animations) - The Animation Collection.
+* [JSDownloadView](https://github.com/Josin22/JSDownloadView) - 精巧顺滑的下载动画.
+* [SYAppStart](https://github.com/yushuyi/SYAppStart) - App启动插画的自定义过度.
 * [VJDeviceSpecificMedia](https://github.com/victorjiang/UIImage-VJDeviceSpecificMedia/) - [如何根据设备选择不同尺寸的图片](http://www.imooc.com/wenda/detail/249271) 可以通过设置不同尺寸设备的LaunchImage，来使得App适配这些设备，要是在不同不同尺寸设备上使用不同大小的图片，则需要在代码中一一判断，然后加载。
-* [RMParallax](https://github.com/michaelbabiy/RMParallax) - RMParallax是一个app启动页引导开源项目，除了细微的翻页视差效果，描述文本的过渡也非常美观（版本新特性、导航页、引导页）。
-* [ADo_GuideView](https://github.com/Nododo/ADo_GuideView) - 转动的用户引导页(模仿网易bobo) 因为没有从app包里抓到@3x的图片,建议在iPhone5模拟器运行,保证效果~ （版本新特性、导航页、引导页）。
-* [CoreNewFeatureVC](https://github.com/CharlinFeng/CoreNewFeatureVC) - 版本新特性（引导页），1.封装并简化了版本新特性启动视图！2.添加了版本的本地缓存功能，3.集成简单，使用方便，没有耦合度，4.支持block回调（版本新特性、导航页、引导页）。
-* [MZGuidePages](https://github.com/MachelleZhang/MZGuidePages) - 自己写的通用导航页，可以直接引入工程使用，请参考案例（版本新特性、导航页、引导页）。
-* [ABCIntroView](https://github.com/AdamBCo/ABCIntroView) - ABCIntroView是一个易于使用的入门类，让你到达主屏幕之前介绍你的应用程序（版本新特性、导航页、引导页）。
-* [KYBezierBounceView](https://github.com/KittenYang/KYBezierBounceView) - 手势控制贝塞尔曲线，取消手势贝塞尔曲线会有反弹效果。
-* [cadisplaylinkanduibezierpath](http://kittenyang.com/cadisplaylinkanduibezierpath/) - CADisplayLink结合UIBezierPath的神奇妙用。
-* [KYCuteView](https://github.com/KittenYang/KYCuteView) - 实现类似QQ消息拖拽消失的交互+GameCenter的浮动小球效果，[分析](http://kittenyang.com/drawablebubble/)。
-* [KYWaterWaveView](https://github.com/KittenYang/KYWaterWaveView) - 一个内置波浪动画的UIView，里面有鱼跳跃水溅起来的效果。
-* [KYPingTransition](https://github.com/KittenYang/KYPingTransition) - 实现圆圈放大放小的转场动画，可以根据自己的需要使用Paper中的弹性效果，有Material风格。
-* [KYNewtonCradleAnimiation](https://github.com/KittenYang/KYNewtonCradleAnimiation) - 牛顿摆动画。
-* [LayerPlayer](https://github.com/scotteg/LayerPlayer) - 一款全面展示核心动画 API 示例项目（上架应用）。包括 CALayer, CAScrollLayer, CATextLayer, AVPlayerLayer, CAGradientLayer, CAReplicatorLayer, CATiledLayer, CAShapeLayer, CAEAGLLayer, CATransformLayer, CAEmitterLayer 等使用的互动演示。
-* [KYShareMenu](https://github.com/KittenYang/KYShareMenu) - 带弹性动画的分享菜单。
-* [Context-Menu.iOS](https://github.com/Yalantis/Context-Menu.iOS) - 可以为app的菜单添加漂亮的动画内容，可自定义icon，并可根据自己的喜好设计单元格和布局。
-* [DeformationButton](https://github.com/LuciusLu/DeformationButton) - 一个简单的变换形状动画按钮。
+* [RMParallax](https://github.com/michaelbabiy/RMParallax) - RMParallax是一个app启动页引导开源项目，除了细微的翻页视差效果，描述文本的过渡也非常美观（版本新特性、导航页、引导页).
+* [ADo_GuideView](https://github.com/Nododo/ADo_GuideView) - 转动的用户引导页(模仿网易bobo) 因为没有从app包里抓到@3x的图片,建议在iPhone5模拟器运行,保证效果~ （版本新特性、导航页、引导页）.
+* [CoreNewFeatureVC](https://github.com/CharlinFeng/CoreNewFeatureVC) - 版本新特性（引导页），1.封装并简化了版本新特性启动视图！2.添加了版本的本地缓存功能，3.集成简单，使用方便，没有耦合度，4.支持block回调（版本新特性、导航页、引导页).
+* [MZGuidePages](https://github.com/MachelleZhang/MZGuidePages) - 自己写的通用导航页，可以直接引入工程使用，请参考案例（版本新特性、导航页、引导页）.
+* [ABCIntroView](https://github.com/AdamBCo/ABCIntroView) - ABCIntroView是一个易于使用的入门类，让你到达主屏幕之前介绍你的应用程序（版本新特性、导航页、引导页）.
+* [KYBezierBounceView](https://github.com/KittenYang/KYBezierBounceView) - 手势控制贝塞尔曲线，取消手势贝塞尔曲线会有反弹效果.
+* [cadisplaylinkanduibezierpath](http://kittenyang.com/cadisplaylinkanduibezierpath/) - CADisplayLink结合UIBezierPath的神奇妙用.
+* [KYCuteView](https://github.com/KittenYang/KYCuteView) - 实现类似QQ消息拖拽消失的交互+GameCenter的浮动小球效果，[分析](http://kittenyang.com/drawablebubble/).
+* [KYWaterWaveView](https://github.com/KittenYang/KYWaterWaveView) - 一个内置波浪动画的UIView，里面有鱼跳跃水溅起来的效果.
+* [KYPingTransition](https://github.com/KittenYang/KYPingTransition) - 实现圆圈放大放小的转场动画，可以根据自己的需要使用Paper中的弹性效果，有Material风格.
+* [KYNewtonCradleAnimiation](https://github.com/KittenYang/KYNewtonCradleAnimiation) - 牛顿摆动画.
+* [LayerPlayer](https://github.com/scotteg/LayerPlayer) - 一款全面展示核心动画 API 示例项目（上架应用）。包括 CALayer, CAScrollLayer, CATextLayer, AVPlayerLayer, CAGradientLayer, CAReplicatorLayer, CATiledLayer, CAShapeLayer, CAEAGLLayer, CATransformLayer, CAEmitterLayer 等使用的互动演示.
+* [KYShareMenu](https://github.com/KittenYang/KYShareMenu) - 带弹性动画的分享菜单.
+* [Context-Menu.iOS](https://github.com/Yalantis/Context-Menu.iOS) - 可以为app的菜单添加漂亮的动画内容，可自定义icon，并可根据自己的喜好设计单元格和布局.
+* [DeformationButton](https://github.com/LuciusLu/DeformationButton) - 一个简单的变换形状动画按钮.
 * [UnReadBubbleView](https://github.com/heroims/UnReadBubbleView) - UnReadBubbleView是一个能够拖拽并拉长的气泡视图。拖拽到一定的长度会消失，可以通过系数设置来控制拖拽的长度。气泡也支持多种属性设置。
 * [PPDragDropBadgeView](https://github.com/smallmuou/PPDragDropBadgeView) - 实现了类似于QQ 5.0 水滴拖拽效果. 支持iOS 5.0+ ARC，气泡能够带有数字标识，同时支持消失block方法。消失时还带有消失效果动画。
-* [GiftCard-iOS](https://github.com/MartinRGB/GiftCard-iOS) - 礼品卡购买的炫酷动画。
-* [GiftCard-Implementation](https://github.com/MartinRGB/GiftCard-iOS) - 购买的炫酷动画。
-* [KIPageView](https://github.com/smartwalle/KIPageView) - 无限循环PageView，横向TableView，无限轮播。
-* [简单实用的无限循环轮播图](http://code.cocoachina.com/view/128288) - 简单实用的无限循环轮播图 。
-* [CPInfiniteBanner](https://github.com/crespoxiao/CPInfiniteBanner) - 是一个循环播放的组件，可以左右无缝滑动,3个imageview实现。[高效图片轮播，两个ImageView实现](http://ios.jobbole.com/84711/)。  
-* [XTLoopScroll](https://github.com/Akateason/XTLoopScroll) - 用两个 timer 三个重用的 view 实现无限循环 scrollView，1自动轮播 2点击监听回调当前图片 3手动滑动后重新计算轮播的开始时间, 良好的用户体验。
-* [HotGirls](https://github.com/zangqilong198812/HotGirls) - 卡片动画。
+* [GiftCard-iOS](https://github.com/MartinRGB/GiftCard-iOS) - 礼品卡购买的炫酷动画.
+* [GiftCard-Implementation](https://github.com/MartinRGB/GiftCard-iOS) - 购买的炫酷动画.
+* [KIPageView](https://github.com/smartwalle/KIPageView) - 无限循环PageView，横向TableView，无限轮播.
+* [简单实用的无限循环轮播图](http://code.cocoachina.com/view/128288) - 简单实用的无限循环轮播图.
+* [CPInfiniteBanner](https://github.com/crespoxiao/CPInfiniteBanner) - 是一个循环播放的组件，可以左右无缝滑动,3个imageview实现。[高效图片轮播，两个ImageView实现](http://ios.jobbole.com/84711/).
+* [XTLoopScroll](https://github.com/Akateason/XTLoopScroll) - 用两个 timer 三个重用的 view 实现无限循环 scrollView，1自动轮播 2点击监听回调当前图片 3手动滑动后重新计算轮播的开始时间, 良好的用户体验.
+* [HotGirls](https://github.com/zangqilong198812/HotGirls) - 卡片动画.
 * [KYAnimatedPageControl](https://github.com/KittenYang/KYAnimatedPageControl) - 除了滚动视图时PageControl会以动画的形式一起移动，点击目标页还可快速定位。支持两种样式：粘性小球和旋转方块。
-* [Presentation](https://github.com/hyperoslo/Presentation) - 一个类似RazzleDazzle的框架。
-* [FillableLoaders](https://github.com/poolqf/FillableLoaders) - 基于 CGPaths 可定制个性化填空式装载类库。附水波上涨式示例。
-* [SXWaveAnimate](https://github.com/dsxNiubility/SXWaveAnimate) - 实现非常美观的灌水动画。
-* [LSPaomaView](https://github.com/liusen001/LSPaomaView) - 可循环滚动的较长文字，跑马灯，效果很好，一句话集成。
-* [Cheetah](https://github.com/suguru/Cheetah) - 易用、高可读链式动画类库。另一个类似类库是 [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit)。
-* [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - swift， UICollectionViewController之间切换的动画。
-* [TKSubmitTransition](https://github.com/entotsu/TKSubmitTransition) - 基于 UIButton 的登录加载、返回按钮转场动画组件及示例。
-* [ARAnimation](https://github.com/AugustRush/ARAnimation) - ARAnimation 对 Core Animation 进行了封装, 帮助 iOS 开发者能更加便捷的在项目中使用动画。
-* [渐变特效文字](http://code.cocoachina.com/view/127174) - 做了一个仿iPhone的移动滑块来解锁的渐变特效文字,还有一个类似ktv歌词显示的文字特效。
-* [HYAwesomeTransition](https://github.com/nathanwhy/HYAwesomeTransition) - 模仿格瓦拉的转场效果。
+* [Presentation](https://github.com/hyperoslo/Presentation) - 一个类似RazzleDazzle的框架.
+* [FillableLoaders](https://github.com/poolqf/FillableLoaders) - 基于 CGPaths 可定制个性化填空式装载类库。附水波上涨式示例.
+* [SXWaveAnimate](https://github.com/dsxNiubility/SXWaveAnimate) - 实现非常美观的灌水动画.
+* [LSPaomaView](https://github.com/liusen001/LSPaomaView) - 可循环滚动的较长文字，跑马灯，效果很好，一句话集成.
+* [Cheetah](https://github.com/suguru/Cheetah) - 易用、高可读链式动画类库。另一个类似类库是 [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit).
+* [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - swift， UICollectionViewController之间切换的动画.
+* [TKSubmitTransition](https://github.com/entotsu/TKSubmitTransition) - 基于 UIButton 的登录加载、返回按钮转场动画组件及示例.
+* [ARAnimation](https://github.com/AugustRush/ARAnimation) - ARAnimation 对 Core Animation 进行了封装, 帮助 iOS 开发者能更加便捷的在项目中使用动画.
+* [渐变特效文字](http://code.cocoachina.com/view/127174) - 做了一个仿iPhone的移动滑块来解锁的渐变特效文字,还有一个类似ktv歌词显示的文字特效.
+* [HYAwesomeTransition](https://github.com/nathanwhy/HYAwesomeTransition) - 模仿格瓦拉的转场效果.
 * [RYCuteView](https://github.com/Resory/RYCuteView) - 用UIBezierPath实现果冻效果。 [教程](http://www.jianshu.com/p/21db20189c40)
-* [STLBGVideo](https://github.com/StoneLeon/STLBGVideo) - STLBGVideo让您的视图控制器的自定义backgroundvideo,[实现说明1](http://www.jianshu.com/p/c4704c086b67)、[实现说明2](http://www.jianshu.com/p/3dcebf0493d1)。
-* [MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView) - 方便好用的引导类库，在App注册登录页面可以用到。
-* [ZFCityGuides](https://github.com/WZF-Fei/ZFCityGuides) - 实现City Guides的动画效果，数字动态变化的动画效果。
-* [INPopoverController](https://github.com/indragiek/INPopoverController) - OS X可自由定制的  Popover 视图。
+* [STLBGVideo](https://github.com/StoneLeon/STLBGVideo) - STLBGVideo让您的视图控制器的自定义backgroundvideo,[实现说明1](http://www.jianshu.com/p/c4704c086b67)、[实现说明2](http://www.jianshu.com/p/3dcebf0493d1).
+* [MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView) - 方便好用的引导类库，在App注册登录页面可以用到.
+* [ZFCityGuides](https://github.com/WZF-Fei/ZFCityGuides) - 实现City Guides的动画效果，数字动态变化的动画效果.
+* [INPopoverController](https://github.com/indragiek/INPopoverController) - OS X可自由定制的  Popover 视图.
 * [WZXJianShuPopDemo](https://github.com/Wzxhaha/WZXJianShuPopDemo) - 仿简书、淘宝等等的View弹出效果，已封装好，使用简单。[实现原理](http://www.jianshu.com/p/a697d2a38b3c)
-* [LSAnimator](https://github.com/Lision/LSAnimator) 非侵入式的多链式动画
+* [LSAnimator](https://github.com/Lision/LSAnimator) - 非侵入式的多链式动画.
 
 #### 转场@
 
-* [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) A gallery app of custom animated transitions for iOS.
-* [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary) 不错的转场动画库
-* [WXSTransition](https://github.com/alanwangmodify/WXSTransition) 转场动画集合
+* [RZTransitions](https://github.com/Raizlabs/RZTransitions) - A library of custom iOS View Controller Animations and Interactions.
+* [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) - A gallery app of custom animated transitions for iOS.
+* [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary) - 不错的转场动画库.
+* [WXSTransition](https://github.com/alanwangmodify/WXSTransition) - 转场动画集合.
 
 #### 多媒体@
 #### GIF@
