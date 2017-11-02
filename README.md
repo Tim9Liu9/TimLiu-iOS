@@ -127,7 +127,7 @@ A curated list of iOS objective-C ecosystem.
 - [AutoLayout@](#AutoLayout)
 - [学习资料@](#学习资料)
   - [播客@](#播客)
-  - [他人开源总结@](#他人开源总结)
+  - [其他开源@](#其他开源)
   - [开发博客列表@](#开发博客列表)
   - [学习笔记、书籍@](#学习笔记、书籍)
   - [CodeLiararyWebSite@](#CodeLiararyWebSite)
@@ -174,9 +174,8 @@ A curated list of iOS objective-C ecosystem.
 - [VPN@](#VPN)
 - [深度学习@](#深度学习)
 - [mac@](#mac)
-- [未分类@](#未分类)
-- [其他领域@](#其他领域)
 - [开发环境@](#开发环境)
+- [前端@](#前端)
 
 #### 具体内容 =============================
 
@@ -833,9 +832,10 @@ A curated list of iOS objective-C ecosystem.
 
 #### 综合UI@
 
-* [Texture](https://github.com/TextureGroup/Texture)Texture——保持最复杂的用户界面的流畅和响应  Smooth asynchronous user interfaces for iOS apps.
-* [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS) Many Google Material Design Controls for iOS native application
-* [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS) 大神模仿谷歌做的各种各样的iOS原生特效控件，非常全面.
+* [Texture](https://github.com/TextureGroup/Texture) - Texture——保持最复杂的用户界面的流畅和响应  Smooth asynchronous user interfaces for iOS apps.
+* [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS) - Many Google Material Design Controls for iOS native application.
+* [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS) - 大神模仿谷歌做的各种各样的iOS原生特效控件，非常全面.
+* [Form](https://github.com/hyperoslo/Form) - Form 是一个方便开发者创建表单填写工作的 UI 库.
 
 #### 日历三方库@
 
@@ -2041,7 +2041,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [Apple-OfficialTranslation-SourceAnnotation](https://github.com/CustomPBWaters/Apple-OfficialTranslation-SourceAnnotation) Apple官方译文框架源码注解，当你「了解权威 & 进阶原理」的时候，网搜的众多中 ~ ~（自行脑补）。一劳永逸，渐进式学习。 以简化初学者入门和老司机回顾的繁索过程，尽快切入主题，快速使用起来。
 * [RuntimeBrowser](https://github.com/nst/RuntimeBrowser) This is a class browser for the Objective-C runtime on iOS and OS X.
 
-#### 他人开源总结@
+#### 其他开源@
 
 * [awesome-ios](https://github.com/vsouza/awesome-ios) 一个非常棒👍👍👍 的开源库集合.
 * [awesome-osx](https://github.com/iCHAIT/awesome-osx) - 一个非常棒👍👍👍的Mac OS X开源库集合。
@@ -2054,14 +2054,15 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [lexrus](https://github.com/lexrus) -  lexrus国内出名的iOS开源coder，非常酷的label动画、textfield动画。
 * [适合iOS开发者的15大网站推荐](http://www.csdn.net/article/2015-03-04/2824108-ios-developers-sites) -  适合 iOS 开发者的 15 大网站推荐 --- 英文网站。
 * [Objective-C GitHub 排名前 100 项目简介](https://github.com/Aufree/trip-to-iOS/blob/master/Top-100.md) -  主要对当前 GitHub 排名前 100 的项目做一个简单的简介, 方便初学者快速了解到当前 Objective-C 在 GitHub 的情况。
-* [Github-iOS备忘](http://github.ibireme.com/github/list/ios/) -整理了比较常用的iOS第三方组件，以及github上的统计。
-* [超全！整理常用的iOS第三方资源](http://www.cocoachina.com/ios/20160121/14988.html) - 超全！整理常用的iOS第三方资源。
-* [MyGithubMark](https://github.com/JanzTam/MyGithubMark) - Github上的iOS资料-个人记录（持续更新）。
-* [Github 上的 iOS 开源项目](http://ios.jobbole.com/84684/) - Github 上的 iOS 开源项目总结。
-* [iOS资源大全中文版](https://github.com/jobbole/awesome-ios-cn) - iOS资源大全中文版。
-* [LearningIOS](https://github.com/zhouhuanqiang/LearningIOS) Learning materials of iOS
-* [Dev-Repo](https://github.com/DevDragonLi/Dev-Repo) 学习经验、面试题等集合.
+* [Github-iOS备忘](http://github.ibireme.com/github/list/ios/) - 整理了比较常用的iOS第三方组件，以及github上的统计.
+* [超全！整理常用的iOS第三方资源](http://www.cocoachina.com/ios/20160121/14988.html) - 超全！整理常用的iOS第三方资源.
+* [MyGithubMark](https://github.com/JanzTam/MyGithubMark) - Github上的iOS资料-个人记录（持续更新).
+* [Github 上的 iOS 开源项目](http://ios.jobbole.com/84684/) - Github 上的 iOS 开源项目总结.
+* [iOS资源大全中文版](https://github.com/jobbole/awesome-ios-cn) - iOS资源大全中文版.
+* [LearningIOS](https://github.com/zhouhuanqiang/LearningIOS) - Learning materials of iOS.
+* [Dev-Repo](https://github.com/DevDragonLi/Dev-Repo) - 学习经验、面试题等集合.
 * [awesome-github](https://github.com/AntBranch/awesome-github) - awesome-github:收集这个列表，只是为了更好地使用亲爱的GitHub。
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://freeCodeCamp.org open source codebase and curriculum. Learn to code and help nonprofits.
 
 #### 开发博客列表@
 
@@ -2151,20 +2152,17 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 * [TrafficLights-DeepLearning-iOS](https://github.com/asavihay/TrafficLights-DeepLearning-iOS) 利用Caffe深度学习执着的一个交通灯信号检测App
 
-#### 未分类@
-
-* [Form](https://github.com/hyperoslo/Form) Form 是一个方便开发者创建表单填写工作的 UI 库。
-
-#### 其他领域@
-
-* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) 非常棒👍👍👍  We’re a community that helps you learn to code, then get experience by contributing to open source projects used by nonprofits.
-* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) A book series on JavaScript. @YDKJS on twitter.
-* [bootstrap](https://github.com/twbs/bootstrap) Bootstrap 的 Github 帐户，著名的响应式网页设计框架。主要提供技术信息，还提供其他有用站点的其他链接。如果你正在寻找有关框架的更详细的文档，可以访问. Bootstrap is a free front-end framework for faster and easier web development. Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins
-* [wiki](https://github.com/d3/d3/wiki) D3 (Data-Driven Documents or D3.js) is a JavaScript library for visualizing data using web standards.
-* [awesome-python](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources
-* [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) 专注于使用 vanilla JavaScript 解决典型的编程问题，这个仓库的兴起与 React 的兴起密切相关； Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
-* [public-apis](https://github.com/toddmotto/public-apis) 经常更新的web开发公共JSON API 列表。 A collective list of public JSON APIs for use in web development.
-
 #### 开发环境@
 
 * [Homebrew](https://github.com/Homebrew/brew) Homebrew是一款Mac OS平台下的软件包管理工具，拥有安装、卸载、更新、查看、搜索等很多实用的功能。简单的一条指令，就可以实现包管理，而不用你关心各种依赖和文件路径的情况，十分方便快捷。
+
+#### 前端
+
+* [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - 非常棒👍👍👍  We’re a community that helps you learn to code, then get experience by contributing to open source projects used by
+ nonprofits.
+* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+* [wiki](https://github.com/d3/d3/wiki) - D3 (Data-Driven Documents or D3.js) is a JavaScript library for visualizing data using web standards.
+* [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
+* [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - 专注于使用 vanilla JavaScript 解决典型的编程问题，这个仓库的兴起与 React 的兴起密切相关； Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+* [public-apis](https://github.com/toddmotto/public-apis) - 经常更新的web开发公共JSON API 列表。 A collective list of public JSON APIs for use in web development.
