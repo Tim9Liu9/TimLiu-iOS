@@ -37,7 +37,7 @@ A curated list of iOS objective-C ecosystem.
   - [网络解析@](#网络解析)
       - [CSV](#csv)
       - [JSON@](#json)
-      - [XML&HTML@](#xml--html)
+      - [XML&HTML@](#xml&html)
       - [Other Parsing@](#other-parsing)
 - [数据存储@](#数据存储)
   - [缓存处理@](#缓存处理)
@@ -573,232 +573,231 @@ A curated list of iOS objective-C ecosystem.
 #### 多媒体@
 #### GIF@
 
-* [FLAnimatedImage](https://github.com/liric28/FLAnimatedImage) - 非常不错的gif播放处理的工具。
-* [YLGIFImage](https://github.com/liyong03/YLGIFImage) - 异步方式实现突Gif突破编码、显示，低内存占用。
-* [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - 高性能GIF动画引擎.Performant animated GIF engine for iOS
-* [AnimatedGIFImageSerialization](https://github.com/mattt/AnimatedGIFImageSerialization) - Complete Animated GIF Support for iOS, with Functions, NSJSONSerialization-style Class, and (Optional) UIImage Swizzling
+* [FLAnimatedImage](https://github.com/liric28/FLAnimatedImage) - 非常不错的gif播放处理的工具.
+* [YLGIFImage](https://github.com/liyong03/YLGIFImage) - 异步方式实现突Gif突破编码、显示，低内存占用.
+* [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - 高性能GIF动画引擎.
+* [AnimatedGIFImageSerialization](https://github.com/mattt/AnimatedGIFImageSerialization) - Complete Animated GIF Support for iOS, with Functions, NSJSONSerialization-style Class, and (Optional) UIImage Swizzling.
 * [XAnimatedImage](https://github.com/khaledmtaha/XAnimatedImage) - XAnimatedImage is a performant animated GIF engine for iOS written in Swift based on FLAnimatedImage :large_orange_diamond:
 * [SwiftGif](https://github.com/bahlo/SwiftGif) - :sparkles: A small UIImage extension with gif support :large_orange_diamond:
 * [APNGKit](https://github.com/onevcat/APNGKit) - High performance and delightful way to play with APNG format in iOS. :large_orange_diamond:
 * [YYImage](https://github.com/ibireme/YYImage) - Image framework for iOS to display/encode/decode animated WebP, APNG, GIF, and more.
 * [NSGIF2](https://github.com/metasmile/NSGIF2) - Simplify creation of a GIF from the provided video file url.
 * [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance GIF engine :large_orange_diamond:
-* [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView-PlayGIF。
-* [droptogif](https://github.com/mortenjust/droptogif) -  droptogif视频拖拽到应用窗口后自动转换为 GIF 动画（其转换进程动画效果也超赞）。
+* [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView-PlayGIF.
+* [droptogif](https://github.com/mortenjust/droptogif) -  droptogif视频拖拽到应用窗口后自动转换为 GIF 动画（其转换进程动画效果也超赞）.
 
 #### VR@
 
-* [HTY360Player](https://github.com/hanton/HTY360Player) 一款360度全景视频播放器
-* [ios-360-videos](https://github.com/NYTimes/ios-360-videos) - 基于AVPlayer的360度全景视频播放器
+* [HTY360Player](https://github.com/hanton/HTY360Player) - 一款360度全景视频播放器.
+* [ios-360-videos](https://github.com/NYTimes/ios-360-videos) - 基于AVPlayer的360度全景视频播放器.
 
 #### AR@
 
-* [AR-Source](https://github.com/GeekLiB/AR-Source) AR 开发资料汇总
+* [AR-Source](https://github.com/GeekLiB/AR-Source) AR开发资料汇总.
 
 #### 二维码@
 
-* [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC)  赞 An Objective-C Port of ZXing
-* [LBXScan](https://github.com/MxABC/LBXScan) 赞 A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和ios系统自带扫码封装，扫码界面效果封装)(Objective-C和Swift均支持).
+* [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC)  - 👍 An Objective-C Port of ZXing.
+* [LBXScan](https://github.com/MxABC/LBXScan) - 👍 A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和ios系统自带扫码封装，扫码界面效果封装)(Objective-C和Swift均支持).
 * [原生实现扫描二维码条码](http://code.cocoachina.com/view/129108) - iOS原生实现扫描二维码条码.
-* [ZFScan](https://github.com/Zirkfied/ZFScan) - 仿微信 二维码/条形码 扫描。
-* [QRCatcher](https://github.com/100mango/QRCatcher) - 一个简洁美观的二维码扫描应用， [iOS学习：AVFoundation 视频流处理--二维码
-* [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) 带状态控制的条码扫描库，支持处理相机权限、自定义颜色和提示信息，不依赖其他第三方库。扫描](https://github.com/100mango/zen/blob/master/iOS%E5%AD%A6%E4%B9%A0%EF%BC%9AAVFoundation%20%E8%A7%86%E9%A2%91%E6%B5%81%E5%A4%84%E7%90%86/iOS%E5%AD%A6%E4%B9%A0%EF%BC%9AAVFoundation%20%E8%A7%86%E9%A2%91%E6%B5%81%E5%A4%84%E7%90%86%20.md)。
-* [MQRCodeReaderViewController](https://github.com/zhengjinghua/MQRCodeReaderViewController) - 二维码扫描控件, UI 做了优化, 仿造微信, 直接拖进项目就可使用。
-* [MQRCodeReaderViewController](https://github.com/zhengjinghua/MQRCodeReaderViewController) iOS 二维码扫描控件, UI 做了优化, 仿造微信, 直接拖进项目就可使用, 支持 CocoaPods 安装. WeChat-like QRCode reader, drop-in version, support for CocoaPods
-* [QRWeiXinDemo](https://github.com/lcddhr/QRWeiXinDemo)仿微信二维码扫描，中间透明区域
-* [EFQRCode](https://github.com/EyreFree/EFQRCode) - iOS 花式二维码生成库
+* [ZFScan](https://github.com/Zirkfied/ZFScan) - 仿微信 二维码/条形码 扫描.
+* [QRCatcher](https://github.com/100mango/QRCatcher) - 一个简洁美观的二维码扫描应用， [iOS学习：AVFoundation 视频流处理--二维码].
+* [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - 带状态控制的条码扫描库，支持处理相机权限、自定义颜色和提示信息，不依赖其他第三方库).
+* [MQRCodeReaderViewController](https://github.com/zhengjinghua/MQRCodeReaderViewController) - 二维码扫描控件.
+* [QRWeiXinDemo](https://github.com/lcddhr/QRWeiXinDemo) - 仿微信二维码扫描，中间透明区域.
+* [EFQRCode](https://github.com/EyreFree/EFQRCode) - iOS 花式二维码生成库.
 
 #### PDF@
 
-* [Reader](https://github.com/vfr/Reader) - Reader可提供类似iBooks的文档导航，支持屏幕旋转和所有方向，并通过密码保护加密PDF文件，支持PDF链接和旋转页面。
-* [PDFXKit](https://github.com/PSPDFKit/PDFXKit) A drop-in replacement for Apple PDFKit powered by our PSPDFKit framework under the hood.
+* [Reader](https://github.com/vfr/Reader) - Reader可提供类似iBooks的文档导航，支持屏幕旋转和所有方向，并通过密码保护加密PDF文件，支持PDF链接和旋转页面.
+* [PDFXKit](https://github.com/PSPDFKit/PDFXKit) - A drop-in replacement for Apple PDFKit powered by our PSPDFKit framework under the hood.
 
 #### 流媒体@
 
 #### 音频@
 
-* [ESTMusicPlayer](https://github.com/Aufree/ESTMusicPlayer) 一个简洁、易用的音乐播放器
-* [EZAudio](https://github.com/syedhali/EZAudio) - EZAudio 是一个 iOS 和 OSX 上简单易用的音频框架，根据音量实时显示波形图，基于Core Audio，适合实时低延迟音频处理，非常直观。[中文介绍](https://segmentfault.com/blog/news/1190000000370957),[官网](http://www.syedharisali.com/about)。
+* [ESTMusicPlayer](https://github.com/Aufree/ESTMusicPlayer) - 一个简洁、易用的音乐播放器.
+* [EZAudio](https://github.com/syedhali/EZAudio) - EZAudio 是一个 iOS 和 OSX 上简单易用的音频框架，根据音量实时显示波形图，基于Core Audio，适合实时低延迟音频处理，非常直观。[中文介绍](https://segmentfault.com/blog/news/1190000000370957),[官网](http://www.syedharisali.com/about).
 * [novocaine](https://github.com/alexbw/novocaine) - 高性能的音频，支持iOS and Mac OS X.
-* [SubtleVolume](https://github.com/andreamazz/SubtleVolume) - 用更微妙的指示器替换系统卷弹出窗口
-* [NVDSP](https://github.com/bartolsthoorn/NVDSP) - iOS/OSX DSP for audio (with Novocaine)
-* [IQAudioRecorderController](https://github.com/hackiftekhar/IQAudioRecorderController) - 一个可以内置App的、通用的、带有漂亮的用户界面音频录制程序
-* [QuietModemKit](https://github.com/quiet/QuietModemKit) 静态调制解调器的iOS框架（声音数据）
-* [IOS录音和播放功能demo](http://d.cocoachina.com/code/detail/285717) - 比较完整的ios录音和播放功能的实现。
-* [MCAudioInputQueue](https://github.com/msching/MCAudioInputQueue) - 简易录音类，基于AudioQueue的。
-* [MusicPlayert](https://github.com/liuFangQiang/MusicPlayer) - MusicPlayert音乐播放器，用reveal可以查看层次关系，主要实现了歌词的同步显示。
-* [音乐播放器](http://code.cocoachina.com/view/129435) - 音乐播放器：显示歌词。
-* [amr](http://www.penguin.cz/~utx/amr) - 做即时通讯的音频处理，录音文件是m4a，便于web端的音频播放。
-* [边录音边转码](http://code4app.com/ios/%E8%BE%B9%E5%BD%95%E9%9F%B3%E8%BE%B9%E8%BD%AC%E7%A0%81/521c65d56803fab864000001) - 一边录音，一边将录制成的 wav 格式音频文件转码成 amr 音频格式。只支持真机运行调试。
+* [SubtleVolume](https://github.com/andreamazz/SubtleVolume) - 用更微妙的指示器替换系统卷弹出窗口.
+* [NVDSP](https://github.com/bartolsthoorn/NVDSP) - iOS/OSX DSP for audio (with Novocaine).
+* [IQAudioRecorderController](https://github.com/hackiftekhar/IQAudioRecorderController) - 一个可以内置App的、通用的、带有漂亮的用户界面音频录制程序.
+* [QuietModemKit](https://github.com/quiet/QuietModemKit) - 静态调制解调器的iOS框架（声音数据）.
+* [IOS录音和播放功能demo](http://d.cocoachina.com/code/detail/285717) - 比较完整的ios录音和播放功能的实现.
+* [MCAudioInputQueue](https://github.com/msching/MCAudioInputQueue) - 简易录音类，基于AudioQueue的.
+* [MusicPlayert](https://github.com/liuFangQiang/MusicPlayer) - MusicPlayert音乐播放器，用reveal可以查看层次关系，主要实现了歌词的同步显示.
+* [音乐播放器](http://code.cocoachina.com/view/129435) - 音乐播放器：显示歌词.
+* [amr](http://www.penguin.cz/~utx/amr) - 做即时通讯的音频处理，录音文件是m4a，便于web端的音频播放.
+* [边录音边转码](http://code4app.com/ios/%E8%BE%B9%E5%BD%95%E9%9F%B3%E8%BE%B9%E8%BD%AC%E7%A0%81/521c65d56803fab864000001) - 一边录音，一边将录制成的 wav 格式音频文件转码成 amr 音频格式。只支持真机运行调试.
 * [DFPlayer](https://github.com/ihoudf/DFPlayer) 简单又灵活的iOS音频播放组件.
 
 #### 视频@
 #### 视频播放@
 
-* [FFmpeg](https://github.com/FFmpeg/FFmpeg) 一个处理多媒体数据的开源、免费的库 [ffmpeg](http://ffmpeg.org/) - ffmpeg官网，[FFmpeg在iOS上完美编译](http://www.cocoachina.com/ios/20150514/11827.html)。
-* [vlc)](https://github.com/videolan/vlc) VLC media player
-* [mpv](https://github.com/mpv-player/mpv) - 非常👍👍👍 🎥 Video player based on MPlayer/mplayer2
-* [ijkplayer](https://github.com/Bilibili/ijkplayer) - 非常赞 B站开源的视频播放器，支持Android和iOS。 [iOS中集成ijkplayer视频直播框架](http://www.jianshu.com/p/1f06b27b3ac0)。
-* [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - 非常赞 基于AVPlayer，支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度
-* [WMPlayer](https://github.com/zhengwenming/WMPlayer) 赞 WMPlayer视频播放器，AVPlayer的封装，继承UIView，想怎么玩就怎么玩。支持播放mp4、m3u8、3gp、mov，网络和本地视频同时支持。全屏和小屏播放同时支持。 cell中播放视频，全屏小屏切换自如。
-* [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) 一个能够在国内播放YouTube视频的播放器
-* [HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo) iOS端视频弹幕
-* [MRVLCPlayer](https://github.com/Maru-zhang/MRVLCPlayer) - 相信Mac用户都很熟悉一款VLC播放器，这款播放器在Mac上表现异常优异，支持的格式几乎涵盖了所有格式（就是这么屌！）。没错，就是它创造者--VideoLAN，开源了一款牛逼的视频播放框架MobileVLCKit！[介绍信息：] (http://gold.xitu.io/entry/578c304b2e958a0054320503?from=singlemessage&isappinstalled=1)
-* [plask](https://github.com/deanm/plask) Plask is a multimedia programming environment.
-* [KRVideoPlayer](https://github.com/36Kr-Mobile/KRVideoPlayer) - 36Kr出品的类似Weico的播放器，支持竖屏模式下全屏播放。
-* [JPVideoPlayer](https://github.com/Chris-Pan/JPVideoPlayer) 类似微博主页在列表中自动播放视频
-* [HcdCachePlayer](https://github.com/Jvaeyhcd/HcdCachePlayer) 在线视频边下边播，支持缓存到本地
-* [bilibili-mac-client](https://github.com/typcn/bilibili-mac-client) 👍bilibili非官方的mac客户端
-* [PBJVideoPlayer](https://github.com/piemonte/PBJVideoPlayer) 一个易用的流媒体播放器
-* [KrVideoPlayerPlus](https://github.com/PlutusCat/KrVideoPlayerPlus) 根据36Kr开源的KRVideoPlayer 进行修改和补充实现一个轻量级的视频播放器，满足大部分视频播放需求
-* [VKVideoPlayer](https://github.com/viki-org/VKVideoPlayer) 一个非常不错的拥有上百万用户的视频播放器
-* [PKShortVideo](https://github.com/pepsikirk/PKShortVideo) iOS仿微信小视频功能开发优化记录
-* [AVAnimator](http://www.modejong.com/AVAnimator/) - 一个不错的原生的开源视频库，可以轻松实现视频、音频的功能
-* [SSVideoPlayer](https://github.com/immrss/SSVideoPlayer) - 一个支持本地和网络视频播放的库
-* [SRGMediaPlayer-iOS](https://github.com/SRGSSR/SRGMediaPlayer-iOS) - 一个提供简洁的方法为iOS应用添加通用的音频、视频播放的库
-* [ABMediaView](https://github.com/andrewboryk/ABMediaView) - 一个UIImageView的子类，可以播放本地和来源于网络的图片、视频、GIF和音频。可以最小化和全屏。同时支持视频设置GIF预览图。 UIImageView subclass for drop-in image, video, GIF, and audio display, with functionality for fullscreen and minimization to the bottom-right corner.
-* [kxmovie](https://github.com/kolyvan/kxmovie) - 使用ffmpeg的影片播放器，[修改说明](http://www.cocoachina.com/bbs/read.php?tid=145575)， [修改代码](https://github.com/kinglonghuang)，[基于FFmpeg的kxMoive艰难的编译运行](https://github.com/namebryant/FFmpeg-Compilation)。
-* [StreamingKit](https://github.com/tumtumtum/StreamingKit) - StreamingKit流媒体音乐播放器。
-* [FreeStreamer](https://github.com/muhku/FreeStreamer) - FreeStreamer流媒体音乐播放器，cpu占用非常小。
-* [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer) - DOUAudioStreamer豆瓣的音乐流媒体播放器。
-* [fmpro](https://github.com/fmpro/fmpro) - 电台播放器，支持锁屏歌词，支持基本播放流程，歌词展示，后台锁屏播放和控制以及锁屏后封面+歌词，[fmpro_R](https://github.com/jovisayhehe/fmpro_R) 。
-* [TBPlayer](https://github.com/suifengqjn/TBPlayer) - 视频变下变播，把播放器播放过的数据流缓存到本地，支持拖动。采用avplayer。[实现说明](http://www.jianshu.com/p/990ee3db0563)
-* [IWatch](https://github.com/280772270/IWatch) - 一个视频日报类的app 播放器用到了AVFoudation。
-* [自定义视频播放器AVPlayer](http://code.cocoachina.com/view/128253) - 利用系统类AVPlayer实现完全自定义视频播放器，显示播放时间，缓存等功能。代码清晰，注释详细。
-* [DraggableYoutubeFloatingVideo](https://github.com/vizllx/DraggableYoutubeFloatingVideo) - 展示像类似Youtube移动应用的那种浏览视频的效果，当点击某视频时能够从右下方弹出一个界面，并且该界面能够通过手势，再次收缩在右下方并继续播放。这是通过AutoLayout设计实现。
+* [FFmpeg](https://github.com/FFmpeg/FFmpeg) - 一个处理多媒体数据的开源、免费的库,可以用来记录、转换数字音频、视频，并能将其转化为流. [ffmpeg](http://ffmpeg.org/) - ffmpeg官网，[FFmpeg在iOS上完美编译](http://www.cocoachina.com/ios/20150514/11827.html).
+* [vlc)](https://github.com/videolan/vlc) - VLC media player.
+* [mpv](https://github.com/mpv-player/mpv) - 非常👍👍👍 🎥 Video player based on MPlayer/mplayer2.
+* [ijkplayer](https://github.com/Bilibili/ijkplayer) - 非常赞 B站开源的视频播放器，支持Android和iOS. [iOS中集成ijkplayer视频直播框架](http://www.jianshu.com/p/1f06b27b3ac0)。
+* [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - 非常赞 基于AVPlayer，支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度.
+* [WMPlayer](https://github.com/zhengwenming/WMPlayer) 赞 WMPlayer视频播放器，AVPlayer的封装，继承UIView，想怎么玩就怎么玩。支持播放mp4、m3u8、3gp、mov，网络和本地视频同时支持。全屏和小屏播放同时支持。 cell中播放视频，全屏小屏切换自如.
+* [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) - 一个能够在国内播放YouTube视频的播放器.
+* [HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo) - iOS端视频弹幕.
+* [MRVLCPlayer](https://github.com/Maru-zhang/MRVLCPlayer) - 相信Mac用户都很熟悉一款VLC播放器，这款播放器在Mac上表现异常优异，支持的格式几乎涵盖了所有格式（就是这么屌！）。没错，就是它创造者--VideoLAN，开源了一款牛逼的视频播放框架MobileVLCKit！[介绍信息：] (http://gold.xitu.io/entry/578c304b2e958a0054320503?from=singlemessage&isappinstalled=1).
+* [plask](https://github.com/deanm/plask) - Plask is a multimedia programming environment.
+* [KRVideoPlayer](https://github.com/36Kr-Mobile/KRVideoPlayer) - 36Kr出品的类似Weico的播放器，支持竖屏模式下全屏播放.
+* [JPVideoPlayer](https://github.com/Chris-Pan/JPVideoPlayer) - 类似微博主页在列表中自动播放视频.
+* [HcdCachePlayer](https://github.com/Jvaeyhcd/HcdCachePlayer) - 在线视频边下边播，支持缓存到本地.
+* [bilibili-mac-client](https://github.com/typcn/bilibili-mac-client) - 👍 bilibili非官方的mac客户端.
+* [PBJVideoPlayer](https://github.com/piemonte/PBJVideoPlayer) - 一个易用的流媒体播放器.
+* [KrVideoPlayerPlus](https://github.com/PlutusCat/KrVideoPlayerPlus) - 根据36Kr开源的KRVideoPlayer 进行修改和补充实现一个轻量级的视频播放器，满足大部分视频播放需求.
+* [VKVideoPlayer](https://github.com/viki-org/VKVideoPlayer) - 一个非常不错的拥有上百万用户的视频播放器.
+* [PKShortVideo](https://github.com/pepsikirk/PKShortVideo) - iOS仿微信小视频功能开发优化记录.
+* [AVAnimator](http://www.modejong.com/AVAnimator/) - 一个不错的原生的开源视频库，可以轻松实现视频、音频的功能.
+* [SSVideoPlayer](https://github.com/immrss/SSVideoPlayer) - 一个支持本地和网络视频播放的库.
+* [SRGMediaPlayer-iOS](https://github.com/SRGSSR/SRGMediaPlayer-iOS) - 一个提供简洁的方法为iOS应用添加通用的音频、视频播放的库.
+* [ABMediaView](https://github.com/andrewboryk/ABMediaView) - 一个UIImageView的子类，可以播放本地和来源于网络的图片、视频、GIF和音频,可以最小化和全屏,同时支持视频设置GIF预览图.
+* [kxmovie](https://github.com/kolyvan/kxmovie) - 使用ffmpeg的影片播放器，[修改说明](http://www.cocoachina.com/bbs/read.php?tid=145575)， [修改代码](https://github.com/kinglonghuang)，[基于FFmpeg的kxMoive艰难的编译运行](https://github.com/namebryant/FFmpeg-Compilation).
+* [StreamingKit](https://github.com/tumtumtum/StreamingKit) - StreamingKit流媒体音乐播放器.
+* [FreeStreamer](https://github.com/muhku/FreeStreamer) - FreeStreamer流媒体音乐播放器，cpu占用非常小.
+* [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer) - DOUAudioStreamer豆瓣的音乐流媒体播放器.
+* [fmpro](https://github.com/fmpro/fmpro) - 电台播放器，支持锁屏歌词，支持基本播放流程，歌词展示，后台锁屏播放和控制以及锁屏后封面+歌词，[fmpro_R](https://github.com/jovisayhehe/fmpro_R) .
+* [TBPlayer](https://github.com/suifengqjn/TBPlayer) - 视频变下变播，把播放器播放过的数据流缓存到本地，支持拖动,采用avplayer.[实现说明](http://www.jianshu.com/p/990ee3db0563).
+* [IWatch](https://github.com/280772270/IWatch) - 一个视频日报类的app 播放器用到了AVFoudation.
+* [自定义视频播放器AVPlayer](http://code.cocoachina.com/view/128253) - 利用系统类AVPlayer实现完全自定义视频播放器，显示播放时间，缓存等功能。代码清晰，注释详细.
+* [DraggableYoutubeFloatingVideo](https://github.com/vizllx/DraggableYoutubeFloatingVideo) - 展示像类似Youtube移动应用的那种浏览视频的效果，当点击某视频时能够从右下方弹出一个界面，并且该界面能够通过手势，再次收缩在右下方并继续播放,通过AutoLayout设计实现.
 
 #### 视频处理@
 
-* [BeautifyFaceDemo](https://github.com/Guikunzhi/BeautifyFaceDemo) - 一个基于 GPUImage 的实时直播磨皮滤镜的开源实现,主要功能脸部去斑磨皮！
-* [simplest_ffmpeg_mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) ffmpeg examples in Android / IOS / WinPhone
+* [BeautifyFaceDemo](https://github.com/Guikunzhi/BeautifyFaceDemo) - 一个基于 GPUImage 的实时直播磨皮滤镜的开源实现,主要功能脸部去斑磨皮.
+* [simplest_ffmpeg_mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) ffmpeg examples in Android / IOS / WinPhone.
 
 #### 视频录制@
 
-* [SCRecorder](https://github.com/rFlex/SCRecorder) - 酷似 Instagram/Vine 的音频/视频摄像记录器，以 Objective-C 为基础的过滤器框架。 你可以做很多如下的操作：记录多个视频录像片段。删除任何你不想要的记录段。可以使用任何视频播放器播放片段。保存的记录可以在序列化的 NSDictionary 中使用。（在 NSUserDefaults 的中操作）添加使用 Core Image 的视频滤波器。可自由选择你需要的 parameters 合并和导出视频。
-* [LLSimpleCamera](https://github.com/omergul123/LLSimpleCamera)视频录制 A simple, customizable camera control - video recorder for iOS.
-* [SlowMotionVideoRecorder](https://github.com/shu223/SlowMotionVideoRecorder) 120 fps SLO-MO video recorder using AVFoundation. Including convenient wrapper class. Available on the iPhone5s.
-* [PBJVision](https://github.com/piemonte/PBJVision) iOS媒体捕获，点击录制视频，显示运动和照片. 📸 iOS Media Capture – features touch-to-record video, slow motion, and photography
-* [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) - ALCameraViewController 摄像头视图控制器（含可定制照片选择器，图片简单裁切功能）及演示。
-* [VideoBeautify](https://github.com/xujingzhou/VideoBeautify) - 功能酷似美拍,秒拍等应用的源码：对视频进行各种美化处理，采用主题形式进行分类，内含各种滤镜，动画特效和音效等。
-* [IPDFCameraViewController](https://github.com/mmackh/IPDFCameraViewController) - 支持相机定焦拍摄、滤镜、闪光、实时边框检测以及透视矫正功能，并有简单易用的API。
+* [SCRecorder](https://github.com/rFlex/SCRecorder) - 酷似 Instagram/Vine 的音频/视频摄像记录器，以 Objective-C 为基础的过滤器框架。 你可以做很多如下的操作：记录多个视频录像片段。删除任何你不想要的记录段。可以使用任何视频播放器播放片段。保存的记录可以在序列化的 NSDictionary 中使用。（在 NSUserDefaults 的中操作）添加使用 Core Image 的视频滤波器。可自由选择你需要的 parameters 合并和导出视频.
+* [LLSimpleCamera](https://github.com/omergul123/LLSimpleCamera) - 视频录制 A simple, customizable camera control - video recorder for iOS.
+* [SlowMotionVideoRecorder](https://github.com/shu223/SlowMotionVideoRecorder) - 120 fps SLO-MO video recorder using AVFoundation. Including convenient wrapper class. Available on the iPhone5s.
+* [PBJVision](https://github.com/piemonte/PBJVision) - iOS媒体捕获，点击录制视频，显示运动和照片.
+* [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) - ALCameraViewController 摄像头视图控制器（含可定制照片选择器，图片简单裁切功能）及演示.
+* [VideoBeautify](https://github.com/xujingzhou/VideoBeautify) - 功能酷似美拍,秒拍等应用的源码：对视频进行各种美化处理，采用主题形式进行分类，内含各种滤镜，动画特效和音效等.
+* [IPDFCameraViewController](https://github.com/mmackh/IPDFCameraViewController) - 支持相机定焦拍摄、滤镜、闪光、实时边框检测以及透视矫正功能，并有简单易用的API.
 
 #### 视频剪切@
 
-* [ICGVideoTrimmer](https://github.com/itsmeichigo/ICGVideoTrimmer) - ICGVideoTrimmer提供提供视频剪切的视图（类似系统相册中浏览视频时顶部那个条状视图）。左右两个边界选择器还能够自定义。
-* [VideoEditing](https://github.com/ShelinShelin/VideoEditing) Video processing of the video capture and add background music
+* [ICGVideoTrimmer](https://github.com/itsmeichigo/ICGVideoTrimmer) - ICGVideoTrimmer提供提供视频剪切的视图（类似系统相册中浏览视频时顶部那个条状视图）,左右两个边界选择器还能够自定义.
+* [VideoEditing](https://github.com/ShelinShelin/VideoEditing) - Video processing of the video capture and add background music.
 
 #### 弹幕@
 
-* [BarrageRenderer](https://github.com/unash/BarrageRenderer) 一个 iOS 上的弹幕渲染库.
-* [LiveSendGift](https://github.com/Jonhory/LiveSendGift) 直播发送弹幕效果
+* [BarrageRenderer](https://github.com/unash/BarrageRenderer) - 一个 iOS 上的弹幕渲染库.
+* [LiveSendGift](https://github.com/Jonhory/LiveSendGift) - 直播发送弹幕效果.
 
 #### 直播@
 
-* [LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit) 开源遵循RTMP协议的直播SDK
-* [MiaowShow](https://github.com/SunLiner/MiaowShow) iOS视频直播项目 http://www.jianshu.com/users/9723687edfb5
-* [LMLiveStreaming](https://github.com/chenliming777/LMLiveStreaming) IOS Live,H264 and AAC Hard coding，support GPUImage Beauty， rtmp and flv transmission，weak network lost frame，Dynamic switching rate [参考文档](http://www.jianshu.com/p/b8db6c142aad)
-* [PLPlayerKit](https://github.com/pili-engineering/PLPlayerKit) PLPlayerKit 是 Pili 直播 SDK 的 iOS 播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。
-* [PLMediaStreamingKit](https://github.com/pili-engineering/PLMediaStreamingKit) PLMediaStreamingKit 是 Pili 直播 SDK 的 iOS 推流端，支持 RTMP 推流，h.264 和 AAC 编码，硬编、软编支持。具有丰富的数据和状态回调，方便用户根据自己的业务定制化开发。具有直播场景下的重要功能，如：美颜、背景音乐、水印等功能。
-* [520Linkee](https://github.com/GrayJIAXU/520Linkee)本项目实现了作为一个直播App的基本功能，比如本地视频流采集、播放、美颜、礼物、点赞出心等。
-* [LMLiveStreaming](https://github.com/chenliming777/LMLiveStreaming) iOS直播，支持H246/AAC，支持GPUImage美化，支持rtmp和flv，较慢的网络优化
+* [LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit) - 开源遵循RTMP协议的直播SDK.
+* [MiaowShow](https://github.com/SunLiner/MiaowShow) - iOS视频直播项目 http://www.jianshu.com/users/9723687edfb5.
+* [LMLiveStreaming](https://github.com/chenliming777/LMLiveStreaming) - iOS Live,H264 and AAC Hard coding，support GPUImage Beauty， rtmp and flv transmission，weak network lost frame，Dynamic switching rate [参考文档](http://www.jianshu.com/p/b8db6c142aad).
+* [PLPlayerKit](https://github.com/pili-engineering/PLPlayerKit) - PLPlayerKit 是 Pili 直播 SDK 的 iOS 播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发.
+* [PLMediaStreamingKit](https://github.com/pili-engineering/PLMediaStreamingKit) - PLMediaStreamingKit 是 Pili 直播 SDK 的 iOS 推流端，支持 RTMP 推流，h.264 和 AAC 编码，硬编、软编支持。具有丰富的数据和状态回调，方便用户根据自己的业务定制化开发。具有直播场景下的重要功能，如：美颜、背景音乐、水印等功能.
+* [520Linkee](https://github.com/GrayJIAXU/520Linkee) - 本项目实现了作为一个直播App的基本功能，比如本地视频流采集、播放、美颜、礼物、点赞出心等.
+* [LMLiveStreaming](https://github.com/chenliming777/LMLiveStreaming) - iOS直播，支持H246/AAC，支持GPUImage美化，支持rtmp和flv，较慢的网络优化.
 * [直播技术的总结](https://github.com/tiantianlan/LiveExplanation)
-* [Tencent-NOW](https://github.com/ChinaArJun/Tencent-NOW) IOS视频直播:高仿 腾讯旗下 < NOW > 直播 类似 映客 斗鱼 直播类型 喜欢的记点star谢谢 IOS Live video
+* [Tencent-NOW](https://github.com/ChinaArJun/Tencent-NOW) - iOS视频直播:高仿 腾讯旗下 < NOW > 直播 类似 映客 斗鱼 直播类型 喜欢的记点star谢谢 IOS Live video.
 
 #### 图像@
 
-* [SVGKit](https://github.com/SVGKit/SVGKit) SVGKit是一个非常强大的，可以快速渲染SVG文件的框架。你可以直接把SVG文件加载至app中，并且SVG中的每个图形会变成一个CAShapeLayer，可以方便地进行缩放和动画你的图形。如果你想渲染app中的矢量图形，SVGKit是个不错的解决办法。
+* [SVGKit](https://github.com/SVGKit/SVGKit) - SVGKit是一个非常强大的，可以快速渲染SVG文件的框架。你可以直接把SVG文件加载至app中，并且SVG中的每个图形会变成一个CAShapeLayer，可以方便地进行缩放和动画你的图形。如果你想渲染app中的矢量图形，SVGKit是个不错的解决办法.
 
 #### 拍照@
 
-* [Cool-iOS-Camera](https://github.com/GabrielAlva/Cool-iOS-Camera) - Cool-iOS-Camera。
-* [FastttCamera](https://github.com/IFTTT/FastttCamera) - FastttCamera 快速照相
-* [DBCamera](https://github.com/danielebogo/DBCamera) DBCamera is a simple custom camera with AVFoundation
-* [ZPCamera](https://github.com/hawk0620/ZPCamera) An OpenSource Camera App
-* [HeartBeatsPlugin](https://github.com/YvanLiu/HeartBeatsPlugin) 手机摄像头测心率 带心率折线图 和 返回瞬时心率
+* [Cool-iOS-Camera](https://github.com/GabrielAlva/Cool-iOS-Camera) - Cool-iOS-Camera.
+* [FastttCamera](https://github.com/IFTTT/FastttCamera) - FastttCamera 快速照相.
+* [DBCamera](https://github.com/danielebogo/DBCamera) - DBCamera is a simple custom camera with AVFoundation.
+* [ZPCamera](https://github.com/hawk0620/ZPCamera) - An OpenSource Camera App.
+* [HeartBeatsPlugin](https://github.com/YvanLiu/HeartBeatsPlugin) - 手机摄像头测心率 带心率折线图和返回瞬时心率.
 
 #### 图像处理@
 
-* [GPUImage](https://github.com/BradLarson/GPUImage) - 处理图片效果。
-* [LearnOpenGLES](https://github.com/loyinglin/LearnOpenGLES)OpenGL ES的各种尝试
+* [GPUImage](https://github.com/BradLarson/GPUImage) - 处理图片效果.
+* [LearnOpenGLES](https://github.com/loyinglin/LearnOpenGLES) - OpenGL ES的各种尝试.
 * [GPUImage详解](http://www.jianshu.com/nb/4268718)
-* [OpenGLES详解](http://www.jianshu.com/p/64d9c58d8344) 一个相对完整的OpenGLES的学习博客，包含源码
+* [OpenGLES详解](http://www.jianshu.com/p/64d9c58d8344) - 一个相对完整的OpenGLES的学习博客，包含源码.
 * [OpenGLES系列教程](http://www.jianshu.com/nb/2135411)
 * [CTPanoramaView](https://github.com/scihant/CTPanoramaView) - 显示球面、圆柱形的摄像.
-* [HCPhotoEdit](https://github.com/gmfxch/HCPhotoEdit) 仿 Camera360 SDK，利用GPUImage框架实现基本的图片处理功能
-* [YYImage](https://github.com/ibireme/YYImage) - 功能强大的 iOS 图像框架，支持大部分动画图像、静态图像的播放/编码/解码。
-* [TOCropViewController](https://github.com/TimOliver/TOCropViewController) - 图片裁剪
-* [BKAsciiImage](https://github.com/bkoc/BKAsciiImage) - Convert UIImage to ASCII art
-* [TinyCrayon](https://github.com/TinyCrayon/TinyCrayon-iOS-SDK) - 一个智能、易用的图片裁剪、Image markingSDK
-* [GPUImage Demo](https://github.com/loyinglin/GPUImage) 源码级别对GPUImage进行剖析 以及 尝试
-* [YBPasterImage](https://github.com/wangyingbo/YBPasterImage) 给图片添加滤镜、贴纸和标签功能，支持14种滤镜效果，17种标签样式。
-* [hotoimagefilter](https://www.kancloud.cn/trent/hotoimagefilter/102786) 专业介绍图像处理中各种滤镜的算法实现，C#版本.
+* [HCPhotoEdit](https://github.com/gmfxch/HCPhotoEdit) - 仿Camera360 SDK，利用GPUImage框架实现基本的图片处理功能.
+* [YYImage](https://github.com/ibireme/YYImage) - 功能强大的 iOS 图像框架，支持大部分动画图像、静态图像的播放/编码/解码.
+* [TOCropViewController](https://github.com/TimOliver/TOCropViewController) - 图片裁剪.
+* [BKAsciiImage](https://github.com/bkoc/BKAsciiImage) - Convert UIImage to ASCII art.
+* [TinyCrayon](https://github.com/TinyCrayon/TinyCrayon-iOS-SDK) - 一个智能、易用的图片裁剪、Image markingSDK.
+* [GPUImage Demo](https://github.com/loyinglin/GPUImage) - 源码级别对GPUImage进行剖析以及尝试.
+* [YBPasterImage](https://github.com/wangyingbo/YBPasterImage) - 给图片添加滤镜、贴纸和标签功能，支持14种滤镜效果，17种标签样式.
+* [hotoimagefilter](https://www.kancloud.cn/trent/hotoimagefilter/102786) - 专业介绍图像处理中各种滤镜的算法实现，C#版本.
 
 #### 图像浏览@
 
-* [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) - 一个非常不错的照片浏览器，在github的star超过6000个，[解决MWPhotoBrowser中的SDWebImage加载大图导致的内存警告问题](http://www.superqq.com/blog/2015/01/22/jie-jue-mwphotobrowserzhong-de-sdwebimagejia-zai-da-tu-dao-zhi-de-nei-cun-jing-gao-wen-ti/)。
+* [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) - 一个非常不错的照片浏览器 [解决MWPhotoBrowser中的SDWebImage加载大图导致的内存警告问题](http://www.superqq.com/blog/2015/01/22/jie-jue-mwphotobrowserzhong-de-sdwebimagejia-zai-da-tu-dao-zhi-de-nei-cun-jing-gao-wen-ti/).
 * [TZImagePickerController](https://github.com/banchichen/TZImagePickerController) - 很赞 一个支持多选、选原图和视频的图片选择器，同时有预览功能，适配了iOS6789系统。[教程](http://www.cocoachina.com/ios/20160112/14942.html).
-* [RMPZoomTransitionAnimator](https://github.com/recruit-mp/RMPZoomTransitionAnimator)一个放大缩小的动效开源库，可以实现图片的放大缩小效果。
-* [ZLPhotoBrowser](https://github.com/longitachi/ZLPhotoBrowser) 方便易用的相册多选框架，支持预览/相册内拍照、预览快速多选相片，3DTouch预览照片，单选gif、Live Photo及video；相册混合选择；原图功能；支持多语言国际化（中文简/繁，英语，日语）；在线下载iCloud端图片；自定义最大选择量及最大预览量；自定义照片升序降序排列；自定义照片显示圆角弧度
-* [CLImageEditor](https://github.com/yackle/CLImageEditor) - 超强的图片编辑库，快速帮你实现旋转，防缩，滤镜等等一系列麻烦的事情。
-* [XBImageFilters](https://github.com/xissburg/XBImageFilters) - 图像滤镜。
+* [RMPZoomTransitionAnimator](https://github.com/recruit-mp/RMPZoomTransitionAnimator) - 一个放大缩小的动效开源库，可以实现图片的放大缩小效果.
+* [ZLPhotoBrowser](https://github.com/longitachi/ZLPhotoBrowser) - 方便易用的相册多选框架，支持预览/相册内拍照、预览快速多选相片，3DTouch预览照片，单选gif、Live Photo及video；相册混合选择；原图功能；支持多语言国际化（中文简/繁，英语，日语）；在线下载iCloud端图片；自定义最大选择量及最大预览量；自定义照片升序降序排列；自定义照片显示圆角弧度.
+* [CLImageEditor](https://github.com/yackle/CLImageEditor) - 超强的图片编辑库，快速帮你实现旋转，防缩，滤镜等等一系列麻烦的事情.
+* [XBImageFilters](https://github.com/xissburg/XBImageFilters) - 图像滤镜.
 * [CoreImageShop](https://github.com/rFlex/CoreImageShop) - CoreImageShop图片滤镜处理-- Mac app that let you create a complete Core Image Filter usable on iOS using SCRecorder。
-* [EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages) 类似facebook的相册浏览库.
-* [RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper) - 适用于iOS的图片裁剪器，类似Contacts app，可上下左右移动图片选取最合适的区域。
-* [WZRecyclePhotoStackView](http://code.cocoachina.com/detail/232156) - 删除照片交互--WZRecyclePhotoStackView，就是模拟生活中是删除或保留犹豫不决的情形而产生的。 在上滑，下滑的部分，借鉴了[TinderSimpleSwipeCards](https://github.com/cwRichardKim/TinderSimpleSwipeCards)。
-* [PhotoTweaks](https://github.com/itouch2/PhotoTweaks) - 这个库挺赞的，正好是对图像操作的。
-* [KYElegantPhotoGallery](https://github.com/KittenYang/KYElegantPhotoGallery) - 一个优雅的图片浏览库。
-* [SDPhotoBrowser](https://github.com/gsdios/SDPhotoBrowser) - 仿新浪动感图片浏览器,非常简单易用的图片浏览器，模仿微博图片浏览器动感效果，综合了图片展示和存储等多项功能。
-* [HZPhotoBrowser](https://github.com/chennyhuang/HZPhotoBrowser) - 一个类似于新浪微博图片浏览器的框架（支持显示和隐藏动画；支持双击缩放，手势放大缩小；支持图片存储；支持网络加载gif图片，长图滚动浏览；支持横竖屏显示）。
-* [ZZPhotoKit](https://github.com/ACEYL/ZZPhotoKit) 基于Photos和AVFoundation框架开源，相册多选与相机连拍。
-* [MarkingMenu](https://github.com/FlexMonkey/MarkingMenu) - 基于手势、类似 Autodesk Maya 风格标记菜单及图片渲染。
-* [SXPhotoShow](https://github.com/dsxNiubility/SXPhotoShow) - UICollectionViewFlowLayout流水布局 是当下collectionView中常用且普通的布局方式。本代码也写了三种好看的布局，其中LineLayout和流水布局有很大的相同点就直接继承UICollectionViewFlowLayout，然后StackLayout，CircleLayout这两种都是直接继承自最原始的UICollectionViewLayout 布局方案。
-* [PictureWatermark](https://github.com/cgwangding/PictureWatermark) - 主要实现了给图片加文字以及图片水印的功能，已封装成了UIImage的类别，方便使用。
-* [PhotoBrowser](https://github.com/CharlinFeng/PhotoBrowser) 照片浏览器
-* [StitchingImage](https://github.com/zhengjinghua/StitchingImage) - 仿微信群组封面拼接控件, 直接拖进项目就可使用，[教程](http://gold.xitu.io/entry/56395f5360b20b143a9178f6)。
-* [SDECollectionViewAlbumTransition](https://github.com/seedante/SDECollectionViewAlbumTransition) - 用自定义的 push 和 pop 实现了有趣的 iOS 相册翻开动画效果。
-* [DNImagePicker](https://github.com/AwesomeDennis/DNImagePicker) - 类似wechat的图片选择。
-* [CocoaPicker](https://github.com/lioonline/CocoaPicker) - 仿QQ图片选择器（OC）。
-* [JFImagePickerController](https://github.com/johnil/JFImagePickerController) - vvebo作者：多选照片、预览已选照片、针对超大图片优化。
-* [VIPhotoView](https://github.com/vitoziv/VIPhotoView) - 图片浏览，用于展示图片的工具类，因为是个 View，所以你可以放在任何地方显示。支持旋转，双击指定位置放大等。
-* [YUCIHighPassSkinSmoothing](https://github.com/YuAo/YUCIHighPassSkinSmoothing) - 磨皮滤镜！
-* [YUGPUImageHighPassSkinSmoothing](https://github.com/YuAo/YUGPUImageHighPassSkinSmoothing) - 一个基于 GPUImage 的磨皮滤镜！
-* [XHImageViewer] (https://github.com/JackTeam/XHImageViewer) XHImageViewer is images viewer, zoom image.
-* [card.io-iOS-SDK] (https://github.com/AllLuckly/card.io-iOS-SDK) OCR光学识别储蓄卡以及信用卡,[oc与swift使用教程](http://www.jianshu.com/p/82f73c23a76a).
-* [自定义宽高比的相册框 拍照](http://code.cocoachina.com/detail/320603/) - 取出照片时 弹出自定义view。在这个自定义view上创建一个需要的相框大小的view层 把取出的图片赋值给UIImageView按缩放添加到这个层上。对uiimageView添加捏合、移动 手势。添加按钮 选取，最后根据位移和缩放比例 裁剪image。
-* [LGPhotoBrowser](https://github.com/gang544043963/LGPhotoBrowser) - LGPhotoBrowser:相册选择/浏览器/照相机（仿微信）,包含三个模块：照片浏览器，相册选择器，照相机。
-* [BeautyHour](https://github.com/xujingzhou/BeautyHour) - 完整应用，功能与“美图秀秀”雷同。
-* [WSImagePicker](https://github.com/wsjtwzs/WSImagePicker) 高性能多选图片库，类似于微信发布朋友圈中 ‘获取相册及拍照’模块
-* [JTSImageViewController](https://github.com/jaredsinclair/JTSImageViewController) - 图片浏览
-* [SGPhotoBrowser](https://github.com/Soulghost/SGPhotoBrowser) 图片浏览.
+* [EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages) - 类似facebook的相册浏览库.
+* [RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper) - 适用于iOS的图片裁剪器，类似Contacts app，可上下左右移动图片选取最合适的区域.
+* [WZRecyclePhotoStackView](http://code.cocoachina.com/detail/232156) - 删除照片交互--WZRecyclePhotoStackView，就是模拟生活中是删除或保留犹豫不决的情形而产生的。 在上滑，下滑的部分，借鉴了[TinderSimpleSwipeCards](https://github.com/cwRichardKim/TinderSimpleSwipeCards).
+* [PhotoTweaks](https://github.com/itouch2/PhotoTweaks) - 这个库挺赞的，正好是对图像操作的.
+* [KYElegantPhotoGallery](https://github.com/KittenYang/KYElegantPhotoGallery) - 一个优雅的图片浏览库.
+* [SDPhotoBrowser](https://github.com/gsdios/SDPhotoBrowser) - 仿新浪动感图片浏览器,非常简单易用的图片浏览器，模仿微博图片浏览器动感效果，综合了图片展示和存储等多项功能.
+* [HZPhotoBrowser](https://github.com/chennyhuang/HZPhotoBrowser) - 一个类似于新浪微博图片浏览器的框架（支持显示和隐藏动画；支持双击缩放，手势放大缩小；支持图片存储；支持网络加载gif图片，长图滚动浏览；支持横竖屏显示）.
+* [ZZPhotoKit](https://github.com/ACEYL/ZZPhotoKit) - 基于Photos和AVFoundation框架开源，相册多选与相机连拍.
+* [MarkingMenu](https://github.com/FlexMonkey/MarkingMenu) - 基于手势、类似 Autodesk Maya 风格标记菜单及图片渲染.
+* [SXPhotoShow](https://github.com/dsxNiubility/SXPhotoShow) - UICollectionViewFlowLayout流水布局 是当下collectionView中常用且普通的布局方式。本代码也写了三种好看的布局，其中LineLayout和流水布局有很大的相同点就直接继承UICollectionViewFlowLayout，然后StackLayout，CircleLayout这两种都是直接继承自最原始的UICollectionViewLayout 布局方案.
+* [PictureWatermark](https://github.com/cgwangding/PictureWatermark) - 主要实现了给图片加文字以及图片水印的功能，已封装成了UIImage的类别，方便使用.
+* [PhotoBrowser](https://github.com/CharlinFeng/PhotoBrowser) - 照片浏览器.
+* [StitchingImage](https://github.com/zhengjinghua/StitchingImage) - 仿微信群组封面拼接控件, 直接拖进项目就可使用，[教程](http://gold.xitu.io/entry/56395f5360b20b143a9178f6).
+* [SDECollectionViewAlbumTransition](https://github.com/seedante/SDECollectionViewAlbumTransition) - 用自定义的 push 和 pop 实现了有趣的 iOS 相册翻开动画效果.
+* [DNImagePicker](https://github.com/AwesomeDennis/DNImagePicker) - 类似wechat的图片选择.
+* [CocoaPicker](https://github.com/lioonline/CocoaPicker) - 仿QQ图片选择器（OC）.
+* [JFImagePickerController](https://github.com/johnil/JFImagePickerController) - vvebo作者：多选照片、预览已选照片、针对超大图片优化.
+* [VIPhotoView](https://github.com/vitoziv/VIPhotoView) - 图片浏览，用于展示图片的工具类，因为是个 View，所以你可以放在任何地方显示。支持旋转，双击指定位置放大等.
+* [YUCIHighPassSkinSmoothing](https://github.com/YuAo/YUCIHighPassSkinSmoothing) - 磨皮滤镜.
+* [YUGPUImageHighPassSkinSmoothing](https://github.com/YuAo/YUGPUImageHighPassSkinSmoothing) - 一个基于 GPUImage 的磨皮滤镜.
+* [XHImageViewer] (https://github.com/JackTeam/XHImageViewer) - XHImageViewer is images viewer, zoom image.
+* [card.io-iOS-SDK] (https://github.com/AllLuckly/card.io-iOS-SDK) - OCR光学识别储蓄卡以及信用卡,[oc与swift使用教程](http://www.jianshu.com/p/82f73c23a76a).
+* [自定义宽高比的相册框 拍照](http://code.cocoachina.com/detail/320603/) - 取出照片时 弹出自定义view。在这个自定义view上创建一个需要的相框大小的view层 把取出的图片赋值给UIImageView按缩放添加到这个层上。对uiimageView添加捏合、移动 手势。添加按钮 选取，最后根据位移和缩放比例 裁剪image.
+* [LGPhotoBrowser](https://github.com/gang544043963/LGPhotoBrowser) - LGPhotoBrowser:相册选择/浏览器/照相机（仿微信）,包含三个模块：照片浏览器，相册选择器，照相机.
+* [BeautyHour](https://github.com/xujingzhou/BeautyHour) - 完整应用，功能与“美图秀秀”雷同.
+* [WSImagePicker](https://github.com/wsjtwzs/WSImagePicker) - 高性能多选图片库，类似于微信发布朋友圈中 ‘获取相册及拍照’模块.
+* [JTSImageViewController](https://github.com/jaredsinclair/JTSImageViewController) - 图片浏览.
+* [SGPhotoBrowser](https://github.com/Soulghost/SGPhotoBrowser) - 图片浏览.
 
 #### 图像缓存@
 
-* [Kingfisher](https://github.com/onevcat/Kingfisher) 👍👍👍一个轻量级的纯粹的用于从web下载和缓存图片的Swift库.
+* [Kingfisher](https://github.com/onevcat/Kingfisher) - 👍👍👍一个轻量级的纯粹的用于从web下载和缓存图片的Swift库.
 * [SDWebImage](https://github.com/rs/SDWebImage) - 非常优秀的图像缓存库.
-* [UIActivityIndicator-for-SDWebImage](https://github.com/JJSaccolo/UIActivityIndicator-for-SDWebImage) 为SDWebImage显示加载效果
-* [FastImageCache](https://github.com/path/FastImageCache) - 👍 非常棒的一个 一个高效显示图片的库，支持图片缓存、平滑滚动和图片检索。
-* [DFImageManager](https://github.com/kean/DFImageManager) -图片加载、处理、缓存、预加载
+* [UIActivityIndicator-for-SDWebImage](https://github.com/JJSaccolo/UIActivityIndicator-for-SDWebImage) - 为SDWebImage显示加载效果.
+* [FastImageCache](https://github.com/path/FastImageCache) - 👍 非常棒的一个 一个高效显示图片的库，支持图片缓存、平滑滚动和图片检索.
+* [DFImageManager](https://github.com/kean/DFImageManager) - 图片加载、处理、缓存、预加载.
 * [Twitter Image Pipline](https://github.com/twitter/ios-twitter-image-pipeline) - Twitter出品的一个高性能的图片下载、缓存库.
 * [AlamofireImage](https://github.com/Alamofire/AlamofireImage) - Alamofire的一个图片组件，支持图片序列化，UIImage扩展（压缩、缩放、圆角、核心图像），单个、多个的图片过滤、自动清除内存，队列图片下载、URL鉴定、图片占位和异步远程图片下载、UIImageView过滤和转换等. An image component library for Alamofire.
 * [AsyncImageView](https://github.com/nicklockwood/AsyncImageView) - 一个易用的UIImageView扩展，用于异步加载、显示图片，对UI显示无影响。
 * [PINRemoteImage](https://github.com/pinterest/PINRemoteImage) - 一个线程安全、高效的远程图片管理库，支持图片下载、缓存、处理，也支持GIF.
-* [FastImageCache](https://github.com/path/FastImageCache) -非常赞 FastImageCache 网络图片获取及缓存处理，[iOS图片加载速度极限优化—FastImageCache解析](http://blog.cnbang.net/tech/2578/)。
+* [FastImageCache](https://github.com/path/FastImageCache) - 非常赞 FastImageCache 网络图片获取及缓存处理，[iOS图片加载速度极限优化—FastImageCache解析](http://blog.cnbang.net/tech/2578/).
 * [YYWebImage](https://github.com/ibireme/YYWebImage) - 异步图片加载库 (supports WebP, APNG, GIF).
 * [EGOCache](https://github.com/enormego/EGOCache) - 十分知名的第三方缓存类库，可以缓存NSString、UIImage、NSImage以及NSData。除此，如果还可以缓存任何一个实现了<NSCoding>接口的对象。所有缓存的数据都可以自定义过期的时间，默认是1天。EGOCache 支持多线程（thread-safe），[UITableView加载多张照片导致内存上涨的问题](http://www.superqq.com/blog/2014/11/06/ioskai-fa-:uitableviewjia-zai-duo-zhang-zhao-pian-dao-zhi-nei-cun-shang-zhang-de-wen-ti/)。
-* [YYWebImage](https://github.com/ibireme/YYWebImage/) - 一个图片加载库 YYWebImage，支持 APNG、WebP、GIF 播放，支持渐进式图片加载，更高性能的缓存，更多图像处理方法，可以替代 SDWebImage 等开源库，[相关文章](http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/)。
-* [JDSwiftAvatarProgress](https://github.com/JellyDevelopment/JDSwiftAvatarProgress) - 容易定制的异步图片加载进度条
+* [YYWebImage](https://github.com/ibireme/YYWebImage/) - 一个图片加载库 YYWebImage，支持 APNG、WebP、GIF 播放，支持渐进式图片加载，更高性能的缓存，更多图像处理方法，可以替代 SDWebImage 等开源库，[相关文章](http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/).
+* [JDSwiftAvatarProgress](https://github.com/JellyDevelopment/JDSwiftAvatarProgress) - 容易定制的异步图片加载进度条.
 * [ImageButter](https://github.com/dollarshaveclub/ImageButter) - 平滑的处理网络图片，支持缓存，异步编码，加载进度View，GIFs动画等.
 
 #### 图像识别@
 
-* [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - C++ 人脸识别 包含正面和多视角人脸检测两个算法.优点:速度快(OpenCV haar+adaboost的2-3倍), 准确度高 (FDDB非公开类评测排名第二），能估计人脸角度。
-* [YLFaceuDemo](https://github.com/Guikunzhi/YLFaceuDemo) - 在直播应用中添加Faceu贴纸效果。Faceu贴纸效果其实就是在人脸上贴一些图片，同时这些图片是跟随着人脸的位置改变的。[说明](http://www.jianshu.com/p/ba1f79f8f6fa)
-* [IDCardRecognition](https://github.com/zhongfenglee/IDCardRecognition)中国大陆第二代身份证识别，自动读出身份证上的信息（姓名、性别、民族、住址、身份证号码）并截取身份证照片 Edit
-* [AiyaEffectsIOS](https://github.com/aiyaapp/AiyaEffectsIOS) 宝宝特效 SDK IOS Demo，支持美颜，3D特效，3D动画特效，2D特效等，免费使用 visual effects IOS demo, support 3D effect, 3D Animation, 2D effect for FREE http://www.bbtexiao.com/
+* [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - C++ 人脸识别 包含正面和多视角人脸检测两个算法.优点:速度快(OpenCV haar+adaboost的2-3倍), 准确度高 (FDDB非公开类评测排名第二），能估计人脸角度.
+* [YLFaceuDemo](https://github.com/Guikunzhi/YLFaceuDemo) - 在直播应用中添加Faceu贴纸效果。Faceu贴纸效果其实就是在人脸上贴一些图片，同时这些图片是跟随着人脸的位置改变的。[说明](http://www.jianshu.com/p/ba1f79f8f6fa).
+* [IDCardRecognition](https://github.com/zhongfenglee/IDCardRecognition) - 中国大陆第二代身份证识别，自动读出身份证上的信息（姓名、性别、民族、住址、身份证号码）并截取身份证照片 Edit
+* [AiyaEffectsIOS](https://github.com/aiyaapp/AiyaEffectsIOS) - 宝宝特效 SDK IOS Demo，支持美颜，3D特效，3D动画特效，2D特效等，免费使用 visual effects IOS demo, support 3D effect, 3D Animation, 2D effect for FREE http://www.bbtexiao.com/.
 
 #### 图像圆角@
 
-* [ZYCornerRadius](https://github.com/liuzhiyi1992/ZYCornerRadius) 赞 一句代码，圆角风雨无阻。A Category to make cornerRadius for UIImageView have no Offscreen-Rendered, be more efficiency. http://zyden.vicp.cc/zycornerradius/
+* [ZYCornerRadius](https://github.com/liuzhiyi1992/ZYCornerRadius) - 赞 一句代码，圆角风雨无阻。A Category to make cornerRadius for UIImageView have no Offscreen-Rendered, be more efficiency. http://zyden.vicp.cc/zycornerradius/
 
 #### 数据结构/算法@
 
@@ -2169,7 +2168,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [public-apis](https://github.com/toddmotto/public-apis) - 经常更新的web开发公共JSON API 列表。 A collective list of public JSON APIs for use in web development.
 * [wiki](https://github.com/d3/d3/wiki) - D3 (Data-Driven Documents or D3.js) is a JavaScript library for visualizing data using web standards.
 * [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
-* [public-apis](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development. 
+* [public-apis](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development.
 
 #### 后台@
 
