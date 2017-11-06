@@ -2011,7 +2011,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 #### 学习资料@
 
-* [free-programming-books](https://github.com/EbookFoundation/free-programming-books)非常棒👍👍👍 经常更新的免费资源列表，包括书籍，播客，网站，开发工具等等。对于正在学习代码的人来说挺实用；  Whether you're learning to code or are already an experienced programmer, this GitHub repository is an incredible resource of free programming books. ... You'll find books on professional development, specific platforms like Android and Oracle Server, and about 80 programming languages.
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - 非常棒👍👍👍 经常更新的免费资源列表，包括书籍，播客，网站，开发工具等等。对于正在学习代码的人来说挺实用；  Whether you're learning to code or are already an experienced programmer, this GitHub repository is an incredible resource of free programming books. ... You'll find books on professional development, specific platforms like Android and Oracle Server, and about 80 programming languages.
 * [coding-interview-university](https://github.com/jwasham/coding-interview-university) 非常棒👍👍👍 A complete computer science study plan to become a software engineer.
 * [Analyze](https://github.com/Draveness/Analyze) 深入解析 iOS 开源项目
 * [articles](https://github.com/objccn/articles) Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本
@@ -2157,7 +2157,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 * [Homebrew](https://github.com/Homebrew/brew) Homebrew是一款Mac OS平台下的软件包管理工具，拥有安装、卸载、更新、查看、搜索等很多实用的功能。简单的一条指令，就可以实现包管理，而不用你关心各种依赖和文件路径的情况，十分方便快捷。
 
-#### 前端
+#### 前端@
 
 * [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - 非常棒👍👍👍  We’re a community that helps you learn to code, then get experience by contributing to open source projects used by
@@ -2167,3 +2167,10 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 * [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - 专注于使用 vanilla JavaScript 解决典型的编程问题，这个仓库的兴起与 React 的兴起密切相关； Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 * [public-apis](https://github.com/toddmotto/public-apis) - 经常更新的web开发公共JSON API 列表。 A collective list of public JSON APIs for use in web development.
+* [wiki](https://github.com/d3/d3/wiki) - D3 (Data-Driven Documents or D3.js) is a JavaScript library for visualizing data using web standards.
+* [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
+* [public-apis](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development. 
+
+#### 后台@
+
+* [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
