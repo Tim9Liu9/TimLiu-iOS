@@ -672,6 +672,7 @@ A curated list of iOS objective-C ecosystem.
 * [ReplaceAnimation.swift](https://github.com/fruitcoder/ReplaceAnimation) - 基于 @ZeeYoung欧阳哲 同学的创意下拉刷新动画实现。值得称赞还有额外增加了“取消及滚动”效果支持。
 * [PullToReflesh-Swift](https://github.com/cbangchen/PullToReflesh-Swift) - 一款炫酷的下拉刷新封装库（Mobile page refresh concept inspired by Google and for something like a news app）。[源码分析 ](http://cbang.info/2016/03/04/CBReflesh%EF%BC%9A%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)
 * [pull-to-refresh.swift](https://github.com/eggswift/pull-to-refresh) - 是一款非常易于开发者使用的下拉刷新和加载更多组件。通过一个 UIScrollView 的扩展，可以轻松为 UIScrollView 的所有子类添加下拉刷新功能。
+* [GSRefresh](https://github.com/wxxsw/GSRefresh) 完全自定义视图和动画的下拉刷新、上拉加载库，易扩展。
 
 #### 模糊效果@
 
