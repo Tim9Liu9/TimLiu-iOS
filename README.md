@@ -66,6 +66,7 @@ A curated list of iOS objective-C ecosystem.
   - [图像处理@](#图像处理)
   - [图像浏览@](#图像浏览)
   - [图像缓存@](#图像缓存)
+  - [滤镜@](#滤镜)
   - [图像识别@](#图像识别)
   - [图像圆角@](#图像圆角)
 - [数据结构/算法@](#数据结构/算法)
@@ -739,8 +740,6 @@ A curated list of iOS objective-C ecosystem.
 * [RMPZoomTransitionAnimator](https://github.com/recruit-mp/RMPZoomTransitionAnimator) - 一个放大缩小的动效开源库，可以实现图片的放大缩小效果.
 * [ZLPhotoBrowser](https://github.com/longitachi/ZLPhotoBrowser) - 方便易用的相册多选框架，支持预览/相册内拍照、预览快速多选相片，3DTouch预览照片，单选gif、Live Photo及video；相册混合选择；原图功能；支持多语言国际化（中文简/繁，英语，日语）；在线下载iCloud端图片；自定义最大选择量及最大预览量；自定义照片升序降序排列；自定义照片显示圆角弧度.
 * [CLImageEditor](https://github.com/yackle/CLImageEditor) - 超强的图片编辑库，快速帮你实现旋转，防缩，滤镜等等一系列麻烦的事情.
-* [XBImageFilters](https://github.com/xissburg/XBImageFilters) - 图像滤镜.
-* [CoreImageShop](https://github.com/rFlex/CoreImageShop) - CoreImageShop图片滤镜处理-- Mac app that let you create a complete Core Image Filter usable on iOS using SCRecorder。
 * [EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages) - 类似facebook的相册浏览库.
 * [RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper) - 适用于iOS的图片裁剪器，类似Contacts app，可上下左右移动图片选取最合适的区域.
 * [WZRecyclePhotoStackView](http://code.cocoachina.com/detail/232156) - 删除照片交互--WZRecyclePhotoStackView，就是模拟生活中是删除或保留犹豫不决的情形而产生的。 在上滑，下滑的部分，借鉴了[TinderSimpleSwipeCards](https://github.com/cwRichardKim/TinderSimpleSwipeCards).
@@ -787,6 +786,11 @@ A curated list of iOS objective-C ecosystem.
 * [YYWebImage](https://github.com/ibireme/YYWebImage/) - 一个图片加载库 YYWebImage，支持 APNG、WebP、GIF 播放，支持渐进式图片加载，更高性能的缓存，更多图像处理方法，可以替代 SDWebImage 等开源库，[相关文章](http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/).
 * [JDSwiftAvatarProgress](https://github.com/JellyDevelopment/JDSwiftAvatarProgress) - 容易定制的异步图片加载进度条.
 * [ImageButter](https://github.com/dollarshaveclub/ImageButter) - 平滑的处理网络图片，支持缓存，异步编码，加载进度View，GIFs动画等.
+
+#### 滤镜@
+
+* [XBImageFilters](https://github.com/xissburg/XBImageFilters) - 图像滤镜.
+* [CoreImageShop](https://github.com/rFlex/CoreImageShop) - CoreImageShop图片滤镜处理-- Mac app that let you create a complete Core Image Filter usable on iOS using SCRecorder。
 
 #### 图像识别@
 
@@ -981,6 +985,11 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 * [DraggingSort](https://github.com/HelloYeah/DraggingSort) 长按拖拽排序
 * [WCLWaterFallLayout](https://github.com/631106979/WCLWaterFallLayout) 用swift写的简易的瀑布流布局，简单易用，支持多行展示，实现过程：http://blog.csdn.net/wang631106979/article/details/53793046
 * [AppStore-Horizontal-Demo](https://github.com/liao3841054/AppStore-Horizontal-Demo) 仿半糖App 个人中心可以横向滚动的 列表 UICollectionView UITableView UISrcrollView
+
+#### IM@
+
+* [TeamTalk](https://github.com/meili/TeamTalk) - TeamTalk is a solution for enterprise IM.
+* [QQ界面](https://github.com/weida-studio/QQ)
 
 #### 对话交互@
 #### 隐藏与显示@
@@ -1220,12 +1229,13 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
 
 #### 其他UI@
 
-* [drawablebubble](https://github.com/KittenYang/KYCuteView)QQ中未读气泡拖拽消失的实现分析[分析文章](http://kittenyang.com/drawablebubble/)
-* [PPNumberButton](https://github.com/jkpang/PPNumberButton)高仿京东淘宝商品数量的加减按钮,可定制程度较高,使用简单!
-* [YJFavorEmitter](https://github.com/SplashZ/YJFavorEmitter) 一个非常好用的点赞粒子发射器
-* [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) - BEMCheckBox 是一个用于 iOS 应用上构建漂亮, 高度可定制化动画效果的复选框类库, 最低支持到 iOS 7 系统, 有多种不同风格的动画效果可供选择。
-* [BFPaperCheckbox](https://github.com/bfeher/BFPaperCheckbox) iOS Checkboxes inspired by Google's Paper Material Design.
-* [GMenuController](https://github.com/GIKICoder/GMenuController) 具有和UIMenuController一致的UI 与交互行为. menuItem可指定target. 可定制化UI.对外API与原生UIMenuController 一致.
+* [drawablebubble](https://github.com/KittenYang/KYCuteView) - QQ中未读气泡拖拽消失的实现分析[分析文章](http://kittenyang.com/drawablebubble/).
+* [PPNumberButton](https://github.com/jkpang/PPNumberButton) - 高仿京东淘宝商品数量的加减按钮,可定制程度较高,使用简单.
+* [YJFavorEmitter](https://github.com/SplashZ/YJFavorEmitter) - 一个非常好用的点赞粒子发射器.
+* [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) - BEMCheckBox 是一个用于 iOS 应用上构建漂亮, 高度可定制化动画效果的复选框类库, 最低支持到 iOS 7 系统, 有多种不同风格的动画效果可供选择.
+* [BFPaperCheckbox](https://github.com/bfeher/BFPaperCheckbox) - iOS Checkboxes inspired by Google's Paper Material Design.
+* [GMenuController](https://github.com/GIKICoder/GMenuController) - 具有和UIMenuController一致的UI 与交互行为. menuItem可指定target. 可定制化UI.对外API与原生UIMenuController 一致.
+* [shopCartDemo](https://github.com/wangluhui/shopCartDemo) - 购物车Demo.
 
 #### 工具@
 #### 综合@
@@ -1924,8 +1934,8 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [KMCGeigerCounter](https://github.com/kconner/KMCGeigerCounter) - KMCGeigerCounter通过复杂和简单的视图演示了类似盖革计数器的帧速计算功能。掉帧通常是可见的，但是很难区分55fps和60fps之间的不同，而KMCGeigerCounter可以让你观测到掉落5帧的情况。
 * [ipapy](https://github.com/hades0918/ipapy) - iOS项目自动打包脚本，并且上传到fir.im，然后发送邮件给测试人员。
 * [fbretaincycledetector](https://github.com/facebook/fbretaincycledetector) - Facebook出品,通过Runtime监测循环引用。
-* [FBAllocationTracker](https://github.com/facebook/FBAllocationTracker) - Facebook出品,跟踪oc对象的分配情况。
-* [JxbDebugTool](https://github.com/JxbSir/JxbDebugTool) 一个iOS调试工具，监控所有HTTP请求，自动捕获Crash分析。
+* [FBAllocationTracker](https://github.com/facebook/FBAllocationTracker) - Facebook出品,跟踪oc对象的分配情况.
+* [JxbDebugTool](https://github.com/JxbSir/JxbDebugTool) - 一个iOS调试工具，监控所有HTTP请求，自动捕获Crash分析.
 * [KSCrash](https://github.com/kstenerud/KSCrash) - iOS Crash 捕获上报工具， 可以自己配置服务器， 也可以与它推荐的服务器搭配使用
 
 #### App更新提示@
