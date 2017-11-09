@@ -71,7 +71,7 @@ A curated list of iOS objective-C ecosystem.
   - [图像圆角@](#图像圆角)
 - [数据结构/算法@](#数据结构/算法)
 - [上架@](#上架)
-- [服务端@后台@](#服务端#后台)
+- [服务端@](#服务端)
 - [Xcode8插件@](#Xcode8插件)
 - [动态更新@](#动态更新)
 - [App更新提示@](#App更新提示)
@@ -805,7 +805,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 数据结构/算法@
 
-* [LearningMasteringAlgorithms-C](https://github.com/yourtion/LearningMasteringAlgorithms-C) Mastering Algorithms with C 《算法精解：C语言描述》源码及Xcode工程、Linux工程
+* [LearningMasteringAlgorithms-C](https://github.com/yourtion/LearningMasteringAlgorithms-C) -《算法精解：C语言描述》源码及Xcode工程、Linux工程.
 * [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another :large_orange_diamond:
 * [Brick](https://github.com/hyperoslo/Brick) - :droplet: A generic view model for both basic and complex scenarios :large_orange_diamond:
 * [Algorithm](https://github.com/CosmicMind/Algorithm) - Algorithm is a collection of data structures that are empowered by a probability toolset. :large_orange_diamond:
@@ -816,9 +816,9 @@ A curated list of iOS objective-C ecosystem.
 
 #### 上架@
 
-* [Solve-App-Store-Review-Problemm](https://github.com/wg689/Solve-App-Store-Review-Problem) (ipv6,ipv6被拒绝,后台定位等审核问题的终极解决方案汇总)。
+* [Solve-App-Store-Review-Problemm](https://github.com/wg689/Solve-App-Store-Review-Problem) - (ipv6,ipv6被拒绝,后台定位等审核问题的终极解决方案汇总).
 
-#### 服务端@后台@
+#### 服务端@@
 
 * [GCDWebServer](https://github.com/swisspol/GCDWebServer) - 基于GCD的轻量级的HTTP服务器.
 
@@ -835,141 +835,138 @@ A curated list of iOS objective-C ecosystem.
 
 #### 综合UI@
 
-* [Texture](https://github.com/TextureGroup/Texture) - Texture——保持最复杂的用户界面的流畅和响应  Smooth asynchronous user interfaces for iOS apps.
+* [Texture](https://github.com/TextureGroup/Texture) - Texture——保持最复杂的用户界面的流畅和响应.
 * [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS) - Many Google Material Design Controls for iOS native application.
 * [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS) - 大神模仿谷歌做的各种各样的iOS原生特效控件，非常全面.
 * [Form](https://github.com/hyperoslo/Form) - Form 是一个方便开发者创建表单填写工作的 UI 库.
 
 #### 日历三方库@
 
-* [TEAChart](https://github.com/xhacker/TEAChart) - xhacker/TEAChart 一个简洁的 iOS 图表库，支持柱状图、饼图以及日历等。
-* [CVCalendar](https://github.com/Mozharovsky/CVCalendar) - 是一个方便开发者集成自定义日历视图到自己 iOS 应用的项目, 支持 Storyboard 和手动配置, 使用 CocoaPods 进行安装, 提供了丰富的 API 供开发者使用。
+* [TEAChart](https://github.com/xhacker/TEAChart) - xhacker/TEAChart 一个简洁的 iOS 图表库，支持柱状图、饼图以及日历等.
+* [CVCalendar](https://github.com/Mozharovsky/CVCalendar) - 是一个方便开发者集成自定义日历视图到自己 iOS 应用的项目, 支持 Storyboard 和手动配置, 使用 CocoaPods 进行安装, 提供了丰富的 API 供开发者使用.
 
 #### 下拉刷新@
 
-* [MJRefresh](https://github.com/CoderMJLee/MJRefresh) - 仅需一行代码就可以为UITableView或者CollectionView加上下拉刷新或者上拉刷新功能。可以自定义上下拉刷新的文字说明。具体使用看“使用方法”。 （国人写）
-* [XHRefreshControl](https://github.com/xhzengAIB/XHRefreshControl) - XHRefreshControl 是一款高扩展性、低耦合度的下拉刷新、上提加载更多的组件。（国人写）
-* [CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl) - 一个效果很酷炫的下拉刷新控件。
-* [KYJellyPullToRefresh](https://github.com/KittenYang/KYJellyPullToRefresh) - 实现弹性物理效果的下拉刷新，神奇的贝塞尔曲线，配合UIDynamic写的一个拟物的下拉刷新动画。
-* [MHYahooParallaxView](https://github.com/michaelhenry/MHYahooParallaxView) - 类似于Yahoo Weather和News Digest首屏的视差滚动。
-* [SDRefreshView](https://github.com/gsdios/SDRefreshView) - 简单易用的上拉和下拉刷新（多版本细节适配）。
-* [可展开/收缩的下拉菜单--SvpplyTable](http://d.cocoachina.com/code/detail/237753) -  一个可展开可收缩的下拉菜单，类似Svpply app。
-* [ODRefreshControl](https://github.com/Sephiroth87/ODRefreshControl) - 原iOS6上的橡皮糖刷新样式，很有意思。现在也很多大的 App 在用，比如虾米音乐和 QQ 客户端。
-* [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) - PullToMakeSoup, 自定义下拉刷新的动画效果：煮饭, Yalantis新作！
-* [TwitterCover](https://github.com/cyndibaby905/TwitterCover) -  Twitter iOS客户端的下拉封面模糊效果。
-* [Replace-iOS](https://github.com/MartinRGB/Replace-iOS) - Replace-iOS 让人眼前一亮的下拉刷新（iOS）。
-* [Animations](https://github.com/KittenYang/Animations) - 封装了一下，使用的时候只要两行代码。一些动画的飞机稿，都是一些单独分离出来的用于测试的子动画，现在统一归类一下。
-* [PullToBounce](https://github.com/entotsu/PullToBounce) - 下拉刷新的动画 for UIScrollView。
-* [WaterDropRefresh](https://github.com/li6185377/WaterDropRefresh) - 仿Path 水滴的下拉刷新效果 还有视差滚动。
-* [ESRefreshControl](https://github.com/EnjoySR/ESRefreshControl) - 仿新浪微博、百度外卖、网易新闻下拉刷新样式Demo（仅供参考）。
-* [WaveRefresh](https://github.com/alienjun/AJWaveRefresh) - 下拉刷新水波纹动画。
-* [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - 是一款带有弹性效果的 iOS 下拉刷新组件。
+* [MJRefresh](https://github.com/CoderMJLee/MJRefresh) - 仅需一行代码就可以为UITableView或者CollectionView加上下拉刷新或者上拉刷新功能。可以自定义上下拉刷新的文字说明。具体使用看“使用方法”.
+* [XHRefreshControl](https://github.com/xhzengAIB/XHRefreshControl) - XHRefreshControl 是一款高扩展性、低耦合度的下拉刷新、上提加载更多的组件.
+* [CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl) - 一个效果很酷炫的下拉刷新控件.
+* [KYJellyPullToRefresh](https://github.com/KittenYang/KYJellyPullToRefresh) - 实现弹性物理效果的下拉刷新，神奇的贝塞尔曲线，配合UIDynamic写的一个拟物的下拉刷新动画.
+* [MHYahooParallaxView](https://github.com/michaelhenry/MHYahooParallaxView) - 类似于Yahoo Weather和News Digest首屏的视差滚动.
+* [SDRefreshView](https://github.com/gsdios/SDRefreshView) - 简单易用的上拉和下拉刷新（多版本细节适配）.
+* [可展开/收缩的下拉菜单--SvpplyTable](http://d.cocoachina.com/code/detail/237753) -  一个可展开可收缩的下拉菜单，类似Svpply app.
+* [ODRefreshControl](https://github.com/Sephiroth87/ODRefreshControl) - 原iOS6上的橡皮糖刷新样式，很有意思。现在也很多大的 App 在用，比如虾米音乐和 QQ 客户端.
+* [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) - PullToMakeSoup, 自定义下拉刷新的动画效果：煮饭, Yalantis新作.
+* [TwitterCover](https://github.com/cyndibaby905/TwitterCover) -  Twitter iOS客户端的下拉封面模糊效果.
+* [Replace-iOS](https://github.com/MartinRGB/Replace-iOS) - Replace-iOS 让人眼前一亮的下拉刷新（iOS).
+* [Animations](https://github.com/KittenYang/Animations) - 封装了一下，使用的时候只要两行代码。一些动画的飞机稿，都是一些单独分离出来的用于测试的子动画，现在统一归类一下.
+* [PullToBounce](https://github.com/entotsu/PullToBounce) - 下拉刷新的动画 for UIScrollView.
+* [WaterDropRefresh](https://github.com/li6185377/WaterDropRefresh) - 仿Path 水滴的下拉刷新效果 还有视差滚动.
+* [ESRefreshControl](https://github.com/EnjoySR/ESRefreshControl) - 仿新浪微博、百度外卖、网易新闻下拉刷新样式Demo（仅供参考）.
+* [WaveRefresh](https://github.com/alienjun/AJWaveRefresh) - 下拉刷新水波纹动画.
+* [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - 是一款带有弹性效果的 iOS 下拉刷新组件.
 * [BanTangAnimation](https://github.com/zangqilong198812/BanTangAnimation) - 半糖下拉刷新的原理。简单来说是利用CGGlyph，字符图形转换成cgpath，然后绘制strokeEnd动画。把timeoffset和scrolloffset结合就行了。
-* [SURefresh](https://github.com/DaMingShen/SURefresh) - BOSS直聘APP下拉刷新动画实现，效果展示图－> [实现思路](http://mp.weixin.qq.com/s?__biz=MzA4ODk0NjY4NA==&mid=2701606115&idx=1&sn=98a486103668a30e16a328cbb529fe5e&scene=23&srcid=0728iIHfF3zMvIvdpqrIXCOK#rd)再复杂的动画都可以拆分成许多简单的动画组合起来，这个动画大概可以分成两个主体，我把它分别录制出来给大家看看
-* [TGRefreshOC](https://github.com/targetcloud/TGRefreshOC) 弹簧、橡皮筋下拉刷新控件，类似QQ下拉刷新效果，同时支持其他样式
-* [GSRefresh](https://github.com/wxxsw/GSRefresh) 完全自定义视图和动画的下拉刷新、上拉加载库，易扩展。
+* [SURefresh](https://github.com/DaMingShen/SURefresh) - BOSS直聘APP下拉刷新动画实现，效果展示图－> [实现思路](http://mp.weixin.qq.com/s?__biz=MzA4ODk0NjY4NA==&mid=2701606115&idx=1&sn=98a486103668a30e16a328cbb529fe5e&scene=23&srcid=0728iIHfF3zMvIvdpqrIXCOK#rd)再复杂的动画都可以拆分成许多简单的动画组合起来，这个动画大概可以分成两个主体，我把它分别录制出来给大家看看.
+* [TGRefreshOC](https://github.com/targetcloud/TGRefreshOC) - 弹簧、橡皮筋下拉刷新控件，类似QQ下拉刷新效果，同时支持其他样式.
+* [GSRefresh](https://github.com/wxxsw/GSRefresh) - 完全自定义视图和动画的下拉刷新、上拉加载库，易扩展.
 
 #### 模糊效果@
 
-* [FXBlurView](https://github.com/nicklockwood/FXBlurView) - 是一个UIView子类，支持iOS5.0以上版本，支持静态、动态模糊效果，继承与UIView的模糊特效。
-* [VVBlurPresentation](https://github.com/onevcat/VVBlurPresentation) -很简单易用的在原来viewconntroller基础上做模糊，然后present新的viewcontroller的。
-* [UICustomActionSheet](https://github.com/pchernovolenko/UICustomActionSheet) - 通过模糊背景来着重强调与菜单相关的元素--对话框 里面已经收藏。
-* [SABlurImageView](https://github.com/szk-atmosphere/SABlurImageView) - 支持渐变动画效果的图像模糊化类库。P.S. 与前几天推存类库 SAHistoryNavigationViewController 是同一位作者。
+* [FXBlurView](https://github.com/nicklockwood/FXBlurView) - 是一个UIView子类，支持iOS5.0以上版本，支持静态、动态模糊效果，继承与UIView的模糊特效.
+* [VVBlurPresentation](https://github.com/onevcat/VVBlurPresentation) - 很简单易用的在原来viewconntroller基础上做模糊，然后present新的viewcontroller的.
+* [UICustomActionSheet](https://github.com/pchernovolenko/UICustomActionSheet) - 通过模糊背景来着重强调与菜单相关的元素--对话框 里面已经收藏.
+* [SABlurImageView](https://github.com/szk-atmosphere/SABlurImageView) - 支持渐变动画效果的图像模糊化类库。P.S. 与前几天推存类库 SAHistoryNavigationViewController 是同一位作者.
 
 #### AutoLayout@
 
-* [Masonry](https://github.com/SnapKit/Masonry) - 非常赞-Masonry是一个轻量级的布局框架，拥有自己的描述语法，采用更优雅的链式语法封装自动布局，简洁明了并具有高可读性（ [使用介绍1](http://adad184.com/2014/09/28/use-masonry-to-quick-solve-autolayout/)  [使用介绍2](http://ios.jobbole.com/81483/)），[iOS自适应前段库-Masonry的使用](http://www.cocoachina.com/ios/20150702/12217.html)），[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900)。[使用DEMO](https://github.com/lcddhr/DDMasonryTest) 视图居中显示、子视图含边距、视图等距离摆放、计算ScrollView的contentsize。
-* [PureLayout](https://github.com/PureLayout/PureLayout) 非常简单强大的AutoLayout库，同时支持Objective-C。非常赞👍👍👍
-* [Classy](https://github.com/ClassyKit/Classy) - Classy是一个能与UIKit无缝结合stylesheet(样式)系统。它借鉴CSS的思想，但引入新的语法和命名规则，[Classy官网](http://classy.as/getting-started/)，[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900)。
-* [ClassyLiveLayout](https://github.com/olegam/ClassyLiveLayout) - ClassyLiveLayout通过结合Classy stylesheets与Masonry一起使用，能够在运行的模拟器中微调Auto Layout约束实时显示效果的工具，[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900)。
-* [PureLayout](https://github.com/PureLayout/PureLayout) - PureLayout 是 iOS & OS X Auto Layout 的终极 API——非常简单，又非常强大。PureLayout 通过一个全面的Auto Layout API 扩展了 UIView/NSView, NSArray 和 NSLayoutConstraint，仿照苹果自身的框架。
-* [UIView-AutoLayout](https://github.com/smileyborg/UIView-AutoLayout) -
-Deprecated in favor of PureLayout, which includes OS X support:https://github.com/smileyborg/PureLayout。
-* [UIView-FDCollapsibleConstraints](https://github.com/forkingdog/UIView-FDCollapsibleConstraints) - 一个AutoLayout辅助工具，最优雅的方式解决自动布局中子View的动态显示和隐藏的问题。第二个Demo模拟了一个经典的FlowLayout，任意一个元素隐藏时，底下的元素需要自动“顶”上来，配合这个扩展，你可以在IB里连一连，选一选，不用一行代码就能搞定。
-* [Autolayout_Demo](https://github.com/luodezhao/Autolayout_Demo) - 在项目中用自动布局实现的类似抽屉效果。
-* [当view隐藏的时候也隐藏其autolayout的NSLayoutAttribute](http://code.cocoachina.com/detail/320405/) - 当view隐藏的时候也隐藏其autolayout的NSLayoutAttribute，从而不用大量的代码工作
-* [SDAutoLayout](https://github.com/gsdios/SDAutoLayout) - AutoLayout 一行代码搞定自动布局！支持Cell、Label和Tableview高度自适应，致力于做最简单易用的AutoLayout库。
-* [MyLinearLayout](https://github.com/youngsoft/MyLinearLayout) MyLayout is a powerful iOS UI framework implemented by Objective-C. It integrates the functions with Android Layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use LinearLayout,RelativeLayout,FrameLayout,TableLayout,FlowLayout,FloatLayout,PathLayout,LayoutSizeClass to build your App 自动布局 UIView UITableView UICo…
-* [WHC_AutoLayoutKit](https://github.com/netyouli/WHC_AutoLayoutKit) Had better use the auto layout of open source framework，致力打造使用最简单功能最强大的自动布局开源库
-* [NerdyUI](https://github.com/nerdycat/NerdyUI) 好用的快速布局 UI 库，适用于 iOS 8 及以上版本。
+* [Masonry](https://github.com/SnapKit/Masonry) - 非常赞-Masonry是一个轻量级的布局框架，拥有自己的描述语法，采用更优雅的链式语法封装自动布局，简洁明了并具有高可读性（ [使用介绍1](http://adad184.com/2014/09/28/use-masonry-to-quick-solve-autolayout/)  [使用介绍2](http://ios.jobbole.com/81483/)），[iOS自适应前段库-Masonry的使用](http://www.cocoachina.com/ios/20150702/12217.html)），[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900)。[使用DEMO](https://github.com/lcddhr/DDMasonryTest) 视图居中显示、子视图含边距、视图等距离摆放、计算ScrollView的contentsize.
+* [PureLayout](https://github.com/PureLayout/PureLayout) - 非常简单强大的AutoLayout库，同时支持Objective-C.
+* [Classy](https://github.com/ClassyKit/Classy) - Classy是一个能与UIKit无缝结合stylesheet(样式)系统。它借鉴CSS的思想，但引入新的语法和命名规则，[Classy官网](http://classy.as/getting-started/)，[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900).
+* [ClassyLiveLayout](https://github.com/olegam/ClassyLiveLayout) - ClassyLiveLayout通过结合Classy stylesheets与Masonry一起使用，能够在运行的模拟器中微调Auto Layout约束实时显示效果的工具，[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900).
+* [PureLayout](https://github.com/PureLayout/PureLayout) - PureLayout 是 iOS & OS X Auto Layout 的终极 API——非常简单，又非常强大。PureLayout 通过一个全面的Auto Layout API 扩展了 UIView/NSView, NSArray 和 NSLayoutConstraint，仿照苹果自身的框架.
+* [UIView-AutoLayout](https://github.com/smileyborg/UIView-AutoLayout) -Deprecated in favor of PureLayout, which includes OS X support:https://github.com/smileyborg/PureLayout.
+* [UIView-FDCollapsibleConstraints](https://github.com/forkingdog/UIView-FDCollapsibleConstraints) - 一个AutoLayout辅助工具，最优雅的方式解决自动布局中子View的动态显示和隐藏的问题。第二个Demo模拟了一个经典的FlowLayout，任意一个元素隐藏时，底下的元素需要自动“顶”上来，配合这个扩展，你可以在IB里连一连，选一选，不用一行代码就能搞定.
+* [Autolayout_Demo](https://github.com/luodezhao/Autolayout_Demo) - 在项目中用自动布局实现的类似抽屉效果.
+* [当view隐藏的时候也隐藏其autolayout的NSLayoutAttribute](http://code.cocoachina.com/detail/320405/) - 当view隐藏的时候也隐藏其autolayout的NSLayoutAttribute，从而不用大量的代码工作.
+* [SDAutoLayout](https://github.com/gsdios/SDAutoLayout) - AutoLayout 一行代码搞定自动布局！支持Cell、Label和Tableview高度自适应，致力于做最简单易用的AutoLayout库.
+* [MyLinearLayout](https://github.com/youngsoft/MyLinearLayout) - MyLayout is a powerful iOS UI framework implemented by Objective-C. It integrates the functions with Android Layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use LinearLayout,RelativeLayout,FrameLayout,TableLayout,FlowLayout,FloatLayout,PathLayout,LayoutSizeClass to build your App 自动布局 UIView UITableView UICo…
+* [WHC_AutoLayoutKit](https://github.com/netyouli/WHC_AutoLayoutKit) - Had better use the auto layout of open source framework，致力打造使用最简单功能最强大的自动布局开源库.
+* [NerdyUI](https://github.com/nerdycat/NerdyUI) - 好用的快速布局 UI 库，适用于 iOS 8 及以上版本.
 
 #### 图表@
 
-* [PNChart](https://github.com/kevinzhow/PNChart) - 国内开源作者，动态的图表。
-* [XJYChart](https://github.com/JunyiXie/XJYChart) 优秀的的图表框架。支持动画，点击，滑动，区域高亮
-* [YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) - 支持在watchOS上绘制图表，看它最近更新挺勤快的，可以关注一下。
-* [RealtimeGradientText](https://github.com/kevinzhow/RealtimeGradientText) - Fun With CALayer Mask 刚好今天开源了一个有趣的项目 RealtimeGradientText，所以也好聊一下 CALayer 的 Mask，[说明](http://blog.zhowkev.in/2015/07/06/fun-with-mask/)。
-* [XYPieChart](https://github.com/xyfeng/XYPieChart) -XYPieChart:饼状图,  饼图,  数据统计,  数据可视化,可以在图形上标注数据。效果十分漂亮，而且没有用到一张图片。
-* [ZFChart](https://github.com/Zirkfied/ZFChart) - 模仿PNChart写的一个图表库，用法简单，暂时有柱状图，线状图，饼图三种类型，后续可能会更新新的类型。
-* [ios-charts](https://github.com/danielgindi/Charts) - 一款优秀 Android 图表开源库 MPAndroidChart 的 Swift 语言实现版（支持 Objective-C 和 Swift 调用）。缺省提供的示例代码为 Objective-C。
-* [JYRadarChart](https://github.com/johnnywjy/JYRadarChart) 一个很赞的图表库
+* [PNChart](https://github.com/kevinzhow/PNChart) - 国内开源作者，动态的图表.
+* [XJYChart](https://github.com/JunyiXie/XJYChart) - 优秀的的图表框架。支持动画，点击，滑动，区域高亮.
+* [YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) - 支持在watchOS上绘制图表，看它最近更新挺勤快的，可以关注一下.
+* [RealtimeGradientText](https://github.com/kevinzhow/RealtimeGradientText) - Fun With CALayer Mask 刚好今天开源了一个有趣的项目 RealtimeGradientText，所以也好聊一下 CALayer 的 Mask，[说明](http://blog.zhowkev.in/2015/07/06/fun-with-mask/).
+* [XYPieChart](https://github.com/xyfeng/XYPieChart) - XYPieChart:饼状图,  饼图,  数据统计,  数据可视化,可以在图形上标注数据。效果十分漂亮，而且没有用到一张图片.
+* [ZFChart](https://github.com/Zirkfied/ZFChart) - 模仿PNChart写的一个图表库，用法简单，暂时有柱状图，线状图，饼图三种类型，后续可能会更新新的类型.
+* [ios-charts](https://github.com/danielgindi/Charts) - 一款优秀 Android 图表开源库 MPAndroidChart 的 Swift 语言实现版（支持 Objective-C 和 Swift 调用）。缺省提供的示例代码为 Objective-C.
+* [JYRadarChart](https://github.com/johnnywjy/JYRadarChart) - 一个很赞的图表库.
 
 #### 颜色@
 
-* [Colours](https://github.com/bennyguitar/Colours) Colours–颜色库,包含100种预定义的颜色和方法
-* [DKNightVersion](https://github.com/Draveness/DKNightVersion) - Manage Colors, Integrate Night/Multiple Themes
-
-
+* [Colours](https://github.com/bennyguitar/Colours) - Colours–颜色库,包含100种预定义的颜色和方法.
+* [DKNightVersion](https://github.com/Draveness/DKNightVersion) - Manage Colors, Integrate Night/Multiple Themes.
 
 #### 列表相关@
 
 #### TableView@
 
-* [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) 非常赞 UITableViewCell 的子类, 实现了左右滑动显示信息视图并调出按钮 An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
-* [RETableViewManager](https://github.com/romaonthego/RETableViewManager) 赞 一个非常强大的使用数据驱动的 UITableView 内容管理。可以十分方便地生成各种样式、各种功能的TableView。只要开发者能想到的列表效果或者功能，都可以利用这份代码迅速编写出来。比如，之前要实现一个填写各种资料的列表，可能需要很多代码，现在只需要几行代码就可以实现。
-* [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) - 非常赞 DZNEmptyDataSet算是一个很标准的iOS内建方式，适合用来处理空的tableview和collection view。会自动将collection view处理完善，并将用户消息以合适美观的方式显示出来。每个iOS项目都可以自动处理。
-* [folding-cell](https://github.com/Ramotion/folding-cell) 很赞 一个比较酷炫的cell折叠动画效果
-* [VVeboTableViewDemo](https://github.com/johnil/VVeboTableViewDemo) 此项目由VVebo剥离，希望你能通过这个demo看到我是如何进行TableView流畅度优化的。
-* [SWTableViewCell](https://github.com/onevcat/SWTableViewCell) - 国内开源作者，带很多手势的表单元格。
-* [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - 另一个常见于很多应用中的UI组件，苹果应该考虑在标准的iOS SDK中加入一些类似的内容。Swipeable表格cell是这个pod的最佳描述，也是最好的。非常👍👍👍
-* [MCSwipeTableViewCell](https://github.com/alikaragoz/MCSwipeTableViewCell) - 带很多手势的表单元格。
-* [TMQuiltView](https://github.com/1000Memories/TMQuiltView) - 瀑布流。
-* [XRWaterfallLayout](https://github.com/codingZero/XRWaterfallLayout) - 超简单的瀑布流实现,[实现说明](http://www.cocoachina.com/ios/20160407/15872.html)。
-* [WaterfallFlowDemo](https://github.com/lengmolehongyan/WaterfallFlowDemo) - 一个简单的UICollectionView瀑布流布局演示demo。
-* [XLForm](https://github.com/xmartlabs/XLForm) - 很多表格类的table,写法更高冷一点，推荐使用。
-* [UIScrollSlidingPages](https://github.com/TomThorpe/UIScrollSlidingPages) - 允许添加多视图控件，并且可以横向滚动。有点类似于Groupon app。
-* [HorizontalScrollCell](https://github.com/mcelayir/HorizontalScrollCell) - HorizontalScrollCell是一款使用方便的水平方向可滚动的单元格，适用于UICollectionView中实现水片方向滚动视图。 。
-* [SYJiugonggeTableView](https://github.com/shiyuan17/syTableView) - tableView封装的九宫格。
-* [UUChatTableView](https://github.com/ZhipingYang/UUChatTableView) - UUChatTableView 气泡聊天界面，支持文本、图片以及音频的气泡聊天界面。[源码推荐说明](http://www.cocoachina.com/ios/20150205/11116.html)。
-* [Atlas-iOS](https://github.com/layerhq/Atlas-iOS) - 快速在iOS里集成聊天功能，类似开源版本的环信。Layer家开源了一套聊天app界面的解决方案.看起来很赞，很多蛮复杂的东西直接都帮封好了。不得不说现在做app开发真是很简单，大部分时间搭积木就可以了。[官方网站](https://atlas.layer.com/)。
-* [DLSlideView](https://github.com/agdsdl/DLSlideView) - DLSlideView对常见的顶部Tab页点击、滑动分页做了封装。它使用基于ViewController的container特性（而不是scrollview）来管理各个子页面，以支持无限分页，[源码推荐说明](http://www.cocoachina.com/ios/20150205/11116.html)。
+* [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) - 非常赞 UITableViewCell 的子类, 实现了左右滑动显示信息视图并调出按钮.
+* [RETableViewManager](https://github.com/romaonthego/RETableViewManager) - 赞 一个非常强大的使用数据驱动的 UITableView 内容管理。可以十分方便地生成各种样式、各种功能的TableView。只要开发者能想到的列表效果或者功能，都可以利用这份代码迅速编写出来。比如，之前要实现一个填写各种资料的列表，可能需要很多代码，现在只需要几行代码就可以实现.
+* [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) - 非常赞 DZNEmptyDataSet算是一个很标准的iOS内建方式，适合用来处理空的tableview和collection view。会自动将collection view处理完善，并将用户消息以合适美观的方式显示出来。每个iOS项目都可以自动处理.
+* [folding-cell](https://github.com/Ramotion/folding-cell) - 很赞 一个比较酷炫的cell折叠动画效果.
+* [VVeboTableViewDemo](https://github.com/johnil/VVeboTableViewDemo) - 此项目由VVebo剥离，希望你能通过这个demo看到我是如何进行TableView流畅度优化的.
+* [SWTableViewCell](https://github.com/onevcat/SWTableViewCell) - 国内开源作者，带很多手势的表单元格.
+* [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - 另一个常见于很多应用中的UI组件，苹果应该考虑在标准的iOS SDK中加入一些类似的内容。Swipeable表格cell是这个pod的最佳描述，也是最好的。非常👍👍👍 .
+* [MCSwipeTableViewCell](https://github.com/alikaragoz/MCSwipeTableViewCell) - 带很多手势的表单元格.
+* [TMQuiltView](https://github.com/1000Memories/TMQuiltView) - 瀑布流.
+* [XRWaterfallLayout](https://github.com/codingZero/XRWaterfallLayout) - 超简单的瀑布流实现,[实现说明](http://www.cocoachina.com/ios/20160407/15872.html).
+* [WaterfallFlowDemo](https://github.com/lengmolehongyan/WaterfallFlowDemo) - 一个简单的UICollectionView瀑布流布局演示demo.
+* [XLForm](https://github.com/xmartlabs/XLForm) - 很多表格类的table,写法更高冷一点，推荐使用.
+* [UIScrollSlidingPages](https://github.com/TomThorpe/UIScrollSlidingPages) - 允许添加多视图控件，并且可以横向滚动。有点类似于Groupon app.
+* [HorizontalScrollCell](https://github.com/mcelayir/HorizontalScrollCell) - HorizontalScrollCell是一款使用方便的水平方向可滚动的单元格，适用于UICollectionView中实现水片方向滚动视图.
+* [SYJiugonggeTableView](https://github.com/shiyuan17/syTableView) - tableView封装的九宫格.
+* [UUChatTableView](https://github.com/ZhipingYang/UUChatTableView) - UUChatTableView 气泡聊天界面，支持文本、图片以及音频的气泡聊天界面。[源码推荐说明](http://www.cocoachina.com/ios/20150205/11116.html).
+* [Atlas-iOS](https://github.com/layerhq/Atlas-iOS) - 快速在iOS里集成聊天功能，类似开源版本的环信。Layer家开源了一套聊天app界面的解决方案.看起来很赞，很多蛮复杂的东西直接都帮封好了。不得不说现在做app开发真是很简单，大部分时间搭积木就可以了。[官方网站](https://atlas.layer.com/).
+* [DLSlideView](https://github.com/agdsdl/DLSlideView) - DLSlideView对常见的顶部Tab页点击、滑动分页做了封装。它使用基于ViewController的container特性（而不是scrollview）来管理各个子页面，以支持无限分页，[源码推荐说明](http://www.cocoachina.com/ios/20150205/11116.html).
 * [VOVCManager](https://github.com/pozi119/VOVCManager) - 页面管理器:1.跳转指定页面,只需要知道viewController的Class名,如果有storyboard,则需要指定storyboard名；2.无需添加基类；3.支持URLScheme跳转指定页面。
-* [MBXPageViewController](https://github.com/Moblox/MBXPageViewController) - 简洁快速的页面切换--MBXPageViewController，带有按钮控件的UIPageController，非常整洁、简单以及快速。该项目通过三种形式展示页面之间的切换，比如导航栏上的多个tab切换、页面左右两端箭头指示切换，以及使用分段控件。
-* [PagerTab](https://github.com/ming1016/PagerTab) - UIScrollView实现滑动转换页面，类似网易云音乐iOS版的页面滑动切换效果。
-* [BATabBarController](https://github.com/antiguab/BATabBarController) - A TabBarController with a unique animation for selection [GUITabPagerViewController](https://github.com/guilhermearaujo/GUITabPagerViewController) - 多个tab滑动切换。
-* [VOMetroLayoutDemo](https://github.com/pozi119/VOMetroLayoutDemo) - Metro风格的UICollectionView, 目前只支持横向布局,仅在iPad上应用。
-* [KYCellAnimation](https://github.com/KittenYang/KYCellAnimation) - 给UITableViewCell增加进入的动画。
-* [RDVTabBarController](https://github.com/robbdimitrov/RDVTabBarController) - 一个TabBar组件，可以方便设置底部菜单的文字图片，点击效果，小红点提示等。
-* [WXTabBarController](https://github.com/leichunfeng/WXTabBarController) - 在系统 UITabBarController 的基础上完美实现了安卓版微信 TabBar 的滑动切换功能，单手操作 iPhone 6 Plus 切换 TabBar 一直是一件很痛苦的事情，而滑动切换是一种不错的解决方案，支持屏幕旋转。
-* [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) - 皮筋式弹性缩放工具栏示例及演示。
-* [横向展示文本内容的自定义cell](http://d.cocoachina.com/code/detail/298409) - 可以横向展示文本内容的自定义cell，根据文本无限滚动。
-* [ExpandingStackCells](https://github.com/jozsef-vesza/ExpandingStackCells) - 采用 UIStackView 实现表格单元格扩展内容显示示例及解决方案。
-* [FDStackView](https://github.com/forkingdog/FDStackView) - 可以将 UIStackView 的最低支持版本拉低到 iOS6，无需配置，没有代码侵染，扔到工程里后直接用系统 UIStackView 的 API 即可，同时兼容 Storyboard。
-* [MDIHorizontalSectionTableViewController](https://github.com/WeeTom/MDIHorizontalSectionTableViewController) - 根据产品需求开源了一个交互项目，可以理解为横向Section的TableView，section和cell同时支持拖拽，后续安卓版本也会开源出来。
-* [JZNavigationExtension](https://github.com/JazysYu/JZNavigationExtension) - 多功能导航控制器，可以透明返回栏。
-* [QuickRearrangeTableView](https://github.com/okla/QuickRearrangeTableView) - 基于 UITableView 的快速重排功能扩展子类。通过长按选定单元格然后滚动移动到指定位置。
+* [MBXPageViewController](https://github.com/Moblox/MBXPageViewController) - 简洁快速的页面切换--MBXPageViewController，带有按钮控件的UIPageController，非常整洁、简单以及快速。该项目通过三种形式展示页面之间的切换，比如导航栏上的多个tab切换、页面左右两端箭头指示切换，以及使用分段控件.
+* [PagerTab](https://github.com/ming1016/PagerTab) - UIScrollView实现滑动转换页面，类似网易云音乐iOS版的页面滑动切换效果.
+* [BATabBarController](https://github.com/antiguab/BATabBarController) - A TabBarController with a unique animation for selection. [GUITabPagerViewController](https://github.com/guilhermearaujo/GUITabPagerViewController) - 多个tab滑动切换.
+* [VOMetroLayoutDemo](https://github.com/pozi119/VOMetroLayoutDemo) - Metro风格的UICollectionView, 目前只支持横向布局,仅在iPad上应用.
+* [KYCellAnimation](https://github.com/KittenYang/KYCellAnimation) - 给UITableViewCell增加进入的动画.
+* [RDVTabBarController](https://github.com/robbdimitrov/RDVTabBarController) - 一个TabBar组件，可以方便设置底部菜单的文字图片，点击效果，小红点提示等.
+* [WXTabBarController](https://github.com/leichunfeng/WXTabBarController) - 在系统 UITabBarController 的基础上完美实现了安卓版微信 TabBar 的滑动切换功能，单手操作 iPhone 6 Plus 切换 TabBar 一直是一件很痛苦的事情，而滑动切换是一种不错的解决方案，支持屏幕旋转.
+* [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) - 皮筋式弹性缩放工具栏示例及演示.
+* [横向展示文本内容的自定义cell](http://d.cocoachina.com/code/detail/298409) - 可以横向展示文本内容的自定义cell，根据文本无限滚动.
+* [ExpandingStackCells](https://github.com/jozsef-vesza/ExpandingStackCells) - 采用 UIStackView 实现表格单元格扩展内容显示示例及解决方案.
+* [FDStackView](https://github.com/forkingdog/FDStackView) - 可以将 UIStackView 的最低支持版本拉低到 iOS6，无需配置，没有代码侵染，扔到工程里后直接用系统 UIStackView 的 API 即可，同时兼容 Storyboard.
+* [MDIHorizontalSectionTableViewController](https://github.com/WeeTom/MDIHorizontalSectionTableViewController) - 根据产品需求开源了一个交互项目，可以理解为横向Section的TableView，section和cell同时支持拖拽，后续安卓版本也会开源出来.
+* [JZNavigationExtension](https://github.com/JazysYu/JZNavigationExtension) - 多功能导航控制器，可以透明返回栏.
+* [QuickRearrangeTableView](https://github.com/okla/QuickRearrangeTableView) - 基于 UITableView 的快速重排功能扩展子类。通过长按选定单元格然后滚动移动到指定位置.
 * [uicollectionview-reordering](https://github.com/nshintio/uicollectionview-reordering) - UICollectionViews的拖拽(拖动、移动)效果,[实例教程](http://nshint.io/blog/2015/07/16/uicollectionviews-now-have-easy-reordering/).
-* [LLNoDataView](https://github.com/LvJianfeng/LLNoDataView) - 超简单的空数据提示通用View支持UIScrollView、UITableView、UICollectionView、UIWebView。
-* [XLPlainFlowLayout](https://github.com/HebeTienCoder/XLPlainFlowLayout) - 可以让UICollectionView的header也支持悬停效果，类似于tableView的Plain风格。
+* [LLNoDataView](https://github.com/LvJianfeng/LLNoDataView) - 超简单的空数据提示通用View支持UIScrollView、UITableView、UICollectionView、UIWebView.
+* [XLPlainFlowLayout](https://github.com/HebeTienCoder/XLPlainFlowLayout) - 可以让UICollectionView的header也支持悬停效果，类似于tableView的Plain风格.
 * [WMPageController](https://github.com/wangmchn/WMPageController) - 一个方便的 pageContrller 的控件，里面还包括滚动视图。
-* [PSTCollectionView](https://github.com/steipete/PSTCollectionView) - PSTCollectionView。
-* [LLRiseTabBar-iOS](https://github.com/lianleven/LLRiseTabBar-iOS) - 直接使用系统的特性实现的tabbar，比较简单。
-* [MTMaterialDelete](https://github.com/MartinRGB/MTMaterialDelete) - 非常有趣的Material Design动画，动画删除表里面的单元格。
-* [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - 进度条式NavigationBar导航条。
-* [LGSettingView](https://github.com/LiGoEX/LGSettingView) - LGSettingView仅需三句代码即可快速集成设置界面，免去每次开发新应用都要重新布置设置界面的烦恼。
-* [微博cell自动布局](http://code.cocoachina.com/view/129212) - 使用autoLayout对微博的cell进行自动布局，自适应cell的高度。
-* [TreeTableView](https://github.com/TyroneWing/TreeTableView) - ZYTreeTableView：TreeView 模仿好友列表的实现方式。
-* [ZWSlideViewController](https://github.com/squarezw/ZWSlideViewController) - ZWSlideViewController多页滑动视图控制器（类似新闻类门户APP）,可以用最简单的继承方法使用，也可以不用继承，只用菜单或主视图页面，可实现丰富的定制，可以使用在多种不同形态的APP下，还可以将其做为多页或多图的滑动介绍。
+* [PSTCollectionView](https://github.com/steipete/PSTCollectionView) - PSTCollectionView.
+* [LLRiseTabBar-iOS](https://github.com/lianleven/LLRiseTabBar-iOS) - 直接使用系统的特性实现的tabbar，比较简单.
+* [MTMaterialDelete](https://github.com/MartinRGB/MTMaterialDelete) - 非常有趣的Material Design动画，动画删除表里面的单元格.
+* [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - 进度条式NavigationBar导航条.
+* [LGSettingView](https://github.com/LiGoEX/LGSettingView) - LGSettingView仅需三句代码即可快速集成设置界面，免去每次开发新应用都要重新布置设置界面的烦恼.
+* [微博cell自动布局](http://code.cocoachina.com/view/129212) - 使用autoLayout对微博的cell进行自动布局，自适应cell的高度.
+* [TreeTableView](https://github.com/TyroneWing/TreeTableView) - ZYTreeTableView：TreeView 模仿好友列表的实现方式.
+* [ZWSlideViewController](https://github.com/squarezw/ZWSlideViewController) - ZWSlideViewController多页滑动视图控制器（类似新闻类门户APP）,可以用最简单的继承方法使用，也可以不用继承，只用菜单或主视图页面，可实现丰富的定制，可以使用在多种不同形态的APP下，还可以将其做为多页或多图的滑动介绍.
 * [XWCatergoryView](https://github.com/wazrx/XWCatergoryView) - 一个轻量级的顶部分类视图控件，只需要通过简单的设置，你就可以快速集成该控件， 控件目前暂时有底部横条移动，椭圆背景移动，文字缩放，文字颜色变化，和文字颜色渐变五种效果，五种效果可以叠加使用也可以单一使用。[实现教程](http://www.jianshu.com/p/274d19f97564)
-* [jingDongFenLei](http://code.cocoachina.com/view/129675) - 简单仿写京东分类中的多级分类页面。
-* [RKSwipeBetweenViewControllers](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers) - 页面滑动和标签选项卡类库。
-* [FriendSearch](http://www.cocoachina.com/ios/20160407/15870.html) - 两种UI的搜索，搜索的算法可以满足中英文互搜，联想搜索等，其中还包含对一组数据自动进行按字母分组等功能。
-* [YX_UITableView_IN_UITableView](https://github.com/yixiangboy/YX_UITableView_IN_UITableView) - UITableview嵌套UITableView案例实践（仿淘宝商品详情页实现），[项目讲解](http://blog.csdn.net/yixiangboy/article/details/51009010)。
-* [TYPagerController](https://github.com/12207480/TYPagerController) - 简单，支持定制，页面控制器,可以滚动内容和标题栏,包含多种style。
-* [YZHeaderScaleImage](https://github.com/iThinkerYZ/YZHeaderScaleImage)一行代码快速集成tableView中头部缩放视图
-* [ExpandTableView](https://github.com/zhengwenming/ExpandTableView) 可折叠展开的tableView，QQ好友分组列表。
-* [SwipeTableView](https://github.com/Roylee-ML/SwipeTableView) Both scroll horizontal and vertical for segment scrollview which have a same header. — 类似半糖、美丽说主页与QQ音乐歌曲列表布局效果，实现不同菜单的左右滑动切换，同时支持类似tableview的顶部工具栏悬停（既可以左右滑动，又可以上下滑动）。兼容下拉刷新，自定义 collectionview实现自适应 contentSize 还可实现瀑布流功能
-* [TableViewAnimationKit](https://github.com/alanwangmodify/TableViewAnimationKit) TableView Animation ，move your tableView
+* [jingDongFenLei](http://code.cocoachina.com/view/129675) - 简单仿写京东分类中的多级分类页面.
+* [RKSwipeBetweenViewControllers](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers) - 页面滑动和标签选项卡类库.
+* [FriendSearch](http://www.cocoachina.com/ios/20160407/15870.html) - 两种UI的搜索，搜索的算法可以满足中英文互搜，联想搜索等，其中还包含对一组数据自动进行按字母分组等功能.
+* [YX_UITableView_IN_UITableView](https://github.com/yixiangboy/YX_UITableView_IN_UITableView) - UITableview嵌套UITableView案例实践（仿淘宝商品详情页实现），[项目讲解](http://blog.csdn.net/yixiangboy/article/details/51009010).
+* [TYPagerController](https://github.com/12207480/TYPagerController) - 简单，支持定制，页面控制器,可以滚动内容和标题栏,包含多种style.
+* [YZHeaderScaleImage](https://github.com/iThinkerYZ/YZHeaderScaleImage) - 一行代码快速集成tableView中头部缩放视图.
+* [ExpandTableView](https://github.com/zhengwenming/ExpandTableView) - 可折叠展开的tableView，QQ好友分组列表.
+* [SwipeTableView](https://github.com/Roylee-ML/SwipeTableView) - Both scroll horizontal and vertical for segment scrollview which have a same header. — 类似半糖、美丽说主页与QQ音乐歌曲列表布局效果，实现不同菜单的左右滑动切换，同时支持类似tableview的顶部工具栏悬停（既可以左右滑动，又可以上下滑动）。兼容下拉刷新，自定义 collectionview实现自适应 contentSize 还可实现瀑布流功能.
+* [TableViewAnimationKit](https://github.com/alanwangmodify/TableViewAnimationKit) - TableView Animation ，move your tableView.
 
 #### TableView适配@
 
