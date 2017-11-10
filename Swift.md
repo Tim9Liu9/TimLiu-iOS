@@ -732,6 +732,7 @@ A curated list of iOS objective-C ecosystem.
 * [GLTableCollectionView](https://github.com/giulio92/GLTableCollectionView) Netflix and App Store like UITableView with UICollectionView, written in pure Swift 3.0
 * [EditDistance](https://github.com/kazuhiro4949/EditDistance) tableView、CollectionView 数据重载更新效果Demo
 * [CenteredCollectionView](https://github.com/BenEmdon/CenteredCollectionView) 轻量级的CollectionViewCell左右滑动效果，类似电影App选电影的效果
+* [WCLWaterFallLayout](https://github.com/631106979/WCLWaterFallLayout) - 用swift写的简易的瀑布流布局，简单易用，支持多行展示，实现过程：http://blog.csdn.net/wang631106979/article/details/53793046 .
 
 #### 隐藏与显示@
 
