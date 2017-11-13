@@ -573,9 +573,8 @@ A curated list of iOS objective-C ecosystem.
 #### 多媒体@
 #### GIF@
 
-* [FLAnimatedImage](https://github.com/liric28/FLAnimatedImage) - 非常不错的gif播放处理的工具.
-* [YLGIFImage](https://github.com/liyong03/YLGIFImage) - 异步方式实现突Gif突破编码、显示，低内存占用.
 * [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - 高性能GIF动画引擎.
+* [YLGIFImage](https://github.com/liyong03/YLGIFImage) - 异步方式实现突Gif突破编码、显示，低内存占用.
 * [AnimatedGIFImageSerialization](https://github.com/mattt/AnimatedGIFImageSerialization) - Complete Animated GIF Support for iOS, with Functions, NSJSONSerialization-style Class, and (Optional) UIImage Swizzling.
 * [XAnimatedImage](https://github.com/khaledmtaha/XAnimatedImage) - XAnimatedImage is a performant animated GIF engine for iOS written in Swift based on FLAnimatedImage :large_orange_diamond:
 * [SwiftGif](https://github.com/bahlo/SwiftGif) - :sparkles: A small UIImage extension with gif support :large_orange_diamond:
@@ -1806,7 +1805,6 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [KIF](https://github.com/kif-framework/KIF) - 是一个开源的用户界面UI测试框架. 使用 KIF, 并利用 iOS中的辅助功能 API, 你将能够编写模拟用户输入，诸如点击，触摸和文本输入，自动化的UI测试.
 * [FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) - 支持同时启动多个模拟器的库，FaceBook出品.
 * [calabash-ios](https://github.com/calabash/calabash-ios) - 自动测试 Calabash is an automated testing technology for Android and iOS native and hybrid applications.
-* [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog() or print(), but with additional information, such as the date, function name, filename and line number.
 * [Buildasaur](https://github.com/czechboy0/Buildasaur) 自动测试框架 Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server. Keep your team productive and safe. Get up and running in minutes. @buildasaur
 * [IPAPatch](https://github.com/Naituw/IPAPatch) 免越狱调试、修改第三方App，👍👍 .
 * [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization) - 关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit
