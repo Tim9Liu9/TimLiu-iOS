@@ -931,19 +931,20 @@ A curated list of iOS objective-C ecosystem.
 
 #### 测试调试@
 
-* [FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) 支持同时启动多个模拟器的库，FaceBook出品.
-* [depcheck](https://github.com/wojteklu/depcheck) Swift 工程分析工具(Dependency analyzer tool for Swift projects)
-* [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - 相当于 CocoaLumberjack 或 Log4j 的 Swift 版本，功能上甚至更强大。另外，源代码中已经内含了完整的 API 文档，使用非常方便。
-* [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) 内存分析，帮助找出循环引用等内存问题.Find retain cycles / memory leaks sooner.
-* [Quick](https://github.com/Quick/Quick) - 用于Swift中的单元测试（也可用于Objective-C），与Xcode整合在一起。如果你是Objective-C的粉丝，我建议用Specta代替这个，但是对Swift使用者来说，Quick是最佳选择。
-* [Sleipnir](https://github.com/railsware/Sleipnir) - Swift的测试框架。
+* [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - XCGLogger.swift功能完整的日志管理类库.
+* [FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) - 支持同时启动多个模拟器的库，FaceBook出品.
+* [depcheck](https://github.com/wojteklu/depcheck) - Swift 工程分析工具(Dependency analyzer tool for Swift projects).
+* [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - 相当于 CocoaLumberjack 或 Log4j 的 Swift 版本，功能上甚至更强大。另外，源代码中已经内含了完整的 API 文档，使用非常方便.
+* [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - 一个完善的日志工具，支持彩色输出、输出内容到文件、重要性分级、多输出目标。工具执行在后台，不影响性能，可以极大提高开发效率.
+* [Cuckoo](https://github.com/Brightify/Cuckoo) - First boilerplate-free mocking framework for Swift.
+* [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - 内存分析，帮助找出循环引用等内存问题.Find retain cycles / memory leaks sooner.
+* [Quick](https://github.com/Quick/Quick) - 用于Swift中的单元测试（也可用于Objective-C），与Xcode整合在一起。如果你是Objective-C的粉丝，我建议用Specta代替这个，但是对Swift使用者来说，Quick是最佳选择.
+* [Sleipnir](https://github.com/railsware/Sleipnir) - Swift的测试框架.
 * [XXPlaceHolder.swift](https://github.com/adad184/XXPlaceHolder) - MMPlaceHolder的swift版本。
-* [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - 一个完善的日志工具，支持彩色输出、输出内容到文件、重要性分级、多输出目标。工具执行在后台，不影响性能，可以极大提高开发效率。
-* [swiftlog](https://github.com/iachievedit/swiftlog) - 为Swift 应用提供快捷添加日志信息的方法，Swift 包管理支持（SPM）、 使用惊艳的 Rainbow 包输出彩色日志、支持写入文件。[使用 swiftlog](https://segmentfault.com/a/1190000004512773)
-* [Log.swift](https://github.com/delba/Log) - 灵活、易用、可定制输出格式和主题风格的日志类（Swift）,支持控制台彩色输出。
-* [Cuckoo.swift](https://github.com/SwiftKit/Cuckoo) - Cuckoo.swift一款用法更接近于传统单元测试 Mock 框架库（区别之处在于需要用脚本预先生成 Mock 类）。
-* [XCGLogger.swift](https://github.com/DaveWoodCom/XCGLogger) - XCGLogger.swift功能完整的日志管理类库。
-* [Peek.swift](https://github.com/shaps80/Peek) - 更友好、手势方式检查界面内组件布局信息（相当于浏览器元素检查功能），界面调试利器。
+* [swiftlog](https://github.com/iachievedit/swiftlog) - 为Swift 应用提供快捷添加日志信息的方法，Swift 包管理支持（SPM）、 使用惊艳的 Rainbow 包输出彩色日志、支持写入文件。[使用 swiftlog](https://segmentfault.com/a/1190000004512773).
+* [Log.swift](https://github.com/delba/Log) - 灵活、易用、可定制输出格式和主题风格的日志类（Swift）,支持控制台彩色输出.
+* [Cuckoo.swift](https://github.com/SwiftKit/Cuckoo) - Cuckoo.swift一款用法更接近于传统单元测试 Mock 框架库（区别之处在于需要用脚本预先生成 Mock 类）.
+* [Peek](https://github.com/shaps80/Peek) - 更友好、手势方式检查界面内组件布局信息（相当于浏览器元素检查功能），界面调试利器.
 
 #### 分析@
 
