@@ -137,9 +137,7 @@ A curated list of iOS objective-C ecosystem.
   - [好的文章@](#好的文章)
   - [美工资源@](#美工资源)
 - [测试调试@](#测试调试)
-  - [调试优化@](#调试优化)
   - [Xcode工具@](#Xcode工具)
-  - [crash@](#crash)
   - [Runtime@](#Runtime)
   - [Xcode插件@](#Xcode插件)
   - [接口调试工具@](#接口调试工具)
@@ -1797,47 +1795,28 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
 
 #### 测试调试@
 
-* [FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) 支持同时启动多个模拟器的库，FaceBook出品.
-* [calabash-ios](https://github.com/calabash/calabash-ios) 自动测试 Calabash is an automated testing technology for Android and iOS native and hybrid applications.
-* [iConsole](https://github.com/nicklockwood/iConsole) 调试利器 In-app console for viewing logs and typing debug commands in iPhone apps
-* [Buildasaur](https://github.com/czechboy0/Buildasaur) 自动测试框架 Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server. Keep your team productive and safe. Get up and running in minutes. @buildasaur
-* [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - 非官方 Xcode Server SDK 封装库。 P.S. 该 SDK 分离自之前推荐的由该作者开发的自动测试框架.   
-
-#### 调试优化@
-
-* [IPAPatch](https://github.com/Naituw/IPAPatch) 免越狱调试、修改第三方App，很👍👍
-* [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization) 关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit
-* [MSLeakHunter](https://github.com/mindsnacks/MSLeakHunter) - 自动检测 UIViewController 和 UIView 对象的内存泄露。Find memory leaks in your iOS app at develop time. [MLeaksFinder 的使用参照](https://github.com/Zepo/MLeaksFinder)
-* [iOS-private-api-checker](https://github.com/NetEaseGame/iOS-private-api-checker) iOS-private-api-checker 苹果iOS私有API检查工具
-* [gitbook](https://github.com/GitbookIO/gitbook) GitBook 是一个基于Node.js 的命令行工具，可使用Github/Git 和Markdown 来制作精美的电子书。 GitBook需要使用markdown格式编写，如果你不了解可以看看这里。
-* [crashlytics](https://www.fabric.io/onboard) Twitter出的一个崩溃分析软件
-* [Knuff](https://github.com/KnuffApp/Knuff)调试iOS App远程推送(APNs)的工具
-* [PPAutoPackageScript](https://github.com/jkpang/PPAutoPackageScript) - Xcode8以后的iOS自动打包脚本,配置简单/方便
-* [CocoaDebugKit](https://github.com/Patrick-Kladek/CocoaDebugKit) Debugging made easy. Automatically create QuickLook images of custom objects
-* [AssetsExtractor](https://github.com/pcjbird/AssetsExtractor) 『Assets提取工具』是一款OSX平台上用于将Assets.car或xxx.app中打包的png图片、pdf等资源重新提取出来的开发者工具。Assets.car常见于iOS/Mac/Unity等开发中的资源打包。
-
-#### Xcode工具@
-
-* [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info) react-native获取设备信息组件,支持iOS、Android.
-
-#### crash@
-
-* [Crashlytics](http://try.crashlytics.com/) - Crashlytics 崩溃报告 崩溃日志   [使用说明](http://www.infoq.com/cn/articles/crashlytics-crash-statistics-tools) 。
-* [KSCrash](https://github.com/kstenerud/KSCrash) - iOS Crash 捕获上报工具， 可以自己配置服务器， 也可以与它推荐的服务器搭配使用
-* [AvoidCrash](https://github.com/chenfanfang/AvoidCrash) 利用runtime处理崩溃问题的一个框架
-* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - 是一个快速、简单，但很强大的日志框架，可以自定义打印日志的颜色。 A fast & simple, yet powerful & flexible logging framework for Mac and iOS
-* [fastlane](https://github.com/fastlane/fastlane) - 非常棒👍👍👍一套iOS开发和持续集成的命令行工具fastlane，可以用来快速搭建CI甚至自动提交的开发环境。这套工具中包括了上传ipa文件，自动截取多语言截屏，生成推送证书，管理产品证书等一系列实用工具。 The easiest way to automate building and releasing your iOS and Android apps https://fastlane.tools
-* [FLEX](https://github.com/Flipboard/FLEX) 非常赞的 一个Xcode界面调试工具，FLEX是一个需要注入式的一种框架，从描述来看，功能非常多。主要来讲的话能够对正在运行的应用进行样式的修改和控件的读取。FLEX会赐予你SuperPower！！！
+* [fastlane](https://github.com/fastlane/fastlane) - 非常棒👍👍👍一套iOS开发和持续集成的命令行工具fastlane，可以用来快速搭建CI甚至自动提交的开发环境。这套工具中包括了上传ipa文件，自动截取多语言截屏，生成推送证书，管理产品证书等一系列实用工具.
+* [FLEX](https://github.com/Flipboard/FLEX) 非常赞👍👍👍 的 一个Xcode界面调试工具，FLEX是一个需要注入式的一种框架，从描述来看，功能非常多。主要来讲的话能够对正在运行的应用进行样式的修改和控件的读取。FLEX会赐予你SuperPower！！！
   1. 可以查看控件的坐标和属性
   2. 看任何一个对象的属性和成员变量
   3. 动态修改属性和成员变量
   4. 动态的调用实例和类方法
 FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者是远程的调试服务器，它可以在本地随时随地的进行自有的操作和调试
+* [Quick](https://github.com/Quick/Quick) - 非常赞👍👍👍 用于Swift中的单元测试（也可用于Objective-C），与Xcode整合在一起。如果你是Objective-C的粉丝，我建议用Specta代替这个，但是对Swift使用者来说，Quick是最佳选择.
+* [KIF](https://github.com/kif-framework/KIF) - 是一个开源的用户界面UI测试框架. 使用 KIF, 并利用 iOS中的辅助功能 API, 你将能够编写模拟用户输入，诸如点击，触摸和文本输入，自动化的UI测试.
+* [FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) 支持同时启动多个模拟器的库，FaceBook出品.
+* [calabash-ios](https://github.com/calabash/calabash-ios) 自动测试 Calabash is an automated testing technology for Android and iOS native and hybrid applications.
+* [iConsole](https://github.com/nicklockwood/iConsole) 调试利器 In-app console for viewing logs and typing debug commands in iPhone apps.
+* [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog() or print(), but with additional information, such as the date, function name, filename and line number.
+* [Buildasaur](https://github.com/czechboy0/Buildasaur) 自动测试框架 Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server. Keep your team productive and safe. Get up and running in minutes. @buildasaur
+* [IPAPatch](https://github.com/Naituw/IPAPatch) 免越狱调试、修改第三方App，很👍👍
+* [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization) 关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit
 * [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) - Facebook出品,内存检测库。[FBMemoryProfiler 基础教程](http://ifujun.com/fbmemoryprofiler-shi-yong-ji-chu-jiao-cheng/)。(https://swiftcafe.io/2017/05/02/mem-profiler/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-* [xctool](https://github.com/facebook/xctool) - Facebook出的自动化打包工具，它规范了输出的log日志，而且一些错误信息也更为清晰一些。
+* [xctool](https://github.com/facebook/xctool) - Facebook出的自动化打包工具，它规范了输出的log日志，而且一些错误信息也更为清晰一些.
+* [MSLeakHunter](https://github.com/mindsnacks/MSLeakHunter) - 自动检测 UIViewController 和 UIView 对象的内存泄露。Find memory leaks in your iOS app at develop time. [MLeaksFinder 的使用参照](https://github.com/Zepo/MLeaksFinder).
 * [chisel](https://github.com/facebook/chisel) Chisel扩展了一些列的lldb的命令来帮助iOS开发者调试iOS应用程序。
 * [PonyDebugger](https://github.com/square/PonyDebugger)由 Square 公司推出的一款优秀的 iOS 应用网络调试工具, 用户可以实时看到应用程序的网络请求, 也可以对 iOS 应用程序的核心数据栈进行远程调试
-* [KIF](https://github.com/kif-framework/KIF) - 是一个开源的用户界面UI测试框架. 使用 KIF, 并利用 iOS中的辅助功能 API, 你将能够编写模拟用户输入，诸如点击，触摸和文本输入，自动化的UI测试.
+* [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - 能够帮助 iOS 开发者们精确的测量视图, 可直接在调试应用中查看具体某个视图的坐标, 宽高等参数.
 * [pxctest](https://github.com/plu/pxctest) Execute tests in parallel on multiple iOS Simulators 在多个 iOS 模拟器上并行测试。
 * [dSYMTools](https://github.com/answer-huang/dSYMTools)友盟 dSYM analyze  备用地址[https://github.com/mrhyh/dSYMTools]
 * [HeapInspector](https://github.com/tapwork/HeapInspector-for-iOS) - HeapInspector是一个用于检测应用中的内存泄漏的开源调试工具。
@@ -1845,11 +1824,37 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [snoop-it](https://code.google.com/archive/p/snoop-it/) - snoop-it比UIViewController-Swizzled好用，代码托管在google上。
 * [Versions](https://github.com/zenangst/Versions) - 版本比较小工具。
 * [MobileWebPageTest](http://code4app.com/ios/MobileWebPerformanceTest/5465d3e9933bf00c658b4f43) - MobileWebPageTest是用来测试移动网页性能的软件，它可以对页面的加载和渲染过程进行截屏，协助开发者分析出页面性能瓶颈。
+* [specta](https://github.com/specta/specta) - TDD或BDD，objective-c语言的测试框架，用的人多.
+* [cedar](https://github.com/pivotal/cedar) - TDD或BDD，objective-c语言的测试框架，用的人少.
+* [cedar](https://github.com/cedarbdd/cedar) - BDD-style testing using Objective-C.
 * [KKLog](https://github.com/Coneboy-k/KKLog) - 一个日志管理系统。
-* [Buildasaur](https://github.com/czechboy0/Buildasaur) - 自动测试框架 Buildasaur。
+* [Buildasaur](https://github.com/czechboy0/Buildasaur) - 自动测试框架 Buildasaur.
 * [使用Quick框架和Nimble来测试ViewControler](http://www.devtf.cn/?p=739) - Quick是一个用于创建BDD测试的框架。配合Nimbl，可以为你创建更符合预期目标的测试。
-* [Quick](https://github.com/Quick/Quick) - 用于Swift中的单元测试（也可用于Objective-C），与Xcode整合在一起。如果你是Objective-C的粉丝，我建议用Specta代替这个，但是对Swift使用者来说，Quick是最佳选择。
-* [Bugtags-iOS](https://github.com/bugtags/Bugtags-iOS) 一个简单、有效的bug和崩溃报告工具.
+* [Bugtags-iOS](https://github.com/bugtags/Bugtags-iOS) - 一个简单、有效的bug和崩溃报告工具.
+* [iOS-private-api-checker](https://github.com/NetEaseGame/iOS-private-api-checker) - iOS-private-api-checker 苹果iOS私有API检查工具.
+* [gitbook](https://github.com/GitbookIO/gitbook) - GitBook 是一个基于Node.js 的命令行工具，可使用Github/Git 和Markdown 来制作精美的电子书。 GitBook需要使用markdown格式编写，如果你不了解可以看看这里.
+* [crashlytics](https://www.fabric.io/onboard) - Twitter出的一个崩溃分析软件.
+* [Knuff](https://github.com/KnuffApp/Knuff) - 调试iOS App远程推送(APNs)的工具.
+* [PPAutoPackageScript](https://github.com/jkpang/PPAutoPackageScript) - Xcode8以后的iOS自动打包脚本,配置简单/方便.
+* [CocoaDebugKit](https://github.com/Patrick-Kladek/CocoaDebugKit) - Debugging made easy. Automatically create QuickLook images of custom objects.
+* [AssetsExtractor](https://github.com/pcjbird/AssetsExtractor) - 『Assets提取工具』是一款OSX平台上用于将Assets.car或xxx.app中打包的png图片、pdf等资源重新提取出来的开发者工具。Assets.car常见于iOS/Mac/Unity等开发中的资源打包.
+* [fbretaincycledetector](https://github.com/facebook/fbretaincycledetector) - Facebook出品,通过Runtime监测循环引用.
+* [FBAllocationTracker](https://github.com/facebook/FBAllocationTracker) - Facebook出品,跟踪oc对象的分配情况.
+* [JxbDebugTool](https://github.com/JxbSir/JxbDebugTool) - 一个iOS调试工具，监控所有HTTP请求，自动捕获Crash分析.
+* [KSCrash](https://github.com/kstenerud/KSCrash) - iOS Crash 捕获上报工具， 可以自己配置服务器， 也可以与它推荐的服务器搭配使用.
+* [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) - iOS tool that helps with profiling iOS Memory usage.
+* [kiwi-bdd](https://github.com/kiwi-bdd/Kiwi/wiki) - TDD或BDD，objective-c语言的测试框架，最流行的BDD测试框架了，Kiwi最受欢迎（根据github上的star数来推断，行为描述和期望写起来也比较易懂，至少我是这么认为的） [iOS开发中的测试框架](http://www.jianshu.com/p/7e3f197504c1#)。
+* [MMPlaceHolder](https://github.com/adad184/MMPlaceHolder) - 一行代码显示UIView的位置及相关参数.
+* [KMCGeigerCounter](https://github.com/kconner/KMCGeigerCounter) - KMCGeigerCounter通过复杂和简单的视图演示了类似盖革计数器的帧速计算功能。掉帧通常是可见的，但是很难区分55fps和60fps之间的不同，而KMCGeigerCounter可以让你观测到掉落5帧的情况.
+* [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - 非官方 Xcode Server SDK 封装库。 P.S. 该 SDK 分离自之前推荐的由该作者开发的自动测试框架.   
+* [Crashlytics](http://try.crashlytics.com/) - Crashlytics 崩溃报告 崩溃日志   [使用说明](http://www.infoq.com/cn/articles/crashlytics-crash-statistics-tools) 。
+* [KSCrash](https://github.com/kstenerud/KSCrash) - iOS Crash 捕获上报工具， 可以自己配置服务器， 也可以与它推荐的服务器搭配使用
+* [AvoidCrash](https://github.com/chenfanfang/AvoidCrash) 利用runtime处理崩溃问题的一个框架
+* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - 是一个快速、简单，但很强大的日志框架，可以自定义打印日志的颜色.
+
+#### Xcode工具@
+
+* [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info) react-native获取设备信息组件,支持iOS、Android.
 
 #### Runtime@
 
@@ -1923,17 +1928,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 * [Tesla汽车AppleWatch app demo演示](https://github.com/eleks/rnd-apple-watch-tesla) - 通过AppleWatch控制特斯拉汽车，同时可以看到汽车的相关信息，比如剩余电量、可续行里程等，以及解锁/上锁车门、调节司机和乘客的四区域空调温度、开启车辆大灯、定位汽车等。[源码推荐说明](http://www.cocoachina.com/ios/20150205/11116.html)。
 * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - WatchKit 开源小项目示例集锦。是不可多得地学习 WatchKit 的示例式教程（1.如何创建一个简单的交互式计数器；2.如何从手表上控制iOS app；3.如何在WatchKit app和iOS app之间共享数据；4.如何创建一个拥有不同背景色的数字时钟；5.展示不同的UI层；6.如何创建支持滑动手势的应用程序。）。
-* [kiwi-bdd](https://github.com/kiwi-bdd/Kiwi/wiki) - TDD或BDD，objective-c语言的测试框架，最流行的BDD测试框架了，Kiwi最受欢迎（根据github上的star数来推断，行为描述和期望写起来也比较易懂，至少我是这么认为的） [iOS开发中的测试框架](http://www.jianshu.com/p/7e3f197504c1#)。
-* [specta](https://github.com/specta/specta) -  TDD或BDD，objective-c语言的测试框架，用的人多。
-* [cedar](https://github.com/pivotal/cedar) -  TDD或BDD，objective-c语言的测试框架，用的人少。
-* [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - 能够帮助 iOS 开发者们精确的测量视图, 可直接在调试应用中查看具体某个视图的坐标, 宽高等参数。
-* [MMPlaceHolder](https://github.com/adad184/MMPlaceHolder) - 一行代码显示UIView的位置及相关参数。
-* [KMCGeigerCounter](https://github.com/kconner/KMCGeigerCounter) - KMCGeigerCounter通过复杂和简单的视图演示了类似盖革计数器的帧速计算功能。掉帧通常是可见的，但是很难区分55fps和60fps之间的不同，而KMCGeigerCounter可以让你观测到掉落5帧的情况。
 * [ipapy](https://github.com/hades0918/ipapy) - iOS项目自动打包脚本，并且上传到fir.im，然后发送邮件给测试人员。
-* [fbretaincycledetector](https://github.com/facebook/fbretaincycledetector) - Facebook出品,通过Runtime监测循环引用。
-* [FBAllocationTracker](https://github.com/facebook/FBAllocationTracker) - Facebook出品,跟踪oc对象的分配情况.
-* [JxbDebugTool](https://github.com/JxbSir/JxbDebugTool) - 一个iOS调试工具，监控所有HTTP请求，自动捕获Crash分析.
-* [KSCrash](https://github.com/kstenerud/KSCrash) - iOS Crash 捕获上报工具， 可以自己配置服务器， 也可以与它推荐的服务器搭配使用
 
 #### App更新提示@
 
@@ -2032,7 +2027,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * A-[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)  GitHub上所有Awesome Awesomeness 系列集合. 这个系列集合收集上GitHub上优秀的开源项目、框架、书籍、网站、类库等实用资源的集合。
 * [豆瓣iOS开源库列表](https://www.douban.com/note/276160185/?type=like) - 豆瓣iOS开源库列表，很多开源项目。
 * [iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques) - 中文版iOS 高级动画技术。
-* [iOS开发的一些奇巧淫技1](http://www.jianshu.com/p/50b63a221f09) - TableView不显示没内容的Cell怎么办;  app不流畅:[KMCGeigerCounter](https://github.com/kconner/KMCGeigerCounter);
+* [iOS开发的一些奇巧淫技1](http://www.jianshu.com/p/50b63a221f09) - TableView不显示没内容的Cell怎么办.
 * [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout) CollectionView实现悬停的header
 * [iOS开发的一些奇巧淫技2](http://www.jianshu.com/p/08f194e9904c) -  用一个pan手势来代替UISwipegesture的各个方向、拉伸图片、播放GIF、上拉刷新、把tableview里cell的小对勾的颜色改变、navigationbar弄成透明的而不是带模糊的效果、改变uitextfield placeholder的颜色和位置。
 * [cocoapods安装指南](http://code4app.com/article/cocoapods-install-usage) - cocoapods安装指南。
