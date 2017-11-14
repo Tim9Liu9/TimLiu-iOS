@@ -122,6 +122,7 @@ A curated list of iOS objective-C ecosystem.
 - [文本@](#文本)
   - [文本输入@](#文本输入)
   - [富文本@](#富文本)
+  - [表情@](#表情)
   - [字体@](#字体)
 - [多线程@](#多线程)
 - [ipad@](#ipad)
@@ -181,6 +182,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 完整App@
 
+* [expo](https://github.com/expo/expo) - Expo iOS/Android Client https://docs.expo.io/.
 * [PPRows for Mac](https://github.com/jkpang/PPRows) - 在Mac上优雅的计算你写了多少行代码.
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - iOS开源App集合(swift、Objective-C).
 * [NewsBlur](https://github.com/samuelclay/NewsBlur) - 作者独自一个人 Samuel Clay 做出来的一款名为 NewsBlur 的新闻阅读器, 很多人都称其为 Google Reader 的替代品, 这是它的源码.
@@ -811,6 +813,7 @@ A curated list of iOS objective-C ecosystem.
 * [EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms) - Some well known CS algorithms & data structures in Objective-C.
 * [Monaka](https://github.com/naru-jpn/Monaka) - Convert custom struct and fundamental values to NSData.
 * [Pencil](https://github.com/naru-jpn/pencil) - Write values to file and read it more easily. :large_orange_diamond:
+* [AlgorithmOC](https://github.com/wang542413041/AlgorithmOC) - OC算法与数据结构实现.
 
 #### 上架@
 
@@ -970,6 +973,7 @@ A curated list of iOS objective-C ecosystem.
 * [ExpandTableView](https://github.com/zhengwenming/ExpandTableView) - 可折叠展开的tableView，QQ好友分组列表.
 * [SwipeTableView](https://github.com/Roylee-ML/SwipeTableView) - Both scroll horizontal and vertical for segment scrollview which have a same header. — 类似半糖、美丽说主页与QQ音乐歌曲列表布局效果，实现不同菜单的左右滑动切换，同时支持类似tableview的顶部工具栏悬停（既可以左右滑动，又可以上下滑动）。兼容下拉刷新，自定义 collectionview实现自适应 contentSize 还可实现瀑布流功能.
 * [TableViewAnimationKit](https://github.com/alanwangmodify/TableViewAnimationKit) - TableView Animation ，move your tableView.
+* [HVScrollView](https://github.com/SPStore/HVScrollView) - 这不是框架，只是3个示例程序，给大家提供一个实现这种布局的思路.
 
 #### TableView适配@
 
@@ -1325,6 +1329,11 @@ A curated list of iOS objective-C ecosystem.
 * [WordPress-Editor-iOS](https://github.com/wordpress-mobile/WordPress-Editor-iOS) - 一个文本编辑器 简书和新浪博客都在用.
 * [placeholder_TextView](http://code.cocoachina.com/view/129099) - 带有placeholder的TextView：带有提示信息的textview，使用懒加载的思想，支持扩展、自定义，类似许多APP内部的意见反馈页面.
 * [M80AttributedLabel](https://github.com/xiangwangfeng/M80AttributedLabel) - M80AttributedLabel实现文字与表情的混排。一般使用气泡作为背景.
+
+#### 表情@
+
+* [AnimojiStudio](https://github.com/insidegui/AnimojiStudio) - Make Animoji videos with unlimited duration and share anywhere.
+* [Animoji](https://github.com/efremidze/Animoji) - Animoji Generator 🦊 .
 
 #### 字体@
 
@@ -1853,6 +1862,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 #### Xcode工具@
 
 * [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info) react-native获取设备信息组件,支持iOS、Android.
+* [XcodeCleaner](https://github.com/waylybaye/XcodeCleaner) - Cleaner for Xcode.app built with react-native-macos.
 
 #### Runtime@
 
