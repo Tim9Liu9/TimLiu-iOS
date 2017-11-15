@@ -72,7 +72,6 @@ A curated list of iOS objective-C ecosystem.
 - [数据结构/算法@](#数据结构/算法)
 - [上架@](#上架)
 - [应用内支付@](#应用内支付)
-- [服务端@](#服务端)
 - [Xcode8插件@](#Xcode8插件)
 - [动态更新@](#动态更新)
 - [App更新提示@](#App更新提示)
@@ -146,6 +145,7 @@ A curated list of iOS objective-C ecosystem.
 - [WebView与WKWebView@](#WebView与WKWebView)
 - [游戏@](#cocos2d-objc)
 - [通讯录@](#通讯录)
+- [地图@](#地图)
 - [其他库@](#其他库)
 - [三方分享、支付、登录等等@](#三方分享、支付、登录等等)
 - [消息相关@](#消息相关)
@@ -173,10 +173,11 @@ A curated list of iOS objective-C ecosystem.
 - [代码安全与密码@](#代码安全与密码)
 - [AppleWatch@](#AppleWatch)
 - [VPN@](#VPN)
-- [深度学习@](#深度学习)
 - [mac@](#mac)
 - [开发环境@](#开发环境)
+- [深度学习@](#深度学习)
 - [前端@](#前端)
+- [后台@](#后台)
 
 #### 具体内容 =============================
 
@@ -260,10 +261,11 @@ A curated list of iOS objective-C ecosystem.
 * [HHRouter](https://github.com/Huohua/HHRouter) - 一言以蔽之，URL Router 即将 UIViewController 映射成 URL，从而支持通过 URL 进行界面跳转。是的，就和 Web 一样。当然，这并不是 Web Developer 转职为 iOS Developer 后所做的无聊玩具。URL Router 有着许多切实的好处.
 * [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit) - 异步界面渲染库,为极限优化View效果而生（同时提供 UIView bridge 接口）.
 * [XFLegoVIPER](https://github.com/yizzuide/XFLegoVIPER)  - A lightweight framework base on VIPER architecture for iOS, to build robust and maintained large scale project.
-* [publishImageAndVideoAnsRecord](https://github.com/DayCrazy/publishImageAndVideoAnsRecord) 发布视频、语言、照片模块集合，其中包括带placeHolder的TextView、录制小视频、录制音频、选择照片或拍照.
+* [publishImageAndVideoAnsRecord](https://github.com/DayCrazy/publishImageAndVideoAnsRecord) - 发布视频、语言、照片模块集合，其中包括带placeHolder的TextView、录制小视频、录制音频、选择照片或拍照.
 * [XBSettingController](https://github.com/changjianfeishui/XBSettingController) - 快速搭建类个人中心及应用设置界面.
 * [EVNEstorePlatform](https://github.com/zonghongyan/EVNEstorePlatform)  - App项目框架 [简书解析](http://www.jianshu.com/p/89e25c288d76?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-* [TemplateCocoa](https://github.com/turkeyaa/TemplateCocoa) - 本教程旨在让我们更加快速、高效的开发移动app.
+* [QMUI_iOS](https://github.com/QMUI/QMUI_iOS) - QMUI iOS——致力于提高项目 UI 开发效率的解决方案.
+* [UniversalProject](https://github.com/XuYang8026/UniversalProject) - 基于MVC架构的iOS轻量级框架，封装了基类、基于猿题库YTKNetwork的网络服务、工具库，NavigationController转场动画/瀑布流/粒子动画/小demo，已适配iOS11 & iPhone X.
 
 #### React@
 
@@ -389,8 +391,8 @@ A curated list of iOS objective-C ecosystem.
 * [WKWebView](https://github.com/XFIOSXiaoFeng/WKWebView) - OC版WKWebView 支持POST请求 加载本地页面 直接加载网页 JS交互 集成支付宝/微信URL支付功能 仿微信返回按钮.
 * [BAWKWebView](https://github.com/BAHome/BAWKWebView) - 用分类封装 WKWebView，一行代码搞定 request、URL、URLString、本地 HTML文件、HTMLString等请求，一个 block 搞定 title、progress、currentURL、当前网页的高度等等所需.
 * [Erik](https://github.com/phimage/Erik) - Erik is an headless browser based on WebKit. An headless browser allow to run functional tests, to access and manipulate webpages using javascript. :large_orange_diamond:
-[Erik](https://github.com/phimage/Erik) - Erik is an headless browser based on WebKit. An headless browser allow to run functional tests, to access and manipulate webpages using javascript. :large_orange_diamond:
 * [URLPreview](https://github.com/itsmeichigo/URLPreview) - An NSURL extension for showing preview info of webpages :large_orange_diamond: [e]
+* [AXWebViewController](https://github.com/devedbox/AXWebViewController) - AXWebViewController is a webViewController to browse web content inside applications.
 
 #### 网络解析@
 #### JSON@
@@ -503,7 +505,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 动画@
 
-* [lottie-ios](https://github.com/airbnb/lottie-ios) - 非常赞 一个用来渲染After Effects矢量动画的iOS库.
+* [lottie-ios](https://github.com/airbnb/lottie-ios) - 非常赞 一个用来渲染After Effects矢量动画的iOS库,同时支持iOS,Android与ReactNative的开发.
 * [AIAnimationDemo](https://github.com/aizexin/AIAnimationDemo) - 非常不错的一个各种动画Demo集合库👍👍 .
 * [AwesomeMenu](https://github.com/levey/AwesomeMenu) - 该项目主要是使用 CoreAnimation 还原了 Path menu 的动画效果 Path 2.0 menu using CoreAnimation :) https://github.com/levey/AwesomeMenu
 * [MMTweenAnimation](https://github.com/adad184/MMTweenAnimation) - 一个基于 POP 的扩展，提供了 10 种自定义的动效.
@@ -771,7 +773,6 @@ A curated list of iOS objective-C ecosystem.
 
 #### 图像缓存@
 
-* [Kingfisher](https://github.com/onevcat/Kingfisher) - 👍👍👍一个轻量级的纯粹的用于从web下载和缓存图片的Swift库.
 * [SDWebImage](https://github.com/rs/SDWebImage) - 非常优秀的图像缓存库.
 * [UIActivityIndicator-for-SDWebImage](https://github.com/JJSaccolo/UIActivityIndicator-for-SDWebImage) - 为SDWebImage显示加载效果.
 * [FastImageCache](https://github.com/path/FastImageCache) - 👍 非常棒的一个 一个高效显示图片的库，支持图片缓存、平滑滚动和图片检索.
@@ -823,10 +824,6 @@ A curated list of iOS objective-C ecosystem.
 
 * [IAPDemo](https://github.com/WildDylan/IAPDemo) - 应用内支付IAP全部流程, [教程](http://www.jianshu.com/p/e9ae4cece800).
 * [IAPHelper](https://github.com/saturngod/IAPHelper) - 应用内付费给我们提供了很多样本代码，而这个库丢掉了那些代码，将金钱交易相关的大多通用任务做了简单的封装.
-
-#### 服务端@@
-
-* [GCDWebServer](https://github.com/swisspol/GCDWebServer) - 基于GCD的轻量级的HTTP服务器.
 
 #### Xcode8插件@
 
@@ -1332,6 +1329,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 表情@
 
+* [SBSAnimoji](https://github.com/simonbs/SBSAnimoji) - 🐵 Animoji app using Apples AvatarKit.
 * [AnimojiStudio](https://github.com/insidegui/AnimojiStudio) - Make Animoji videos with unlimited duration and share anywhere.
 * [Animoji](https://github.com/efremidze/Animoji) - Animoji Generator 🦊 .
 
@@ -1396,6 +1394,10 @@ A curated list of iOS objective-C ecosystem.
 
 * [快速查找联系人](http://code.cocoachina.com/view/128245) - 类似微信联系人搜索的界面,快速查找联系人,并支持点击查询结果.
 * [PPGetAddressBook](https://github.com/jkpang/PPGetAddressBook) - 对联系人姓名第二个字做排序处理,对AddressBook框架(iOS9之前)和Contacts框架(iOS9之后)做了对应的封装处理,一句代码搞定联系人的获取与排序.
+
+#### 地图@
+
+* [YJLocationConverter](https://github.com/stackhou/YJLocationConverter) - 中国国测局地理坐标（GCJ-02）<火星坐标>、世界标准地理坐标(WGS-84) 、百度地理坐标（BD-09)坐标系转换工具类.
 
 #### 三方分享、支付、登录等等@
 
@@ -1816,6 +1818,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [calabash-ios](https://github.com/calabash/calabash-ios) - 自动测试 Calabash is an automated testing technology for Android and iOS native and hybrid applications.
 * [Buildasaur](https://github.com/czechboy0/Buildasaur) 自动测试框架 Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server. Keep your team productive and safe. Get up and running in minutes. @buildasaur
 * [IPAPatch](https://github.com/Naituw/IPAPatch) 免越狱调试、修改第三方App，👍👍 .
+* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - 是一个快速、简单，但很强大的日志框架，可以自定义打印日志的颜色.
 * [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization) - 关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit
 * [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) - Facebook出品,内存检测库.FBMemoryProfiler 基础教程](http://ifujun.com/fbmemoryprofiler-shi-yong-ji-chu-jiao-cheng/)。(https://swiftcafe.io/2017/05/02/mem-profiler/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [xctool](https://github.com/facebook/xctool) - Facebook出的自动化打包工具，它规范了输出的log日志，而且一些错误信息也更为清晰一些.
@@ -1856,7 +1859,6 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [Crashlytics](http://try.crashlytics.com/) - Crashlytics 崩溃报告 崩溃日志   [使用说明](http://www.infoq.com/cn/articles/crashlytics-crash-statistics-tools) 。
 * [KSCrash](https://github.com/kstenerud/KSCrash) - iOS Crash 捕获上报工具， 可以自己配置服务器， 也可以与它推荐的服务器搭配使用
 * [AvoidCrash](https://github.com/chenfanfang/AvoidCrash) 利用runtime处理崩溃问题的一个框架
-* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - 是一个快速、简单，但很强大的日志框架，可以自定义打印日志的颜色.
 * [iConsole](https://github.com/nicklockwood/iConsole) - 调试利器 In-app console for viewing logs and typing debug commands in iPhone apps.
 
 #### Xcode工具@
@@ -1930,7 +1932,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 #### 接口调试工具@
 
-* [PostMan](https://www.getpostman.com/) google出品的接口调试工具
+* [PostMan](https://www.getpostman.com/) - google出品的接口调试工具.
 
 #### AppleWatch
 
@@ -2158,13 +2160,14 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开
 * [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) A dynamic library tweak for WeChat macOS - 微信 macOS 客户端撤回拦截与多开
 
+#### 开发环境@
+
+* [iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. http://iterm2.com/.
+* [Homebrew](https://github.com/Homebrew/brew) Homebrew是一款Mac OS平台下的软件包管理工具，拥有安装、卸载、更新、查看、搜索等很多实用的功能。简单的一条指令，就可以实现包管理，而不用你关心各种依赖和文件路径的情况，十分方便快捷。
+
 #### 深度学习@
 
 * [TrafficLights-DeepLearning-iOS](https://github.com/asavihay/TrafficLights-DeepLearning-iOS) 利用Caffe深度学习执着的一个交通灯信号检测App
-
-#### 开发环境@
-
-* [Homebrew](https://github.com/Homebrew/brew) Homebrew是一款Mac OS平台下的软件包管理工具，拥有安装、卸载、更新、查看、搜索等很多实用的功能。简单的一条指令，就可以实现包管理，而不用你关心各种依赖和文件路径的情况，十分方便快捷。
 
 #### 前端@
 
@@ -2182,4 +2185,5 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 #### 后台@
 
+* [GCDWebServer](https://github.com/swisspol/GCDWebServer) - 基于GCD的轻量级的HTTP服务器.
 * [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
