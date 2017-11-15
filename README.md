@@ -287,6 +287,7 @@ A curated list of iOS objective-C ecosystem.
 #### 安全@
 
 * [Objective-C-RSA](https://github.com/ideawu/Objective-C-RSA) - Doing RSA encryption and decryption with Objective-C on iOS.
+* [NSDictionary-NilSafe](https://github.com/allenhsu/NSDictionary-NilSafe) - How we made NSDictionary nil safe at Glow.
 
 #### 网络@
 #### 网络请求@
@@ -1004,7 +1005,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### HUD与Toast@
 
-* [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - 非常赞 最多人用的loading.
+* [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - MBProgressHUD + Customizations.
 * [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) - 非常赞 SVProgressHUD的loading，如果你需要定制化的等待提示器，这个就是了（也许是最好的）.
 * [JDStatusBarNotification](https://github.com/calimarkus/JDStatusBarNotification) - 非常赞👍👍👍 的自定义顶部通知.
 * [Toast](https://github.com/scalessec/Toast) - An Objective-C category that adds toast notifications to the UIView object class.
