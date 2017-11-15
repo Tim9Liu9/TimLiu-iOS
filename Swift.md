@@ -331,13 +331,14 @@ A curated list of iOS objective-C ecosystem.
 
 #### AutoLayout@
 
-* [Snap](https://github.com/SnapKit/SnapKit) - Snap是Masonry Auto Layout DSL的Swift版本，是一款轻量级的布局框架，使用了更良好的语法封装了AutoLayout。Snap支持iOS和OS X。
-* [Cartography](https://github.com/robb/Cartography) 一个很赞的Auto Layout库。
+* [Snap](https://github.com/SnapKit/SnapKit) - Snap是Masonry Auto Layout DSL的Swift版本，是一款轻量级的布局框架，使用了更良好的语法封装了AutoLayout。Snap支持iOS和OS X.
+* [Cartography](https://github.com/robb/Cartography) - 一个很赞的Auto Layout库.
 * [Neon.swift](https://github.com/mamaral/Neon) - 功能强大的 UI 布局神器。
 * [EasyPeasy.swift](https://github.com/nakiostudio/EasyPeasy) - 编程方式自动布局框架库。
 * [TangramKit](https://github.com/youngsoft/TangramKit) TangramKit is a powerful iOS UI framework implemented by Swift. It integrates the functions with Android layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use LinearLayout,RelativeLayout,FrameLayout,TableLayout,FlowLayout,FloatLayout,LayoutSizeClass to build your App 自动布局 UIView UITableView UICollectionView
 * [layout](https://github.com/schibsted/layout) A declarative UI framework for iOS
 * [CassowarySwift](https://github.com/tribalworldwidelondon/CassowarySwift) A Swift port of the Cassowary linear constraint solver
+* [Windless](https://github.com/Interactive-Studio/Windless) - Windless makes it easy to implement invisible layout loading view.
 
 #### 数据存储@
 
@@ -517,7 +518,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 图像缓存@
 
-* [Kingfisher](https://github.com/onevcat/Kingfisher) A lightweight, pure-Swift library for downloading and caching images from the web 非常👍👍👍 .
+* [Kingfisher](https://github.com/onevcat/Kingfisher) - 👍👍👍一个轻量级的纯粹的用于从web下载和缓存图片的Swift库.
 * [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) - 一个非常赞，非常简单的图片、视频浏览库，网格状的样式.
 * [MapleBacon](https://github.com/zalando-incubator/MapleBacon) - 一个图片下载、缓存库
 * [ImageViewer](https://github.com/MailOnline/ImageViewer) - 类似Twitter的图片查看器.
@@ -738,8 +739,9 @@ A curated list of iOS objective-C ecosystem.
 
 #### HUD与Toast@
 
-* [InputBarAccessoryView](https://github.com/nathantannar4/InputBarAccessoryView)  A simple and easily customizable InputAccessoryView for making message input bars! As featured in MessageKit.
+* [InputBarAccessoryView](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making message input bars! As featured in MessageKit.
 * [Toast-Swift](https://github.com/scalessec/Toast-Swift) - 高可定制易用的 Toast 弹出信息或通知用户界面组件类。
+* [SkeletonView](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
 
 #### 对话框@
 
@@ -931,6 +933,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 测试调试@
 
+* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - 是一个快速、简单，但很强大的日志框架，可以自定义打印日志的颜色.
 * [Quick](https://github.com/Quick/Quick) - 非常赞👍👍👍 用于Swift中的单元测试（也可用于Objective-C），与Xcode整合在一起。如果你是Objective-C的粉丝，我建议用Specta代替这个，但是对Swift使用者来说，Quick是最佳选择.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - XCGLogger.swift功能完整的日志管理类库.
 * [FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) - 支持同时启动多个模拟器的库，FaceBook出品.
