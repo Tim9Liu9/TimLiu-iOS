@@ -1873,6 +1873,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 
 #### Xcode插件@
 
+* [XVim2](https://github.com/XVimProject/XVim2) - Vim key-bindings for Xcode 9.
 * [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev) 原有iOSOpenDev的升级，非越狱插件开发集成神器！ CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps, Without Jailbreak.
 * [xTextHandler](https://github.com/cyanzhong/xTextHandler) Xcode源码编辑扩展工具(Xcode8版) Xcode Source Editor Extension Tools (Xcode 8 Plugins)
 * [首先学习使用Xcode](http://www.cocoachina.com/special/xcode/) - 学习使用Xcode构建出色的应用程序！在Xcode启动的时候，Xcode将会寻找位于~/Library/Application Support/Developer/Shared/Xcode/Plug-ins文件夹中的后缀名为.xcplugin的bundle作为插件进行加载（运行其中的可执行文件）。
