@@ -2054,6 +2054,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [ios_core_animation_advanced_techniques](https://github.com/ZsIsMe/ios_core_animation_advanced_techniques) 核心动画学习资料 [其中的核心动画电子书](https://zsisme.gitbooks.io/ios-/content/)
 * [Apple-OfficialTranslation-SourceAnnotation](https://github.com/CustomPBWaters/Apple-OfficialTranslation-SourceAnnotation) Apple官方译文框架源码注解，当你「了解权威 & 进阶原理」的时候，网搜的众多中 ~ ~（自行脑补）。一劳永逸，渐进式学习。 以简化初学者入门和老司机回顾的繁索过程，尽快切入主题，快速使用起来。
 * [RuntimeBrowser](https://github.com/nst/RuntimeBrowser) This is a class browser for the Objective-C runtime on iOS and OS X.
+* [iOS10AdaptationTips](https://github.com/ChenYilong/iOS10AdaptationTips) - for iOS10 in [ObjC, Swift, English, 中文] {...}.
 
 #### 其他开源@
 
@@ -2191,3 +2192,4 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [GCDWebServer](https://github.com/swisspol/GCDWebServer) - 基于GCD的轻量级的HTTP服务器.
 * [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 * [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+* [Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN) - Python最佳实践指南.
