@@ -27,6 +27,7 @@ A curated list of iOS objective-C ecosystem.
   - [KVO@](#KVO)
   - [版本管理@](#版本管理)
   - [混编@](#混编)
+  - [设计模式@](#设计模式)
 - [服务端@](@服务端)  
 - [网络@](#网络)
   - [网络请求@](#网络请求)
@@ -67,6 +68,7 @@ A curated list of iOS objective-C ecosystem.
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
   - [gif动画@](#gif动画)
   - [其他动画@](#其他动画)
+- [编码规范@](#编码规范)
 - [机器学习@](#机器学习)
 - [UI@](#ui)
   - [列表@](#列表)
@@ -105,6 +107,7 @@ A curated list of iOS objective-C ecosystem.
 - [文本@](@文本)
 - [VR@](#VR)
 - [AR@](#AR)
+- [全景@](#全景)
 - [开发资料@](#开发资料)
   - [播客@](#播客)
   - [他人开源总结@](#他人开源总结)
@@ -149,10 +152,11 @@ A curated list of iOS objective-C ecosystem.
 * [swifttoolbox](http://www.swifttoolbox.io/) -  swifttoolbox swift开发的开源库汇总。
 * [SwiftGuide](https://github.com/ipader/SwiftGuide) -  这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排-- 非常不错，值得推荐。
 * [Awesome Swift](https://swift.zeef.com/robin.eggenkamp) - 一个收集了很多 Swift 开发资源的网站。
-* [Developing_iOS_8_Apps_With_Swift](https://github.com/CS193P-Translation-Group/Developing_iOS_8_Apps_With_Swift) - Developing iOS 8 Apps with Swift 字幕简体中文翻译项目（斯坦福白胡子老头swift教学视频）。
+* [Developing_iOS_8_Apps_With_Swift](https://github.com/CS193P-Translation-Group/Developing_iOS_8_Apps_With_Swift) - Developing iOS 8 Apps with Swift 字幕简体中文翻译项目（斯坦福白胡子老头swift教学视频）.
 * [Swift-On-iOS](https://github.com/johnlui/Swift-On-iOS) - JohnLui 的 Swift On iOS 代码仓库.
 * [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - 30DaysofSwift 自学 iOS - [三十天三十个 Swift 项目](http://weibo.com/ttarticle/p/show?id=2309403942494873235448).
 * [MySampleCode](https://github.com/bestswifter/MySampleCode) Swift的一些Demo.
+* [iOS与swift学习之路](https://toutiao.io/subjects/35291#187)
 
 #### iOS11@
 
@@ -188,7 +192,7 @@ A curated list of iOS objective-C ecosystem.
 * [LeagueofLegends](https://github.com/HarrisHan/LeagueofLegends) - 一个关于英雄联盟的完整iOS开源项目，接口均来自多玩，腾讯各大游戏平台。
 * [Coderpursue.swift](https://github.com/wenghengcong/Coderpursue) - 一款 Github 第三方客户端，使用最新 Swift 语言编写。
 * [BTApp](https://github.com/Ryan0520/BTApp) - BTApp 仿半糖 iOS App 的 Demo 应用。
-* [LXFFM](https://github.com/LinXunFeng/LXFFM) 高仿喜马拉雅FM
+* [LXFFM](https://github.com/LinXunFeng/LXFFM) - 高仿喜马拉雅FM.
 * [TodayNews](https://github.com/hrscy/TodayNews) Swift开源项目-模仿今日头条
 * [notGIF](https://github.com/atuooo/notGIF) - 一款展示、管理和分享相册中 GIF 的应用，并适配了 iMessage Extension。
 * [TheGreatGame](https://github.com/dreymonde/TheGreatGame)  Open-source first-class iOS app dedicated to Women’s Euro 2017
@@ -232,6 +236,10 @@ A curated list of iOS objective-C ecosystem.
 #### 混编@
 
 * [SwiftPython](https://github.com/johnno1962/SwiftPython) - Experiments in bridging Swift to Python.
+
+#### 设计模式@
+
+* [Receiver](https://github.com/RuiAAPeres/Receiver) - Swift µframework implementing the Observer pattern 📡 .
 
 #### 服务端@
 
@@ -467,6 +475,10 @@ A curated list of iOS objective-C ecosystem.
 * [arkit-smb-homage](https://github.com/bjarnel/arkit-smb-homage) An implementation of a Super Mario Bros-like game in augmented reality with ARKit and SceneKit.
 * [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) Code examples for ARKit.
 
+#### 全景@
+
+* [BSPanoramaView](https://github.com/bestswifter/BSPanoramaView) - 超轻量级的 iOS 全景图组件.
+
 #### 蓝牙@
 
 * [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth) - 是一个非常容易使用的蓝牙库, 适用于 iOS 和 Mac OS, 基于原生 CoreBluetooth 框架封装, 可以帮开发者们更简单地使用 CoreBluetooth API, 使用链式方法体, 使得代码更简洁、优雅。[iOS蓝牙开发（四）：BabyBluetooth蓝牙库介绍](http://www.cocoachina.com/ios/20160219/15301.html)
@@ -662,6 +674,10 @@ A curated list of iOS objective-C ecosystem.
 * [fantastic-ios-animation.swift](https://github.com/onmyway133/fantastic-ios-animation) - 基于 UI 组件类别分类，且带精彩动画效果的 iOS 组件库集合。
 * [GridPanelDemo](https://github.com/JasonZengJ/GridPanelDemo) 赞，一个点击翻转的动画Demo
 * [astrology-motion-ios](https://github.com/handsomecode/astrology-motion-ios) Astrology animation written in Swift 3
+
+#### 编码规范@
+
+* [SwiftLint](https://github.com/realm/SwiftLint) - 是一个用于强制检查Swift 代码风格和规定的一个工具，基本上以GitHub's Swift 代码风格指南为基础.
 
 #### 机器学习@
 
@@ -955,6 +971,7 @@ A curated list of iOS objective-C ecosystem.
 * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - 是一个快速、简单，但很强大的日志框架，可以自定义打印日志的颜色.
 * [Quick](https://github.com/Quick/Quick) - 非常赞👍👍👍 用于Swift中的单元测试（也可用于Objective-C），与Xcode整合在一起。如果你是Objective-C的粉丝，我建议用Specta代替这个，但是对Swift使用者来说，Quick是最佳选择.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - XCGLogger.swift功能完整的日志管理类库.
+* [Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times) - Collection of advice on optimizing compile times of Swift projects.
 * [FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) - 支持同时启动多个模拟器的库，FaceBook出品.
 * [depcheck](https://github.com/wojteklu/depcheck) - Swift 工程分析工具(Dependency analyzer tool for Swift projects).
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - 相当于 CocoaLumberjack 或 Log4j 的 Swift 版本，功能上甚至更强大。另外，源代码中已经内含了完整的 API 文档，使用非常方便.
@@ -1117,6 +1134,7 @@ A curated list of iOS objective-C ecosystem.
 * [AlternativeIcon-Example](https://github.com/KimDarren/AlternativeIcon-Example) 😱 Change your iOS application's icon programmatically since iOS 10.3
 * [Eureka](https://github.com/xmartlabs/Eureka) 简洁方便的 iOS 表单生成器 （Swift 3）
 * [SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin) A tool to convert Swift code to Kotlin.
+* [Archit-iOS](https://github.com/intelygenz/Archit-iOS) - Intelygenz iOS Architecture.
 
 #### game@
 
