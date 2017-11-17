@@ -185,7 +185,6 @@ A curated list of iOS objective-C ecosystem.
 
 * [expo](https://github.com/expo/expo) - Expo iOS/Android Client https://docs.expo.io/.
 * [PPRows for Mac](https://github.com/jkpang/PPRows) - 在Mac上优雅的计算你写了多少行代码.
-* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - iOS开源App集合(swift、Objective-C).
 * [NewsBlur](https://github.com/samuelclay/NewsBlur) - 作者独自一个人 Samuel Clay 做出来的一款名为 NewsBlur 的新闻阅读器, 很多人都称其为 Google Reader 的替代品, 这是它的源码.
 * [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) - 用React Native 完成的 HackerNews 客户端.
 * [WeChat](https://github.com/zhengwenming/WeChat)- 实现类似微信朋友圈或者QQ空间，评论回复，九宫格布局。处理键盘弹出后定位到当前点击的被评论人处。另：滑动时候FPS在57-60之间，纵享丝滑.
@@ -597,7 +596,8 @@ A curated list of iOS objective-C ecosystem.
 
 #### AR@
 
-* [AR-Source](https://github.com/GeekLiB/AR-Source) AR开发资料汇总.
+* [AR-Source](https://github.com/GeekLiB/AR-Source) - AR开发资料汇总.
+* [ARShooter](https://github.com/farice/ARShooter) - A demo Augmented Reality shooter made with ARKit in Swift (iOS 11) http://texnotes.me/post/5/.
 
 #### 二维码@
 
@@ -2059,11 +2059,12 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 * [awesome-ios](https://github.com/vsouza/awesome-ios) 一个非常棒👍👍👍 的开源库集合.
 * [awesome-osx](https://github.com/iCHAIT/awesome-osx) - 一个非常棒👍👍👍的Mac OS X开源库集合。
-* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - 收集了不少 iOS UI/UX 库, 包含了很多酷炫的动画效果。
-* [awesome-mac](https://github.com/jaywcjlove/awesome-mac)  Mac软件、开发工具、设计工具集合
-* [ios-cosmos](http://www.ios-cosmos.com/) - The iOS Cosmos：收录了iOS绝大部分的开源框架和工具。
-* [Awesome Haskell资料大全](https://haskell.zeef.com/konstantin.skipor#block_28362_basics) -    Awesome Haskell 资料大全：框架，库和软件。
-* [Cosmos](http://ios-cosmos.com) - The iOS Cosmos：收录了IOS绝大部分的开源框架和工具。
+* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - iOS开源App集合(swift、Objective-C).
+* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - 收集了不少 iOS UI/UX 库, 包含了很多酷炫的动画效果.
+* [awesome-mac](https://github.com/jaywcjlove/awesome-mac)  - Mac软件、开发工具、设计工具集合.
+* [ios-cosmos](http://www.ios-cosmos.com/) - The iOS Cosmos：收录了iOS绝大部分的开源框架和工具.
+* [Awesome Haskell资料大全](https://haskell.zeef.com/konstantin.skipor#block_28362_basics) - Awesome Haskell 资料大全：框架，库和软件.
+* [Cosmos](http://ios-cosmos.com) - The iOS Cosmos：收录了IOS绝大部分的开源框架和工具.
 * [cocoacontrols](https://www.cocoacontrols.com/) -  收集了很多UI控件效果代码，缺点是需要翻墙，而且代码分类不够好。
 * [lexrus](https://github.com/lexrus) -  lexrus国内出名的iOS开源coder，非常酷的label动画、textfield动画。
 * [适合iOS开发者的15大网站推荐](http://www.csdn.net/article/2015-03-04/2824108-ios-developers-sites) -  适合 iOS 开发者的 15 大网站推荐 --- 英文网站。
@@ -2189,3 +2190,4 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 * [GCDWebServer](https://github.com/swisspol/GCDWebServer) - 基于GCD的轻量级的HTTP服务器.
 * [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
+* [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
