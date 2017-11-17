@@ -1117,3 +1117,8 @@ A curated list of iOS objective-C ecosystem.
 * [AlternativeIcon-Example](https://github.com/KimDarren/AlternativeIcon-Example) 😱 Change your iOS application's icon programmatically since iOS 10.3
 * [Eureka](https://github.com/xmartlabs/Eureka) 简洁方便的 iOS 表单生成器 （Swift 3）
 * [SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin) A tool to convert Swift code to Kotlin.
+
+#### game@
+
+* [VirtualGameController](https://github.com/robreuss/VirtualGameController) - Software-based game controllers for iOS, tvOS, OS X and watchOS in Swift 4.
+* [SaveTheDot](https://github.com/JakeLin/SaveTheDot) - A game developed using UIViewPropertyAnimator.
