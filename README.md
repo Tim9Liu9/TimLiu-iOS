@@ -2046,7 +2046,8 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [iOS开发的一些奇巧淫技2](http://www.jianshu.com/p/08f194e9904c) -  用一个pan手势来代替UISwipegesture的各个方向、拉伸图片、播放GIF、上拉刷新、把tableview里cell的小对勾的颜色改变、navigationbar弄成透明的而不是带模糊的效果、改变uitextfield placeholder的颜色和位置。
 * [cocoapods安装指南](http://code4app.com/article/cocoapods-install-usage) - cocoapods安装指南。
 * [RemoteControl](https://github.com/johnno1962/Remote) - Control your iPhone from inside Xcode for end-to-end testing 。
-* [MVVM 介绍](http://objccn.io/issue-13-1/) - 替换MVC的开发模式。
+* [iOS](https://github.com/Lafree317/iOS) - iOS资源大全中文版.
+* [MVVM 介绍](http://objccn.io/issue-13-1/) - 替换MVC的开发模式.
 * [第三方接口](http://apistore.baidu.com/astore/index) - 基本所有第三方接口都在这，再也不用那么麻烦去找了。
 * [提高iOS开发效率的方法和工具](http://yyny.me/ios/%E6%8F%90%E9%AB%98iOS%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E7%9A%84%E6%96%B9%E6%B3%95%E5%92%8C%E5%B7%A5%E5%85%B7/) - 提高iOS开发效率的方法和工具。
 * [禅与 Objective-C 编程艺术](https://github.com/oa414/objc-zen-book-cn) - 禅与 Objective-C 编程艺术 （Zen and the Art of the Objective-C Craftsmanship 中文翻译）。
