@@ -26,7 +26,7 @@ A curated list of iOS objective-C ecosystem.
   - [页面路由@](#页面路由)
   - [KVO@](#KVO)
   - [版本管理@](#版本管理)
-  - [混编@](#混编)
+  - [混合开发@](#混合开发)
   - [设计模式@](#设计模式)
 - [服务端@](@服务端)  
 - [网络@](#网络)
@@ -234,9 +234,10 @@ A curated list of iOS objective-C ecosystem.
 * [CocoaPods](https://github.com/CocoaPods/CocoaPods) - 非常好用的依赖库管理工具.
 * [Sword](https://github.com/Azoy/Sword) - Discord library for Swift http://sword.azoy.me.
 
-#### 混编@
+#### 混合开发@
 
 * [SwiftPython](https://github.com/johnno1962/SwiftPython) - Experiments in bridging Swift to Python.
+* [hera](https://github.com/weidian-inc/hera) - Hera 是一个用小程序方式来写跨平台应用的开发框架，使用它可以让你的小程序除了在微信上运行，还可以打包成 Android 、 iOS应用，以及以h5的方式跑在浏览器端.
 
 #### 设计模式@
 
