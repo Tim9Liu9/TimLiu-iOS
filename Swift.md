@@ -230,8 +230,9 @@ A curated list of iOS objective-C ecosystem.
 
 #### 版本管理@
 
-* [Carthage](https://github.com/Carthage/Carthage) 非常好用的类似CocoaPods的依赖库管理工具。
-* [CocoaPods](https://github.com/CocoaPods/CocoaPods) 非常好用的依赖库管理工具。
+* [Carthage](https://github.com/Carthage/Carthage) - 非常好用的类似CocoaPods的依赖库管理工具.
+* [CocoaPods](https://github.com/CocoaPods/CocoaPods) - 非常好用的依赖库管理工具.
+* [Sword](https://github.com/Azoy/Sword) - Discord library for Swift http://sword.azoy.me.
 
 #### 混编@
 
@@ -713,6 +714,7 @@ A curated list of iOS objective-C ecosystem.
 * [CenteredCollectionView](https://github.com/BenEmdon/CenteredCollectionView) - 轻量级的CollectionViewCell左右滑动效果，类似电影App选电影的效果.
 * [WCLWaterFallLayout](https://github.com/631106979/WCLWaterFallLayout) - 用swift写的简易的瀑布流布局，简单易用，支持多行展示，实现过程：http://blog.csdn.net/wang631106979/article/details/53793046 .
 * [LNZTreeView](https://github.com/gringoireDM/LNZTreeView) - 一个树状的列表View.
+* [FunctionalTableData](https://github.com/Shopify/FunctionalTableData) - Declarative UITableViewDataSource implementation.
 
 #### 图表@
 
@@ -1140,3 +1142,4 @@ A curated list of iOS objective-C ecosystem.
 
 * [VirtualGameController](https://github.com/robreuss/VirtualGameController) - Software-based game controllers for iOS, tvOS, OS X and watchOS in Swift 4.
 * [SaveTheDot](https://github.com/JakeLin/SaveTheDot) - A game developed using UIViewPropertyAnimator.
+* [TouchBreakout](https://github.com/songkuixi/TouchBreakout) - Play Breakout Game on your Touch Bar, using SpriteKit.
