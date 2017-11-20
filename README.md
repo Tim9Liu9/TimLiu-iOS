@@ -247,6 +247,7 @@ A curated list of iOS objective-C ecosystem.
 * [HiPDA](https://github.com/leizh007/HiPDA) - HiPDA的非官方客户端（iOS版）.
 * [yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo) - a demo developed using weex/weex高仿网易严选App.
 * [MeiTuan](https://github.com/huanxsd/MeiTuan) - 高仿美团客户端 React-Native版，支持iOS、Android.
+* [OneM](https://github.com/guangqiang-liu/OneM) - OneM是一款纯ReactNative打造的集杂志浏览、音乐播放、视频播放于一体的综合性App,并且支持iOS和Android双平台.
 
 #### 框架@                                               
 
@@ -1299,6 +1300,7 @@ A curated list of iOS objective-C ecosystem.
 #### 富文本@   [返回目录](#目录)
 
 * [YYText](https://github.com/ibireme/YYText) - 功能强大的 iOS 富文本框架.
+* [SJAttributesFactory](https://github.com/changsanjiang/SJAttributesFactory) - 富文本编辑工厂, 让代码更清晰. 文本编辑, 高度计算等等... 简便操作, 让你爽到爆.
 * [Shimmer](https://github.com/facebook/Shimmer) - BlingBling闪光效果，酷炫的Label的效果，可以用于加载等待提示.
 * [GRichLabel ](https://github.com/GIKICoder/GRichLabel) - 支持选择复制.支持自定义选择弹出menu的富文本Label.内部使用YYAsyncLayer提供异步绘制任务.
 * [TFHpple ](https://github.com/topfunky/hpple) - TFHpple解析html的轻量级框架.
@@ -2158,11 +2160,12 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 #### mac@
 
-* [radiant-player-mac](https://github.com/radiant-player/radiant-player-mac) 一个Google Play音乐转换成与Mac整合的独立，美观的mac音乐播放器。
-* [DevDataTool](https://github.com/MxABC/DevDataTool) OSX系统 转换、加解密工具
-* [LuLu](https://github.com/objective-see/LuLu) 防火墙 LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic
-* [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开
-* [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) A dynamic library tweak for WeChat macOS - 微信 macOS 客户端撤回拦截与多开
+* [radiant-player-mac](https://github.com/radiant-player/radiant-player-mac) - 一个Google Play音乐转换成与Mac整合的独立，美观的mac音乐播放器.
+* [DevDataTool](https://github.com/MxABC/DevDataTool) - OSX系统 转换、加解密工具.
+* [LuLu](https://github.com/objective-see/LuLu) - 防火墙 LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic.
+* [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开.
+* [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 微信 macOS 客户端撤回拦截与多开.
+* [highsierramediakeyenabler](https://github.com/milgra/highsierramediakeyenabler) - MacOS High Sierra Media Key Enabler for iTunes.
 
 #### 开发环境@
 
