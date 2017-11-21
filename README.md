@@ -569,6 +569,7 @@ A curated list of iOS objective-C ecosystem.
 * [INPopoverController](https://github.com/indragiek/INPopoverController) - OS X可自由定制的  Popover 视图.
 * [WZXJianShuPopDemo](https://github.com/Wzxhaha/WZXJianShuPopDemo) - 仿简书、淘宝等等的View弹出效果，已封装好，使用简单。[实现原理](http://www.jianshu.com/p/a697d2a38b3c)
 * [LSAnimator](https://github.com/Lision/LSAnimator) - 非侵入式的多链式动画.
+* [PearlSaver](https://github.com/insidegui/PearlSaver) - Face ID detection animation as a screensaver.
 
 #### 转场@
 
