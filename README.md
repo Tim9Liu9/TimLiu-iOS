@@ -71,6 +71,7 @@ A curated list of iOS objective-C ecosystem.
   - [图像圆角@](#图像圆角)
 - [数据结构/算法@](#数据结构/算法)
 - [上架@](#上架)
+- [iOS11@](#iOS)
 - [应用内支付@](#应用内支付)
 - [Xcode8插件@](#Xcode8插件)
 - [动态更新@](#动态更新)
@@ -824,6 +825,10 @@ A curated list of iOS objective-C ecosystem.
 #### 上架@
 
 * [Solve-App-Store-Review-Problemm](https://github.com/wg689/Solve-App-Store-Review-Problem) - (ipv6,ipv6被拒绝,后台定位等审核问题的终极解决方案汇总).
+
+#### iOS11@
+
+* [iOS11](https://github.com/2877025939/iOS11) - 这里总结了大家iOS 11，iPhone X 适配问题.如有问题，欢迎大家讨论.
 
 #### 应用内支付@
 
