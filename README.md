@@ -1868,6 +1868,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [AvoidCrash](https://github.com/chenfanfang/AvoidCrash) 利用runtime处理崩溃问题的一个框架
 * [iConsole](https://github.com/nicklockwood/iConsole) - 调试利器 In-app console for viewing logs and typing debug commands in iPhone apps.
 * [RealmBrowser-iOS](https://github.com/TimOliver/RealmBrowser-iOS) - A native iOS debugging framework for introspecting Realm files on device.
+* [iOS-Debug-Hacks](https://github.com/aozhimin/iOS-Debug-Hacks) - 项目开发过程中用到的高级调试技巧，涉及三方库动态调试、静态分析和反编译等领域.
 
 #### Xcode工具@
 
@@ -2068,6 +2069,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [Apple-OfficialTranslation-SourceAnnotation](https://github.com/CustomPBWaters/Apple-OfficialTranslation-SourceAnnotation) Apple官方译文框架源码注解，当你「了解权威 & 进阶原理」的时候，网搜的众多中 ~ ~（自行脑补）。一劳永逸，渐进式学习。 以简化初学者入门和老司机回顾的繁索过程，尽快切入主题，快速使用起来。
 * [RuntimeBrowser](https://github.com/nst/RuntimeBrowser) This is a class browser for the Objective-C runtime on iOS and OS X.
 * [iOS10AdaptationTips](https://github.com/ChenYilong/iOS10AdaptationTips) - for iOS10 in [ObjC, Swift, English, 中文] {...}.
+* [blog](https://github.com/jiajunhuang/blog) - 个人博客.
 
 #### 其他开源@
 
