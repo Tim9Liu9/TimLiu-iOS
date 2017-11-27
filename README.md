@@ -651,7 +651,6 @@ A curated list of iOS objective-C ecosystem.
 * [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - 非常赞 基于AVPlayer，支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度.
 * [WMPlayer](https://github.com/zhengwenming/WMPlayer) 赞 WMPlayer视频播放器，AVPlayer的封装，继承UIView，想怎么玩就怎么玩。支持播放mp4、m3u8、3gp、mov，网络和本地视频同时支持。全屏和小屏播放同时支持。 cell中播放视频，全屏小屏切换自如.
 * [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) - 一个能够在国内播放YouTube视频的播放器.
-* [HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo) - iOS端视频弹幕.
 * [MRVLCPlayer](https://github.com/Maru-zhang/MRVLCPlayer) - 相信Mac用户都很熟悉一款VLC播放器，这款播放器在Mac上表现异常优异，支持的格式几乎涵盖了所有格式（就是这么屌！）。没错，就是它创造者--VideoLAN，开源了一款牛逼的视频播放框架MobileVLCKit！[介绍信息：] (http://gold.xitu.io/entry/578c304b2e958a0054320503?from=singlemessage&isappinstalled=1).
 * [plask](https://github.com/deanm/plask) - Plask is a multimedia programming environment.
 * [KRVideoPlayer](https://github.com/36Kr-Mobile/KRVideoPlayer) - 36Kr出品的类似Weico的播放器，支持竖屏模式下全屏播放.
@@ -700,6 +699,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [BarrageRenderer](https://github.com/unash/BarrageRenderer) - 一个 iOS 上的弹幕渲染库.
 * [LiveSendGift](https://github.com/Jonhory/LiveSendGift) - 直播发送弹幕效果.
+* [HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo) - iOS端视频弹幕.
 
 #### 直播@
 
@@ -827,7 +827,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [Solve-App-Store-Review-Problemm](https://github.com/wg689/Solve-App-Store-Review-Problem) - (ipv6,ipv6被拒绝,后台定位等审核问题的终极解决方案汇总).
 
-#### iOS11
+#### iOS11@
 
 * [iOS11](https://github.com/2877025939/iOS11) - 这里总结了大家iOS 11，iPhone X 适配问题.如有问题，欢迎大家讨论.
 
@@ -1984,10 +1984,11 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [NKWatchChart](https://github.com/NilStack/NKWatchChart) - NKWatchChart是一个基于PNChart专门为Apple Watch 开发的图表库,目前支持 line, bar, pie, circle 和 radar 等 图表形式。
 * [BeijingAirWatch](https://github.com/diwu/BeijingAirWatch) - 国人的开源项目代码 ！WatchOS 2.0 Complication of Real-time Air Quality for Major Chinese Cities 苹果表盘实时刷新北上广沈蓉空气质量。
 
-#### VPN完整项目@
+#### VPN@
 
-* [Hydro.network](https://github.com/CatchChat/Hydro.network) - [Hydro.network 的开发旅程](http://blog.zhowkev.in/2015/03/09/hydro-network-de-kai-fa-lu-cheng/), [gitcafe](https://gitcafe.com/Catch/Hydro.network)。
-* [Potatso](https://github.com/shadowsocks/Potatso) 基于iOS 9 的 NetworkExtension 框架实现 Shadowsocks 代理，由国人开发，虽然还有很多问题不过确实值得期待。
+* [Hydro.network](https://github.com/CatchChat/Hydro.network) - [Hydro.network 的开发旅程](http://blog.zhowkev.in/2015/03/09/hydro-network-de-kai-fa-lu-cheng/), [gitcafe](https://gitcafe.com/Catch/Hydro.network).
+* [Potatso](https://github.com/shadowsocks/Potatso) - 基于iOS 9 的 NetworkExtension 框架实现 Shadowsocks 代理，由国人开发，虽然还有很多问题不过确实值得期待.
+* [forum](https://github.com/getlantern/forum) - 蓝灯(Lantern)官方论坛.
 
 #### 好的文章@
 
