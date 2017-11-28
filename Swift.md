@@ -45,6 +45,7 @@ A curated list of iOS objective-C ecosystem.
   - [缓存处理@](#缓存处理)
   - [CoreData@](#CoreData)
   - [数据库@](#数据库)
+- [钥匙链@](#钥匙链)
 - [多媒体@](#多媒体)
   - [相机@](#相机)
   - [二维码@](#二维码)
@@ -121,8 +122,6 @@ A curated list of iOS objective-C ecosystem.
 - [Email@](#email)
 - [三方分享、支付、登录等等@](#三方分享支付登录等等)
 - [其他库@](#其他库)
-- [VR@](VR@)
-- [AR@](AR@)
 - [蓝牙@][蓝牙@]
 - [地图@](#地图)
 - [通知@](#通知)
@@ -134,6 +133,7 @@ A curated list of iOS objective-C ecosystem.
 - [物联网@](#物联网)
 - [mac@](#mac)
 - [未分类@](#未分类)
+- [后台@](#后台)
 
 -------
 具体内容
@@ -163,11 +163,12 @@ A curated list of iOS objective-C ecosystem.
 * [iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples) Examples of new iOS 11 APIs.
 * [NotchKit](https://github.com/HarshilShah/NotchKit) A simple way to hide the notch on the iPhone X.
 * [HairPowder](https://github.com/intmain/HairPowder) Hair Powder for iPhoneX "M" Shape pattern baldness design.
+* [iPhoneMoCapiOS](https://github.com/johnjcsmith/iPhoneMoCapiOS) - Real-time Facial Performance Capture with iPhone X.
 
 #### 完整App@
 
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)Collaborative List of Open-Source iOS Apps 非常赞👍👍👍 。
-* [Swift 30 Projects](https://github.com/soapyigu/Swift30Projects) - 最新 Swift 3.0 的30个小App，更注重代码规范和架构设计(故胤道长)
+* [Swift 30 Projects](https://github.com/soapyigu/Swift30Projects) - 最新 Swift 3.0 的30个小App，更注重代码规范和架构设计(故胤道长).
 * [V2ex-Swift](https://github.com/Finb/V2ex-Swift) - 用 Swift 写的 V2EX 客户端。
 * [iBBS-Swift](https://github.com/iAugux/iBBS-Swift) - “新手开源一个用Swift（2.0）写的论坛客户端”。[BBS 服务端](http://obbs.sinaapp.com/)。
 * [NirZhihuDaily2.0_swift](https://github.com/zpz1237/NirZhihuDaily2.0) - 精仿了知乎日报iOS端练手，Swift2.0，注释相当详细。
@@ -210,6 +211,8 @@ A curated list of iOS objective-C ecosystem.
 * [katana-swift](https://github.com/BendingSpoons/katana-swift)一个用于编写iOS应用程序的现代Swift框架，灵感来自React和Redux。 Swift Apps in a Swoosh! A modern framework for creating iOS apps, inspired by React and Redux.
 * [SwiftyMocky](https://github.com/MakeAWishFoundation/SwiftyMocky) - Framework for mock generation.
 * [Flix](https://github.com/DianQK/Flix) - 快速搭建列表类界面的框架.
+* [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
+* [Lona](https://github.com/airbnb/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, images, and other artifacts.
 
 #### 响应式框架@
 
@@ -358,6 +361,8 @@ A curated list of iOS objective-C ecosystem.
 * [layout](https://github.com/schibsted/layout) - A declarative UI framework for iOS.
 * [CassowarySwift](https://github.com/tribalworldwidelondon/CassowarySwift) - A Swift port of the Cassowary linear constraint solver.
 * [Windless](https://github.com/Interactive-Studio/Windless) - Windless makes it easy to implement invisible layout loading view.
+* [KeyboardLayoutGuide](https://github.com/freshOS/KeyboardLayoutGuide) - ⌨️ Apple's missing KeyboardLayoutGuide.
+* [Yalta](https://github.com/kean/Yalta) - An intuitive and powerful Auto Layout library.
 
 #### 数据存储@
 
@@ -407,6 +412,10 @@ A curated list of iOS objective-C ecosystem.
 * [Redis](https://github.com/PerfectlySoft/Perfect-Redis) - A Swift wrapper around the Redis client library, enabling access to Redis. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
 * [PostgreSQL](https://github.com/PerfectlySoft/Perfect-PostgreSQL) - A Swift wrapper around the libpq client library, enabling access to PostgreSQL servers. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
 * [FileMaker](https://github.com/PerfectlySoft/Perfect-FileMaker) - A Swift wrapper around the FileMaker XML Web publishing interface, enabling access to FileMaker servers. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
+
+#### 钥匙链@
+
+* [EllipticCurveKeyPair](https://github.com/agens-no/EllipticCurveKeyPair) - Sign, verify, encrypt and decrypt using the Secure Enclave.
 
 #### 多媒体@
 #### 相机@
@@ -476,6 +485,7 @@ A curated list of iOS objective-C ecosystem.
 * [ARCharts](https://github.com/Boris-Em/ARCharts) Lovely Augmented Reality Charts for iOS - Built with ARKit
 * [arkit-smb-homage](https://github.com/bjarnel/arkit-smb-homage) An implementation of a Super Mario Bros-like game in augmented reality with ARKit and SceneKit.
 * [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) Code examples for ARKit.
+* [ARVideoKit](https://github.com/AFathi/ARVideoKit) - Capture & record ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆..
 
 #### 全景@
 
@@ -604,8 +614,9 @@ A curated list of iOS objective-C ecosystem.
 
 #### 动画@
 
-* [FleaMarket](https://github.com/SunLiner/FleaMarket) "咸鱼"新特性-视频动画
-* [fave-button](https://github.com/xhamr/fave-button) 给button增加了很多可爱的动画.
+* [FleaMarket](https://github.com/SunLiner/FleaMarket) - "咸鱼"新特性-视频动画.
+* [fave-button](https://github.com/xhamr/fave-button) - 给button增加了很多可爱的动画.
+* [UIWindowTransitions](https://github.com/malcommac/UIWindowTransitions) - Animated transitions for UIWindow's rootViewController property.
 
 #### 转场动画@
 
@@ -731,6 +742,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 时间@
 
+* [Chronology](https://github.com/davedelong/Chronology) - Building a better date/time library for Swift.
 * [D2PDatePicker](https://github.com/di2pra/D2PDatePicker) - Elegant and Easy-to-Use iOS Swift Date Picker.
 
 #### 下拉刷新@
@@ -967,7 +979,8 @@ A curated list of iOS objective-C ecosystem.
 
 #### Xcode相关@
 
-* [FengNiao](https://github.com/onevcat/FengNiao) 一个清理Xcode中没使用的资源文件的命令行工具.
+* [FengNiao](https://github.com/onevcat/FengNiao) - 一个清理Xcode中没使用的资源文件的命令行工具.
+* [stylesync](https://github.com/dylanslewis/stylesync) - A command line tool to extract shared styles from a Sketch document, and generate native code for any platform.
 
 #### 测试调试@
 
@@ -1116,11 +1129,12 @@ A curated list of iOS objective-C ecosystem.
 * [soon](https://github.com/sandofsky/soon) - 一款倒计时 WatchKit 示例应用。作者从架构的角度，思考如何设计一款完整、通讯高效且性能又好的 WatchKit 扩展应用。
 * [MMWormhole.swift](https://github.com/mutualmobile/MMWormhole) - MMWormhole.swift:iOS或OS X扩展与宿主应用的通讯框架。
 * [overlook](https://github.com/wess/overlook) 可以监测目标目录文件改变，执行对应命令的后台及命令行工具 The Judge, Jury and Executioner for the file system.
+* [CircularCrownSelector](https://github.com/mkchoi212/CircularCrownSelector) - watchOS UI for a circular selection menu.
 
 #### VPN@
 
-* [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) Next Generation of ShadowsocksX
-* [vpnon](https://github.com/lexrus/vpnon/) - swift的VPN On 的源码和本地化内容都是开放的: [官方网站](https://crowdin.com/project/vpnon)。
+* [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX.
+* [vpnon](https://github.com/lexrus/vpnon/) - swift的VPN On 的源码和本地化内容都是开放的: [官方网站](https://crowdin.com/project/vpnon).
 * [Potatso](https://github.com/haxpor/Potatso) 一个实现Shadowsocks代理的客户端.
 
 #### 物联网@
@@ -1138,9 +1152,14 @@ A curated list of iOS objective-C ecosystem.
 * [Eureka](https://github.com/xmartlabs/Eureka) 简洁方便的 iOS 表单生成器 （Swift 3）
 * [SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin) A tool to convert Swift code to Kotlin.
 * [Archit-iOS](https://github.com/intelygenz/Archit-iOS) - Intelygenz iOS Architecture.
+* [Snap.swift](https://github.com/skyweb07/Snap.swift) - Snapshot testing in a snap 🎨 .
 
 #### game@
 
 * [VirtualGameController](https://github.com/robreuss/VirtualGameController) - Software-based game controllers for iOS, tvOS, OS X and watchOS in Swift 4.
 * [SaveTheDot](https://github.com/JakeLin/SaveTheDot) - A game developed using UIViewPropertyAnimator.
 * [TouchBreakout](https://github.com/songkuixi/TouchBreakout) - Play Breakout Game on your Touch Bar, using SpriteKit.
+
+#### 后台@
+
+* [Httper-iOS](https://github.com/MuShare/Httper-iOS) - App for developers to test REST API. https://httper.mushare.cn.
