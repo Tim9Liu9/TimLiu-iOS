@@ -38,7 +38,7 @@ A curated list of iOS objective-C ecosystem.
       - [CSV](#csv)
       - [JSON@](#json)
       - [XML&HTML@](#xml&html)
-      - [Other Parsing@](#other-parsing)
+- [block@](#block)
 - [数据存储@](#数据存储)
   - [缓存处理@](#缓存处理)
   - [序列化@](#序列化)
@@ -268,6 +268,8 @@ A curated list of iOS objective-C ecosystem.
 * [EVNEstorePlatform](https://github.com/zonghongyan/EVNEstorePlatform)  - App项目框架 [简书解析](http://www.jianshu.com/p/89e25c288d76?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [QMUI_iOS](https://github.com/QMUI/QMUI_iOS) - QMUI iOS——致力于提高项目 UI 开发效率的解决方案.
 * [UniversalProject](https://github.com/XuYang8026/UniversalProject) - 基于MVC架构的iOS轻量级框架，封装了基类、基于猿题库YTKNetwork的网络服务、工具库，NavigationController转场动画/瀑布流/粒子动画/小demo，已适配iOS11 & iPhone X.
+* [coderZsq.project.oc](https://github.com/coderZsq/coderZsq.project.oc) - A lightweight and efficient application development tool set for iOS, and accelerating the developing speed.
+* [AppManager](https://github.com/nanchen2251/AppManager) - 🔥 An elegant exit application and restart mechanism management.
 
 #### React@
 
@@ -277,6 +279,9 @@ A curated list of iOS objective-C ecosystem.
 * [BeeFramework](https://github.com/gavinkwoe/BeeFramework) -  与ReactiveCocoa类似，[BeeFramework用户指南 v1.0](http://www.lanrenios.com/tutorials/all/2012/1220/641.html)。
 * [Objective-Chain](https://github.com/Tricertops/Objective-Chain) - Objective-Chain是一个面向对象的响应式框架，作者表示该框架吸收了 ReactiveCocoa 的思想，并且想做得更面向对象一些。
 * [MVVMFramework](https://github.com/lovemo/MVVMFramework) - (OC版)总结整理下一个快速开发框架，分离控制器中创建tableView和collectionView的代码，已加入cell自适应高度，降低代码耦合，提高开发效率。
+* [react-native-config](https://github.com/luggit/react-native-config) - Bring some 12 factor love to your mobile apps.
+* [react-native-syan-image-picker](https://github.com/syanbo/react-native-syan-image-picker) - React-Native 多图片选择 支持裁剪 压缩.
+* [ReactNative的理解与思考,三端同一套代码的实践](http://www.jianshu.com/p/1144469bf81f?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io).
 
 #### framework@
 
@@ -436,6 +441,10 @@ A curated list of iOS objective-C ecosystem.
 * [SwiftyXMLParer](https://github.com/yahoojapan/SwiftyXMLParser) - Simple XML Parser implemented in Swift  :large_orange_diamond:
 * [HTMLKit](https://github.com/iabudiab/HTMLKit) - An Objective-C framework for your everyday HTML needs.
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing in Swift :large_orange_diamond:
+
+#### block@
+
+* [adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for iOS, Android, Chrome, and Opera. https://adblockfast.com/.
 
 #### 数据存储@
 
@@ -689,6 +698,7 @@ A curated list of iOS objective-C ecosystem.
 * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) - ALCameraViewController 摄像头视图控制器（含可定制照片选择器，图片简单裁切功能）及演示.
 * [VideoBeautify](https://github.com/xujingzhou/VideoBeautify) - 功能酷似美拍,秒拍等应用的源码：对视频进行各种美化处理，采用主题形式进行分类，内含各种滤镜，动画特效和音效等.
 * [IPDFCameraViewController](https://github.com/mmackh/IPDFCameraViewController) - 支持相机定焦拍摄、滤镜、闪光、实时边框检测以及透视矫正功能，并有简单易用的API.
+* [LLSimpleCamera](https://github.com/omergul/LLSimpleCamera) - A simple, customizable camera control - video recorder for iOS.
 
 #### 视频剪切@
 
@@ -1073,6 +1083,7 @@ A curated list of iOS objective-C ecosystem.
 * [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification) - 酷炫的通知栏，多种通知样式，使用简单,非常赞👍 .
 * [GLPubSub](https://github.com/Glow-Inc/GLPubSub) - 一个简短实用的 NSNotificationCenter 的封装.
 * [JDStatusBarNotification](https://github.com/jaydee3/JDStatusBarNotification) - 在状态栏顶部显示通知。可以自定义颜色字体以及动画。支持进度显示以及显示状态指示器.
+* [obito](https://github.com/jiajunhuang/obito) - an iOS notification service out of box.
 
 #### 状态栏@
 
@@ -1163,6 +1174,7 @@ A curated list of iOS objective-C ecosystem.
 * [HZQDatePickerView](https://github.com/huzhiqin/HZQDatePickerView) - 自定义时间选择器(日期选择器)，包括开始日期和结束日期两种类型.
 * [CFCityPickerVC](https://github.com/CharlinFeng/CFCityPickerVC) - 城市选取控制器.
 * [JFCitySelector](https://github.com/zhifenx/JFCitySelector) -（仿美团）简单好用的城市选择器，三行代码搞定.
+* [PGDatePicker](https://github.com/xiaozhuxiong121/PGDatePicker) - 日期选择器，支持年、年月、年月日、年月日时分、年月日时分秒、时分、时分秒、月日周 时分等.
 
 #### 购物车@
 
@@ -1398,6 +1410,7 @@ A curated list of iOS objective-C ecosystem.
 #### ipad@
 
 * [UISplitViewControllerDemo](https://github.com/NatashaTheRobot/UISplitViewControllerDemo) - iOS8 UISplitViewController Demo.
+* [Shadertweak](https://github.com/warrenm/Shadertweak) - An iPad app that allows you to rapidly prototype fragment shaders in the Metal shading language.
 
 #### 通讯@
 
@@ -2184,6 +2197,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开.
 * [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 微信 macOS 客户端撤回拦截与多开.
 * [highsierramediakeyenabler](https://github.com/milgra/highsierramediakeyenabler) - MacOS High Sierra Media Key Enabler for iTunes.
+* [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system for Mac OS X.
 
 #### 开发环境@
 
@@ -2194,8 +2208,13 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 * [TrafficLights-DeepLearning-iOS](https://github.com/asavihay/TrafficLights-DeepLearning-iOS) 利用Caffe深度学习执着的一个交通灯信号检测App
 
+#### game@
+
+* [Retro](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS.
+
 #### 前端@
 
+* [blog](https://github.com/zhiqiang21/blog) - 记录前端开发日常点滴。为梦想Coding...
 * [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - 非常棒👍👍👍  We’re a community that helps you learn to code, then get experience by contributing to open source projects used by
  nonprofits.
