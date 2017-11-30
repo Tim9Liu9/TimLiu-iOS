@@ -296,6 +296,7 @@ A curated list of iOS objective-C ecosystem.
 * [Objective-C-RSA](https://github.com/ideawu/Objective-C-RSA) - Doing RSA encryption and decryption with Objective-C on iOS.
 * [NSDictionary-NilSafe](https://github.com/allenhsu/NSDictionary-NilSafe) - How we made NSDictionary nil safe at Glow.
 * [Myriam](https://github.com/GeoSn0w/Myriam) - A vulnerable iOS App with Security Challenges for the Security Researcher inside you.
+* [Hopper App](https://www.hopperapp.com/) - Hopper Disassembler是一款逆向工程工具，iOS爱好者可以使用它来进行反汇编，反编译和调试应用程序。此工具也可用于修改和重组代码。你只需在你的macOS或Linux系统上启动该应用，然后将其指向你需要破解的二进制文件即可。总的来说Hopper是一款非常好用的逆向工程工具，对于热衷于iOS漏洞赏金的人而言，无疑它将成为一个首选.
 
 #### 网络@
 #### 网络请求@
@@ -2217,6 +2218,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 
 #### 前端@
 
+* [fks](https://github.com/JacksonTian/fks) - 前端技能汇总 Frontend Knowledge Structure.
 * [blog](https://github.com/zhiqiang21/blog) - 记录前端开发日常点滴。为梦想Coding...
 * [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - 非常棒👍👍👍  We’re a community that helps you learn to code, then get experience by contributing to open source projects used by
@@ -2230,6 +2232,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 * [public-apis](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development.
 * [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack) - 【应用号】IDE + 破解 + Demo.
+* [taobao](https://github.com/KeithChou/taobao) - 淘宝购物车站点.
 
 #### 后台@
 
