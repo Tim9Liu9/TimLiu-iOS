@@ -649,6 +649,7 @@ A curated list of iOS objective-C ecosystem.
 * [amr](http://www.penguin.cz/~utx/amr) - 做即时通讯的音频处理，录音文件是m4a，便于web端的音频播放.
 * [边录音边转码](http://code4app.com/ios/%E8%BE%B9%E5%BD%95%E9%9F%B3%E8%BE%B9%E8%BD%AC%E7%A0%81/521c65d56803fab864000001) - 一边录音，一边将录制成的 wav 格式音频文件转码成 amr 音频格式。只支持真机运行调试.
 * [DFPlayer](https://github.com/ihoudf/DFPlayer) - 简单又灵活的iOS音频播放组件.
+* [KTVHTTPCache](https://github.com/ChangbaDevs/KTVHTTPCache) - 音视频在线播放缓存框架.
 
 #### 视频@
 #### 视频播放@
@@ -2226,6 +2227,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [wiki](https://github.com/d3/d3/wiki) - D3 (Data-Driven Documents or D3.js) is a JavaScript library for visualizing data using web standards.
 * [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 * [public-apis](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development.
+* [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack) - 【应用号】IDE + 破解 + Demo.
 
 #### 后台@
 
@@ -2233,3 +2235,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 * [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 * [Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN) - Python最佳实践指南.
+
+#### 其他@
+
+* [BaiduYunEnhancer](https://github.com/maoger/BaiduYunEnhancer) - 破解 百度云/百度网盘 的下载限制.
