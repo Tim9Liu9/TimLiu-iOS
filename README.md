@@ -1643,6 +1643,7 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
 * [GithubWidget](https://github.com/Nightonke/GithubWidget) - 轻量级显示Github用户的贡献、星数、Follower数、热门仓库的App.
 * [GitPocket](https://github.com/jindulys/GitPocket) - Swift编写GitHub客户端.
 * [GitHubContributionsiOS](https://github.com/JustinFincher/GitHubContributionsiOS) - 显示你的GitHub Contributions的Today Extension,App Store链接,[Contributions for GitHub](https://itunes.apple.com/us/app/contributions-for-github/id1153432612?l=zh&ls=1&mt=8).
+* [PPHub](https://github.com/jkpang/PPHub-Feedback) - 一个漂亮的GitHub iOS客户端, 使用Swift编写
 
 #### Github插件@
 
@@ -2239,3 +2240,5 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 #### 其他@
 
 * [BaiduYunEnhancer](https://github.com/maoger/BaiduYunEnhancer) - 破解 百度云/百度网盘 的下载限制.
+
+
