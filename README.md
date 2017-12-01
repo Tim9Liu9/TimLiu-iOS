@@ -381,6 +381,7 @@ A curated list of iOS objective-C ecosystem.
 * [SunFlower](https://github.com/HanYaZhou1990/-SunFlower) - 环信聊天demo，比较多功能.
 * [BlueTalk蓝牙聊天](http://code4app.com/ios/BlueTalk%E8%93%9D%E7%89%99%E8%81%8A%E5%A4%A9-%E6%89%8B%E6%9C%BA%E4%B9%8B%E9%97%B4/552b8190933bf0291e8b4748) - 以MultipeerConnectivity为基础， 实现了简单的蓝牙聊天.
 
+* [网易云信 iOS UI 组件](https://github.com/netease-im/NIM_iOS_UIKit) - 云信 UI 组件，全称 Netease Instant Message Kit，简称 NIMKit，是一款开源的聊天组件，并支持二次开发。开发者只需要稍作配置就可以打造出属于自己的聊天界面，而通过一些自定义的设置，也可以轻松添加业务相关的功能，如阅后即焚，红包，点赞等功能。NIMKit 底层依赖 NIMSDK，是一款由网易开发的 IM SDK，通过它可以轻松快速在你的 App 中集成 IM 功能。
 #### 网络测试@
 
 * [Reachability](https://github.com/tonymillion/Reachability) - 苹果提供过一个Reachability类，用于检测网络状态。但是该类由于年代久远，并不支持ARC。该项目旨在提供一个苹果的Reachability类的替代品，支持ARC和block的使用方式。[iOS网络监测如何区分2、3、4G](http://www.jianshu.com/p/efcfa3c87306)   
@@ -521,6 +522,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 动画@
 
+* [XHLaunchAd](https://github.com/CoderZhuXH/XHLaunchAd) - XHLaunchAd开机启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad。
 * [lottie-ios](https://github.com/airbnb/lottie-ios) - 非常赞 一个用来渲染After Effects矢量动画的iOS库,同时支持iOS,Android与ReactNative的开发.
 * [AIAnimationDemo](https://github.com/aizexin/AIAnimationDemo) - 非常不错的一个各种动画Demo集合库👍👍 .
 * [AwesomeMenu](https://github.com/levey/AwesomeMenu) - 该项目主要是使用 CoreAnimation 还原了 Path menu 的动画效果 Path 2.0 menu using CoreAnimation :) https://github.com/levey/AwesomeMenu
@@ -618,6 +620,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 二维码@
 
+* [HMQRCodeScanner](https://github.com/liufan321/HMQRCodeScanner) - 包含 UI 界面的轻量级二维码扫描及生成框架，提供一个导航控制器，扫描 二维码 / 条形码；能够生成指定 字符串 + avatar(可选) 的二维码名片；能够识别相册图片中的二维码(iOS 64 位设备)
 * [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC)  - 👍 An Objective-C Port of ZXing.
 * [LBXScan](https://github.com/MxABC/LBXScan) - 👍 A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和ios系统自带扫码封装，扫码界面效果封装)(Objective-C和Swift均支持).
 * [原生实现扫描二维码条码](http://code.cocoachina.com/view/129108) - iOS原生实现扫描二维码条码.
@@ -757,6 +760,8 @@ A curated list of iOS objective-C ecosystem.
 
 #### 图像浏览@
 
+* [CorePhotoBroswerVC](https://github.com/CharlinFeng/CorePhotoBroswerVC) - 快速集成高性能图片浏览器，支持本地及网络相册。
+* [PYPhotoBrowser](https://github.com/iphone5solo/PYPhotoBrowser) - 图片浏览器。主要用于社交app,用于呈现一组图片。流水布局 、 线性布局；单击 、双击 、捏合 、旋转、拖拽、侧滑。
 * [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) - 一个非常不错的照片浏览器 [解决MWPhotoBrowser中的SDWebImage加载大图导致的内存警告问题](http://www.superqq.com/blog/2015/01/22/jie-jue-mwphotobrowserzhong-de-sdwebimagejia-zai-da-tu-dao-zhi-de-nei-cun-jing-gao-wen-ti/).
 * [TZImagePickerController](https://github.com/banchichen/TZImagePickerController) - 很赞 一个支持多选、选原图和视频的图片选择器，同时有预览功能，适配了iOS6789系统。[教程](http://www.cocoachina.com/ios/20160112/14942.html).
 * [RMPZoomTransitionAnimator](https://github.com/recruit-mp/RMPZoomTransitionAnimator) - 一个放大缩小的动效开源库，可以实现图片的放大缩小效果.
@@ -940,6 +945,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### TableView@
 
+* [CYLTableViewPlaceHolder](https://github.com/ChenYilong/CYLTableViewPlaceHolder) - 一行代码完成“空TableView占位视图”管理。
 * [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) - 非常赞 UITableViewCell 的子类, 实现了左右滑动显示信息视图并调出按钮.
 * [RETableViewManager](https://github.com/romaonthego/RETableViewManager) - 赞 一个非常强大的使用数据驱动的 UITableView 内容管理。可以十分方便地生成各种样式、各种功能的TableView。只要开发者能想到的列表效果或者功能，都可以利用这份代码迅速编写出来。比如，之前要实现一个填写各种资料的列表，可能需要很多代码，现在只需要几行代码就可以实现.
 * [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) - 非常赞 DZNEmptyDataSet算是一个很标准的iOS内建方式，适合用来处理空的tableview和collection view。会自动将collection view处理完善，并将用户消息以合适美观的方式显示出来。每个iOS项目都可以自动处理.
@@ -1044,6 +1050,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 对话框@
 
+* [SCLAlertView](https://github.com/dogo/SCLAlertView) - 有特色的对话框。
 * [LCActionSheet](https://github.com/iTofu/LCActionSheet) - 一款简约而不失强大的 ActionSheet，微信和微博都采取了极其类似的样式.
 * [WCAlertView](https://github.com/m1entus/WCAlertView) - 自定义的对话框.
 * [STPopup](https://github.com/kevin0571/STPopup) - 提供了一个可在 iPhone 和 iPad 上使用的具有 UINavigationController 弹出效果的 STPopupController 类, 并能在 Storyboard 上很好的工作.
@@ -1164,6 +1171,7 @@ A curated list of iOS objective-C ecosystem.
 * [XHTwitterPaggingViewer](https://github.com/xhzengAIB/XHTwitterPaggingViewer) - A twitter like navigation bar, page viewer.
 * [SPPage](https://github.com/xichen744/SPPage) - 高性能PageController.
 
+* [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) - 一个比较好用的第三方分段控制器。
 #### 轮播@
 
 * [iCarousel](https://github.com/nicklockwood/iCarousel) - 非常赞 作者是英国 Charcoal Design 公司的创始人, 开源领域的贡献颇为卓著, 这个项目就是其中之一, 这是一款可以在 iOS 上实现旋转木马视图切换效果的第三方控件, 并提供多种切换效果。是一个使用简单、高度自定义的多类型视图切换的控件，支持iOS/Mac OS、ARC & Thread Safety; A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS
@@ -1254,6 +1262,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 其他UI@
 
+* [MACProject](https://github.com/azheng51714/MACProject) - 一套 iOS 轻量级框架，内部包含大量或自己整理或修改自网络的 Category 、Utils、DataManager、Macros & UIComponents 旨在快速构建中小型 iOS App。对常用控件、常用扩展类、数据缓存、网络请求、工具类、常用动画进行封装或二次封装；
 * [drawablebubble](https://github.com/KittenYang/KYCuteView) - QQ中未读气泡拖拽消失的实现分析[分析文章](http://kittenyang.com/drawablebubble/).
 * [PPNumberButton](https://github.com/jkpang/PPNumberButton) - 高仿京东淘宝商品数量的加减按钮,可定制程度较高,使用简单.
 * [YJFavorEmitter](https://github.com/SplashZ/YJFavorEmitter) - 一个非常好用的点赞粒子发射器.
