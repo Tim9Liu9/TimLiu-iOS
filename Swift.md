@@ -725,7 +725,6 @@ A curated list of iOS objective-C ecosystem.
 * [LNZTreeView](https://github.com/gringoireDM/LNZTreeView) - 一个树状的列表View.
 * [FunctionalTableData](https://github.com/Shopify/FunctionalTableData) - Declarative UITableViewDataSource implementation.
 
-* [TransitionableTab](https://github.com/Interactive-Studio/TransitionableTab) - 简单、易用、tab、可定制的标签栏切换效果.
 #### 图表@
 
 * [Charts](https://github.com/danielgindi/Charts) - 一款非常👍👍👍 优秀的图表开源库 MPAndroidChart 的 Swift 语言实现版（支持 Objective-C 和 Swift 调用）.
@@ -790,7 +789,6 @@ A curated list of iOS objective-C ecosystem.
 * [Toast-Swift](https://github.com/scalessec/Toast-Swift) - 高可定制易用的 Toast 弹出信息或通知用户界面组件类。
 * [SkeletonView](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
 
-* [Windless](https://github.com/Interactive-Studio/Windless) -  loading视图、等待加载信息前，预显示布局方案。
 #### 对话框@
 
 * [AZDialogViewController](https://github.com/Minitour/AZDialogViewController) A highly customizable alert dialog controller that mimics Snapchat's alert dialog.
@@ -830,6 +828,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) 给tabbar item增加动画效果的一个组件.
 * [CBMDTabbarController](https://github.com/cbangchen/CBMDTabbarController) It is a smooth MD tabbarController used on iOS, which implement by Swift.
+* [TransitionableTab](https://github.com/Interactive-Studio/TransitionableTab) - 简单、易用、tab、可定制的标签栏切换效果.
 
 #### 进度条@
 
