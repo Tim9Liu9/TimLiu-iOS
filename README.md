@@ -316,7 +316,7 @@ A curated list of iOS objective-C ecosystem.
 * [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager) - 下载管理。
 * [DVR](https://github.com/venmo/DVR) - 针对网络请求的测试框架，超实用的工具。且支持 iOS, OSX, watchOS 全平台。
 * [HFDownLoad](https://github.com/hongfenglt/HFDownLoad) - iOS开发网络篇之文件下载、大文件下载、断点下载:NSData方式、NSURLConnection方式、NSURLSession下载方式 [下载方式具体的思路、区别见Blog](http://blog.csdn.net/hongfengkt/article/details/48290561) 。
-* [PPNetworkHelper](https://github.com/jkpang/PPNetworkHelper) - AFN3.x与YYCache的二次封装,一句话搞定网络请求与缓存,和FMDB说拜拜!
+* [PPNetworkHelper](https://github.com/jkpang/PPNetworkHelper) - AFN3.x与YYCache的二次封装,一句话搞定网络请求与缓存,和FMDB说拜拜.
 * [WANetworkRouting](https://github.com/Wasappli/WANetworkRouting) - An iOS library to route API paths to objects on client side with request, mapping, routing and auth layers
 * [Overcoat](https://github.com/Overcoat/Overcoat) - Small but powerful library that makes creating REST clients simple and fun.
 * [ROADFramework](https://github.com/epam/road-ios-framework) - Attributed-oriented approach for interacting with web services. The framework has built-in json and xml serialization for requests and responses and can be easily extensible.
@@ -1121,6 +1121,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### Label@
 
+* [YYAsyncLayer](https://github.com/ibireme/YYAsyncLayer) - iOS utility classes for asynchronous rendering and display.
 * [PPCounter](https://github.com/jkpang/PPCounter) - 一款简单实用的数字加减动画,支持UILabel、UIButton显示.
 
 #### Search@
@@ -1323,6 +1324,7 @@ A curated list of iOS objective-C ecosystem.
 #### 键盘@
 
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - 处理键盘事件强大的库，有OC和Swift版本，纯代码、Storyboard和Xib都适用.
+* [YYKeyboardManager](https://github.com/ibireme/YYKeyboardManager) - iOS 键盘监听管理工具.
 
 #### 文本@
 #### 文本输入@
@@ -1376,6 +1378,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 多线程@
 
+* [YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool) - iOS 全局并发队列管理工具.
 * [JX_GCDTimer](https://github.com/Joeyqiushi/JX_GCDTimer) - 定时器，NSTimer和GCD哪个更好.
 * [BLStopwatch](https://github.com/beiliao-mobile/BLStopwatch) - 代码耗时打点计时器.
 * [Thread](https://github.com/mrhyh/Thread) - 多线程Demo集合.
@@ -1488,8 +1491,6 @@ A curated list of iOS objective-C ecosystem.
 * [DateTools](https://github.com/MatthewYork/DateTools) - 用于提高Objective-C中日期和时间相关操作的效率。灵感来源于 DateTime和Time Period Library。
 * [DDSlackFeedback](https://github.com/deepdevelop/DDSlackFeedback) - 用这个接口实现的摇一摇上传文字或者截屏反馈到你的 Slack channel，特别适合测试 app 的时候用，集成也很简单。
 * [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth) - 是一个非常容易使用的蓝牙库, 适用于 iOS 和 Mac OS, 基于原生 CoreBluetooth 框架封装, 可以帮开发者们更简单地使用 CoreBluetooth API, 使用链式方法体, 使得代码更简洁、优雅。[iOS蓝牙开发（四）：BabyBluetooth蓝牙库介绍](http://www.cocoachina.com/ios/20160219/15301.html)
-* [YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool) -  iOS 全局并发队列管理工具。
-* [YYKeyboardManager](https://github.com/ibireme/YYKeyboardManager) -   iOS 键盘监听管理工具。
 * [BHBDrawBoarderDemo车](https://github.com/bb-coder/BHBDrawBoarderDemo) - 仿写猿题库练题画板功能，没有用drawRect，而是用CAShapeLayer来做画板绘画，特别省内存，赞1个，[实现分析](http://bihongbo.com/2016/01/03/memoryGhostdrawRect/)。
 * [jrswizzle](https://github.com/rentzsch/jrswizzle) - runtime实现的Method Swizzling第三方框架。
 * [BGTaobao](https://github.com/huangzhibiao/-) - ios 高仿淘宝/京东详情页 - 集合各种测试框架。
