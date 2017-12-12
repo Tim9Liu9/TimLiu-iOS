@@ -662,7 +662,7 @@ A curated list of iOS objective-C ecosystem.
 #### 视频播放@
 
 * [FFmpeg](https://github.com/FFmpeg/FFmpeg) - 一个处理多媒体数据的开源、免费的库,可以用来记录、转换数字音频、视频，并能将其转化为流. [ffmpeg](http://ffmpeg.org/) - ffmpeg官网，[FFmpeg在iOS上完美编译](http://www.cocoachina.com/ios/20150514/11827.html).
-* [vlc)](https://github.com/videolan/vlc) - VLC media player.
+* [vlc](https://github.com/videolan/vlc) - VLC media player.
 * [mpv](https://github.com/mpv-player/mpv) - 非常👍👍👍 🎥 Video player based on MPlayer/mplayer2.
 * [ijkplayer](https://github.com/Bilibili/ijkplayer) - 非常赞 B站开源的视频播放器，支持Android和iOS. [iOS中集成ijkplayer视频直播框架](http://www.jianshu.com/p/1f06b27b3ac0)。
 * [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - 非常赞 基于AVPlayer，支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度.
@@ -790,8 +790,8 @@ A curated list of iOS objective-C ecosystem.
 * [VIPhotoView](https://github.com/vitoziv/VIPhotoView) - 图片浏览，用于展示图片的工具类，因为是个 View，所以你可以放在任何地方显示。支持旋转，双击指定位置放大等.
 * [YUCIHighPassSkinSmoothing](https://github.com/YuAo/YUCIHighPassSkinSmoothing) - 磨皮滤镜.
 * [YUGPUImageHighPassSkinSmoothing](https://github.com/YuAo/YUGPUImageHighPassSkinSmoothing) - 一个基于 GPUImage 的磨皮滤镜.
-* [XHImageViewer] (https://github.com/JackTeam/XHImageViewer) - XHImageViewer is images viewer, zoom image.
-* [card.io-iOS-SDK] (https://github.com/AllLuckly/card.io-iOS-SDK) - OCR光学识别储蓄卡以及信用卡,[oc与swift使用教程](http://www.jianshu.com/p/82f73c23a76a).
+* [XHImageViewer](https://github.com/JackTeam/XHImageViewer) - XHImageViewer is images viewer, zoom image.
+* [card.io-iOS-SDK](https://github.com/AllLuckly/card.io-iOS-SDK) - OCR光学识别储蓄卡以及信用卡,[oc与swift使用教程](http://www.jianshu.com/p/82f73c23a76a).
 * [自定义宽高比的相册框 拍照](http://code.cocoachina.com/detail/320603/) - 取出照片时 弹出自定义view。在这个自定义view上创建一个需要的相框大小的view层 把取出的图片赋值给UIImageView按缩放添加到这个层上。对uiimageView添加捏合、移动 手势。添加按钮 选取，最后根据位移和缩放比例 裁剪image.
 * [LGPhotoBrowser](https://github.com/gang544043963/LGPhotoBrowser) - LGPhotoBrowser:相册选择/浏览器/照相机（仿微信）,包含三个模块：照片浏览器，相册选择器，照相机.
 * [BeautyHour](https://github.com/xujingzhou/BeautyHour) - 完整应用，功能与“美图秀秀”雷同.
