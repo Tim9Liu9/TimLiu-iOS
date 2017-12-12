@@ -116,6 +116,7 @@ A curated list of iOS objective-C ecosystem.
   - [提醒用户评分@](@提醒用户评分)
   - [压缩解压@](@压缩解压)
   - [Category@](#Category)
+  - [代码片@](#代码片)
   - [Color@](#Color)
   - [Github相关@](#Github相关)
   - [键盘@](#键盘)
@@ -1302,6 +1303,10 @@ A curated list of iOS objective-C ecosystem.
 * [libextobjc](https://github.com/jspahrsummers/libextobjc - Libextobjc是一个非常强大的Objective-C库的扩展,为Objective-C提供诸如Safe categories、Concrete protocols、简单和安全的key paths以及简单使用block中的弱变量等功能。libextobjc非常模块化，只需要一个或者两个依赖就能使用大部分类和模块.
 * [SFJumpToLine](https://github.com/sferrini/SFJumpToLine) - Xcode plugin that moves the instruction pointer to the selected line.
 * [DTFoundation](https://github.com/Cocoanetics/DTFoundation) - 标准工具类和分类 - Standard toolset classes and categories.
+
+#### 代码片@
+
+* [snippets](https://github.com/Xcode-Snippets/Objective-C) - A few code snippets from my Xcode arsenal.
 
 #### Color@
 
