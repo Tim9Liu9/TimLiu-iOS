@@ -83,6 +83,7 @@ A curated list of iOS objective-C ecosystem.
   - [模糊效果@](#模糊效果)
   - [图表@](#图表)
   - [颜色@](#颜色)
+  - [scrollView@](#scrollView)
   - [列表相关@](#列表相关)
     - [TableView@](#TableView)
     - [TableView适配@](#TableView适配)
@@ -287,7 +288,9 @@ A curated list of iOS objective-C ecosystem.
 
 #### framework@
 
+* [ReSwift](https://github.com/ReSwift/ReSwift) - ReSwift 是一个轻量级的框架，能够帮助你很轻松的去构建一个 Redux 架构的app.
 * [Small](https://github.com/wequick/Small) - A small framework to split app into small parts.
+* [Lotusoot](https://github.com/Vegetarians/Lotusoot) - 灵活的 Swift 组件通信和路由工具.
 
 #### 混合开发@
 
@@ -306,6 +309,7 @@ A curated list of iOS objective-C ecosystem.
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful networking framework for iOS, OS X, watchOS, and tvOS. [iOS开发下载文件速度计算](http://www.superqq.com/blog/2015/01/29/ioskai-fa-xia-zai-wen-jian-su-du-ji-suan/) , [AFNetworking 3.0迁移指南](http://www.cocoachina.com/ios/20151022/13831.html) , [AFNetworking2.0源码解析<一>](http://www.cocoachina.com/ios/20140829/9480.html) 、[AFNetworking2.0源码解析<二>](http://www.cocoachina.com/ios/20140904/9523.html)、[AFNetworking源码解析<三>](http://www.cocoachina.com/ios/20140916/9632.html)、[AFNetworking源码解析<四>](http://www.cocoachina.com/ios/20141120/10265.html)。
 * [YTKNetwork](https://github.com/yuantiku/YTKNetwork) - 是基于 AFNetworking 封装的 iOS网络库，提供了更高层次的网络访问抽象。相比AFNetworking，YTKNetwork提供了以下更高级的功能：按时间或版本号缓存网络请求内容、检查返回 JSON 内容的合法性、文件的断点续传、批量的网络请求发送、filter和插件机制等，猿题库出品.
 * [RestKit](https://github.com/RestKit/RestKit) - RestKit是一款专为iOS设计的Objective-C框架，旨在与RESTful web服务的交互变得更简单快速。它基于强大的对象映射系统，并且结合了一个干净、简单的HTTP请求/响应API，大大减少了完成任务所需的代码量。 RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X
+* [Moya](https://github.com/Moya/Moya) - Network abstraction layer written in Swift.
 * [HYBNetworking](https://github.com/CoderJackyHuang/HYBNetworking) - 基于AFN封装的网络库，可以通用。[基于AFNetworking封装网络库说明](http://www.henishuo.com/base-on-afnetworking-wrapper/)目前已经提供了通用的GET/POST、上传、下载API等。
 * [LxFTPRequest](https://github.com/DeveloperLx/LxFTPRequest) - 支持获取FTP服务器资源列表，下载/上传文件，创建/销毁ftp服务器文件/目录，以及下载断点续传，下载/上传进度，自动判断地址格式合法性跟踪等功能！国人开发，QQ：349124555。
 * [ASIHTTPRequest](https://github.com/pokeb/asi-http-request) - Easy to use CFNetwork wrapper for HTTP requests, Objective-C, macOS and iPhone.
@@ -568,6 +572,7 @@ A curated list of iOS objective-C ecosystem.
 * [CPInfiniteBanner](https://github.com/crespoxiao/CPInfiniteBanner) - 是一个循环播放的组件，可以左右无缝滑动,3个imageview实现。[高效图片轮播，两个ImageView实现](http://ios.jobbole.com/84711/).
 * [XTLoopScroll](https://github.com/Akateason/XTLoopScroll) - 用两个 timer 三个重用的 view 实现无限循环 scrollView，1自动轮播 2点击监听回调当前图片 3手动滑动后重新计算轮播的开始时间, 良好的用户体验.
 * [HotGirls](https://github.com/zangqilong198812/HotGirls) - 卡片动画.
+* [Ease](https://github.com/roberthein/Ease) - Animate everything with Ease.
 * [KYAnimatedPageControl](https://github.com/KittenYang/KYAnimatedPageControl) - 除了滚动视图时PageControl会以动画的形式一起移动，点击目标页还可快速定位。支持两种样式：粘性小球和旋转方块。
 * [Presentation](https://github.com/hyperoslo/Presentation) - 一个类似RazzleDazzle的框架.
 * [FillableLoaders](https://github.com/poolqf/FillableLoaders) - 基于 CGPaths 可定制个性化填空式装载类库。附水波上涨式示例.
@@ -617,8 +622,10 @@ A curated list of iOS objective-C ecosystem.
 
 #### AR@
 
+* [Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources. Feel free to contribute.
 * [AR-Source](https://github.com/GeekLiB/AR-Source) - AR开发资料汇总.
 * [ARShooter](https://github.com/farice/ARShooter) - A demo Augmented Reality shooter made with ARKit in Swift (iOS 11) http://texnotes.me/post/5/.
+* [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) - This library uses ARKit Face Tracking in order to catch a user's smile.
 
 #### 二维码@
 
@@ -642,9 +649,11 @@ A curated list of iOS objective-C ecosystem.
 
 #### 音频@
 
+* [AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS.
 * [ESTMusicPlayer](https://github.com/Aufree/ESTMusicPlayer) - 一个简洁、易用的音乐播放器.
 * [EZAudio](https://github.com/syedhali/EZAudio) - EZAudio 是一个 iOS 和 OSX 上简单易用的音频框架，根据音量实时显示波形图，基于Core Audio，适合实时低延迟音频处理，非常直观。[中文介绍](https://segmentfault.com/blog/news/1190000000370957),[官网](http://www.syedharisali.com/about).
 * [novocaine](https://github.com/alexbw/novocaine) - 高性能的音频，支持iOS and Mac OS X.
+* [ROMPlayer](https://github.com/AudioKit/ROMPlayer) - AudioKit Sample Player (ROM Player) - EXS24, Sound Font, Wave Player.
 * [SubtleVolume](https://github.com/andreamazz/SubtleVolume) - 用更微妙的指示器替换系统卷弹出窗口.
 * [NVDSP](https://github.com/bartolsthoorn/NVDSP) - iOS/OSX DSP for audio (with Novocaine).
 * [IQAudioRecorderController](https://github.com/hackiftekhar/IQAudioRecorderController) - 一个可以内置App的、通用的、带有漂亮的用户界面音频录制程序.
@@ -875,6 +884,7 @@ A curated list of iOS objective-C ecosystem.
 * [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS) - 大神模仿谷歌做的各种各样的iOS原生特效控件，非常全面.
 * [Form](https://github.com/hyperoslo/Form) - Form 是一个方便开发者创建表单填写工作的 UI 库.
 * [material-components-ios](https://github.com/material-components/material-components-ios) - 基于 Material Design 的组件库，包含iOS、Android、Web 三个平台的组件库和调用方法.
+* [fluid-slider](https://github.com/Ramotion/fluid-slider) - A slider widget with a popup bubble displaying the precise value selected.
 
 #### 日历三方库@
 
@@ -944,7 +954,13 @@ A curated list of iOS objective-C ecosystem.
 * [Colours](https://github.com/bennyguitar/Colours) - Colours–颜色库,包含100种预定义的颜色和方法.
 * [DKNightVersion](https://github.com/Draveness/DKNightVersion) - Manage Colors, Integrate Night/Multiple Themes.
 
+#### scrollView@
+
+* [SYParallaxScrollView](https://github.com/syjdev/SYParallaxScrollView) - Useful for Configure Horizontal Parallax Scroll.
+
 #### 列表相关@
+
+* [Eureka](https://github.com/xmartlabs/Eureka) - Eureka可以帮你简单优雅的实现动态table-view表单。它由rows,sections和forms组成。如果你的app包含大量表单，Eureka可以真正帮你节省时间.
 
 #### TableView@
 
@@ -1019,6 +1035,7 @@ A curated list of iOS objective-C ecosystem.
 * [TableFlip](https://github.com/mergesort/TableFlip) - A simpler way to do cool UITableView animations.
 * [DraggingSort](https://github.com/HelloYeah/DraggingSort) - 长按拖拽排序.
 * [AppStore-Horizontal-Demo](https://github.com/liao3841054/AppStore-Horizontal-Demo) - 仿半糖App 个人中心可以横向滚动的 列表 UICollectionView UITableView UISrcrollView.
+* [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - A modern Swift framework for building reusable data-driven collection components.
 
 #### IM@
 
@@ -1085,6 +1102,7 @@ A curated list of iOS objective-C ecosystem.
 * [AMPopTip](https://github.com/andreamazz/AMPopTip) - 一个可以定义frame的带动画的popover. An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
 * [DXPopover](https://github.com/xiekw2010/DXPopover) - 很赞 DXPopover微信右上角的+点击展示列表效果，弹窗菜单。 A Popover mimic Facebook app popover using UIKit.
 * [zhPopupController](https://github.com/snail-z/zhPopupController) - Popup your custom view is easy, support custom mask style, transition effects and gesture to drag.
+* [GTSheet](https://github.com/gametimesf/GTSheet) - An easy to integrate solution for presenting UIViewControllers in a bottom sheet.
 * [LewPopupViewController](https://github.com/pljhonglu/LewPopupViewController) - ios 弹出视图.
 * [PopMenu](https://github.com/xhzengAIB/PopMenu) - 用POP动画引擎写的Sina微博的Menu菜单.
 * [MLMOptionSelectView](https://github.com/MengLiMing/MLMOptionSelectView) - 弹出-选择-展示框.
@@ -1338,6 +1356,8 @@ A curated list of iOS objective-C ecosystem.
 * [GrowingTextView](https://github.com/HansPinckaers/GrowingTextView) - 一个非常棒的UITextView库.
 * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) - 作者是 Thumb Labs 的联合创始人, JVFloatLabeledTextField 是 UITextField 的子类, 主要实现输入框标签浮动效果, 创作灵感来自 Dribbble, 已出现多个移植版本 UITextField subclass with floating labels - inspired by Matt D. Smith's design: http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users
 * [GBigbang](https://github.com/GIKICoder/GBigbang) - 一个分词功能组件/大爆炸/tagFlowView.
+* [PowerMode](https://github.com/younatics/PowerMode) - 一个很酷的文本输入框.
+* [Stryng](https://github.com/BalestraPatrick/Stryng) - Swift strings taken to a whole new syntax level.
 
 #### 富文本@   [返回目录](#目录)
 
@@ -1946,9 +1966,9 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [fui](https://github.com/dblock/fui) Fui 可以用来查找 Xcode 项目中无用的 import 并予以删除
 * [SCStringsUtility](https://github.com/stefanceriu/SCStringsUtility) 让你在一个清爽的界面编辑不同的语言，简单地输入/输出NSLocalizedString数据。
 * [Lin](https://github.com/questbeat/Lin) 一个开源的Mac基础工具，可以让你在一个清爽的界面编辑不同的语言，简单地输入/输出NSLocalizedString数据。提供了一个非常不错的操作界面，并且为不同的语言提供了不同的区域。
-* [Transformifier](https://github.com/erwinmaza/Transformifier) Transformifier是一款通用的交互式的3D转换调整工具，用于iOS开发。开发者可以通过它以可视化的方式变换各维度上的值，还可以把使用CATransform3D输出的代码导入自己的app中。
-* [UIEffectDesignerView](https://github.com/icanzilb/UIEffectDesignerView)
-iOS和OSX原生粒子系统效果图搭载QuartzCore
+* [Transformifier](https://github.com/erwinmaza/Transformifier) Transformifier是一款通用的交互式的3D转换调整工具，用于iOS开发。开发者可以通过它以可视化的方式变换各维度上的值，还可以把使用CATransform3D输出的代码导入自己的app中.
+* [iconizer](https://github.com/raphaelhanneken/iconizer) - Create Xcode asset catalogs swift and painless. Generate images for macOS and iOS app icons, launch images and image sets.
+* [UIEffectDesignerView](https://github.com/icanzilb/UIEffectDesignerView) - iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [Xcode5 Plugins 开发简介](http://studentdeng.github.io/blog/2014/02/21/xcode-plugin-fun/)  [写个自己的Xcode4插件](http://joeyio.com/ios/2013/07/25/write_xcode4_plugin_of_your_own/)
 * [RTImageAssets](https://github.com/rickytan/RTImageAssets) - 一个 Xcode 插件，用来生成 @3x 的图片资源对应的 @2x 和 @1x 版本。[Asset Catalog Creator](https://itunes.apple.com/app/asset-catalog-creator-free/id866571115?mt=12) 功能强大，能自动生成全部尺寸：包括App Icons、Image Sets、Launch Screens Generator。
 * [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) - 一个Xcode插件，build后，随手打开一个你之前的项目，然后在任意一个方法上面连按三下"/"键盘，就ok了。
@@ -2217,6 +2237,7 @@ iOS和OSX原生粒子系统效果图搭载QuartzCore
 * [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 微信 macOS 客户端撤回拦截与多开.
 * [highsierramediakeyenabler](https://github.com/milgra/highsierramediakeyenabler) - MacOS High Sierra Media Key Enabler for iTunes.
 * [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system for Mac OS X.
+* [overkill-for-mac](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
 
 #### 开发环境@
 
