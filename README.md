@@ -70,6 +70,7 @@ A curated list of iOS objective-C ecosystem.
   - [图像识别@](#图像识别)
   - [图像圆角@](#图像圆角)
 - [数据结构/算法@](#数据结构/算法)
+- [机器学习@](#机器学习)
 - [上架@](#上架)
 - [iOS11@](#iOS)
 - [应用内支付@](#应用内支付)
@@ -852,6 +853,10 @@ A curated list of iOS objective-C ecosystem.
 * [Monaka](https://github.com/naru-jpn/Monaka) - Convert custom struct and fundamental values to NSData.
 * [Pencil](https://github.com/naru-jpn/pencil) - Write values to file and read it more easily. :large_orange_diamond:
 * [AlgorithmOC](https://github.com/wang542413041/AlgorithmOC) - OC算法与数据结构实现.
+
+#### 机器学习@
+
+* [ShowAndTell](https://github.com/LitleCarl/ShowAndTell) - A Show And Tell implementation for iOS 11.0 based on CoreML.
 
 #### 上架@
 
