@@ -74,6 +74,7 @@ A curated list of iOS objective-C ecosystem.
 - [机器学习@](#机器学习)
 - [UI@](#ui)
   - [列表@](#列表)
+  - [scrollView@](#scrollView)
   - [图表@](#图表)
   - [日历@](#日历)
   - [时间@](#时间)
@@ -86,7 +87,7 @@ A curated list of iOS objective-C ecosystem.
   - [隐藏与显示@](#隐藏与显示)
   - [HUD与Toast@](#hud与toast)
   - [对话框@](#对话框)
-  - [popover@](#popover)
+  - [pop@](#pop)
   - [导航栏@](#导航栏)
   - [瀑布流@](#瀑布流)
   - [菜单@](#菜单)
@@ -215,7 +216,7 @@ A curated list of iOS objective-C ecosystem.
 * [SwiftyMocky](https://github.com/MakeAWishFoundation/SwiftyMocky) - Framework for mock generation.
 * [Flix](https://github.com/DianQK/Flix) - 快速搭建列表类界面的框架.
 * [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
-
+* [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - 一个将元程序引入Swift的工具，允许你生成Swift的代码.
 
 #### 响应式框架@
 
@@ -741,6 +742,10 @@ A curated list of iOS objective-C ecosystem.
 * [LNZTreeView](https://github.com/gringoireDM/LNZTreeView) - 一个树状的列表View.
 * [FunctionalTableData](https://github.com/Shopify/FunctionalTableData) - Declarative UITableViewDataSource implementation.
 
+#### scrollView@
+
+* [ScrollableGraphView](https://github.com/philackm/ScrollableGraphView) - 自适应滚动视图的图表控件.
+
 #### 图表@
 
 * [Charts](https://github.com/danielgindi/Charts) - 一款非常👍👍👍 优秀的图表开源库 MPAndroidChart 的 Swift 语言实现版（支持 Objective-C 和 Swift 调用）.
@@ -823,11 +828,12 @@ A curated list of iOS objective-C ecosystem.
 * [PPAssetsActionController](https://github.com/pantuspavel/PPAssetsActionController) - 高度可定制的Action Sheet.
 * [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - 用于以屏幕顶部或底部的状态栏的形式显示简短的消息。
 
-#### popover@
+#### pop@
 
-* [panelkit](https://github.com/louisdh/panelkit) 手势拖动弹出面板视图 A UI framework that enables panels on iOS.
+* [panelkit](https://github.com/louisdh/panelkit) - 手势拖动弹出面板视图 A UI framework that enables panels on iOS.
 * [ElongationPreview](https://github.com/Ramotion/elongation-preview) - 一个优雅的push-pop风格的视图控制器  ElongationPreview is an elegant push-pop style view controller with 3D-Touch support and gestures. :large_orange_diamond:
 * [Pageboy](https://github.com/MerrickSapsford/Pageboy) -  一个简单、易学的page View Controller A simple, highly informative page view controller. :large_orange_diamond:
+* [GTSheet](https://github.com/gametimesf/GTSheet) - An easy to integrate solution for presenting UIViewControllers in a bottom sheet
 
 #### 导航栏@
 
@@ -866,6 +872,7 @@ A curated list of iOS objective-C ecosystem.
 #### page@
 
 * [FSPagerView](https://github.com/WenchaoD/FSPagerView) FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
+* [Tabman](https://github.com/uias/Tabman) - ™️ A powerful paging view controller with indicator bar.
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - 非常赞 的iOS下的PagerTabStrip。
 * [PinterestSegment](https://github.com/TBXark/PinterestSegment) 仿 Pinterest 的 Segment 控件(swift), 行数 200+
 
@@ -993,9 +1000,11 @@ A curated list of iOS objective-C ecosystem.
 #### Xcode插件@
 
 * [Reminders](https://github.com/tiagomartinho/Reminders) - Clean Architecture.
-* [Swimat](https://github.com/Jintin/Swimat) - Swimat，是一款Xcode 插件，帮你一键格式化 swift 代码。
-* [XcodeSwiftSnippets](https://github.com/burczyk/XcodeSwiftSnippets) - XcodeSwiftSnippets, 提供了很多可在 Xcode 上使用的 Swift 代码片段, 通过自动补全的方式极大的提高了开发效率。
-* [XcodeGen](https://github.com/yonaskolb/XcodeGen) Command line tool that generates your Xcode project from a simple spec and your folder structure
+* [Swimat](https://github.com/Jintin/Swimat) - Swimat，是一款Xcode 插件，帮你一键格式化 swift 代码.
+* [XcodeSwiftSnippets](https://github.com/burczyk/XcodeSwiftSnippets) - XcodeSwiftSnippets, 提供了很多可在 Xcode 上使用的 Swift 代码片段, 通过自动补全的方式极大的提高了开发效率.
+* [XcodeGen](https://github.com/yonaskolb/XcodeGen) - Command line tool that generates your Xcode project from a simple spec and your folder structure.
+* [sake](https://github.com/xcodeswift/sake) - Sake is a Swift command line tool that helps you automate tasks in your projects.
+* [SourceKitten](https://github.com/jpsim/SourceKitten) - 一个可爱的用于与SourceKit交互的小框架与命令行工具.
 
 #### Xcode相关@
 
@@ -1027,6 +1036,7 @@ A curated list of iOS objective-C ecosystem.
 #### 优化@
 
 * [Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times) - Collection of advice on optimizing compile times of Swift projects.
+* [Lotusoot](https://github.com/Vegetarians/Lotusoot) - 灵活的 Swift 组件解耦和通信工具.
 
 #### WebView@
 
