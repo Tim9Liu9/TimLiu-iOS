@@ -650,6 +650,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 音频@
 
+* [KTVHTTPCache](https://github.com/ChangbaDevs/KTVHTTPCache) - 唱吧出品音视频在线播放缓存框架.
 * [AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS.
 * [ESTMusicPlayer](https://github.com/Aufree/ESTMusicPlayer) - 一个简洁、易用的音乐播放器.
 * [EZAudio](https://github.com/syedhali/EZAudio) - EZAudio 是一个 iOS 和 OSX 上简单易用的音频框架，根据音量实时显示波形图，基于Core Audio，适合实时低延迟音频处理，非常直观。[中文介绍](https://segmentfault.com/blog/news/1190000000370957),[官网](http://www.syedharisali.com/about).
@@ -666,7 +667,6 @@ A curated list of iOS objective-C ecosystem.
 * [amr](http://www.penguin.cz/~utx/amr) - 做即时通讯的音频处理，录音文件是m4a，便于web端的音频播放.
 * [边录音边转码](http://code4app.com/ios/%E8%BE%B9%E5%BD%95%E9%9F%B3%E8%BE%B9%E8%BD%AC%E7%A0%81/521c65d56803fab864000001) - 一边录音，一边将录制成的 wav 格式音频文件转码成 amr 音频格式。只支持真机运行调试.
 * [DFPlayer](https://github.com/ihoudf/DFPlayer) - 简单又灵活的iOS音频播放组件.
-* [KTVHTTPCache](https://github.com/ChangbaDevs/KTVHTTPCache) - 音视频在线播放缓存框架.
 
 #### 视频@
 #### 视频播放@
@@ -1524,8 +1524,8 @@ A curated list of iOS objective-C ecosystem.
 * [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth) - 是一个非常容易使用的蓝牙库, 适用于 iOS 和 Mac OS, 基于原生 CoreBluetooth 框架封装, 可以帮开发者们更简单地使用 CoreBluetooth API, 使用链式方法体, 使得代码更简洁、优雅。[iOS蓝牙开发（四）：BabyBluetooth蓝牙库介绍](http://www.cocoachina.com/ios/20160219/15301.html)
 * [BHBDrawBoarderDemo车](https://github.com/bb-coder/BHBDrawBoarderDemo) - 仿写猿题库练题画板功能，没有用drawRect，而是用CAShapeLayer来做画板绘画，特别省内存，赞1个，[实现分析](http://bihongbo.com/2016/01/03/memoryGhostdrawRect/).
 * [BGTaobao](https://github.com/huangzhibiao/-) - ios 高仿淘宝/京东详情页 - 集合各种测试框架.
-* [JLRoutes](https://github.com/joeldev/JLRoutes) - JLRoutes好用的URL map库，它的作用是让按钮的点击像网页里的链接一样，只是触发了某个URL，而没有像pushViewController这样的行为，实现解耦。
-* [CTMediator](https://github.com/casatwy/CTMediator) - 应用架构组件化解耦库,让你的`Appdelegate.h`等文件不在显得头大,模块之间解除强耦合性。
+* [JLRoutes](https://github.com/joeldev/JLRoutes) - JLRoutes好用的URL map库，它的作用是让按钮的点击像网页里的链接一样，只是触发了某个URL，而没有像pushViewController这样的行为，实现解耦.
+* [CTMediator](https://github.com/casatwy/CTMediator) - 应用架构组件化解耦库,让你的`Appdelegate.h`等文件不在显得头大,模块之间解除强耦合性.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - 同时支持 Swift 及 Objective-C 的 Promise 类库，异步编程类库 提供了很多实用的异步函数 让异步编程更简单。
 * [HWChangeFont](https://github.com/Loveway/HWChangeFont) - 利用runtime一键改变字体。[教程](http://www.jianshu.com/p/b9fdd17c525e).
 * [RuntimeSummary](https://github.com/Tuccuay/RuntimeSummary) - 一个集合了常用 Objective-C Runtime 使用方法的 Playground。
