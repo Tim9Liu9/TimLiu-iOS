@@ -183,6 +183,7 @@ A curated list of iOS objective-C ecosystem.
 - [深度学习@](#深度学习)
 - [前端@](#前端)
 - [后台@](#后台)
+- [AppHTTPServer@](#AppHTTPServer)
 
 #### 具体内容 =============================
 
@@ -253,7 +254,7 @@ A curated list of iOS objective-C ecosystem.
 * [yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo) - a demo developed using weex/weex高仿网易严选App.
 * [MeiTuan](https://github.com/huanxsd/MeiTuan) - 高仿美团客户端 React-Native版，支持iOS、Android.
 * [OneM](https://github.com/guangqiang-liu/OneM) - OneM是一款纯ReactNative打造的集杂志浏览、音乐播放、视频播放于一体的综合性App,并且支持iOS和Android双平台.
-* [ZMBCY-iOS](https://github.com/Brances/ZMBCY-iOS) - 高仿二次元网易GACHA,所有接口均通过Charles抓取而来，里面有可单独抽离出来的卡片轮播
+* [ZMBCY-iOS](https://github.com/Brances/ZMBCY-iOS) - 高仿二次元网易GACHA,所有接口均通过Charles抓取而来，里面有可单独抽离出来的卡片轮播.
 
 #### 框架@                                               
 
@@ -2283,6 +2284,10 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 * [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 * [Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN) - Python最佳实践指南.
+
+#### AppHTTPServer@
+
+* [CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer) - A small, lightweight, embeddable HTTP server for Mac OS X or iOS applications.
 
 #### 其他@
 
