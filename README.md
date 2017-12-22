@@ -26,6 +26,7 @@ A curated list of iOS objective-C ecosystem.
   - [混合开发@](#混合开发)
   - [样例App@](#样例App)
 - [安全@](#安全)
+- [逆向@](#逆向)
 - [网络@](#网络)
   - [网络请求@](#网络请求)
   - [socket@](#socket)
@@ -176,7 +177,6 @@ A curated list of iOS objective-C ecosystem.
   - [Github浏览器工具@](#Github浏览器工具)
 - [皮肤@语言国际化@](#皮肤#语言国际化)
 - [版本新API的Demo@](#版本新API的Demo)
-- [代码安全与密码@](#代码安全与密码)
 - [AppleWatch@](#AppleWatch)
 - [VPN@](#VPN)
 - [mac@](#mac)
@@ -239,6 +239,7 @@ A curated list of iOS objective-C ecosystem.
 * [Uther](https://github.com/callmewhy/Uther) -  跟蠢萌的外星人聊天，还能帮你记事”.[itunes下载](https://itunes.apple.com/cn/app/uther/id1024104920).
 * [高仿斗鱼TV](http://code.cocoachina.com/view/128246) - 高仿斗鱼TV，点击头部滚动视图可以播放视频.
 * [Coding-iPad](https://github.com/Coding/Coding-iPad) - @Coding的官方 iPad 客户端.
+* [wire-ios](https://github.com/wireapp/wire-ios) - 私密消息应用wire源码.
 * [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) - 目前最实用简洁的github客户端了.
 * [phphub-ios](https://github.com/Aufree/phphub-ios) - PHPHub的iOS客户端，同时兼容iPhone和iPad.
 * [LeagueofLegends](https://github.com/HarrisHan/LeagueofLegends) - 一个关于英雄联盟的完整iOS开源项目，接口均来自多玩，腾讯各大游戏平台.
@@ -308,6 +309,25 @@ A curated list of iOS objective-C ecosystem.
 * [NSDictionary-NilSafe](https://github.com/allenhsu/NSDictionary-NilSafe) - How we made NSDictionary nil safe at Glow.
 * [Myriam](https://github.com/GeoSn0w/Myriam) - A vulnerable iOS App with Security Challenges for the Security Researcher inside you.
 * [Hopper App](https://www.hopperapp.com/) - Hopper Disassembler是一款逆向工程工具，iOS爱好者可以使用它来进行反汇编，反编译和调试应用程序。此工具也可用于修改和重组代码。你只需在你的macOS或Linux系统上启动该应用，然后将其指向你需要破解的二进制文件即可。总的来说Hopper是一款非常好用的逆向工程工具，对于热衷于iOS漏洞赏金的人而言，无疑它将成为一个首选.
+* [ios-class-guard](https://github.com/Polidea/ios-class-guard) - 一个用于混淆iOS的类名、方法名以及变量名的开源库--有人反映编译出来的app运行不了。
+* [《Protecting iOS Applications》](https://www.polidea.com/#!heartbeat/blog/Protecting_iOS_Applications)：文章系统地介绍了如何保护iOS程序的代码安全，防止反汇编分析。
+* [fishhook](https://github.com/facebook/fishhook) - fishhook是Facebook开源的一个可以hook系统方法的工具。
+* [JMPasswordView](https://github.com/Juuman/JMPasswordView) - 简单实用的手势密码，效果可自行调控。
+* [仿密码锁-九宫格](http://code.cocoachina.com/detail/298556/%E4%BB%BF%E5%AF%86%E7%A0%81%E9%94%81-%E4%B9%9D%E5%AE%AB%E6%A0%BC/) - 仿密码锁-九宫格，主要是使用UIButton 手势事件  UIBezierPath画图，解锁失败弹出“密码错误”。
+* [CoreLock](https://github.com/CharlinFeng/CoreLock) - 本框架是高仿支付宝，并集成了所有功能，并非一个简单的解锁界面展示。个人制作用时1周多，打造解锁终结者框架。
+* [LikeAlipayLockCodeView](https://github.com/crazypoo/LikeAlipayLockCodeView) - 高仿支付宝手势解锁（超级版）。
+* [Smile-Lock.swfit](https://github.com/liu044100/Smile-Lock) - 一个类似于iOS的解锁界面。
+* [PCGestureUnlock](https://github.com/iosdeveloperpanc/PCGestureUnlock) - 目前最全面最高仿支付宝的手势解锁，而且提供方法进行参数修改，能解决项目开发中所有手势解锁的开发。
+* [ICPayPassWordDemo](https://github.com/icoder20150719/ICPayPassWordDemo) - CPayPassWordDemo，一个模仿支付宝支付密码输入对话框小demo。
+* [RSAESCryptor](https://github.com/bigsan/RSAESCryptor) - 加密 RSA+AES Encryption/Decryption library for iOS. This library uses 2048-bit RSA and 256-bit key with 128-bit block size AES for encryption/decryption。
+* [TouchID](https://github.com/bringbird/TouchID) - 用法简单的TouchID验证框架：两行代码搞定。
+* [SFHFKeychainUtils] (https://github.com/ldandersen/scifihifi-iphone)iOS中使用SFHFKeychainUtils保存用户密码，比如项目中需要保存用户密码，以实现自动登录的功能可以使用。
+* [AESCipher-iOS](https://github.com/WelkinXie/AESCipher-iOS) - AESCipher-iOS:用 Objective-C 实现的 AES 加密。与 [AESCipher-Java](https://github.com/WelkinXie/AESCipher-Java) 一并使用能达到 在iOS、Android、Java后台产生相同密文、正确解密成明文的目的。[AES加密 - iOS与Java的同步实现](http://www.jianshu.com/p/df828a57cb8f)
+* [ABPadLockScreen](https://github.com/abury/ABPadLockScreen) - 九宫格密码锁.
+
+#### 逆向@
+
+* [app2dylib](https://github.com/tobefuturer/app2dylib) - A reverse engineering tool to convert iOS app to dylib.
 
 #### 网络@
 #### 网络请求@
@@ -418,8 +438,12 @@ A curated list of iOS objective-C ecosystem.
 * [URLPreview](https://github.com/itsmeichigo/URLPreview) - An NSURL extension for showing preview info of webpages :large_orange_diamond: [e]
 * [AXWebViewController](https://github.com/devedbox/AXWebViewController) - AXWebViewController is a webViewController to browse web content inside applications.
 * [LYWebviewController](https://github.com/halohily/LYWebviewController) - 基于UIWebview-简书文章阅读页面的模仿demo.
+* [WKWebViewH5ObjCDemo](https://github.com/CoderJackyHuang/WKWebViewH5ObjCDemo) - 学习如何使用OC实现WKWebView与H5交互，并学习其API使用.
 
 #### 网络解析@
+
+* [ParseSourceCodeStudy](https://github.com/ChenYilong/ParseSourceCodeStudy) - Facebook开源的Parse源码分析【系列】.
+
 #### JSON@
 
 * [MJExtension](https://github.com/CoderMJLee/MJExtension) - A fast, convenient and nonintrusive conversion between JSON and model.
@@ -1035,6 +1059,7 @@ A curated list of iOS objective-C ecosystem.
 * [TableViewAnimationKit](https://github.com/alanwangmodify/TableViewAnimationKit) - TableView Animation ，move your tableView.
 * [HVScrollView](https://github.com/SPStore/HVScrollView) - 这不是框架，只是3个示例程序，给大家提供一个实现这种布局的思路.
 * [iOS开发的一些奇巧淫技1](http://www.jianshu.com/p/50b63a221f09) - TableView不显示没内容的Cell怎么办.
+* [EHHorizontalSelectionView](https://github.com/josshad/EHHorizontalSelectionView) - Horizontal table view style controller.
 
 #### TableView适配@
 
@@ -1118,6 +1143,7 @@ A curated list of iOS objective-C ecosystem.
 * [PopMenu](https://github.com/xhzengAIB/PopMenu) - 用POP动画引擎写的Sina微博的Menu菜单.
 * [MLMOptionSelectView](https://github.com/MengLiMing/MLMOptionSelectView) - 弹出-选择-展示框.
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - 卫星弹出菜单.
+* [HyPopMenuView](https://github.com/wwdc14/HyPopMenuView) - 模仿新浪微博弹出菜单.
 
 #### 通知相关@
 
@@ -1201,9 +1227,11 @@ A curated list of iOS objective-C ecosystem.
 * [NinaPagerView](https://github.com/RamWire/NinaPagerView) - 一行代码搞定顶部菜单栏。类似网易新闻、今日头条、虎扑看球等app做的一个顶部菜单栏，每栏中有独立的控制器，可自己定制.
 * [PageMenu](https://github.com/uacaps/PageMenu) - A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram) [⚠️已失去维护]
 * [MXSegmentedPager](https://github.com/maxep/MXSegmentedPager) - 分页滚动，多个分页的pageController效果.
+* [ZJScrollPageView](https://github.com/jasnig/ZJScrollPageView) - 网易新闻, 腾讯视频, 头条 等首页的滑块视图联动的效果OC版的简单方便的集成.
 * [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) - 一个比较好用的第三方分段控制器.
 * [XHTwitterPaggingViewer](https://github.com/xhzengAIB/XHTwitterPaggingViewer) - A twitter like navigation bar, page viewer.
 * [SPPage](https://github.com/xichen744/SPPage) - 高性能PageController.
+* [SCSafariPageController](https://github.com/stefanceriu/SCSafariPageController) - A page view controller component that reproduces Mobile Safari's tab switching behavior.
 
 #### 轮播@
 
@@ -1373,6 +1401,7 @@ A curated list of iOS objective-C ecosystem.
 * [GBigbang](https://github.com/GIKICoder/GBigbang) - 一个分词功能组件/大爆炸/tagFlowView.
 * [PowerMode](https://github.com/younatics/PowerMode) - 一个很酷的文本输入框.
 * [Stryng](https://github.com/BalestraPatrick/Stryng) - Swift strings taken to a whole new syntax level.
+* [CMInputView](https://github.com/CrabMen/CMInputView) - UITextView输入时高度自适应.
 
 #### 富文本@
 
@@ -1529,7 +1558,6 @@ A curated list of iOS objective-C ecosystem.
 * [获取联系人信息，通讯录](http://code.cocoachina.com/detail/320392/) - 获取联系人信息，通讯录.
 * [Universal-Jump-ViewController](https://github.com/HHuiHao/Universal-Jump-ViewController) - 根据规则跳转到指定的界面(runtime实用篇一)。
 * [打开自带地图、百度地图、腾讯地图](http://code.cocoachina.com/view/128249) - 打开自带地图、百度地图、腾讯地图。
-* [DateTools](https://github.com/MatthewYork/DateTools) - 用于提高Objective-C中日期和时间相关操作的效率。灵感来源于 DateTime和Time Period Library。
 * [DDSlackFeedback](https://github.com/deepdevelop/DDSlackFeedback) - 用这个接口实现的摇一摇上传文字或者截屏反馈到你的 Slack channel，特别适合测试 app 的时候用，集成也很简单。
 * [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth) - 是一个非常容易使用的蓝牙库, 适用于 iOS 和 Mac OS, 基于原生 CoreBluetooth 框架封装, 可以帮开发者们更简单地使用 CoreBluetooth API, 使用链式方法体, 使得代码更简洁、优雅。[iOS蓝牙开发（四）：BabyBluetooth蓝牙库介绍](http://www.cocoachina.com/ios/20160219/15301.html)
 * [BHBDrawBoarderDemo车](https://github.com/bb-coder/BHBDrawBoarderDemo) - 仿写猿题库练题画板功能，没有用drawRect，而是用CAShapeLayer来做画板绘画，特别省内存，赞1个，[实现分析](http://bihongbo.com/2016/01/03/memoryGhostdrawRect/).
@@ -1556,8 +1584,9 @@ A curated list of iOS objective-C ecosystem.
 
 #### 时间日期@
 
-* [iso-8601-date-formatter](https://github.com/boredzo/iso-8601-date-formatter)
-cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日历，星期，和序格式。
+* [DateTools](https://github.com/MatthewYork/DateTools) - 用于提高Objective-C中日期和时间相关操作的效率。灵感来源于 DateTime和Time Period Library.
+* [NSDate-TimeAgo](https://github.com/kevinlawler/NSDate-TimeAgo) - A "time ago", "time since", "relative date", or "fuzzy date" category for NSDate and iOS, Objective-C, Cocoa Touch, iPhone, iPad.
+* [iso-8601-date-formatter](https://github.com/boredzo/iso-8601-date-formatter) - cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日历，星期，和序格式.
 
 #### 设计模式@
 
@@ -1866,23 +1895,6 @@ cocoaNSFormatter子类日期转换为从ISO- 8601格式的字符串。支持日�
 * [iOS 9 分屏多任务](http://www.cocoachina.com/ios/20150714/12557.html) - iOS 9 分屏多任务：Slide Over & Split View快速入门（中文版）。
 * [Search-APIs](https://github.com/fish-yan/Search-APIs) - iOS 9 学习系列: SearchAPIs。[教程](http://blog.csdn.net/fish_yan_/article/details/50635433)
 
-#### 代码安全与密码@
-
-* [ios-class-guard](https://github.com/Polidea/ios-class-guard) - 一个用于混淆iOS的类名、方法名以及变量名的开源库--有人反映编译出来的app运行不了。
-* [《Protecting iOS Applications》](https://www.polidea.com/#!heartbeat/blog/Protecting_iOS_Applications)：文章系统地介绍了如何保护iOS程序的代码安全，防止反汇编分析。
-* [fishhook](https://github.com/facebook/fishhook) - fishhook是Facebook开源的一个可以hook系统方法的工具。
-* [JMPasswordView](https://github.com/Juuman/JMPasswordView) - 简单实用的手势密码，效果可自行调控。
-* [仿密码锁-九宫格](http://code.cocoachina.com/detail/298556/%E4%BB%BF%E5%AF%86%E7%A0%81%E9%94%81-%E4%B9%9D%E5%AE%AB%E6%A0%BC/) - 仿密码锁-九宫格，主要是使用UIButton 手势事件  UIBezierPath画图，解锁失败弹出“密码错误”。
-* [CoreLock](https://github.com/CharlinFeng/CoreLock) - 本框架是高仿支付宝，并集成了所有功能，并非一个简单的解锁界面展示。个人制作用时1周多，打造解锁终结者框架。
-* [LikeAlipayLockCodeView](https://github.com/crazypoo/LikeAlipayLockCodeView) - 高仿支付宝手势解锁（超级版）。
-* [Smile-Lock.swfit](https://github.com/liu044100/Smile-Lock) - 一个类似于iOS的解锁界面。
-* [PCGestureUnlock](https://github.com/iosdeveloperpanc/PCGestureUnlock) - 目前最全面最高仿支付宝的手势解锁，而且提供方法进行参数修改，能解决项目开发中所有手势解锁的开发。
-* [ICPayPassWordDemo](https://github.com/icoder20150719/ICPayPassWordDemo) - CPayPassWordDemo，一个模仿支付宝支付密码输入对话框小demo。
-* [RSAESCryptor](https://github.com/bigsan/RSAESCryptor) - 加密 RSA+AES Encryption/Decryption library for iOS. This library uses 2048-bit RSA and 256-bit key with 128-bit block size AES for encryption/decryption。
-* [TouchID](https://github.com/bringbird/TouchID) - 用法简单的TouchID验证框架：两行代码搞定。
-* [SFHFKeychainUtils] (https://github.com/ldandersen/scifihifi-iphone)iOS中使用SFHFKeychainUtils保存用户密码，比如项目中需要保存用户密码，以实现自动登录的功能可以使用。
-* [AESCipher-iOS](https://github.com/WelkinXie/AESCipher-iOS) - AESCipher-iOS:用 Objective-C 实现的 AES 加密。与 [AESCipher-Java](https://github.com/WelkinXie/AESCipher-Java) 一并使用能达到 在iOS、Android、Java后台产生相同密文、正确解密成明文的目的。[AES加密 - iOS与Java的同步实现](http://www.jianshu.com/p/df828a57cb8f)
-
 #### 版本适配@
 
 * [iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips) iOS9适配系列教程
@@ -1955,6 +1967,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 #### Runtime@
 
 * [iOS私有API](https://github.com/nst/iOS-Runtime-Headers) - 这个仓库可以调取苹果的所有私有方法头文件，相当强大。私有API，绿色 == public，红色 == private，蓝色 == dylib。
+* [iOS10-Runtime-Headers](https://github.com/JaviSoto/iOS10-Runtime-Headers) - iOS10-Runtime-Headers.
 
 #### Xcode插件@
 
