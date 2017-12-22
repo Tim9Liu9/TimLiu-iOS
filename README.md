@@ -80,16 +80,16 @@ A curated list of iOS objective-C ecosystem.
 - [App更新提示@](#App更新提示)
 - [UI@](#UI)
   - [综合UI@](#综合UI)
+  - [列表@](#列表)
+    - [TableView@](#TableView)
+    - [TableView适配@](#TableView适配)
+    - [CollectionView@](#CollectionView)
   - [下拉刷新@](#下拉刷新)
   - [模糊效果@](#模糊效果)
   - [日历三方库@](#日历三方库)
   - [图表@](#图表)
   - [颜色@](#颜色)
   - [scrollView@](#scrollView)
-  - [列表相关@](#列表相关)
-    - [TableView@](#TableView)
-    - [TableView适配@](#TableView适配)
-    - [CollectionView@](#CollectionView)
   - [对话交互@](#对话交互)
     - [隐藏与显示@](#隐藏与显示)
     - [HUD与Toast@](#HUD与Toast)
@@ -434,6 +434,7 @@ A curated list of iOS objective-C ecosystem.
 * [iOS-WebView-JavaScript](https://github.com/shaojiankui/iOS-WebView-JavaScript) - iOS UIWebView,WKWebView 与 JavaScript的深度交互.
 * [WKWebView](https://github.com/XFIOSXiaoFeng/WKWebView) - OC版WKWebView 支持POST请求 加载本地页面 直接加载网页 JS交互 集成支付宝/微信URL支付功能 仿微信返回按钮.
 * [BAWKWebView](https://github.com/BAHome/BAWKWebView) - 用分类封装 WKWebView，一行代码搞定 request、URL、URLString、本地 HTML文件、HTMLString等请求，一个 block 搞定 title、progress、currentURL、当前网页的高度等等所需.
+* [WKWebView](https://github.com/Telerik-Verified-Plugins/WKWebView) - A drop-in replacement of UIWebView - useful until Apple release a bug-free WKWebView.
 * [Erik](https://github.com/phimage/Erik) - Erik is an headless browser based on WebKit. An headless browser allow to run functional tests, to access and manipulate webpages using javascript. :large_orange_diamond:
 * [URLPreview](https://github.com/itsmeichigo/URLPreview) - An NSURL extension for showing preview info of webpages :large_orange_diamond: [e]
 * [AXWebViewController](https://github.com/devedbox/AXWebViewController) - AXWebViewController is a webViewController to browse web content inside applications.
@@ -922,81 +923,10 @@ A curated list of iOS objective-C ecosystem.
 * [material-components-ios](https://github.com/material-components/material-components-ios) - 基于 Material Design 的组件库，包含iOS、Android、Web 三个平台的组件库和调用方法.
 * [fluid-slider](https://github.com/Ramotion/fluid-slider) - A slider widget with a popup bubble displaying the precise value selected.
 
-#### 下拉刷新@
-
-* [MJRefresh](https://github.com/CoderMJLee/MJRefresh) - 仅需一行代码就可以为UITableView或者CollectionView加上下拉刷新或者上拉刷新功能。可以自定义上下拉刷新的文字说明。具体使用看“使用方法”.
-* [XHRefreshControl](https://github.com/xhzengAIB/XHRefreshControl) - XHRefreshControl 是一款高扩展性、低耦合度的下拉刷新、上提加载更多的组件.
-* [CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl) - 一个效果很酷炫的下拉刷新控件.
-* [KYJellyPullToRefresh](https://github.com/KittenYang/KYJellyPullToRefresh) - 实现弹性物理效果的下拉刷新，神奇的贝塞尔曲线，配合UIDynamic写的一个拟物的下拉刷新动画.
-* [MHYahooParallaxView](https://github.com/michaelhenry/MHYahooParallaxView) - 类似于Yahoo Weather和News Digest首屏的视差滚动.
-* [SDRefreshView](https://github.com/gsdios/SDRefreshView) - 简单易用的上拉和下拉刷新（多版本细节适配）.
-* [可展开/收缩的下拉菜单--SvpplyTable](http://d.cocoachina.com/code/detail/237753) -  一个可展开可收缩的下拉菜单，类似Svpply app.
-* [ODRefreshControl](https://github.com/Sephiroth87/ODRefreshControl) - 原iOS6上的橡皮糖刷新样式，很有意思。现在也很多大的 App 在用，比如虾米音乐和 QQ 客户端.
-* [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) - PullToMakeSoup, 自定义下拉刷新的动画效果：煮饭, Yalantis新作.
-* [TwitterCover](https://github.com/cyndibaby905/TwitterCover) -  Twitter iOS客户端的下拉封面模糊效果.
-* [Replace-iOS](https://github.com/MartinRGB/Replace-iOS) - Replace-iOS 让人眼前一亮的下拉刷新（iOS).
-* [Animations](https://github.com/KittenYang/Animations) - 封装了一下，使用的时候只要两行代码。一些动画的飞机稿，都是一些单独分离出来的用于测试的子动画，现在统一归类一下.
-* [PullToBounce](https://github.com/entotsu/PullToBounce) - 下拉刷新的动画 for UIScrollView.
-* [WaterDropRefresh](https://github.com/li6185377/WaterDropRefresh) - 仿Path 水滴的下拉刷新效果 还有视差滚动.
-* [ESRefreshControl](https://github.com/EnjoySR/ESRefreshControl) - 仿新浪微博、百度外卖、网易新闻下拉刷新样式Demo（仅供参考）.
-* [WaveRefresh](https://github.com/alienjun/AJWaveRefresh) - 下拉刷新水波纹动画.
-* [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - 是一款带有弹性效果的 iOS 下拉刷新组件.
-* [BanTangAnimation](https://github.com/zangqilong198812/BanTangAnimation) - 半糖下拉刷新的原理。简单来说是利用CGGlyph，字符图形转换成cgpath，然后绘制strokeEnd动画。把timeoffset和scrolloffset结合就行了。
-* [SURefresh](https://github.com/DaMingShen/SURefresh) - BOSS直聘APP下拉刷新动画实现，效果展示图－> [实现思路](http://mp.weixin.qq.com/s?__biz=MzA4ODk0NjY4NA==&mid=2701606115&idx=1&sn=98a486103668a30e16a328cbb529fe5e&scene=23&srcid=0728iIHfF3zMvIvdpqrIXCOK#rd)再复杂的动画都可以拆分成许多简单的动画组合起来，这个动画大概可以分成两个主体，我把它分别录制出来给大家看看.
-* [TGRefreshOC](https://github.com/targetcloud/TGRefreshOC) - 弹簧、橡皮筋下拉刷新控件，类似QQ下拉刷新效果，同时支持其他样式.
-* [GSRefresh](https://github.com/wxxsw/GSRefresh) - 完全自定义视图和动画的下拉刷新、上拉加载库，易扩展.
-
-#### 模糊效果@
-
-* [FXBlurView](https://github.com/nicklockwood/FXBlurView) - 是一个UIView子类，支持iOS5.0以上版本，支持静态、动态模糊效果，继承与UIView的模糊特效.
-* [VVBlurPresentation](https://github.com/onevcat/VVBlurPresentation) - 很简单易用的在原来viewconntroller基础上做模糊，然后present新的viewcontroller的.
-* [UICustomActionSheet](https://github.com/pchernovolenko/UICustomActionSheet) - 通过模糊背景来着重强调与菜单相关的元素--对话框 里面已经收藏.
-* [SABlurImageView](https://github.com/szk-atmosphere/SABlurImageView) - 支持渐变动画效果的图像模糊化类库。P.S. 与前几天推存类库 SAHistoryNavigationViewController 是同一位作者.
-
-#### AutoLayout@
-
-* [Masonry](https://github.com/SnapKit/Masonry) - 非常赞-Masonry是一个轻量级的布局框架，拥有自己的描述语法，采用更优雅的链式语法封装自动布局，简洁明了并具有高可读性（ [使用介绍1](http://adad184.com/2014/09/28/use-masonry-to-quick-solve-autolayout/)  [使用介绍2](http://ios.jobbole.com/81483/)），[iOS自适应前段库-Masonry的使用](http://www.cocoachina.com/ios/20150702/12217.html)），[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900)。[使用DEMO](https://github.com/lcddhr/DDMasonryTest) 视图居中显示、子视图含边距、视图等距离摆放、计算ScrollView的contentsize.
-* [PureLayout](https://github.com/PureLayout/PureLayout) - 非常简单强大的AutoLayout库，同时支持Objective-C.
-* [Classy](https://github.com/ClassyKit/Classy) - Classy是一个能与UIKit无缝结合stylesheet(样式)系统。它借鉴CSS的思想，但引入新的语法和命名规则，[Classy官网](http://classy.as/getting-started/)，[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900).
-* [ClassyLiveLayout](https://github.com/olegam/ClassyLiveLayout) - ClassyLiveLayout通过结合Classy stylesheets与Masonry一起使用，能够在运行的模拟器中微调Auto Layout约束实时显示效果的工具，[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900).
-* [PureLayout](https://github.com/PureLayout/PureLayout) - PureLayout 是 iOS & OS X Auto Layout 的终极 API——非常简单，又非常强大。PureLayout 通过一个全面的Auto Layout API 扩展了 UIView/NSView, NSArray 和 NSLayoutConstraint，仿照苹果自身的框架.
-* [UIView-AutoLayout](https://github.com/smileyborg/UIView-AutoLayout) -Deprecated in favor of PureLayout, which includes OS X support:https://github.com/smileyborg/PureLayout.
-* [UIView-FDCollapsibleConstraints](https://github.com/forkingdog/UIView-FDCollapsibleConstraints) - 一个AutoLayout辅助工具，最优雅的方式解决自动布局中子View的动态显示和隐藏的问题。第二个Demo模拟了一个经典的FlowLayout，任意一个元素隐藏时，底下的元素需要自动“顶”上来，配合这个扩展，你可以在IB里连一连，选一选，不用一行代码就能搞定.
-* [Autolayout_Demo](https://github.com/luodezhao/Autolayout_Demo) - 在项目中用自动布局实现的类似抽屉效果.
-* [当view隐藏的时候也隐藏其autolayout的NSLayoutAttribute](http://code.cocoachina.com/detail/320405/) - 当view隐藏的时候也隐藏其autolayout的NSLayoutAttribute，从而不用大量的代码工作.
-* [SDAutoLayout](https://github.com/gsdios/SDAutoLayout) - AutoLayout 一行代码搞定自动布局！支持Cell、Label和Tableview高度自适应，致力于做最简单易用的AutoLayout库.
-* [MyLinearLayout](https://github.com/youngsoft/MyLinearLayout) - MyLayout is a powerful iOS UI framework implemented by Objective-C. It integrates the functions with Android Layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use LinearLayout,RelativeLayout,FrameLayout,TableLayout,FlowLayout,FloatLayout,PathLayout,LayoutSizeClass to build your App 自动布局 UIView UITableView UICo…
-* [WHC_AutoLayoutKit](https://github.com/netyouli/WHC_AutoLayoutKit) - Had better use the auto layout of open source framework，致力打造使用最简单功能最强大的自动布局开源库.
-* [NerdyUI](https://github.com/nerdycat/NerdyUI) - 好用的快速布局 UI 库，适用于 iOS 8 及以上版本.
-
-#### 日历三方库@
-
-* [TEAChart](https://github.com/xhacker/TEAChart) - xhacker/TEAChart 一个简洁的 iOS 图表库，支持柱状图、饼图以及日历等.
-* [CVCalendar](https://github.com/Mozharovsky/CVCalendar) - 是一个方便开发者集成自定义日历视图到自己 iOS 应用的项目, 支持 Storyboard 和手动配置, 使用 CocoaPods 进行安装, 提供了丰富的 API 供开发者使用.
-
-#### 图表@
-
-* [PNChart](https://github.com/kevinzhow/PNChart) - 国内开源作者，动态的图表.
-* [XJYChart](https://github.com/JunyiXie/XJYChart) - 优秀的的图表框架。支持动画，点击，滑动，区域高亮.
-* [YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) - 支持在watchOS上绘制图表，看它最近更新挺勤快的，可以关注一下.
-* [RealtimeGradientText](https://github.com/kevinzhow/RealtimeGradientText) - Fun With CALayer Mask 刚好今天开源了一个有趣的项目 RealtimeGradientText，所以也好聊一下 CALayer 的 Mask，[说明](http://blog.zhowkev.in/2015/07/06/fun-with-mask/).
-* [XYPieChart](https://github.com/xyfeng/XYPieChart) - XYPieChart:饼状图,  饼图,  数据统计,  数据可视化,可以在图形上标注数据。效果十分漂亮，而且没有用到一张图片.
-* [ZFChart](https://github.com/Zirkfied/ZFChart) - 模仿PNChart写的一个图表库，用法简单，暂时有柱状图，线状图，饼图三种类型，后续可能会更新新的类型.
-* [ios-charts](https://github.com/danielgindi/Charts) - 一款优秀 Android 图表开源库 MPAndroidChart 的 Swift 语言实现版（支持 Objective-C 和 Swift 调用）。缺省提供的示例代码为 Objective-C.
-* [JYRadarChart](https://github.com/johnnywjy/JYRadarChart) - 一个很赞的图表库.
-
-#### 颜色@
-
-* [Colours](https://github.com/bennyguitar/Colours) - Colours–颜色库,包含100种预定义的颜色和方法.
-* [DKNightVersion](https://github.com/Draveness/DKNightVersion) - Manage Colors, Integrate Night/Multiple Themes.
-
-#### scrollView@
-
-* [SYParallaxScrollView](https://github.com/syjdev/SYParallaxScrollView) - Useful for Configure Horizontal Parallax Scroll.
-
-#### 列表相关@
+#### 列表@
 
 * [Eureka](https://github.com/xmartlabs/Eureka) - Eureka可以帮你简单优雅的实现动态table-view表单。它由rows,sections和forms组成。如果你的app包含大量表单，Eureka可以真正帮你节省时间.
+* [MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery) - A Photo and Video Gallery.
 
 #### TableView@
 
@@ -1076,6 +1006,78 @@ A curated list of iOS objective-C ecosystem.
 * [AppStore-Horizontal-Demo](https://github.com/liao3841054/AppStore-Horizontal-Demo) - 仿半糖App 个人中心可以横向滚动的 列表 UICollectionView UITableView UISrcrollView.
 * [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - A modern Swift framework for building reusable data-driven collection components.
 * [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout) - CollectionView实现悬停的header.
+
+#### 下拉刷新@
+
+* [MJRefresh](https://github.com/CoderMJLee/MJRefresh) - 仅需一行代码就可以为UITableView或者CollectionView加上下拉刷新或者上拉刷新功能。可以自定义上下拉刷新的文字说明。具体使用看“使用方法”.
+* [XHRefreshControl](https://github.com/xhzengAIB/XHRefreshControl) - XHRefreshControl 是一款高扩展性、低耦合度的下拉刷新、上提加载更多的组件.
+* [CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl) - 一个效果很酷炫的下拉刷新控件.
+* [KYJellyPullToRefresh](https://github.com/KittenYang/KYJellyPullToRefresh) - 实现弹性物理效果的下拉刷新，神奇的贝塞尔曲线，配合UIDynamic写的一个拟物的下拉刷新动画.
+* [MHYahooParallaxView](https://github.com/michaelhenry/MHYahooParallaxView) - 类似于Yahoo Weather和News Digest首屏的视差滚动.
+* [SDRefreshView](https://github.com/gsdios/SDRefreshView) - 简单易用的上拉和下拉刷新（多版本细节适配）.
+* [可展开/收缩的下拉菜单--SvpplyTable](http://d.cocoachina.com/code/detail/237753) -  一个可展开可收缩的下拉菜单，类似Svpply app.
+* [ODRefreshControl](https://github.com/Sephiroth87/ODRefreshControl) - 原iOS6上的橡皮糖刷新样式，很有意思。现在也很多大的 App 在用，比如虾米音乐和 QQ 客户端.
+* [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) - PullToMakeSoup, 自定义下拉刷新的动画效果：煮饭, Yalantis新作.
+* [TwitterCover](https://github.com/cyndibaby905/TwitterCover) -  Twitter iOS客户端的下拉封面模糊效果.
+* [Replace-iOS](https://github.com/MartinRGB/Replace-iOS) - Replace-iOS 让人眼前一亮的下拉刷新（iOS).
+* [Animations](https://github.com/KittenYang/Animations) - 封装了一下，使用的时候只要两行代码。一些动画的飞机稿，都是一些单独分离出来的用于测试的子动画，现在统一归类一下.
+* [PullToBounce](https://github.com/entotsu/PullToBounce) - 下拉刷新的动画 for UIScrollView.
+* [WaterDropRefresh](https://github.com/li6185377/WaterDropRefresh) - 仿Path 水滴的下拉刷新效果 还有视差滚动.
+* [ESRefreshControl](https://github.com/EnjoySR/ESRefreshControl) - 仿新浪微博、百度外卖、网易新闻下拉刷新样式Demo（仅供参考）.
+* [WaveRefresh](https://github.com/alienjun/AJWaveRefresh) - 下拉刷新水波纹动画.
+* [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - 是一款带有弹性效果的 iOS 下拉刷新组件.
+* [BanTangAnimation](https://github.com/zangqilong198812/BanTangAnimation) - 半糖下拉刷新的原理。简单来说是利用CGGlyph，字符图形转换成cgpath，然后绘制strokeEnd动画。把timeoffset和scrolloffset结合就行了。
+* [SURefresh](https://github.com/DaMingShen/SURefresh) - BOSS直聘APP下拉刷新动画实现，效果展示图－> [实现思路](http://mp.weixin.qq.com/s?__biz=MzA4ODk0NjY4NA==&mid=2701606115&idx=1&sn=98a486103668a30e16a328cbb529fe5e&scene=23&srcid=0728iIHfF3zMvIvdpqrIXCOK#rd)再复杂的动画都可以拆分成许多简单的动画组合起来，这个动画大概可以分成两个主体，我把它分别录制出来给大家看看.
+* [TGRefreshOC](https://github.com/targetcloud/TGRefreshOC) - 弹簧、橡皮筋下拉刷新控件，类似QQ下拉刷新效果，同时支持其他样式.
+* [GSRefresh](https://github.com/wxxsw/GSRefresh) - 完全自定义视图和动画的下拉刷新、上拉加载库，易扩展.
+
+#### 模糊效果@
+
+* [FXBlurView](https://github.com/nicklockwood/FXBlurView) - 是一个UIView子类，支持iOS5.0以上版本，支持静态、动态模糊效果，继承与UIView的模糊特效.
+* [VVBlurPresentation](https://github.com/onevcat/VVBlurPresentation) - 很简单易用的在原来viewconntroller基础上做模糊，然后present新的viewcontroller的.
+* [UICustomActionSheet](https://github.com/pchernovolenko/UICustomActionSheet) - 通过模糊背景来着重强调与菜单相关的元素--对话框 里面已经收藏.
+* [SABlurImageView](https://github.com/szk-atmosphere/SABlurImageView) - 支持渐变动画效果的图像模糊化类库。P.S. 与前几天推存类库 SAHistoryNavigationViewController 是同一位作者.
+
+#### AutoLayout@
+
+* [Masonry](https://github.com/SnapKit/Masonry) - 非常赞-Masonry是一个轻量级的布局框架，拥有自己的描述语法，采用更优雅的链式语法封装自动布局，简洁明了并具有高可读性（ [使用介绍1](http://adad184.com/2014/09/28/use-masonry-to-quick-solve-autolayout/)  [使用介绍2](http://ios.jobbole.com/81483/)），[iOS自适应前段库-Masonry的使用](http://www.cocoachina.com/ios/20150702/12217.html)），[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900)。[使用DEMO](https://github.com/lcddhr/DDMasonryTest) 视图居中显示、子视图含边距、视图等距离摆放、计算ScrollView的contentsize.
+* [PureLayout](https://github.com/PureLayout/PureLayout) - 非常简单强大的AutoLayout库，同时支持Objective-C.
+* [Classy](https://github.com/ClassyKit/Classy) - Classy是一个能与UIKit无缝结合stylesheet(样式)系统。它借鉴CSS的思想，但引入新的语法和命名规则，[Classy官网](http://classy.as/getting-started/)，[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900).
+* [ClassyLiveLayout](https://github.com/olegam/ClassyLiveLayout) - ClassyLiveLayout通过结合Classy stylesheets与Masonry一起使用，能够在运行的模拟器中微调Auto Layout约束实时显示效果的工具，[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900).
+* [PureLayout](https://github.com/PureLayout/PureLayout) - PureLayout 是 iOS & OS X Auto Layout 的终极 API——非常简单，又非常强大。PureLayout 通过一个全面的Auto Layout API 扩展了 UIView/NSView, NSArray 和 NSLayoutConstraint，仿照苹果自身的框架.
+* [UIView-AutoLayout](https://github.com/smileyborg/UIView-AutoLayout) -Deprecated in favor of PureLayout, which includes OS X support:https://github.com/smileyborg/PureLayout.
+* [UIView-FDCollapsibleConstraints](https://github.com/forkingdog/UIView-FDCollapsibleConstraints) - 一个AutoLayout辅助工具，最优雅的方式解决自动布局中子View的动态显示和隐藏的问题。第二个Demo模拟了一个经典的FlowLayout，任意一个元素隐藏时，底下的元素需要自动“顶”上来，配合这个扩展，你可以在IB里连一连，选一选，不用一行代码就能搞定.
+* [Autolayout_Demo](https://github.com/luodezhao/Autolayout_Demo) - 在项目中用自动布局实现的类似抽屉效果.
+* [当view隐藏的时候也隐藏其autolayout的NSLayoutAttribute](http://code.cocoachina.com/detail/320405/) - 当view隐藏的时候也隐藏其autolayout的NSLayoutAttribute，从而不用大量的代码工作.
+* [SDAutoLayout](https://github.com/gsdios/SDAutoLayout) - AutoLayout 一行代码搞定自动布局！支持Cell、Label和Tableview高度自适应，致力于做最简单易用的AutoLayout库.
+* [MyLinearLayout](https://github.com/youngsoft/MyLinearLayout) - MyLayout is a powerful iOS UI framework implemented by Objective-C. It integrates the functions with Android Layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use LinearLayout,RelativeLayout,FrameLayout,TableLayout,FlowLayout,FloatLayout,PathLayout,LayoutSizeClass to build your App 自动布局 UIView UITableView UICo…
+* [WHC_AutoLayoutKit](https://github.com/netyouli/WHC_AutoLayoutKit) - Had better use the auto layout of open source framework，致力打造使用最简单功能最强大的自动布局开源库.
+* [NerdyUI](https://github.com/nerdycat/NerdyUI) - 好用的快速布局 UI 库，适用于 iOS 8 及以上版本.
+
+#### 日历三方库@
+
+* [TEAChart](https://github.com/xhacker/TEAChart) - xhacker/TEAChart 一个简洁的 iOS 图表库，支持柱状图、饼图以及日历等.
+* [CVCalendar](https://github.com/Mozharovsky/CVCalendar) - 是一个方便开发者集成自定义日历视图到自己 iOS 应用的项目, 支持 Storyboard 和手动配置, 使用 CocoaPods 进行安装, 提供了丰富的 API 供开发者使用.
+
+#### 图表@
+
+* [PNChart](https://github.com/kevinzhow/PNChart) - 国内开源作者，动态的图表.
+* [XJYChart](https://github.com/JunyiXie/XJYChart) - 优秀的的图表框架。支持动画，点击，滑动，区域高亮.
+* [YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) - 支持在watchOS上绘制图表，看它最近更新挺勤快的，可以关注一下.
+* [RealtimeGradientText](https://github.com/kevinzhow/RealtimeGradientText) - Fun With CALayer Mask 刚好今天开源了一个有趣的项目 RealtimeGradientText，所以也好聊一下 CALayer 的 Mask，[说明](http://blog.zhowkev.in/2015/07/06/fun-with-mask/).
+* [XYPieChart](https://github.com/xyfeng/XYPieChart) - XYPieChart:饼状图,  饼图,  数据统计,  数据可视化,可以在图形上标注数据。效果十分漂亮，而且没有用到一张图片.
+* [ZFChart](https://github.com/Zirkfied/ZFChart) - 模仿PNChart写的一个图表库，用法简单，暂时有柱状图，线状图，饼图三种类型，后续可能会更新新的类型.
+* [ios-charts](https://github.com/danielgindi/Charts) - 一款优秀 Android 图表开源库 MPAndroidChart 的 Swift 语言实现版（支持 Objective-C 和 Swift 调用）。缺省提供的示例代码为 Objective-C.
+* [JYRadarChart](https://github.com/johnnywjy/JYRadarChart) - 一个很赞的图表库.
+
+#### 颜色@
+
+* [Colours](https://github.com/bennyguitar/Colours) - Colours–颜色库,包含100种预定义的颜色和方法.
+* [DKNightVersion](https://github.com/Draveness/DKNightVersion) - Manage Colors, Integrate Night/Multiple Themes.
+
+#### scrollView@
+
+* [SYParallaxScrollView](https://github.com/syjdev/SYParallaxScrollView) - Useful for Configure Horizontal Parallax Scroll.
 
 #### 对话交互@
 #### 隐藏与显示@
