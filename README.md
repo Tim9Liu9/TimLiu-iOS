@@ -79,9 +79,9 @@ A curated list of iOS objective-C ecosystem.
 - [App更新提示@](#App更新提示)
 - [UI@](#UI)
   - [综合UI@](#综合UI)
-  - [日历三方库@](#日历三方库)
   - [下拉刷新@](#下拉刷新)
   - [模糊效果@](#模糊效果)
+  - [日历三方库@](#日历三方库)
   - [图表@](#图表)
   - [颜色@](#颜色)
   - [scrollView@](#scrollView)
@@ -533,9 +533,9 @@ A curated list of iOS objective-C ecosystem.
 
 * [lottie-ios](https://github.com/airbnb/lottie-ios) - 非常赞 一个用来渲染After Effects矢量动画的iOS库,同时支持iOS,Android与ReactNative的开发.
 * [AIAnimationDemo](https://github.com/aizexin/AIAnimationDemo) - 非常不错的一个各种动画Demo集合库👍👍 .
+* [pop](https://github.com/facebook/pop) - facebook出品的非常赞的动画引擎.
 * [AwesomeMenu](https://github.com/levey/AwesomeMenu) - 该项目主要是使用 CoreAnimation 还原了 Path menu 的动画效果 Path 2.0 menu using CoreAnimation :) https://github.com/levey/AwesomeMenu
 * [MMTweenAnimation](https://github.com/adad184/MMTweenAnimation) - 一个基于 POP 的扩展，提供了 10 种自定义的动效.
-* [pop](https://github.com/facebook/pop) - facebook出品的非常赞的动画引擎.
 * [XHLaunchAd](https://github.com/CoderZhuXH/XHLaunchAd) - XHLaunchAd开机启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad.
 * [Core Animation笔记，基本的使用方法](http://www.starming.com/index.php?v=index&view=62) - Core Animation笔记，基本的使用方法：1.基本动画，2.多步动画，3.沿路径的动画，4.时间函数，5.动画组.
 * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) - [iOS Animation 主流炫酷动画框架(特效)收集整理](https://github.com/sxyx2008/DevArticles/issues/91) 收集整理了下iOS平台下比较主流炫酷的几款动画框架.
@@ -893,11 +893,6 @@ A curated list of iOS objective-C ecosystem.
 * [material-components-ios](https://github.com/material-components/material-components-ios) - 基于 Material Design 的组件库，包含iOS、Android、Web 三个平台的组件库和调用方法.
 * [fluid-slider](https://github.com/Ramotion/fluid-slider) - A slider widget with a popup bubble displaying the precise value selected.
 
-#### 日历三方库@
-
-* [TEAChart](https://github.com/xhacker/TEAChart) - xhacker/TEAChart 一个简洁的 iOS 图表库，支持柱状图、饼图以及日历等.
-* [CVCalendar](https://github.com/Mozharovsky/CVCalendar) - 是一个方便开发者集成自定义日历视图到自己 iOS 应用的项目, 支持 Storyboard 和手动配置, 使用 CocoaPods 进行安装, 提供了丰富的 API 供开发者使用.
-
 #### 下拉刷新@
 
 * [MJRefresh](https://github.com/CoderMJLee/MJRefresh) - 仅需一行代码就可以为UITableView或者CollectionView加上下拉刷新或者上拉刷新功能。可以自定义上下拉刷新的文字说明。具体使用看“使用方法”.
@@ -944,6 +939,11 @@ A curated list of iOS objective-C ecosystem.
 * [MyLinearLayout](https://github.com/youngsoft/MyLinearLayout) - MyLayout is a powerful iOS UI framework implemented by Objective-C. It integrates the functions with Android Layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use LinearLayout,RelativeLayout,FrameLayout,TableLayout,FlowLayout,FloatLayout,PathLayout,LayoutSizeClass to build your App 自动布局 UIView UITableView UICo…
 * [WHC_AutoLayoutKit](https://github.com/netyouli/WHC_AutoLayoutKit) - Had better use the auto layout of open source framework，致力打造使用最简单功能最强大的自动布局开源库.
 * [NerdyUI](https://github.com/nerdycat/NerdyUI) - 好用的快速布局 UI 库，适用于 iOS 8 及以上版本.
+
+#### 日历三方库@
+
+* [TEAChart](https://github.com/xhacker/TEAChart) - xhacker/TEAChart 一个简洁的 iOS 图表库，支持柱状图、饼图以及日历等.
+* [CVCalendar](https://github.com/Mozharovsky/CVCalendar) - 是一个方便开发者集成自定义日历视图到自己 iOS 应用的项目, 支持 Storyboard 和手动配置, 使用 CocoaPods 进行安装, 提供了丰富的 API 供开发者使用.
 
 #### 图表@
 
@@ -1074,6 +1074,7 @@ A curated list of iOS objective-C ecosystem.
 * [PreLoader](https://github.com/liuzhiyi1992/PreLoader) - 一个很有意思的HUD loading ，通过运动污点和固定污点之间的粘黏动画吸引用户的眼球跟踪，能有效分散等待注意力。[PreLoader的实现讲解](http://www.cocoachina.com/ios/20160427/16029.html).
 * [FillableLoaders](https://github.com/poolqf/FillableLoaders) - 自定义加载进度UI-Completely customizable progress based loaders drawn using custom CGPaths written in Swift :large_orange_diamond:
 * [TopAlert](https://github.com/roycms/TopAlert) - 顶部提示View.
+* [CMPopTipView](https://github.com/chrismiles/CMPopTipView) - 自定义气泡View提示框.
 
 #### 对话框@
 
