@@ -72,6 +72,7 @@ A curated list of iOS objective-C ecosystem.
   - [其他动画@](#其他动画)
 - [编码规范@](#编码规范)
 - [机器学习@](#机器学习)
+- [数学@](#数学)
 - [UI@](#ui)
   - [列表@](#列表)
   - [scrollView@](#scrollView)
@@ -194,6 +195,7 @@ A curated list of iOS objective-C ecosystem.
 * [Coderpursue.swift](https://github.com/wenghengcong/Coderpursue) - 一款 Github 第三方客户端，使用最新 Swift 语言编写.
 * [BTApp](https://github.com/Ryan0520/BTApp) - BTApp 仿半糖 iOS App 的 Demo 应用.
 * [有妖气漫画](https://github.com/spicyShrimp/U17) - 精仿有妖气漫画(Swift4).
+* [MarkLite](https://github.com/zhubinchen/MarkLite) - iOS markdown编辑器.
 * [LXFFM](https://github.com/LinXunFeng/LXFFM) - 高仿喜马拉雅FM.
 * [TodayNews](https://github.com/hrscy/TodayNews) - Swift开源项目-模仿今日头条.
 * [notGIF](https://github.com/atuooo/notGIF) - 一款展示、管理和分享相册中 GIF 的应用，并适配了 iMessage Extension.
@@ -708,6 +710,9 @@ A curated list of iOS objective-C ecosystem.
 
 * [SeeFood](https://github.com/kingreza/SeeFood) Inspired by HBO's Silicon Valley: SeeFood is an iOS app that uses CoreML to detect various dishes
 
+#### 数学@
+
+* [Surge.swift](https://github.com/mattt/Surge) - Surge.swift基于苹果Accelerate高性能计算数学框架封装库.
 
 #### UI@
 
@@ -1105,7 +1110,6 @@ A curated list of iOS objective-C ecosystem.
 * [Dollar.swift](https://github.com/ankurp/Dollar) - Dollar.swift是一个Swift库，无需扩展任何内置对象就为Swift语言提供有效的函数式编程辅助方法，类似于Lo-Dash或JavaScript中的Underscore。而Cent则是通过扩展功能来扩展Swift中的特定对象类型。
 * [Underscore.swift](https://github.com/JakeLin/Underscore) - 函数式编程辅助方法，可靠性上压倒目标对手是 Dollar。
 * [PathKit.swift](https://github.com/kylef/PathKit) - PathKit.swift小而美的路径管理类。
-* [Surge.swift](https://github.com/mattt/Surge) - Surge.swift基于苹果Accelerate高性能计算数学框架封装库。
 * [Async.swift](https://github.com/duemunk/Async) - Async.swift简洁的后台执行代码的异步封装库。
 * [AlecrimAsyncKit.swift](https://github.com/Alecrim/AlecrimAsyncKit) - 一款很优雅的异步执行框架库。
 * [BrightFutures.swift](https://github.com/Thomvis/BrightFutures) - BrightFutures.swift漫长或复杂计算由独立线程异步来完成。
