@@ -137,7 +137,8 @@ A curated list of iOS objective-C ecosystem.
   - [播客@](#播客)
   - [其他开源@](#其他开源)
   - [开发博客列表@](#开发博客列表)
-  - [学习笔记、书籍@](#学习笔记、书籍)
+  - [学习笔记@](#学习笔记)
+  - [书籍@](#书籍)
   - [CodeLiararyWebSite@](#CodeLiararyWebSite)
   - [设计@](#设计)
   - [好的文章@](#好的文章)
@@ -659,6 +660,7 @@ A curated list of iOS objective-C ecosystem.
 * [AR-Source](https://github.com/GeekLiB/AR-Source) - AR开发资料汇总.
 * [ARShooter](https://github.com/farice/ARShooter) - A demo Augmented Reality shooter made with ARKit in Swift (iOS 11) http://texnotes.me/post/5/.
 * [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) - This library uses ARKit Face Tracking in order to catch a user's smile.
+* [TGLAugmentedRealityView](https://github.com/gleue/TGLAugmentedRealityView) - Augmented Reality made easy -- place overlays on a camera preview and adjust their position depending on device attitude.
 
 #### 二维码@
 
@@ -2248,7 +2250,18 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 
 #### 学习笔记@
 
-* [iOS-Note](https://github.com/seedante/iOS-Note)A@ 非常好的学习笔记，主要目录1.Core Data 笔记2.Photos 笔记3.转场动画详解4.自定义容器控制器转场5.交互式动画
+* [iOS-Note](https://github.com/seedante/iOS-Note) - A@ 非常好的学习笔记，主要目录1.Core Data 笔记2.Photos 笔记3.转场动画详解4.自定义容器控制器转场5.交互式动画.
+
+#### 书籍@
+
+* [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) -  免费的计算机编程类中文书籍.
+* [awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等.
+* [it-ebooks](http://www.it-ebooks.info/) - 可以下载IT电子书籍的网站（英文）.
+* [allitebooks](http://www.allitebooks.com/) - 各种各样的IT电子书籍都可以找到（英文）.
+* [oreilly Free Programming Ebooks](http://www.oreilly.com/programming/free/) - ORielly 的免费电子书，有需要的童鞋可以免费下载（英文).
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) - 免费的编程书籍索引（英文）.
+* [gitbook](https://www.gitbook.com/explore?lang=all) - gitbook上有很多书籍，可以看看（英文、中文）.
+* [QDFuns](http://www1.qdfuns.com/feres.php?do=picture&listtype=book) - 里面也能下载一些书籍资源.
 
 #### 设计@
 
