@@ -190,7 +190,7 @@ A curated list of iOS objective-C ecosystem.
 #### 具体内容 =============================
 
 #### 完整App@
-
+* [GitHubRank](http://githubrank.com/) - GitHub活跃用户排名(便于学习，请勿攀比).
 * [expo](https://github.com/expo/expo) - Expo iOS/Android Client https://docs.expo.io/.
 * [PPRows for Mac](https://github.com/jkpang/PPRows) - 在Mac上优雅的计算你写了多少行代码.
 * [NewsBlur](https://github.com/samuelclay/NewsBlur) - 作者独自一个人 Samuel Clay 做出来的一款名为 NewsBlur 的新闻阅读器, 很多人都称其为 Google Reader 的替代品, 这是它的源码.
@@ -2256,6 +2256,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 
 * [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) -  免费的计算机编程类中文书籍.
 * [awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等.
+* [coding-interview-university](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md) - [译] Google Interview University 一套完整的学习手册帮助自己准备 Google 的面试.
 * [it-ebooks](http://www.it-ebooks.info/) - 可以下载IT电子书籍的网站（英文）.
 * [allitebooks](http://www.allitebooks.com/) - 各种各样的IT电子书籍都可以找到（英文）.
 * [oreilly Free Programming Ebooks](http://www.oreilly.com/programming/free/) - ORielly 的免费电子书，有需要的童鞋可以免费下载（英文).
