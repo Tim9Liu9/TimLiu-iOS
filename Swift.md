@@ -566,6 +566,7 @@ A curated list of iOS objective-C ecosystem.
 #### 图像缓存@
 
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - 👍👍👍 一个轻量级的纯粹的用于从web下载和缓存图片的Swift库.
+* [HanekeSwift](https://github.com/Haneke/HanekeSwift) - 一个用于iOS的轻量级通用的高速缓存库,使用Swift编写,对图像有特别优化.
 * [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) - 一个非常赞，非常简单的图片、视频浏览库，网格状的样式.
 * [MapleBacon](https://github.com/zalando-incubator/MapleBacon) - 一个图片下载、缓存库
 * [ImageViewer](https://github.com/MailOnline/ImageViewer) - 类似Twitter的图片查看器.
@@ -1201,3 +1202,4 @@ A curated list of iOS objective-C ecosystem.
 #### 后台@
 
 * [Httper-iOS](https://github.com/MuShare/Httper-iOS) - App for developers to test REST API. https://httper.mushare.cn.
+* [README.zh_CN.md](https://github.com/PerfectlySoft/Perfect/blob/master/README.zh_CN.md) - Swift 语言服务器端软件框架.
