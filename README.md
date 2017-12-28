@@ -150,6 +150,7 @@ A curated list of iOS objective-C ecosystem.
   - [接口调试工具@](#接口调试工具)
   - [UI调试@](#UI调试)
 - [版本适配@](#版本适配)
+- [深度链接@](#深度链接)
 - [WebView与WKWebView@](#WebView与WKWebView)
 - [游戏@](#cocos2d-objc)
 - [通讯录@](#通讯录)
@@ -299,6 +300,7 @@ A curated list of iOS objective-C ecosystem.
 * [Small](https://github.com/wequick/Small) - A small framework to split app into small parts.
 * [Lotusoot](https://github.com/Vegetarians/Lotusoot) - 灵活的 Swift 组件通信和路由工具.
 * [Aspects](https://github.com/steipete/Aspects) - 个简洁高效的用于使iOS支持AOP面向切面编程的库.它可以帮助你在不改变一个类或类实例的代码的前提下,有效更改类的行为.
+* [Form](https://github.com/hyperoslo/Form) - JSON 驱动的 Form表单系统，复杂的表单填写类 App 极其需要（比如淘宝呢！）.
 
 #### 混合开发@
 
@@ -458,7 +460,7 @@ A curated list of iOS objective-C ecosystem.
 * [XMLDictionary](https://github.com/nicklockwood/XMLDictionary) - ios与mac os平台下xml与NSDictionary相互转化开源类库.
 * [DDModel](https://github.com/openboy2012/DDModel) - a HTTP-JSON/XML-ORM-Persistent Object Kit.
 * [TouchJSON](https://github.com/TouchCode/TouchJSON) - JSon解析库(早已停止更新).
-* [JSON-Framework](https://github.com/stig/json-framework) -  JSON解析库.
+* [JSON-Framework](https://github.com/stig/json-framework) -  JSON（JavaScript对象符号）是一种轻量的数据交换格式，易于读写人类和计算机一样。该框架实现了用在Objective-C严格的JSON解析器和编码器.
 * [Groot](https://github.com/gonzalezreal/Groot) - From JSON to Core Data and back.
 * [KZPropertyMapper](https://github.com/krzysztofzablocki/KZPropertyMapper) - 可以帮助你在对象与Array、Dict数据间进行转换，尤其适用于将json对象转换成objective-c中的实体对象。作者还写了一篇文章[stop-writing-data-parsing-code-in-your-apps](http://merowing.info/2013/07/stop-writing-data-parsing-code-in-your-apps/)介绍它的使用.
 * [FastEasyMapping](https://github.com/Yalantis/FastEasyMapping) - 一个快速对json进行序列化和反序列化的工具.
@@ -1063,13 +1065,14 @@ A curated list of iOS objective-C ecosystem.
 
 #### 图表@
 
+* [ios-charts](https://github.com/danielgindi/Charts) - 一款优秀 Android 图表开源库 MPAndroidChart 的 Swift 语言实现版（支持 Objective-C 和 Swift 调用）。缺省提供的示例代码为 Objective-C.
 * [PNChart](https://github.com/kevinzhow/PNChart) - 国内开源作者，动态的图表.
+* [JBChartView](https://github.com/Jawbone/JBChartView) - 基于iOS的用于线路和条形图的图表库.
 * [XJYChart](https://github.com/JunyiXie/XJYChart) - 优秀的的图表框架。支持动画，点击，滑动，区域高亮.
 * [YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) - 支持在watchOS上绘制图表，看它最近更新挺勤快的，可以关注一下.
 * [RealtimeGradientText](https://github.com/kevinzhow/RealtimeGradientText) - Fun With CALayer Mask 刚好今天开源了一个有趣的项目 RealtimeGradientText，所以也好聊一下 CALayer 的 Mask，[说明](http://blog.zhowkev.in/2015/07/06/fun-with-mask/).
 * [XYPieChart](https://github.com/xyfeng/XYPieChart) - XYPieChart:饼状图,  饼图,  数据统计,  数据可视化,可以在图形上标注数据。效果十分漂亮，而且没有用到一张图片.
 * [ZFChart](https://github.com/Zirkfied/ZFChart) - 模仿PNChart写的一个图表库，用法简单，暂时有柱状图，线状图，饼图三种类型，后续可能会更新新的类型.
-* [ios-charts](https://github.com/danielgindi/Charts) - 一款优秀 Android 图表开源库 MPAndroidChart 的 Swift 语言实现版（支持 Objective-C 和 Swift 调用）。缺省提供的示例代码为 Objective-C.
 * [JYRadarChart](https://github.com/johnnywjy/JYRadarChart) - 一个很赞的图表库.
 
 #### 颜色@
@@ -1152,6 +1155,7 @@ A curated list of iOS objective-C ecosystem.
 #### 通知相关@
 
 * [JSQNotificationObserverKit](https://github.com/jessesquires/JSQNotificationObserverKit) - 一款轻量、易用的通知发送及响应框架类库。作者是知名开源项目 JSQMessagesViewController（Objective-C 版即时聊天）的作者 Jesse Squires.
+* [TSMessages](https://github.com/KrauseFx/TSMessages) - 易于使用和定制的消息/通知,用于 iOS版Tweetbot.
 * [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification) - 酷炫的通知栏，多种通知样式，使用简单,非常赞👍 .
 * [GLPubSub](https://github.com/Glow-Inc/GLPubSub) - 一个简短实用的 NSNotificationCenter 的封装.
 * [JDStatusBarNotification](https://github.com/jaydee3/JDStatusBarNotification) - 在状态栏顶部显示通知。可以自定义颜色字体以及动画。支持进度显示以及显示状态指示器.
@@ -1280,6 +1284,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - loading 进度条动画，有20-30多种，非常👍👍👍 .
 * [DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView) - DGActivityIndicatorView is a great way to make loading spinners in your application look nicer. It contains 32 different indicator view styles.
+* [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite) - 含有许多工具套件，以在iOS上显示进度信息.
 * [YLProgressBar](https://github.com/yannickl/YLProgressBar) - UIProgressView replacement with an highly and fully customizable animated progress bar in pure Core Graphics.
 * [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress) - 很赞 一个 UIWebView 的进度条接口库,UIWebView 本身是不提供进度条的。
 * [UAProgressView](https://github.com/UrbanApps/UAProgressView) - 很赞 的一个进度指示View.
@@ -1296,7 +1301,6 @@ A curated list of iOS objective-C ecosystem.
 * [MediumScrollFullScreen](https://github.com/pixyzehn/MediumScrollFullScreen) - Medium的可扩展滚动页面，上下滚动时，全屏显示内容，并自然消隐上下菜单。由此项目感知，作者是一位很注重细节的开发者，他的另外[几个菜单类项目](https://github.com/pixyzehn)也都不错，值得参考，比如：PathMenu, MediumMenu 等.
 * [today extension](http://adad184.com/2014/10/29/2014-10-29-how-to-setup-today-extension-programmatically/) - 用纯代码构建一个Widget(today extension).
 * [PDTSimpleCalendar](https://github.com/jivesoftware/PDTSimpleCalendar) - 是iOS最棒的日历组件了。你可以在各个方面对它进行定制，无论是运行逻辑还是外观方面.
-* [Form](https://github.com/hyperoslo/Form) - JSON 驱动的 Form表单系统，复杂的表单填写类 App 极其需要（比如淘宝呢！）.
 * [ImagePickerSheetController](https://github.com/larcus94/ImagePickerSheetController) - 图片或视频选择器（可多选）组件及其示例项目.
 * [ImagePickerSheet](https://github.com/larcus94/ImagePickerSheetController) - 图片或视频选择器（可多选）组件及其示例项目.
 * [BLEProgressView](https://github.com/blueeee/BLEProgressView) - 使用pop实现动画的进度条.
@@ -1416,6 +1420,7 @@ A curated list of iOS objective-C ecosystem.
 * [TFHpple ](https://github.com/topfunky/hpple) - TFHpple解析html的轻量级框架.
 * [RTLabel](https://github.com/honcheng/RTLabel) - RTLabel 基于UILabel类的拓展,能够支持Html标记的富文本显示，它是基于Core Text,因此也支持Core Text上的一些东西。32位，很久没有更新了.
 * [RTLabel](https://github.com/bingxue314159/RTLabel) - 富文本，RTLabel支持64位.
+* [DTCoreText](https://github.com/Cocoanetics/DTCoreText) - 可以解析HTML与CSS最终用CoreText绘制出来，通常用于在一些需要显示富文本的场景下代替低性能的UIWebView。[DTCoreText源码解析](http://blog.cnbang.net/tech/2630/).
 * [TYAttributedLabel](https://github.com/12207480/TYAttributedLabel) -  TYAttributedLabel。 简单易用的属性文本控件(无需了解CoreText)，支持富文本，图文混排显示，支持添加链接，image和UIView控件，支持自定义排版显示.
 * [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) - 一个文字视图开源组件，是UILabel的替代元件，可以以简单的方式展现渲染的属性字符串。另外，还支持链接植入，不管是手动还是使用UIDataDetectorTypes自动把电话号码、事件、地址以及其他信息变成链接。[用TTTAttributedLabel创建变化丰富的UILabel](http://blog.csdn.net/prevention/article/details/9998575) - 网易新闻iOS版使用.
 * [MLEmojiLabel](https://github.com/molon/MLEmojiLabel) - 自动识别网址、号码、邮箱、@、#话题#和表情的label。可以自定义自己的表情识别正则，和对应的表情图像。(默认是识别微信的表情符号)，继承自TTTAttributedLabel，所以可以像label一样使用。label的特性全都有，使用起来更友好更方便.
@@ -1424,8 +1429,8 @@ A curated list of iOS objective-C ecosystem.
 * [WPAttributedMarkup](https://github.com/nigelgrange/WPAttributedMarkup) - WPAttributedMarkup is a simple utility category that can be used to easily create an attributed string from text with markup tags and a style dictionary.
 * [UUColorSwitch](https://github.com/zhangyu9050/UUColorSwitch) - Switch 开关动画效果,当打开开关时，Switch可实现平滑渲染过渡到父视图的效果.
 * [UITextViewDIYEmojiExample](https://github.com/zekunyan/UITextViewDIYEmojiExample) - [UITextView编辑时插入自定义表情-简单的图文混编](http://tutuge.me/2015/03/07/UITextView%E7%BC%96%E8%BE%91%E6%97%B6%E6%8F%92%E5%85%A5%E8%87%AA%E5%AE%9A%E4%B9%89%E8%A1%A8%E6%83%85-%E7%AE%80%E5%8D%95%E7%9A%84%E5%9B%BE%E6%96%87%E6%B7%B7%E7%BC%96/).
+* [MMMarkdown](https://github.com/mdiep/MMMarkdown) - 一个Objective-C的静态库,用于将Markdown语法转换换为HTML.
 * [ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor) - 适用于iOS的富文本WYSIWYG编辑器，支持语法高亮和源码查看。ZSSRichTextEditor包含所有WYSIWYG标准的编辑器工具.
-* [DTCoreText](https://github.com/Cocoanetics/DTCoreText) - 可以解析HTML与CSS最终用CoreText绘制出来，通常用于在一些需要显示富文本的场景下代替低性能的UIWebView。[DTCoreText源码解析](http://blog.cnbang.net/tech/2630/).
 * [CSGrowingTextView](https://github.com/cloverstudio/CSGrowingTextView) - 用作即时通讯文本框和评论文本框使用，可以显示多行输入.
 * [MarkdownTextView](https://github.com/indragiek/MarkdownTextView) - 显示Markdown的TextView.
 * [高仿微信限定行数文字内容](http://d.cocoachina.com/code/detail/300299) - 采用Autolayout高仿微信纯文字限定行数.
@@ -1568,7 +1573,7 @@ A curated list of iOS objective-C ecosystem.
 * [BGTaobao](https://github.com/huangzhibiao/-) - ios 高仿淘宝/京东详情页 - 集合各种测试框架.
 * [JLRoutes](https://github.com/joeldev/JLRoutes) - JLRoutes好用的URL map库，它的作用是让按钮的点击像网页里的链接一样，只是触发了某个URL，而没有像pushViewController这样的行为，实现解耦.
 * [CTMediator](https://github.com/casatwy/CTMediator) - 应用架构组件化解耦库,让你的`Appdelegate.h`等文件不在显得头大,模块之间解除强耦合性.
-* [PromiseKit](https://github.com/mxcl/PromiseKit) - 同时支持 Swift 及 Objective-C 的 Promise 类库，异步编程类库 提供了很多实用的异步函数 让异步编程更简单。
+* [PromiseKit](https://github.com/mxcl/PromiseKit) - 同时支持 Swift 及 Objective-C 的 Promise 类库，异步编程类库 提供了很多实用的异步函数 让异步编程更简单.
 * [HWChangeFont](https://github.com/Loveway/HWChangeFont) - 利用runtime一键改变字体。[教程](http://www.jianshu.com/p/b9fdd17c525e).
 * [RuntimeSummary](https://github.com/Tuccuay/RuntimeSummary) - 一个集合了常用 Objective-C Runtime 使用方法的 Playground。
 * [GCDThrottle](https://github.com/cyanzhong/GCDThrottle) - 限制频率过高的调用GCD多线程。
@@ -1903,6 +1908,10 @@ A curated list of iOS objective-C ecosystem.
 
 * [iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips) iOS9适配系列教程
 
+#### 深度链接@
+
+* [DeepLinkKit](https://github.com/button/DeepLinkKit) - 深度链接，A splendid route-matching, block-based way to handle your deep links.
+
 #### 测试调试@
 
 * [fastlane](https://github.com/fastlane/fastlane) - 非常棒👍👍👍一套iOS开发和持续集成的命令行工具fastlane，可以用来快速搭建CI甚至自动提交的开发环境。这套工具中包括了上传ipa文件，自动截取多语言截屏，生成推送证书，管理产品证书等一系列实用工具.
@@ -2189,7 +2198,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 #### 开发博客列表@
 
 * [Halfrost-Field](https://github.com/halfrost/Halfrost-Field) iOS学习博客.
-* [唐巧整理](https://github.com/tangqiaoboy/iOSBlogCN) - 猿题库唐巧整理.
+* [唐巧整理](https://github.com/tangqiaoboy/iOSBlogCN) - 中文 iOS/Mac 开发博客列表,猿题库唐巧整理.
 * [11个超棒的iOS开发学习国外网站](http://www.cocoachina.com/ios/20150626/11348.html) - 11个超棒的iOS开发学习网站:[objc.io](https://www.objc.io) ;[subjc.com](http://subjc.com) ;[NSHipster](http://nshipster.com) ;[Peter Steinberger](http://petersteinberger.com) ;[Ole Begemann](http://oleb.net) ;[Florian Kugler](http://floriankugler.com) ;[NSBlog](https://www.mikeash.com/pyblog/) ;[Cocoa](http://cocoa.tumblr.com) ;[iOS Dev Weekly](http://iosdevweekly.com) ;[iOS Developer Tips](http://iosdevelopertips.com) ;[iOS Goodies](http://ios-goodies.com) ;[AppCoda](http://www.appcoda.com) 香港人创建;[Krzysztof Zab?ocki](http://merowing.info) ;[iOS Development tips](http://iosdevtips.co) ;
 
 博客地址 | RSS地址
@@ -2295,6 +2304,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 #### game@
 
 * [Retro](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS.
+* [Game Off 2017 winners](https://github.com/blog) - Game Off 2017 winners Github.
 
 #### 前端@
 
