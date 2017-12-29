@@ -1971,7 +1971,6 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [iConsole](https://github.com/nicklockwood/iConsole) - 调试利器 In-app console for viewing logs and typing debug commands in iPhone apps.
 * [RealmBrowser-iOS](https://github.com/TimOliver/RealmBrowser-iOS) - A native iOS debugging framework for introspecting Realm files on device.
 * [iOS-Debug-Hacks](https://github.com/aozhimin/iOS-Debug-Hacks) - 项目开发过程中用到的高级调试技巧，涉及三方库动态调试、静态分析和反编译等领域.
-* [iSimulator](https://github.com/wigl/iSimulator) - 模拟器控制工具，simctl的GUI实现，可以方便打开模拟器位置、App沙盒文件位置，并且可以启动、关闭模拟器。
 
 #### Xcode工具@
 
@@ -2289,6 +2288,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [LuLu](https://github.com/objective-see/LuLu) - 防火墙 LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic.
 * [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开.
 * [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 微信 macOS 客户端撤回拦截与多开.
+* [magnetX](https://github.com/youusername/magnetX) - 资源搜索型软件 macOS OSX magnet.
 * [highsierramediakeyenabler](https://github.com/milgra/highsierramediakeyenabler) - MacOS High Sierra Media Key Enabler for iTunes.
 * [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system for Mac OS X.
 * [overkill-for-mac](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
