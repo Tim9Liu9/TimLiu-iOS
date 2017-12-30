@@ -114,6 +114,7 @@ A curated list of iOS objective-C ecosystem.
   - [选择器@](#选择器)
   - [购物车@](#购物车)
   - [引导@](#引导)
+  - [按钮@](#按钮)
   - [类3D@](#类3D)
   - [其他UI@](#其他UI)
 - [工具@](工具@)
@@ -136,7 +137,7 @@ A curated list of iOS objective-C ecosystem.
 - [学习资料@](#学习资料)
   - [播客@](#播客)
   - [其他开源@](#其他开源)
-  - [开发博客列表@](#开发博客列表)
+  - [博客@](#博客)
   - [学习笔记@](#学习笔记)
   - [书籍@](#书籍)
   - [CodeLiararyWebSite@](#CodeLiararyWebSite)
@@ -418,6 +419,7 @@ A curated list of iOS objective-C ecosystem.
 * [网易云信 iOS UI 组件](https://github.com/netease-im/NIM_iOS_UIKit) - 云信 UI 组件，全称 Netease Instant Message Kit，简称 NIMKit，是一款开源的聊天组件，并支持二次开发。开发者只需要稍作配置就可以打造出属于自己的聊天界面，而通过一些自定义的设置，也可以轻松添加业务相关的功能，如阅后即焚，红包，点赞等功能。NIMKit 底层依赖 NIMSDK，是一款由网易开发的 IM SDK，通过它可以轻松快速在你的 App 中集成 IM 功能.
 * [TeamTalk](https://github.com/meili/TeamTalk) - TeamTalk is a solution for enterprise IM.
 * [QQ界面](https://github.com/weida-studio/QQ)
+* [RTCChatUI](https://github.com/Haley-Wong/RTCChatUI) - 仿QQ音视频通话效果.
 
 #### 网络测试@
 
@@ -444,6 +446,7 @@ A curated list of iOS objective-C ecosystem.
 * [AXWebViewController](https://github.com/devedbox/AXWebViewController) - AXWebViewController is a webViewController to browse web content inside applications.
 * [LYWebviewController](https://github.com/halohily/LYWebviewController) - 基于UIWebview-简书文章阅读页面的模仿demo.
 * [WKWebViewH5ObjCDemo](https://github.com/CoderJackyHuang/WKWebViewH5ObjCDemo) - 学习如何使用OC实现WKWebView与H5交互，并学习其API使用.
+* [PPHTMLImagePreviewDemo](https://github.com/smallmuou/PPHTMLImagePreviewDemo) - 该Repo用于演示APP中点击HTML的图片来预览图片的功能.
 
 #### 网络解析@
 
@@ -1154,6 +1157,8 @@ A curated list of iOS objective-C ecosystem.
 * [MLMOptionSelectView](https://github.com/MengLiMing/MLMOptionSelectView) - 弹出-选择-展示框.
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - 卫星弹出菜单.
 * [HyPopMenuView](https://github.com/wwdc14/HyPopMenuView) - 模仿新浪微博弹出菜单.
+* [DOPScrollableActionSheet](https://github.com/mrhyh/DOPScrollableActionSheet) - Multi-row scrollable action sheet.
+* [DropDownMenu](https://github.com/MartinLi841538513/DropDownMenu) - 仿美团下拉菜单，二级菜单.
 
 #### 通知相关@
 
@@ -1175,6 +1180,7 @@ A curated list of iOS objective-C ecosystem.
 * [JTNavigationController](https://github.com/JNTian/JTNavigationController) - 一个拥有更平滑的navigationBar切换动画的NavigationController.
 * [NavigationController](https://github.com/Roxasora/RxWebViewController) - 实现类似微信的 webView 导航效果，包括进度条，左滑返回上个网页或者直接关闭，就像 UINavigationController.
 * [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) - 叠。[实现教程](http://tech.glowing.com/cn/change-uinavigationbar-backgroundcolor-dynamically/).
+* [LSNavigationBarTransition](https://github.com/lsmakethebest/LSNavigationBarTransition) - 导航栏背景色可以统一设置，每一个控制器导航栏背景色还可以自己单独设置不影响统一设置的界面，采用自定义交互动画实现淘宝，京东等软件当下最流行的导航控制器效果，比其他实现方式每一个控制器都包装一个导航控制器性能更好，使用方法更贴合系统使用方法.
 
 #### 设置@
 
@@ -1282,6 +1288,10 @@ A curated list of iOS objective-C ecosystem.
 * [Onboard](https://github.com/mamaral/Onboard) - 一个iOS框架，轻松创建一个美丽和吸引人的使用引导，只需行代码，非常赞👍👍，同时支持Swift.
 * [JMHoledView](https://github.com/leverdeterre/JMHoledView) - 一个不错的使用引导库，使用View实现.
 * [TNTutorialManager](https://github.com/Tawa/TNTutorialManager) - 内嵌的App使用引导库.
+
+#### 按钮@
+
+* [DownloadButton](https://github.com/PavelKatunin/DownloadButton) - Customizable App Store style download button.
 
 #### 类3D@
 
@@ -1417,6 +1427,7 @@ A curated list of iOS objective-C ecosystem.
 * [PowerMode](https://github.com/younatics/PowerMode) - 一个很酷的文本输入框.
 * [Stryng](https://github.com/BalestraPatrick/Stryng) - Swift strings taken to a whole new syntax level.
 * [CMInputView](https://github.com/CrabMen/CMInputView) - UITextView输入时高度自适应.
+* [WCLPassWordView](https://github.com/631106979/WCLPassWordView) - 实现类似微信和支付宝的密码输入框.
 
 #### 富文本@
 
@@ -1451,6 +1462,7 @@ A curated list of iOS objective-C ecosystem.
 * [WordPress-Editor-iOS](https://github.com/wordpress-mobile/WordPress-Editor-iOS) - 一个文本编辑器 简书和新浪博客都在用.
 * [placeholder_TextView](http://code.cocoachina.com/view/129099) - 带有placeholder的TextView：带有提示信息的textview，使用懒加载的思想，支持扩展、自定义，类似许多APP内部的意见反馈页面.
 * [M80AttributedLabel](https://github.com/xiangwangfeng/M80AttributedLabel) - M80AttributedLabel实现文字与表情的混排。一般使用气泡作为背景.功能较齐全的attributed lable，支持attributed string和图片、链接、控件的混排.
+* [CTTextDisplayView](https://github.com/BrownCN023/CTTextDisplayView) - 一个CoreText完成的图文混排视图，主要用于文本中显示表情@#URL等，类似于QQ、微博的评论图文功能.
 
 #### 表情@
 
@@ -1471,6 +1483,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 日历@
 
+* [FDCalendar](https://github.com/fergusding/FDCalendar) - A custom calendar control in iOS.
 * [FSCalendar](https://github.com/WenchaoD/FSCalendar) - 一款漂亮，强大的 iOS 日历组件 A fully customizable iOS calendar library, compatible with Objective-C and Swift.
 * [MSSCalendar](https://github.com/MSS0306/MSSCalendar) - A simple iOS Calendar 高性能日历控件（类似去哪网）.
 * [Calendar](https://github.com/jumartin/Calendar) - 日历、行程安排类的View和控制器。A set of views and controllers for displaying and scheduling events on iOS.
@@ -1512,6 +1525,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [UISplitViewControllerDemo](https://github.com/NatashaTheRobot/UISplitViewControllerDemo) - iOS8 UISplitViewController Demo.
 * [Shadertweak](https://github.com/warrenm/Shadertweak) - An iPad app that allows you to rapidly prototype fragment shaders in the Metal shading language.
+* [IntelligentSplitViewController](https://github.com/mrhyh/IntelligentSplitViewController) - A smarter UISplitViewController that rotates correctly when placed inside a UITabBarController.
 
 #### 通讯@
 
@@ -1533,6 +1547,8 @@ A curated list of iOS objective-C ecosystem.
 * [RongCloud-SDK-description](https://github.com/zhengwenming/RongCloud-SDK-description) 介绍融云SDK即时通讯机制和集成步骤，由于国内CSDN博客封杀带有广告性质的文章（其实不是打广告，纯粹的技术分享），所以只能在Github发表了。希望大家支持我，谢谢。Demo地址：https://github.com/zhengwenming/RCIM .
 * [RCIM](https://github.com/zhengwenming/RCIM) 融云SDK集成即时通讯。单聊，群聊，讨论组，自定义cell,自定义消息等.
 * [WechatPayDemo](https://github.com/gbammc/WechatPayDemo) - 非官方微信支付 iOS demo.
+* [ShareView](https://github.com/mrhyh/ShareView) - 一个xib做的分享UI.
+* [HXEasyCustomShareView](https://github.com/huangxuan518/HXEasyCustomShareView) - 轻松集成分享界面UI.
 
 #### 其他库@
 
@@ -2204,7 +2220,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://freeCodeCamp.org open source codebase and curriculum. Learn to code and help nonprofits.
 * [Show](https://github.com/CharlinFeng/Show) - 成都地区一个公司开源项目目录.
 
-#### 开发博客列表@
+#### 博客@
 
 * [Halfrost-Field](https://github.com/halfrost/Halfrost-Field) iOS学习博客.
 * [唐巧整理](https://github.com/tangqiaoboy/iOSBlogCN) - 中文 iOS/Mac 开发博客列表,猿题库唐巧整理.
@@ -2261,6 +2277,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 [煲仔饭](http://ivoryxiong.org/) | <http://ivoryxiong.org/feed.xml>
 [里脊串的开发随笔](http://adad184.com) | <http://adad184.com/atom.xml>
 [ibireme伽蓝之堂](http://blog.ibireme.com/) | <http://blog.ibireme.com/feed/>
+[https://onevcat.com/#blog](王巍的博客)
 
 #### CodeLiararyWebSite@
 
