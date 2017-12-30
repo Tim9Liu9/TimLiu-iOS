@@ -156,7 +156,8 @@ A curated list of iOS objective-C ecosystem.
 - [通讯录@](#通讯录)
 - [地图@](#地图)
 - [其他库@](#其他库)
-- [三方分享、支付、登录等等@](#三方分享、支付、登录等等)
+- [三方@](#三方)
+  - [三方分享、支付、登录等等@](#三方分享、支付、登录等等)
 - [消息相关@](#消息相关)
   - [消息推送客户端@](#消息推送客户端)
   - [消息推送服务器端@](#消息推送服务器端)
@@ -312,20 +313,20 @@ A curated list of iOS objective-C ecosystem.
 * [NSDictionary-NilSafe](https://github.com/allenhsu/NSDictionary-NilSafe) - How we made NSDictionary nil safe at Glow.
 * [Myriam](https://github.com/GeoSn0w/Myriam) - A vulnerable iOS App with Security Challenges for the Security Researcher inside you.
 * [Hopper App](https://www.hopperapp.com/) - Hopper Disassembler是一款逆向工程工具，iOS爱好者可以使用它来进行反汇编，反编译和调试应用程序。此工具也可用于修改和重组代码。你只需在你的macOS或Linux系统上启动该应用，然后将其指向你需要破解的二进制文件即可。总的来说Hopper是一款非常好用的逆向工程工具，对于热衷于iOS漏洞赏金的人而言，无疑它将成为一个首选.
-* [ios-class-guard](https://github.com/Polidea/ios-class-guard) - 一个用于混淆iOS的类名、方法名以及变量名的开源库--有人反映编译出来的app运行不了。
-* [《Protecting iOS Applications》](https://www.polidea.com/#!heartbeat/blog/Protecting_iOS_Applications)：文章系统地介绍了如何保护iOS程序的代码安全，防止反汇编分析。
-* [fishhook](https://github.com/facebook/fishhook) - fishhook是Facebook开源的一个可以hook系统方法的工具。
-* [JMPasswordView](https://github.com/Juuman/JMPasswordView) - 简单实用的手势密码，效果可自行调控。
-* [仿密码锁-九宫格](http://code.cocoachina.com/detail/298556/%E4%BB%BF%E5%AF%86%E7%A0%81%E9%94%81-%E4%B9%9D%E5%AE%AB%E6%A0%BC/) - 仿密码锁-九宫格，主要是使用UIButton 手势事件  UIBezierPath画图，解锁失败弹出“密码错误”。
-* [CoreLock](https://github.com/CharlinFeng/CoreLock) - 本框架是高仿支付宝，并集成了所有功能，并非一个简单的解锁界面展示。个人制作用时1周多，打造解锁终结者框架。
-* [LikeAlipayLockCodeView](https://github.com/crazypoo/LikeAlipayLockCodeView) - 高仿支付宝手势解锁（超级版）。
-* [Smile-Lock.swfit](https://github.com/liu044100/Smile-Lock) - 一个类似于iOS的解锁界面。
-* [PCGestureUnlock](https://github.com/iosdeveloperpanc/PCGestureUnlock) - 目前最全面最高仿支付宝的手势解锁，而且提供方法进行参数修改，能解决项目开发中所有手势解锁的开发。
-* [ICPayPassWordDemo](https://github.com/icoder20150719/ICPayPassWordDemo) - CPayPassWordDemo，一个模仿支付宝支付密码输入对话框小demo。
-* [RSAESCryptor](https://github.com/bigsan/RSAESCryptor) - 加密 RSA+AES Encryption/Decryption library for iOS. This library uses 2048-bit RSA and 256-bit key with 128-bit block size AES for encryption/decryption。
-* [TouchID](https://github.com/bringbird/TouchID) - 用法简单的TouchID验证框架：两行代码搞定。
-* [SFHFKeychainUtils] (https://github.com/ldandersen/scifihifi-iphone)iOS中使用SFHFKeychainUtils保存用户密码，比如项目中需要保存用户密码，以实现自动登录的功能可以使用。
-* [AESCipher-iOS](https://github.com/WelkinXie/AESCipher-iOS) - AESCipher-iOS:用 Objective-C 实现的 AES 加密。与 [AESCipher-Java](https://github.com/WelkinXie/AESCipher-Java) 一并使用能达到 在iOS、Android、Java后台产生相同密文、正确解密成明文的目的。[AES加密 - iOS与Java的同步实现](http://www.jianshu.com/p/df828a57cb8f)
+* [ios-class-guard](https://github.com/Polidea/ios-class-guard) - 一个用于混淆iOS的类名、方法名以及变量名的开源库--有人反映编译出来的app运行不了.
+* [《Protecting iOS Applications》](https://www.polidea.com/#!heartbeat/blog/Protecting_iOS_Applications) - 文章系统地介绍了如何保护iOS程序的代码安全，防止反汇编分析.
+* [fishhook](https://github.com/facebook/fishhook) - fishhook是Facebook开源的一个可以hook系统方法的工具.
+* [JMPasswordView](https://github.com/Juuman/JMPasswordView) - 简单实用的手势密码，效果可自行调控.
+* [仿密码锁-九宫格](http://code.cocoachina.com/detail/298556/%E4%BB%BF%E5%AF%86%E7%A0%81%E9%94%81-%E4%B9%9D%E5%AE%AB%E6%A0%BC/) - 仿密码锁-九宫格，主要是使用UIButton 手势事件  UIBezierPath画图，解锁失败弹出“密码错误”.
+* [CoreLock](https://github.com/CharlinFeng/CoreLock) - 本框架是高仿支付宝，并集成了所有功能，并非一个简单的解锁界面展示。个人制作用时1周多，打造解锁终结者框架.
+* [LikeAlipayLockCodeView](https://github.com/crazypoo/LikeAlipayLockCodeView) - 高仿支付宝手势解锁（超级版）.
+* [Smile-Lock.swfit](https://github.com/liu044100/Smile-Lock) - 一个类似于iOS的解锁界面.
+* [PCGestureUnlock](https://github.com/iosdeveloperpanc/PCGestureUnlock) - 目前最全面最高仿支付宝的手势解锁，而且提供方法进行参数修改，能解决项目开发中所有手势解锁的开发.
+* [ICPayPassWordDemo](https://github.com/icoder20150719/ICPayPassWordDemo) - CPayPassWordDemo，一个模仿支付宝支付密码输入对话框小demo.
+* [RSAESCryptor](https://github.com/bigsan/RSAESCryptor) - 加密 RSA+AES Encryption/Decryption library for iOS. This library uses 2048-bit RSA and 256-bit key with 128-bit block size AES for encryption/decryption.
+* [TouchID](https://github.com/bringbird/TouchID) - 用法简单的TouchID验证框架：两行代码搞定.
+* [SFHFKeychainUtils] (https://github.com/ldandersen/scifihifi-iphone) - iOS中使用SFHFKeychainUtils保存用户密码，比如项目中需要保存用户密码，以实现自动登录的功能可以使用.
+* [AESCipher-iOS](https://github.com/WelkinXie/AESCipher-iOS) - AESCipher-iOS:用 Objective-C 实现的 AES 加密。与 [AESCipher-Java](https://github.com/WelkinXie/AESCipher-Java) 一并使用能达到 在iOS、Android、Java后台产生相同密文、正确解密成明文的目的。[AES加密 - iOS与Java的同步实现](http://www.jianshu.com/p/df828a57cb8f).
 * [ABPadLockScreen](https://github.com/abury/ABPadLockScreen) - 九宫格密码锁.
 
 #### 逆向@
@@ -1147,7 +1148,9 @@ A curated list of iOS objective-C ecosystem.
 * [zhPopupController](https://github.com/snail-z/zhPopupController) - Popup your custom view is easy, support custom mask style, transition effects and gesture to drag.
 * [GTSheet](https://github.com/gametimesf/GTSheet) - An easy to integrate solution for presenting UIViewControllers in a bottom sheet.
 * [LewPopupViewController](https://github.com/pljhonglu/LewPopupViewController) - ios 弹出视图.
+* [YCXMenuDemo_ObjC](https://github.com/Aster0id/YCXMenuDemo_ObjC) - `TCXMenu` is an easy-to-use menu.
 * [PopMenu](https://github.com/xhzengAIB/PopMenu) - 用POP动画引擎写的Sina微博的Menu菜单.
+* [XTPopView](https://github.com/summerxx27/XTPopView) - 一个易用的带箭头的View, 可以实现类似于微信添加好友那个View的效果 (包含Objective-C和Swift版本).
 * [MLMOptionSelectView](https://github.com/MengLiMing/MLMOptionSelectView) - 弹出-选择-展示框.
 * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - 卫星弹出菜单.
 * [HyPopMenuView](https://github.com/wwdc14/HyPopMenuView) - 模仿新浪微博弹出菜单.
@@ -1249,12 +1252,16 @@ A curated list of iOS objective-C ecosystem.
 
 #### 选择器@
 
+* [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0) - Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
+* [STPickerView](https://github.com/STShenZhaoliang/STPickerView) - 一个多功能的选择器,有城市选择，日期选择和单数组源自定的功能，方便大家的使用,低耦合,易扩展.
 * [ASDayPicker](http://code.cocoachina.com/detail/226543) - 适用于iOS (iPhone)的日期选择器(时间选择器)，类似于Calendar app的周视图.
 * [HSDatePickerViewController](https://github.com/EmilYo/HSDatePickerViewController) - 带有Dropbox Mailbox感觉的时间日期选择器(时间选择器)。启动是背景被模糊化。界面也是主流的扁平化风格.
 * [HZQDatePickerView](https://github.com/huzhiqin/HZQDatePickerView) - 自定义时间选择器(日期选择器)，包括开始日期和结束日期两种类型.
 * [CFCityPickerVC](https://github.com/CharlinFeng/CFCityPickerVC) - 城市选取控制器.
+* [YMCitySelect](https://github.com/mrhyh/YMCitySelect) - 重量级城市选择框架，类似美团、猫眼电影、美团外卖、百度外卖、百度糯米等团购类app城市选择界面.
 * [JFCitySelector](https://github.com/zhifenx/JFCitySelector) -（仿美团）简单好用的城市选择器，三行代码搞定.
 * [PGDatePicker](https://github.com/xiaozhuxiong121/PGDatePicker) - 日期选择器，支持年、年月、年月日、年月日时分、年月日时分秒、时分、时分秒、月日周 时分等.
+* [UsefulPickerView](https://github.com/jasnig/UsefulPickerView) - 可以简单快速实现点击TextField或者按钮弹出单列, 多列, 多列关联,城市选择, 日期选择的pickerView.
 
 #### 购物车@
 
@@ -1519,11 +1526,13 @@ A curated list of iOS objective-C ecosystem.
 
 * [YJLocationConverter](https://github.com/stackhou/YJLocationConverter) - 中国国测局地理坐标（GCJ-02）<火星坐标>、世界标准地理坐标(WGS-84) 、百度地理坐标（BD-09)坐标系转换工具类.
 
+#### 三方@
 #### 三方分享、支付、登录等等@
 
 * [openshare](https://github.com/100apps/openshare) - 不用官方SDK，利用社交软件移动客户端(微信/QQ/微博/人人/支付宝)分享/登录/支付.
 * [RongCloud-SDK-description](https://github.com/zhengwenming/RongCloud-SDK-description) 介绍融云SDK即时通讯机制和集成步骤，由于国内CSDN博客封杀带有广告性质的文章（其实不是打广告，纯粹的技术分享），所以只能在Github发表了。希望大家支持我，谢谢。Demo地址：https://github.com/zhengwenming/RCIM .
-* [RCIM](https://github.com/zhengwenming/RCIM) 融云SDK集成即时通讯。单聊，群聊，讨论组，自定义cell,自定义消息等。文章配合代码一起看，效果更佳！文章地址：https://github.com/zhengwenming/RongCloud-SDK-description .
+* [RCIM](https://github.com/zhengwenming/RCIM) 融云SDK集成即时通讯。单聊，群聊，讨论组，自定义cell,自定义消息等.
+* [WechatPayDemo](https://github.com/gbammc/WechatPayDemo) - 非官方微信支付 iOS demo.
 
 #### 其他库@
 
