@@ -319,6 +319,7 @@ A curated list of iOS objective-C ecosystem.
 * [fishhook](https://github.com/facebook/fishhook) - fishhook是Facebook开源的一个可以hook系统方法的工具.
 * [JMPasswordView](https://github.com/Juuman/JMPasswordView) - 简单实用的手势密码，效果可自行调控.
 * [仿密码锁-九宫格](http://code.cocoachina.com/detail/298556/%E4%BB%BF%E5%AF%86%E7%A0%81%E9%94%81-%E4%B9%9D%E5%AE%AB%E6%A0%BC/) - 仿密码锁-九宫格，主要是使用UIButton 手势事件  UIBezierPath画图，解锁失败弹出“密码错误”.
+* [Valet](https://github.com/square/Valet) - 代客可以让你安全地存储在iOS和OS X的钥匙串数据，而无需了解的钥匙扣如何工作的事情.
 * [CoreLock](https://github.com/CharlinFeng/CoreLock) - 本框架是高仿支付宝，并集成了所有功能，并非一个简单的解锁界面展示。个人制作用时1周多，打造解锁终结者框架.
 * [LikeAlipayLockCodeView](https://github.com/crazypoo/LikeAlipayLockCodeView) - 高仿支付宝手势解锁（超级版）.
 * [Smile-Lock.swfit](https://github.com/liu044100/Smile-Lock) - 一个类似于iOS的解锁界面.
@@ -389,6 +390,7 @@ A curated list of iOS objective-C ecosystem.
 * [QwikHttp](https://github.com/logansease/QwikHttp) - a robust, yet lightweight and simple to use HTTP networking library designed for RESTful APIs. 🔶
 * [NetClient](https://github.com/intelygenz/NetClient-iOS) - Versatile HTTP networking library written in Swift 3. :large_orange_diamond:
 * [Reactor](https://github.com/MailOnline/Reactor) - Powering your RAC architecture :large_orange_diamond:
+* [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - 轻松存网络的要求！测试你的应用程序使用假网络数据和定制的响应时间，响应代码和头部.
 
 #### socket@
 
@@ -1632,6 +1634,7 @@ A curated list of iOS objective-C ecosystem.
 #### 版本管理@
 
 * [cocoapods安装指南](http://code4app.com/article/cocoapods-install-usage) - cocoapods安装指南.
+* [fastlane](https://github.com/fastlane/fastlane) - 非常棒👍👍👍一套iOS开发和持续集成的命令行工具fastlane，可以用来快速搭建CI甚至自动提交的开发环境。这套工具中包括了上传ipa文件，自动截取多语言截屏，生成推送证书，管理产品证书等一系列实用工具.
 
 #### Git用法@                                 
 
@@ -1939,7 +1942,6 @@ A curated list of iOS objective-C ecosystem.
 
 #### 测试调试@
 
-* [fastlane](https://github.com/fastlane/fastlane) - 非常棒👍👍👍一套iOS开发和持续集成的命令行工具fastlane，可以用来快速搭建CI甚至自动提交的开发环境。这套工具中包括了上传ipa文件，自动截取多语言截屏，生成推送证书，管理产品证书等一系列实用工具.
 * [FLEX](https://github.com/Flipboard/FLEX) 非常赞👍👍👍 的 一个Xcode界面调试工具，FLEX是一个需要注入式的一种框架，从描述来看，功能非常多。主要来讲的话能够对正在运行的应用进行样式的修改和控件的读取。FLEX会赐予你SuperPower！！！
   1. 可以查看控件的坐标和属性
   2. 看任何一个对象的属性和成员变量
@@ -1961,6 +1963,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [PonyDebugger](https://github.com/square/PonyDebugger) - 由 Square 公司推出的一款优秀的 iOS 应用网络调试工具, 用户可以实时看到应用程序的网络请求, 也可以对 iOS 应用程序的核心数据栈进行远程调试.
 * [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - 能够帮助 iOS 开发者们精确的测量视图, 可直接在调试应用中查看具体某个视图的坐标, 宽高等参数.
 * [pxctest](https://github.com/plu/pxctest) - Execute tests in parallel on multiple iOS Simulators 在多个 iOS 模拟器上并行测试.
+* [ios-snapshot-test-case](https://github.com/facebookarchive/ios-snapshot-test-case) - 保持它的功能 - 在iOS功能测试框架.
 * [dSYMTools](https://github.com/answer-huang/dSYMTools) - 友盟 dSYM analyze  备用地址[https://github.com/mrhyh/dSYMTools].
 * [HeapInspector](https://github.com/tapwork/HeapInspector-for-iOS) - HeapInspector是一个用于检测应用中的内存泄漏的开源调试工具.
 * [UIViewController-Swizzled](https://github.com/RuiAAPeres/UIViewController-Swizzled) - 把你进入的每一个controller的类名打出来,如果看一些特别复杂的项目的时候直接运行demo就可以知道执行次序了.
@@ -1996,6 +1999,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [iConsole](https://github.com/nicklockwood/iConsole) - 调试利器 In-app console for viewing logs and typing debug commands in iPhone apps.
 * [RealmBrowser-iOS](https://github.com/TimOliver/RealmBrowser-iOS) - A native iOS debugging framework for introspecting Realm files on device.
 * [iOS-Debug-Hacks](https://github.com/aozhimin/iOS-Debug-Hacks) - 项目开发过程中用到的高级调试技巧，涉及三方库动态调试、静态分析和反编译等领域.
+* [Kiwi](https://github.com/kiwi-bdd/Kiwi) - 简单的BDD为iOS.
 
 #### Xcode工具@
 
@@ -2006,9 +2010,11 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 
 * [iOS私有API](https://github.com/nst/iOS-Runtime-Headers) - 这个仓库可以调取苹果的所有私有方法头文件，相当强大。私有API，绿色 == public，红色 == private，蓝色 == dylib。
 * [iOS10-Runtime-Headers](https://github.com/JaviSoto/iOS10-Runtime-Headers) - iOS10-Runtime-Headers.
+* [dyci-main](https://github.com/DyCI/dyci-main) - Dynamic Code Injection Tool for Objective-C.
 
 #### Xcode插件@
 
+* [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - Injection for Xcode：成吨的提高开发效率,[使用说明](http://www.jianshu.com/p/27be46d5e5d4).
 * [XVim2](https://github.com/XVimProject/XVim2) - Vim key-bindings for Xcode 9.
 * [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev) 原有iOSOpenDev的升级，非越狱插件开发集成神器！ CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps, Without Jailbreak.
 * [xTextHandler](https://github.com/cyanzhong/xTextHandler) Xcode源码编辑扩展工具(Xcode8版) Xcode Source Editor Extension Tools (Xcode 8 Plugins)
@@ -2048,25 +2054,25 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [XVim](https://github.com/XVimProject/XVim) 支持绑定VIM快捷键
 * [CATweaker](https://github.com/keefo/CATweaker) CATweaker – 一个用于创建漂亮的CAMediaTimingFunction 曲线的插件. XcodeWay – 便捷地导航到多个地方
 * [FuzzyAutocomplete](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin) - Xcode的实现自动完成还不完美，此插件能给出你所期望或想要的建议，设置：xcode-》Editor-》FuzzyAutocomplete-》plugin settings。
-* [GitDiff](https://github.com/johnno1962/GitDiff) - Xcode的代码编辑器的一个微妙的补强，加上了足够的可见信息以了解上次git提交以来发生了什么变化，设置：xcode-》Edit-》GitDiff。
-* [XToDo](https://github.com/trawor/XToDo) - 这个插件不仅凸显TODO，FIXME，???，以及！！！注释，也在便利列表呈现他们。 菜单：xcode-》view-》snippets;   调出列表显示: xcode-》view-》ToDo List ： ctrl + T 。
-* [Backlight](https://github.com/limejelly/Backlight-for-XCode) - 突出显示当前正在编辑的行。菜单：xcode-》view-》Backlight 。
-* [Peckham](https://github.com/markohlebar/Peckham) - 添加import语句比较麻烦，此插件 按Command-Control-P，给出的选项列表中选择要的头文件。先要安装
-* [Auto-Importer](https://github.com/citrusbyte/Auto-Importer-for-Xcode) - Auto-Importer是一个自动导入类对应的头文件的Xcode插件。
-* [KSHObjcUML](https://github.com/kimsungwhee/KSHObjcUML) -KSHObjcUML 是一个 Objective-C 类引用关系图的 Xcode 插件。
-* [Dash-Plugin-for-Xcode](https://github.com/omz/Dash-Plugin-for-Xcode)。
-* [ESJsonFormat-Xcode](https://github.com/EnjoySR/ESJsonFormat-Xcode) - 将Json格式化输出为模型的属性。
-* [SCXcodeMiniMap](https://github.com/stefanceriu/SCXcodeMiniMap) - Xcode迷你小地图-SCXcodeMiniMap。
+* [GitDiff](https://github.com/johnno1962/GitDiff) - Xcode的代码编辑器的一个微妙的补强，加上了足够的可见信息以了解上次git提交以来发生了什么变化，设置：xcode-》Edit-》GitDiff.
+* [XToDo](https://github.com/trawor/XToDo) - 这个插件不仅凸显TODO，FIXME，???，以及！！！注释，也在便利列表呈现他们。 菜单：xcode-》view-》snippets;   调出列表显示: xcode-》view-》ToDo List ： ctrl + T .
+* [Backlight](https://github.com/limejelly/Backlight-for-XCode) - 突出显示当前正在编辑的行。菜单：xcode-》view-》Backlight.
+* [Peckham](https://github.com/markohlebar/Peckham) - 添加import语句比较麻烦，此插件 按Command-Control-P，给出的选项列表中选择要的头文件。先要安装.
+* [Auto-Importer](https://github.com/citrusbyte/Auto-Importer-for-Xcode) - Auto-Importer是一个自动导入类对应的头文件的Xcode插件.
+* [KSHObjcUML](https://github.com/kimsungwhee/KSHObjcUML) -KSHObjcUML 是一个 Objective-C 类引用关系图的 Xcode 插件.
+* [Dash-Plugin-for-Xcode](https://github.com/omz/Dash-Plugin-for-Xcode)
+* [ESJsonFormat-Xcode](https://github.com/EnjoySR/ESJsonFormat-Xcode) - 将Json格式化输出为模型的属性.
+* [SCXcodeMiniMap](https://github.com/stefanceriu/SCXcodeMiniMap) - Xcode迷你小地图-SCXcodeMiniMap.
 * [xTransCodelation](http://code.cocoachina.com/detail/316095/xTransCodelation/) - XCODE中英文翻译插件，提供API查询模式和网页模式，都是利用的百度翻译。另外集成了一个可以一键关闭其他所有APP的实用功能，方便开发者！目前只有30多颗星。
-* [jazzy](https://github.com/realm/jazzy) 通过代码注释生成doc文档,支持ObjC/Swift,分析准确
-* [CoPilot](https://vimeo.com/128713880) - 通过此插件， Xcode 可以协同编程了（采用 WebSocket 通讯）。如此强大的“黑工具”，不爱它能行吗。
-* [SuggestedColors](https://github.com/jwaitzel/SuggestedColors/) - Xcode 插件SuggestedColors，用于 IB颜色设置 辅助插件，非常好用。
-* [Crayons](https://github.com/Sephiroth87/Crayons) - Xcode调色板增强插件。
-* [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - Injection for Xcode：成吨的提高开发效率,[使用说明](http://www.jianshu.com/p/27be46d5e5d4)。
-* [IconMaker](https://github.com/kaphacius/IconMaker) - 只需要一步，自动生成不同尺寸的App icon。超级方便。
-* [BuildTimeAnalyzer-for-Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - 实用的编译时间分析 Xcode 插件。
-* [FastStub-Xcode](https://github.com/music4kid/FastStub-Xcode) - 一只快速生成代码的Xcode插件，[说明](http://mrpeak.cn/blog/faststub/)。
-* [ESTranslate-Xcode](https://github.com/EnjoySR/ESTranslate-Xcode) - 一个快速翻译Xcode代码里面单词(我主要用于翻译句子～)的插件，快捷键：Ctrl+Shift+T。
+* [jazzy](https://github.com/realm/jazzy) - 通过代码注释生成doc文档,支持ObjC/Swift,分析准确.
+* [CoPilot](https://vimeo.com/128713880) - 通过此插件， Xcode 可以协同编程了（采用 WebSocket 通讯）。如此强大的“黑工具”，不爱它能行吗.
+* [SuggestedColors](https://github.com/jwaitzel/SuggestedColors/) - Xcode 插件SuggestedColors，用于 IB颜色设置 辅助插件，非常好用.
+* [Crayons](https://github.com/Sephiroth87/Crayons) - Xcode调色板增强插件.
+* [IconMaker](https://github.com/kaphacius/IconMaker) - 只需要一步，自动生成不同尺寸的App icon。超级方便.
+* [BuildTimeAnalyzer-for-Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - 实用的编译时间分析 Xcode 插件.
+* [FastStub-Xcode](https://github.com/music4kid/FastStub-Xcode) - 一只快速生成代码的Xcode插件，[说明](http://mrpeak.cn/blog/faststub/).
+* [ESTranslate-Xcode](https://github.com/EnjoySR/ESTranslate-Xcode) - 一个快速翻译Xcode代码里面单词(我主要用于翻译句子～)的插件，快捷键：Ctrl+Shift+T.
+* [liftoff](https://github.com/liftoffcli/liftoff) - 用于创建和配置新的Xcode项目的CLI.
 
 #### 接口调试工具@
 
@@ -2318,6 +2324,10 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [highsierramediakeyenabler](https://github.com/milgra/highsierramediakeyenabler) - MacOS High Sierra Media Key Enabler for iTunes.
 * [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system for Mac OS X.
 * [overkill-for-mac](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
+
+#### iOS插件@
+
+* [WeChatRedEnvelopesHelper](https://github.com/kevll/WeChatRedEnvelopesHelper) - iOS版微信抢红包插件,支持后台抢红包.
 
 #### 开发环境@
 
