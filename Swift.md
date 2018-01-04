@@ -1017,6 +1017,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### Xcode插件@
 
+* [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - Injection for Xcode：成吨的提高开发效率,[使用说明](http://www.jianshu.com/p/27be46d5e5d4).
 * [Reminders](https://github.com/tiagomartinho/Reminders) - Clean Architecture.
 * [Swimat](https://github.com/Jintin/Swimat) - Swimat，是一款Xcode 插件，帮你一键格式化 swift 代码.
 * [XcodeSwiftSnippets](https://github.com/burczyk/XcodeSwiftSnippets) - XcodeSwiftSnippets, 提供了很多可在 Xcode 上使用的 Swift 代码片段, 通过自动补全的方式极大的提高了开发效率.
