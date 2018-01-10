@@ -158,6 +158,7 @@ A curated list of iOS objective-C ecosystem.
 * [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - 30DaysofSwift 自学 iOS - [三十天三十个 Swift 项目](http://weibo.com/ttarticle/p/show?id=2309403942494873235448).
 * [MySampleCode](https://github.com/bestswifter/MySampleCode) Swift的一些Demo.
 * [iOS与swift学习之路](https://toutiao.io/subjects/35291#187)
+* [iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) - 老司机 iOS 周报.
 
 #### iOS11@
 
@@ -358,6 +359,7 @@ A curated list of iOS objective-C ecosystem.
 * [Arrow](https://github.com/freshOS/Arrow) - 一个Swift JSON解析库 JSON Parsing Library for Swift
 * [Genome](https://github.com/LoganWright/Genome) - 一个易用、多样、安全，包含错误映射的JSON转Model的Swift库. A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0 (Supports Linux)
 * [FeedKit](https://github.com/nmdias/FeedKit) - An RSS and Atom feed parser written in Swift :large_orange_diamond:
+* [typewriter](https://github.com/typwr/typewriter) - 客户端翻译服务端数据交换格式的代码翻译器.
 
 #### xml@
 
@@ -757,6 +759,7 @@ A curated list of iOS objective-C ecosystem.
 * [WCLWaterFallLayout](https://github.com/631106979/WCLWaterFallLayout) - 用swift写的简易的瀑布流布局，简单易用，支持多行展示，实现过程：http://blog.csdn.net/wang631106979/article/details/53793046 .
 * [LNZTreeView](https://github.com/gringoireDM/LNZTreeView) - 一个树状的列表View.
 * [FunctionalTableData](https://github.com/Shopify/FunctionalTableData) - Declarative UITableViewDataSource implementation.
+* [DeepDiff](https://github.com/onmyway133/DeepDiff) - 支持列表和宫格列表快速变换的列表库.
 
 #### scrollView@
 
@@ -768,6 +771,7 @@ A curated list of iOS objective-C ecosystem.
 * [swift-linechart](https://github.com/zemirco/swift-linechart) - 功能完整、实用的折线图组件。使用方便，参数配置简单。是不可多得的优质组件--swift.
 * [SpreadsheetView](https://github.com/kishikawakatsumi/SpreadsheetView) - 很棒👍 的电子表格库. 可以完全配置的电子表格View,使用此库你能很容易的创建出复杂布局的表格，比如时间表、甘特图、课程表，就像你使用Excel一样.
 * [Scrollable-GraphView.swift](https://github.com/philackm/Scrollable-GraphView) - 灵动感十足的自适应、可定制滚动曲（折）线图表库.
+* [SwiftChart](https://github.com/gpbl/SwiftChart) - Line and area chart library for iOS.
 
 #### 日历@
 
@@ -855,7 +859,8 @@ A curated list of iOS objective-C ecosystem.
 
 #### 导航栏@
 
-* [Tiptoes](https://github.com/caiyue1993/Tiptoes) 提供了一种自定义 Navigation Bar 的新思路，并实现了转场渐变效果，灵感来自于 Unread 。
+* [Tiptoes](https://github.com/caiyue1993/Tiptoes) - 提供了一种自定义 Navigation Bar 的新思路，并实现了转场渐变效果，灵感来自于 Unread.
+* [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) - RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern.
 
 #### Label@
 
@@ -982,7 +987,6 @@ A curated list of iOS objective-C ecosystem.
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon是一个非常棒👍👍👍iOS的色彩框架。它运用现代化flat color将UIColor扩展地非常美观。我们还可以通过它运用自定义颜色创建调色板。它还有很多功用，请浏览readme。同时支持Objective-C.
 * [IGColorPicker](https://github.com/iGenius-Srl/IGColorPicker) - 一个自定义颜色选择器 🎨 A customizable color picker for iOS in Swift 🔶
 
-
 #### 游戏@
 
 * [Legend-Wings](https://github.com/woguan/Legend-Wings) iOS Swift Game - Push SpriteKit to the limit
@@ -1024,6 +1028,7 @@ A curated list of iOS objective-C ecosystem.
 * [XcodeGen](https://github.com/yonaskolb/XcodeGen) - Command line tool that generates your Xcode project from a simple spec and your folder structure.
 * [sake](https://github.com/xcodeswift/sake) - Sake is a Swift command line tool that helps you automate tasks in your projects.
 * [SourceKitten](https://github.com/jpsim/SourceKitten) - 一个可爱的用于与SourceKit交互的小框架与命令行工具.
+* [quicktype-xcode](https://github.com/quicktype/quicktype-xcode) - 将json数据快速转换为模型类.
 
 #### Xcode相关@
 
