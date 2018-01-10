@@ -178,6 +178,7 @@ A curated list of iOS objective-C ecosystem.
 * [Eidolon](https://github.com/artsy/eidolon) - 艺术品拍卖的投标亭平台，用swift与反应式编程框架 ReactiveCocoa.
 * [BaiduFM-Swift](https://github.com/belm/BaiduFM-Swift) - 百度FM, swift语言实现，基于最新xcode6.3+swift1.2,初步只是为了实现功能，代码比较粗燥，后面有时间会整理，支持Apple Watch。
 * [Tuan](https://github.com/aiqiuqiu/Tuan) - 模仿MJ老师iPad版美团（swift版），偶有bug 见谅.
+* [ios-oss](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
 * [CocoaChinaPlus](https://github.com/zixun/CocoaChinaPlus) - CocoaChina+是一款开源的第三方CocoaChina移动端。整个App都用Swift2.0编写(除部分第三方OC代码外，比如JPush和友盟).
 * [SimpleMemo](https://github.com/likumb/SimpleMemo) - 易便签已经转到Swift2.0，全面适配iOS9和Watch OS2，并支持iPhone6s和iPhone6sPlus的3D Touch功能，包括图标快捷键和内容预览.
 * [SelectionOfZhihu.swift](https://github.com/sheepy1/SelectionOfZhihu) - 『看知乎』iOS 客户端, [项目说明](http://www.jianshu.com/p/2c3a0f109788).
@@ -292,6 +293,7 @@ A curated list of iOS objective-C ecosystem.
 * [Netdiag](https://github.com/qiniu/iOS-netdiag) - A network diagnosis library. Support Ping/TcpPing/Rtmp/TraceRoute/DNS/external IP/external DNS.
 * [AFNetworkingHelper](https://github.com/betacraft/AFNetworkingHelper) - A custom wrapper over AFNetworking library that we use inside RC extensively
 * [SwiftyZeroMQ](https://github.com/azawawi/SwiftyZeroMQ) - ZeroMQ Swift Bindings for iOS, macOS, tvOS and watchOS. :large_orange_diamond: ⌚
+* [Frisbee](https://github.com/ronanrodrigo/Frisbee) - Another network wrapper for URLSession. Built to be simple, small and easy to create tests at the network layer of your application.
 
 #### 网络聊天@
 
@@ -636,7 +638,6 @@ A curated list of iOS objective-C ecosystem.
 * [SwiftPriorityQueue](https://github.com/davecom/SwiftPriorityQueue) - A priority queue with a classic binary heap implementation in pure Swift. :large_orange_diamond:
 * [HeckelDiff](https://github.com/mcudich/HeckelDiff) - A fast Swift diffing library. :large_orange_diamond:
 * [Dekoter](https://github.com/artemstepanenko/Dekoter) - `NSCoding`'s counterpart for Swift structs. :large_orange_diamond:
-* [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations! :large_orange_diamond:
 
 #### 动画@
 
@@ -833,8 +834,9 @@ A curated list of iOS objective-C ecosystem.
 #### HUD与Toast@
 
 * [InputBarAccessoryView](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making message input bars! As featured in MessageKit.
-* [Toast-Swift](https://github.com/scalessec/Toast-Swift) - 高可定制易用的 Toast 弹出信息或通知用户界面组件类。
+* [Toast-Swift](https://github.com/scalessec/Toast-Swift) - 高可定制易用的 Toast 弹出信息或通知用户界面组件类.
 * [SkeletonView](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
+* [StatusAlert](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts. It is well suited for notifying user without interrupting user flow in iOS-like way.
 
 #### 对话框@
 
@@ -1029,6 +1031,7 @@ A curated list of iOS objective-C ecosystem.
 * [sake](https://github.com/xcodeswift/sake) - Sake is a Swift command line tool that helps you automate tasks in your projects.
 * [SourceKitten](https://github.com/jpsim/SourceKitten) - 一个可爱的用于与SourceKit交互的小框架与命令行工具.
 * [quicktype-xcode](https://github.com/quicktype/quicktype-xcode) - 将json数据快速转换为模型类.
+* [MotherShip](https://github.com/thecb4/MotherShip) - iTunes Connect Library inspired by FastLane.
 
 #### Xcode相关@
 
