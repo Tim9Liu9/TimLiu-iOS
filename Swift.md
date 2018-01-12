@@ -227,7 +227,6 @@ A curated list of iOS objective-C ecosystem.
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) Streams of values over time  一个支持FRP(函数响应式编程)的框架 非常👍👍👍 .
 * [RxSwift](https://github.com/ReactiveX/RxSwift) - RxSwift:函数响应式编程框架，非常👍👍👍 .
 * [RxPermission.swift](https://github.com/sunshinejr/RxPermission) - 通过绑定 RxSwift 实现的 RxPermission。
-* [Permission.swift](https://github.com/delba/Permission) - 统一的 API 请求 iOS 本地设备及资源权限类库。
 * [ReactiveAnimation](https://github.com/ReactiveCocoa/ReactiveAnimation) - ReactiveCocoa 推出了一个叫 ReactiveAnimation 的子项目，直接用完全用 Swift 来实现了。
 * [Swiftest](https://github.com/bppr/Swiftest) - BDD 全称 Behavior Driven Development，行为驱动开发。各种 DD 数不胜数，孰优孰劣争论不休，其实归根结底还是要根据使用场景进行选择。
 
@@ -259,6 +258,8 @@ A curated list of iOS objective-C ecosystem.
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - 不断发展的加密算法集合.
 * [RequestPermission](https://github.com/IvanVorobei/RequestPermission) - simple permission request with beautiful UI.
 * [NativeLogin](https://github.com/IvanVorobei/NativeLogin) - Authorization form in native iOS style.
+* [Permission.swift](https://github.com/delba/Permission) - 统一的 API 请求 iOS 本地设备及资源权限类库。
+* [Proposer](https://github.com/nixzhu/Proposer) - Proposer 用单个 API 处理 iOS 上的权限请求，以便使用前确认可访问“相册”、“相机”、“麦克风”、“通讯录”或“用户位置”.
 
 #### 服务端@
 
@@ -821,7 +822,6 @@ A curated list of iOS objective-C ecosystem.
 * [FloatLabelFields.swift](https://github.com/FahimF/FloatLabelFields) - FloatLabelFields.swift浮动标签输入效果类。
 * [cleartext-mac.swift](https://github.com/mortenjust/cleartext-mac) - 提供一千个常用单词的编辑器。
 * [GlitchLabel.swift](https://github.com/kciter/GlitchLabel) - 可定制“黑（故障）文字标签”类库，熟称晃瞎你的眼文字标签。
-
 
 #### 字体@
 
