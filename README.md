@@ -1952,6 +1952,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) - 支持同时启动多个模拟器的库，FaceBook出品.
 * [calabash-ios](https://github.com/calabash/calabash-ios) - 自动测试 Calabash is an automated testing technology for Android and iOS native and hybrid applications.
 * [Buildasaur](https://github.com/czechboy0/Buildasaur) 自动测试框架 Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server. Keep your team productive and safe. Get up and running in minutes. @buildasaur
+* [MLeaksFinder](https://github.com/Tencent/MLeaksFinder) - 内存泄露检测工具.
 * [IPAPatch](https://github.com/Naituw/IPAPatch) 免越狱调试、修改第三方App，👍👍 .
 * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - 是一个快速、简单，但很强大的日志框架，可以自定义打印日志的颜色.
 * [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization) - 关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit
