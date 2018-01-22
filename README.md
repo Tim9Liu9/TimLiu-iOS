@@ -1188,13 +1188,12 @@ A curated list of iOS objective-C ecosystem.
 #### 设置@
 
 * [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit) - InAppSettingsKit 是一款功能强大的ios设置组件，可以满足各种各样的app设置需求.
-* [ViralSwitch](https://github.com/andreamazz/ViralSwitch) - A UISwitch that infects its superview with its tint color.
-
 
 #### Switch@
 
 * [JTMaterialSwitch](https://github.com/JunichiT/JTMaterialSwitch) - A Customizable Switch UI for iOS, Inspired from Google's Material Design.
 * [LLSwitch](https://github.com/lilei644/LLSwitch) - 一个有趣的switch.
+* [ViralSwitch](https://github.com/andreamazz/ViralSwitch) - A UISwitch that infects its superview with its tint color.
 
 #### Label@
 
