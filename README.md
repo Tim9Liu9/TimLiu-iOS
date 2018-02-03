@@ -736,6 +736,7 @@ A curated list of iOS objective-C ecosystem.
 * [SRGMediaPlayer-iOS](https://github.com/SRGSSR/SRGMediaPlayer-iOS) - 一个提供简洁的方法为iOS应用添加通用的音频、视频播放的库.
 * [ABMediaView](https://github.com/andrewboryk/ABMediaView) - 一个UIImageView的子类，可以播放本地和来源于网络的图片、视频、GIF和音频,可以最小化和全屏,同时支持视频设置GIF预览图.
 * [kxmovie](https://github.com/kolyvan/kxmovie) - 使用ffmpeg的影片播放器，[修改说明](http://www.cocoachina.com/bbs/read.php?tid=145575)， [修改代码](https://github.com/kinglonghuang)，[基于FFmpeg的kxMoive艰难的编译运行](https://github.com/namebryant/FFmpeg-Compilation).
+* [JPVideoPlayer](https://github.com/newyjp/JPVideoPlayer) - Automatic play video in UITableView like Weibo home page in main thread and never block it.
 * [StreamingKit](https://github.com/tumtumtum/StreamingKit) - StreamingKit流媒体音乐播放器.
 * [FreeStreamer](https://github.com/muhku/FreeStreamer) - FreeStreamer流媒体音乐播放器，cpu占用非常小.
 * [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer) - DOUAudioStreamer豆瓣的音乐流媒体播放器.
