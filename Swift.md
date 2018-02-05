@@ -72,6 +72,7 @@ A curated list of iOS objective-C ecosystem.
   - [其他动画@](#其他动画)
 - [编码规范@](#编码规范)
 - [机器学习@](#机器学习)
+- [AI@](#AI)
 - [数学@](#数学)
 - [UI@](#ui)
   - [列表@](#列表)
@@ -133,7 +134,6 @@ A curated list of iOS objective-C ecosystem.
 - [动态更新@](#动态更新)
 - [AppleWatch@](#applewatch)
 - [VPN@](#vpn)
-- [物联网@](#物联网)
 - [mac@](#mac)
 - [未分类@](#未分类)
 - [后端@](#后台)
@@ -199,7 +199,7 @@ A curated list of iOS objective-C ecosystem.
 * [有妖气漫画](https://github.com/spicyShrimp/U17) - 精仿有妖气漫画(Swift4).
 * [MarkLite](https://github.com/zhubinchen/MarkLite) - iOS markdown编辑器.
 * [LXFFM](https://github.com/LinXunFeng/LXFFM) - 高仿喜马拉雅FM.
-* [TodayNews](https://github.com/hrscy/TodayNews) - Swift开源项目-模仿今日头条.
+* [TodayNews](https://github.com/hrscy/TodayNews) - Swift4 模仿今日头条.
 * [notGIF](https://github.com/atuooo/notGIF) - 一款展示、管理和分享相册中 GIF 的应用，并适配了 iMessage Extension.
 * [TheGreatGame](https://github.com/dreymonde/TheGreatGame) - Open-source first-class iOS app dedicated to Women’s Euro 2017.
 * [Swift-YouTube-Player](https://github.com/gilesvangruisen/Swift-YouTube-Player) - Swift library for embedding and controlling YouTube videos in your iOS applications.
@@ -221,6 +221,7 @@ A curated list of iOS objective-C ecosystem.
 * [Flix](https://github.com/DianQK/Flix) - 快速搭建列表类界面的框架.
 * [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - 一个将元程序引入Swift的工具，允许你生成Swift的代码.
+* [PromiseKit](https://github.com/mxcl/PromiseKit) - 同时支持 Swift 及 Objective-C 的 Promise 类库，异步编程类库 提供了很多实用的异步函数 让异步编程更简单.
 
 #### 响应式框架@
 
@@ -295,6 +296,7 @@ A curated list of iOS objective-C ecosystem.
 * [AFNetworkingHelper](https://github.com/betacraft/AFNetworkingHelper) - A custom wrapper over AFNetworking library that we use inside RC extensively
 * [SwiftyZeroMQ](https://github.com/azawawi/SwiftyZeroMQ) - ZeroMQ Swift Bindings for iOS, macOS, tvOS and watchOS. :large_orange_diamond: ⌚
 * [Frisbee](https://github.com/ronanrodrigo/Frisbee) - Another network wrapper for URLSession. Built to be simple, small and easy to create tests at the network layer of your application.
+* [Restofire](https://github.com/Restofire/Restofire) - Restofire is a protocol oriented network abstraction layer in swift that is built on top of Alamofire to use services in a declartive way.
 
 #### 网络聊天@
 
@@ -729,7 +731,11 @@ A curated list of iOS objective-C ecosystem.
 
 #### 机器学习@
 
-* [SeeFood](https://github.com/kingreza/SeeFood) Inspired by HBO's Silicon Valley: SeeFood is an iOS app that uses CoreML to detect various dishes
+* [SeeFood](https://github.com/kingreza/SeeFood) - Inspired by HBO's Silicon Valley: SeeFood is an iOS app that uses CoreML to detect various dishes
+
+#### AI@
+
+* [SwiftAI](https://github.com/hhfa008/SwiftAI) - SwiftAI, write Swift code smart. SwiftAI can generate Model class from JSON now. Codable and HandyJSON is supported. More features will be add.
 
 #### 数学@
 
@@ -770,6 +776,8 @@ A curated list of iOS objective-C ecosystem.
 * [LNZTreeView](https://github.com/gringoireDM/LNZTreeView) - 一个树状的列表View.
 * [FunctionalTableData](https://github.com/Shopify/FunctionalTableData) - Declarative UITableViewDataSource implementation.
 * [DeepDiff](https://github.com/onmyway133/DeepDiff) - 支持列表和宫格列表快速变换的列表库.
+* [TiltedTabView](https://github.com/IMcD23/TiltedTabView) - iOS control to replicate the tab switcher in Safari for iOS.
+* [TabView](https://github.com/IMcD23/TabView) - Easily add multiple tabs to your iOS app, styled similar to Safari for iPad.
 
 #### scrollView@
 
@@ -819,6 +827,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [PowerMode](https://github.com/younatics/PowerMode) - TextView输入时的水花效果.
 * [Stryng](https://github.com/BalestraPatrick/Stryng) - Swift strings taken to a whole new syntax level.
+* [MessageViewController](https://github.com/GitHawkApp/MessageViewController) - A SlackTextViewController replacement written in Swift for the iPhone X.
 
 #### 富文本@
 
@@ -861,6 +870,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### pop@
 
+* [alerts-and-pickers](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of UIAlertController and pickers based on it: Telegram, Contacts, Location, PhotoLibrary, Country, Phone Code, Currency, Date...
 * [panelkit](https://github.com/louisdh/panelkit) - 手势拖动弹出面板视图 A UI framework that enables panels on iOS.
 * [ElongationPreview](https://github.com/Ramotion/elongation-preview) - 一个优雅的push-pop风格的视图控制器  ElongationPreview is an elegant push-pop style view controller with 3D-Touch support and gestures. :large_orange_diamond:
 * [PopupWindow](https://github.com/shin8484/PopupWindow) - PopupWindow is a simple Popup using another UIWindow in Swift.
@@ -1141,7 +1151,6 @@ A curated list of iOS objective-C ecosystem.
 * [Euler.swift](https://github.com/mattt/Euler) - Euler.swift直观、简洁的数学表达式∛27÷3+∑[3,1,2]。
 * [Siren.swift](https://github.com/ArtSabintsev/Siren) - Siren.swift当应用更新时，通知用户并提供App Store链接。
 * [BTree.swift](https://github.com/lorentey/BTree) - BTree.swift:相对于标准集合类型具有更优执行性能的基于B-Tree的优化集合类型实现类库。
-* [PromiseKit](https://github.com/mxcl/PromiseKit) - 同时支持 Swift 及 Objective-C 的 Promise 类库，异步编程类库 提供了很多实用的异步函数 让异步编程更简单。
 * [Duration.swift](https://github.com/SwiftStudies/Duration) - 测量代码片段执行时间工具类库（Swift）。
 * [Bolts-Swift](https://github.com/BoltsFramework/Bolts-Swift) - 全平台（所有支持 Swift 的设备）任务管理 futures/promises 异步实现类库。
 * [BCColor.swift](https://github.com/boycechang/BCColor) - 轻量而强大的颜色处理库，纯 Swift 版。 支持从图片拾取一套主题色，类似AppleMusic；支持图片黑白化、对颜色的加深和变浅、生成渐变颜色等。
@@ -1197,9 +1206,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX.
 * [vpnon](https://github.com/lexrus/vpnon/) - swift的VPN On 的源码和本地化内容都是开放的: [官方网站](https://crowdin.com/project/vpnon).
-* [Potatso](https://github.com/haxpor/Potatso) 一个实现Shadowsocks代理的客户端.
-
-#### 物联网@
+* [Potatso](https://github.com/haxpor/Potatso) - 一个实现Shadowsocks代理的客户端.
 
 #### mac@
 
@@ -1208,6 +1215,8 @@ A curated list of iOS objective-C ecosystem.
 * [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface.
 * [swift14macOSApps](https://github.com/KrisYu/swift14macOSApps) - 几个Mac小Demo.
 * [SpotMenu](https://github.com/kmikiy/SpotMenu) - 菜单栏中的Spotify和iTunes.
+* [xi-mac](https://github.com/google/xi-mac) - The xi editor project is an attempt to build a high quality text editor.
+* [mas](https://github.com/mas-cli/mas) - 📦 Mac App Store command line interface.
 
 #### 未分类@
 
