@@ -297,6 +297,7 @@ A curated list of iOS objective-C ecosystem.
 * [SwiftyZeroMQ](https://github.com/azawawi/SwiftyZeroMQ) - ZeroMQ Swift Bindings for iOS, macOS, tvOS and watchOS. :large_orange_diamond: ⌚
 * [Frisbee](https://github.com/ronanrodrigo/Frisbee) - Another network wrapper for URLSession. Built to be simple, small and easy to create tests at the network layer of your application.
 * [Restofire](https://github.com/Restofire/Restofire) - Restofire is a protocol oriented network abstraction layer in swift that is built on top of Alamofire to use services in a declartive way.
+* [SolarNetwork](https://github.com/ThreeGayHub/SolarNetwork) - 基于Alamofire封装，揉和了Alamofire和Moya两者优点的一套简单易用的网络库。
 
 #### 网络聊天@
 
