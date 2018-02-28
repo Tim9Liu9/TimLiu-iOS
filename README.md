@@ -672,6 +672,7 @@ A curated list of iOS objective-C ecosystem.
 * [ARShooter](https://github.com/farice/ARShooter) - A demo Augmented Reality shooter made with ARKit in Swift (iOS 11) http://texnotes.me/post/5/.
 * [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) - This library uses ARKit Face Tracking in order to catch a user's smile.
 * [TGLAugmentedRealityView](https://github.com/gleue/TGLAugmentedRealityView) - Augmented Reality made easy -- place overlays on a camera preview and adjust their position depending on device attitude.
+* [ARImageViewer](https://github.com/keayou/ARImageViewer) - 一款基于ARKit的AR图片查看器.
 
 #### 二维码@
 
