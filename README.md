@@ -26,7 +26,7 @@ A curated list of iOS objective-C ecosystem.
   - [混合开发@](#混合开发)
   - [样例App@](#样例App)
 - [安全@](#安全)
-- [区域链@](#区域链)
+- [区块链@](#区块链)
 - [逆向@](#逆向)
 - [网络@](#网络)
   - [网络请求@](#网络请求)
@@ -335,7 +335,7 @@ A curated list of iOS objective-C ecosystem.
 * [AESCipher-iOS](https://github.com/WelkinXie/AESCipher-iOS) - AESCipher-iOS:用 Objective-C 实现的 AES 加密。与 [AESCipher-Java](https://github.com/WelkinXie/AESCipher-Java) 一并使用能达到 在iOS、Android、Java后台产生相同密文、正确解密成明文的目的。[AES加密 - iOS与Java的同步实现](http://www.jianshu.com/p/df828a57cb8f).
 * [ABPadLockScreen](https://github.com/abury/ABPadLockScreen) - 九宫格密码锁.
 
-#### 区域链@
+#### 区块链@
 
 * [awesome-blockchain](https://github.com/chaozh/awesome-blockchain) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料.
 
