@@ -2243,6 +2243,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [awesome-github](https://github.com/AntBranch/awesome-github) - awesome-github:收集这个列表，只是为了更好地使用亲爱的GitHub。
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://freeCodeCamp.org open source codebase and curriculum. Learn to code and help nonprofits.
 * [Show](https://github.com/CharlinFeng/Show) - 成都地区一个公司开源项目目录.
+* [EFArticles](https://github.com/EyreFree/EFArticles) - EyreFree 存放所发布的各种水文的仓库.
 
 #### 博客@
 
