@@ -1063,7 +1063,6 @@ A curated list of iOS objective-C ecosystem.
 #### AutoLayout@
 
 * [Masonry](https://github.com/SnapKit/Masonry) - 非常赞-Masonry是一个轻量级的布局框架，拥有自己的描述语法，采用更优雅的链式语法封装自动布局，简洁明了并具有高可读性（ [使用介绍1](http://adad184.com/2014/09/28/use-masonry-to-quick-solve-autolayout/)  [使用介绍2](http://ios.jobbole.com/81483/)），[iOS自适应前段库-Masonry的使用](http://www.cocoachina.com/ios/20150702/12217.html)），[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900)。[使用DEMO](https://github.com/lcddhr/DDMasonryTest) 视图居中显示、子视图含边距、视图等距离摆放、计算ScrollView的contentsize.
-* [PureLayout](https://github.com/PureLayout/PureLayout) - 非常简单强大的AutoLayout库，同时支持Objective-C.
 * [Classy](https://github.com/ClassyKit/Classy) - Classy是一个能与UIKit无缝结合stylesheet(样式)系统。它借鉴CSS的思想，但引入新的语法和命名规则，[Classy官网](http://classy.as/getting-started/)，[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900).
 * [ClassyLiveLayout](https://github.com/olegam/ClassyLiveLayout) - ClassyLiveLayout通过结合Classy stylesheets与Masonry一起使用，能够在运行的模拟器中微调Auto Layout约束实时显示效果的工具，[Masonry、Classy、ClassyLiveLayout介绍](http://www.jianshu.com/p/2ed5f7444900).
 * [PureLayout](https://github.com/PureLayout/PureLayout) - PureLayout 是 iOS & OS X Auto Layout 的终极 API——非常简单，又非常强大。PureLayout 通过一个全面的Auto Layout API 扩展了 UIView/NSView, NSArray 和 NSLayoutConstraint，仿照苹果自身的框架.
@@ -1221,6 +1220,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [LEETheme](https://github.com/lixiang1994/LEETheme) - 优雅的主题管理库- 一行代码完成多样式切换.
 * [PYTheme](https://github.com/iphone5solo/PYTheme) - PYTheme通过NSObject的分类实现使用简单的主题更换.
+* [EasyTheme](https://github.com/JyHu/EasyTheme) - 支持动态主题更换，使用简单。
 
 #### 电影选座@
 
