@@ -801,7 +801,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) The Unofficial Apple iOS Swift Calendar View. iOS calendar Library. iOS calendar Control. 100% Customizable
 * [FSCalendar](https://github.com/WenchaoD/FSCalendar) 一款漂亮，强大的 iOS 日历组件 A fully customizable iOS calendar library, compatible with Objective-C and Swift
-* [CalendarKit](https://github.com/richardtop/CalendarKit) 一 A fully customizable day view calendar library written in Swift
+* [CalendarKit](https://github.com/richardtop/CalendarKit) 一 类似于iOS日历应用程序的库 A fully customizable day view calendar library written in Swift
 
 #### 时间@
 
