@@ -855,6 +855,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### HUD与Toast@
 
+* [SwiftProgressHUD](https://github.com/stackhou/SwiftProgressHUD) -SwiftProgressHUD is a user-friendly pure swift HUD. 支持Cocoapods 及 Carthage.
 * [InputBarAccessoryView](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making message input bars! As featured in MessageKit.
 * [Toast-Swift](https://github.com/scalessec/Toast-Swift) - 高可定制易用的 Toast 弹出信息或通知用户界面组件类.
 * [SkeletonView](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.

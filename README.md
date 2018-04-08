@@ -1265,6 +1265,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 轮播@
 
+* [YJBannerView](https://github.com/stackhou/YJBannerView.git) - 轻量级高性能轮播Banner组件，使用方法简单，可高度自定义化，超级赞
 * [iCarousel](https://github.com/nicklockwood/iCarousel) - 非常赞 作者是英国 Charcoal Design 公司的创始人, 开源领域的贡献颇为卓著, 这个项目就是其中之一, 这是一款可以在 iOS 上实现旋转木马视图切换效果的第三方控件, 并提供多种切换效果。是一个使用简单、高度自定义的多类型视图切换的控件，支持iOS/Mac OS、ARC & Thread Safety; A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS
 * [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) - 无限循环自动图片轮播器(一步设置即可使用).
 * [HYBLoopScrollView](https://github.com/CoderJackyHuang/HYBLoopScrollView) - 一行代码接入轮播组件，自带图片下载、缓存相关功能，无任何第三方依赖、轻量级组件.
