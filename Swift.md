@@ -206,6 +206,7 @@ A curated list of iOS objective-C ecosystem.
 * [Swift-YouTube-Player](https://github.com/gilesvangruisen/Swift-YouTube-Player) - Swift library for embedding and controlling YouTube videos in your iOS applications.
 * [trust-wallet-ios](https://github.com/TrustWallet/trust-wallet-ios) - 📱 Trust - Ethereum Wallet for iOS.
 * [Instagram](https://github.com/Imputes/Instagram) - 📱 💯 A simple imitation of Instagram  app.
+* [cnode-swift](https://github.com/nswbmw/cnode-swift) - iOS 上更好用的 CNode 客户端.
 
 #### Xcode8插件@
 
