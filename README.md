@@ -447,6 +447,7 @@ A curated list of iOS objective-C ecosystem.
 * [MGTemplateEngine](https://github.com/mattgemmell/MGTemplateEngine) - MGTemplateEngine比较象 PHP 中的 Smarty、FreeMarker 和 Django的模版引擎，是一个轻量级的引擎，简单好用。只要设置很多不同的HMTL模版，就能轻松的实现一个View多种内容格式的显示，对于不熟悉HTML或者减轻 工作量而言，把这些工作让设计分担一下还是很好的，也比较容易实现设计想要的效果.
 * [GTMNSString-HTML](https://github.com/siriusdely/GTMNSString-HTML) - 谷歌开源的用于过滤HTML标签.
 * [D3Generator](https://github.com/mozhenhau/D3Generator/) - D3Generator根据dict字典生成对象。适用webview和push推送时，根据后台传回字典实现动态跳转.[实现说明](http://mozhenhau.com/2016/02/07/D3Generator实现万能跳转界面，UIWebview与js随意交互/).
+* [HybridPageKit](https://github.com/dequan1331/HybridPageKit) - 一个针对新闻类App高性能、易扩展、组件化的通用内容页实现框架.
 * [GRMustache](https://github.com/groue/GRMustache) - 一个类似templateEngine的html渲染工具，可以更加有效的帮助大家完成数据生成HTML的过程.
 * [iOS-WebView-JavaScript](https://github.com/shaojiankui/iOS-WebView-JavaScript) - iOS UIWebView,WKWebView 与 JavaScript的深度交互.
 * [WKWebView](https://github.com/XFIOSXiaoFeng/WKWebView) - OC版WKWebView 支持POST请求 加载本地页面 直接加载网页 JS交互 集成支付宝/微信URL支付功能 仿微信返回按钮.
