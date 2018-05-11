@@ -273,6 +273,7 @@ A curated list of iOS objective-C ecosystem.
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa受函数响应式编程激发。不同于使用可变的变量替换和就地修改，RAC提供Signals来捕获当前值和将来值（ [使用介绍](http://yulingtianxia.com/blog/2014/07/29/reactivecocoa/) ），[不错的例子](http://iiiyu.com/2014/12/26/learning-ios-notes-thirty-six/),入门好教程：[ReactiveCocoa入门教程：第一部分 ](http://www.cocoachina.com/ios/20150123/10994.html)。[Reactive Cocoa 3.0 在 MVVM 中的应用](http://ios.jobbole.com/82232/) ,[小码哥：快速让你上手ReactiveCocoa之基础篇](http://www.jianshu.com/p/87ef6720a096)。
 * [react-native-maps](https://github.com/airbnb/react-native-maps) - React Native Mapview component for iOS + Android.
 * [react-native-svg](https://github.com/react-native-community/react-native-svg)  - SVG library for React Native. react-native-svg is built to provide a SVG interface to react native on both iOS and Android.
+* [react-native-maps](https://github.com/react-community/react-native-maps) - React Native Mapview component for iOS + Android.
 * [react-native-code-push](https://github.com/Microsoft/react-native-code-push) - React Native module for CodePush.
 * [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController) - 低耦合集成TabBarController,最低只需传两个数组即可完成主流App框架搭建.
 * [samurai-native](https://github.com/hackers-painters/samurai-native) - 是一个基于浏览器内核通过HTML+CSS 开发原生移动应用的iOS框架.
@@ -287,6 +288,7 @@ A curated list of iOS objective-C ecosystem.
 * [coderZsq.project.oc](https://github.com/coderZsq/coderZsq.project.oc) - A lightweight and efficient application development tool set for iOS, and accelerating the developing speed.
 * [AppManager](https://github.com/nanchen2251/AppManager) - 🔥 An elegant exit application and restart mechanism management.
 * [MACProject](https://github.com/azheng51714/MACProject) - 这是一个用 Objective-C 写的 iOS 轻量级框架，旨在快速构建 iOS App.
+* [iOSProject](https://github.com/NJHu/iOSProject) - 一些oc项目集合.
 
 #### React@
 
@@ -418,6 +420,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) - 非常👍👍👍 的聊天界面框架.
 * [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) - XMPPFramework openfire聊天.
+* [Signal-iOS](https://github.com/signalapp/Signal-iOS) - A private messenger for iOS.
 * [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) - 仿微信聊天，参考JSQMessagesViewController.
 * [SXTheQQ](https://github.com/dsxNiubility/SXTheQQ) - 用xmppFramework框架编写QQ程序，主要为了练习通讯的一些原理，界面比较渣 必须要先在本地配置好环境才可以运行。
 * [环信](http://www.easemob.com/) - 给开发者更稳定IM云功能。8200万用户考验，好用！（暂无及时语音、视频通话).
@@ -459,6 +462,7 @@ A curated list of iOS objective-C ecosystem.
 * [LYWebviewController](https://github.com/halohily/LYWebviewController) - 基于UIWebview-简书文章阅读页面的模仿demo.
 * [WKWebViewH5ObjCDemo](https://github.com/CoderJackyHuang/WKWebViewH5ObjCDemo) - 学习如何使用OC实现WKWebView与H5交互，并学习其API使用.
 * [PPHTMLImagePreviewDemo](https://github.com/smallmuou/PPHTMLImagePreviewDemo) - 该Repo用于演示APP中点击HTML的图片来预览图片的功能.
+* [WKWebViewExtension](https://github.com/dequan1331/WKWebViewExtension)
 
 #### 网络解析@
 
@@ -886,6 +890,7 @@ A curated list of iOS objective-C ecosystem.
 * [YLFaceuDemo](https://github.com/Guikunzhi/YLFaceuDemo) - 在直播应用中添加Faceu贴纸效果。Faceu贴纸效果其实就是在人脸上贴一些图片，同时这些图片是跟随着人脸的位置改变的。[说明](http://www.jianshu.com/p/ba1f79f8f6fa).
 * [IDCardRecognition](https://github.com/zhongfenglee/IDCardRecognition) - 中国大陆第二代身份证识别，自动读出身份证上的信息（姓名、性别、民族、住址、身份证号码）并截取身份证照片 Edit
 * [AiyaEffectsIOS](https://github.com/aiyaapp/AiyaEffectsIOS) - 宝宝特效 SDK IOS Demo，支持美颜，3D特效，3D动画特效，2D特效等，免费使用 visual effects IOS demo, support 3D effect, 3D Animation, 2D effect for FREE http://www.bbtexiao.com/.
+* [SSIDCard](https://github.com/sansansisi/SSIDCard) - iOS中国二代身份证号扫描识别.
 
 #### 图像圆角@
 
@@ -939,6 +944,7 @@ A curated list of iOS objective-C ecosystem.
 * [Form](https://github.com/hyperoslo/Form) - Form 是一个方便开发者创建表单填写工作的 UI 库.
 * [material-components-ios](https://github.com/material-components/material-components-ios) - 基于 Material Design 的组件库，包含iOS、Android、Web 三个平台的组件库和调用方法.
 * [fluid-slider](https://github.com/Ramotion/fluid-slider) - A slider widget with a popup bubble displaying the precise value selected.
+* [YXYDashLayer](https://github.com/yulingtianxia/YXYDashLayer) - Colorful Rounded Rect Dash Border.
 
 #### 列表@
 
@@ -2014,8 +2020,8 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [KMCGeigerCounter](https://github.com/kconner/KMCGeigerCounter) - KMCGeigerCounter通过复杂和简单的视图演示了类似盖革计数器的帧速计算功能。掉帧通常是可见的，但是很难区分55fps和60fps之间的不同，而KMCGeigerCounter可以让你观测到掉落5帧的情况.
 * [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) - 非官方 Xcode Server SDK 封装库。 P.S. 该 SDK 分离自之前推荐的由该作者开发的自动测试框架.   
 * [Crashlytics](http://try.crashlytics.com/) - Crashlytics 崩溃报告 崩溃日志   [使用说明](http://www.infoq.com/cn/articles/crashlytics-crash-statistics-tools) 。
-* [KSCrash](https://github.com/kstenerud/KSCrash) - iOS Crash 捕获上报工具， 可以自己配置服务器， 也可以与它推荐的服务器搭配使用.
-* [AvoidCrash](https://github.com/chenfanfang/AvoidCrash) 利用runtime处理崩溃问题的一个框架.
+* [KSCrash](https://github.com/kstenerud/KSCrash) - iOS Crash 捕获上报工具， 可以自己配置服务器， 也可以与它推荐的服务器搭配使用
+* [AvoidCrash](https://github.com/chenfanfang/AvoidCrash) 利用runtime处理崩溃问题的一个框架
 * [iConsole](https://github.com/nicklockwood/iConsole) - 调试利器 In-app console for viewing logs and typing debug commands in iPhone apps.
 * [RealmBrowser-iOS](https://github.com/TimOliver/RealmBrowser-iOS) - A native iOS debugging framework for introspecting Realm files on device.
 * [iOS-Debug-Hacks](https://github.com/aozhimin/iOS-Debug-Hacks) - 项目开发过程中用到的高级调试技巧，涉及三方库动态调试、静态分析和反编译等领域.
@@ -2032,6 +2038,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [iOS私有API](https://github.com/nst/iOS-Runtime-Headers) - 这个仓库可以调取苹果的所有私有方法头文件，相当强大。私有API，绿色 == public，红色 == private，蓝色 == dylib。
 * [iOS10-Runtime-Headers](https://github.com/JaviSoto/iOS10-Runtime-Headers) - iOS10-Runtime-Headers.
 * [dyci-main](https://github.com/DyCI/dyci-main) - Dynamic Code Injection Tool for Objective-C.
+* [RuntimeDemo](https://github.com/cimain/RuntimeDemo)
 
 #### Xcode插件@
 
@@ -2350,6 +2357,8 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [highsierramediakeyenabler](https://github.com/milgra/highsierramediakeyenabler) - MacOS High Sierra Media Key Enabler for iTunes.
 * [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system for Mac OS X.
 * [overkill-for-mac](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
+* [Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files and sockets in use by all running applications. Nice GUI for lsof.
+* [QQMusicHelper](https://github.com/AsTryE/QQMusicHelper) - Mac版QQ音乐绿砖破解，可收听无损音乐和下载无损音乐到本地.
 
 #### iOS插件@
 
@@ -2389,6 +2398,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 
 #### 后台@
 
+* [HttpServerDebug](https://github.com/rob2468/HttpServerDebug)
 * [GCDWebServer](https://github.com/swisspol/GCDWebServer) - 基于GCD的轻量级的HTTP服务器.
 * [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 * [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
