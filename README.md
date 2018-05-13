@@ -950,6 +950,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [Eureka](https://github.com/xmartlabs/Eureka) - Eureka可以帮你简单优雅的实现动态table-view表单。它由rows,sections和forms组成。如果你的app包含大量表单，Eureka可以真正帮你节省时间.
 * [MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery) - A Photo and Video Gallery.
+* [Parade](https://github.com/HelloElephant/Parade) - Parallax Scroll-Jacking Effects Engine for iOS / tvOS.
 
 #### TableView@
 
@@ -2232,6 +2233,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [RuntimeBrowser](https://github.com/nst/RuntimeBrowser) This is a class browser for the Objective-C runtime on iOS and OS X.
 * [iOS10AdaptationTips](https://github.com/ChenYilong/iOS10AdaptationTips) - for iOS10 in [ObjC, Swift, English, 中文] {...}.
 * [blog](https://github.com/jiajunhuang/blog) - 个人博客.
+* [ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS.
 
 #### 其他开源@
 
