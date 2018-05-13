@@ -210,6 +210,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### Xcode8插件@
 
+* [SwiftGen](https://github.com/SwiftGen/SwiftGen) - The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!.
 * [FileExplorer](https://github.com/Augustyniak/FileExplorer) - 完整的文件资源管理器组件.
 * [Drafter](https://github.com/L-Zephyr/Drafter) - 在iOS项目中自动生成类图和方法调用图 - Generate call graph in iOS project.
 
@@ -224,6 +225,7 @@ A curated list of iOS objective-C ecosystem.
 * [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - 一个将元程序引入Swift的工具，允许你生成Swift的代码.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - 同时支持 Swift 及 Objective-C 的 Promise 类库，异步编程类库 提供了很多实用的异步函数 让异步编程更简单.
+* [Alicerce](https://github.com/Mindera/Alicerce) - A base for iOS Applications made with ❤️ by Mindera 🤠.
 
 #### 响应式框架@
 
@@ -465,6 +467,7 @@ A curated list of iOS objective-C ecosystem.
 * [swiftScan](https://github.com/MxABC/swiftScan) - 具有丰富功能的二维码扫描组件及类库。[对应OC版本LBXScan](https://github.com/MxABC/LBXScan).
 * [QR-Code-Generator.swift](https://github.com/appcoda/QR-Code-Generator) - 生成二维码.
 * [LLPhotoBrowser](https://github.com/LvJianfeng/LLPhotoBrowser) - Swift3图片浏览库，支持网络图，本地图，UIImage同时使用，支持识别二维码，支持横屏看图，支持长按弹出功能窗口.
+* [ImageDetect](https://github.com/Feghal/ImageDetect) - ✂️ Detect and crop faces, barcodes and texts in image with iOS 11 Vision api.
 
 #### PDF@
 
@@ -662,10 +665,12 @@ A curated list of iOS objective-C ecosystem.
 * [fave-button](https://github.com/xhamr/fave-button) - 给button增加了很多可爱的动画.
 * [UIWindowTransitions](https://github.com/malcommac/UIWindowTransitions) - Animated transitions for UIWindow's rootViewController property.
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
+* [LoginCritter](https://github.com/cgoldsby/LoginCritter) - An animated avatar that responds to text field interactions.
 
 #### 转场动画@
 
 * [Hero](https://github.com/lkzhao/Hero) - 非常👍👍👍 的转场动画库.
+* [EasyTransitions](https://github.com/marcosgriselli/EasyTransitions) - A simple way to create custom interactive UIViewController transitions.
 
 #### 特效@
 
@@ -786,6 +791,7 @@ A curated list of iOS objective-C ecosystem.
 * [DeepDiff](https://github.com/onmyway133/DeepDiff) - 支持列表和宫格列表快速变换的列表库.
 * [TiltedTabView](https://github.com/IMcD23/TiltedTabView) - iOS control to replicate the tab switcher in Safari for iOS.
 * [TabView](https://github.com/IMcD23/TabView) - Easily add multiple tabs to your iOS app, styled similar to Safari for iPad.
+* [Parade](https://github.com/HelloElephant/Parade) - Parallax Scroll-Jacking Effects Engine for iOS / tvOS.
 
 #### scrollView@
 
@@ -1010,6 +1016,7 @@ A curated list of iOS objective-C ecosystem.
 #### Color@
 
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon是一个非常棒👍👍👍iOS的色彩框架。它运用现代化flat color将UIColor扩展地非常美观。我们还可以通过它运用自定义颜色创建调色板。它还有很多功用，请浏览readme。同时支持Objective-C.
+* [UIImageColors](https://github.com/jathu/UIImageColors) - Fetches the most dominant and prominent colors from an image.
 * [IGColorPicker](https://github.com/iGenius-Srl/IGColorPicker) - 一个自定义颜色选择器 🎨 A customizable color picker for iOS in Swift 🔶
 * [RandomColorSwift](https://github.com/onevcat/RandomColorSwift) - 一个自动生成好看的颜色的 Swift 库，RandomColorSwift.
 * [Hue.Swift](https://github.com/hyperoslo/Hue) - Hue.Swift：颜色常规功能集于一身的定义、使用 Color 工具类库（含图片取色).
@@ -1226,6 +1233,7 @@ A curated list of iOS objective-C ecosystem.
 * [SpotMenu](https://github.com/kmikiy/SpotMenu) - 菜单栏中的Spotify和iTunes.
 * [xi-mac](https://github.com/google/xi-mac) - The xi editor project is an attempt to build a high quality text editor.
 * [mas](https://github.com/mas-cli/mas) - 📦 Mac App Store command line interface.
+* [fsnotes](https://github.com/glushchenko/fsnotes) - https://github.com/glushchenko/fsnotes.
 
 #### 未分类@
 
