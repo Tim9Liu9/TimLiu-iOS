@@ -462,7 +462,7 @@ A curated list of iOS objective-C ecosystem.
 * [LYWebviewController](https://github.com/halohily/LYWebviewController) - 基于UIWebview-简书文章阅读页面的模仿demo.
 * [WKWebViewH5ObjCDemo](https://github.com/CoderJackyHuang/WKWebViewH5ObjCDemo) - 学习如何使用OC实现WKWebView与H5交互，并学习其API使用.
 * [PPHTMLImagePreviewDemo](https://github.com/smallmuou/PPHTMLImagePreviewDemo) - 该Repo用于演示APP中点击HTML的图片来预览图片的功能.
-* [WKWebViewExtension](https://github.com/dequan1331/WKWebViewExtension)
+* [WKWebViewExtension](https://github.com/dequan1331/WKWebViewExtension) - An extension for WKWebView. Providing menuItems delete 、support protocol 、clear cache of iOS8 and so on.
 
 #### 网络解析@
 
@@ -1198,6 +1198,7 @@ A curated list of iOS objective-C ecosystem.
 * [NavigationController](https://github.com/Roxasora/RxWebViewController) - 实现类似微信的 webView 导航效果，包括进度条，左滑返回上个网页或者直接关闭，就像 UINavigationController.
 * [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) - 叠。[实现教程](http://tech.glowing.com/cn/change-uinavigationbar-backgroundcolor-dynamically/).
 * [LSNavigationBarTransition](https://github.com/lsmakethebest/LSNavigationBarTransition) - 导航栏背景色可以统一设置，每一个控制器导航栏背景色还可以自己单独设置不影响统一设置的界面，采用自定义交互动画实现淘宝，京东等软件当下最流行的导航控制器效果，比其他实现方式每一个控制器都包装一个导航控制器性能更好，使用方法更贴合系统使用方法.
+* [HBDNavigationBar](https://github.com/listenzz/HBDNavigationBar) - A custom UINavigationBar for smooth switching between various states, including bar style, bar tint color, background image, background alpha, bar hidden, title text attributes, tint color, shadow hidden...
 
 #### 设置@
 
