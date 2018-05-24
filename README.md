@@ -738,7 +738,6 @@ A curated list of iOS objective-C ecosystem.
 * [bilibili-mac-client](https://github.com/typcn/bilibili-mac-client) - 👍 bilibili非官方的mac客户端.
 * [PBJVideoPlayer](https://github.com/piemonte/PBJVideoPlayer) - 一个易用的流媒体播放器.
 * [KrVideoPlayerPlus](https://github.com/PlutusCat/KrVideoPlayerPlus) - 根据36Kr开源的KRVideoPlayer 进行修改和补充实现一个轻量级的视频播放器，满足大部分视频播放需求.
-* [VKVideoPlayer](https://github.com/viki-org/VKVideoPlayer) - 一个非常不错的拥有上百万用户的视频播放器.
 * [PKShortVideo](https://github.com/pepsikirk/PKShortVideo) - iOS仿微信小视频功能开发优化记录.
 * [AVAnimator](http://www.modejong.com/AVAnimator/) - 一个不错的原生的开源视频库，可以轻松实现视频、音频的功能.
 * [SSVideoPlayer](https://github.com/immrss/SSVideoPlayer) - 一个支持本地和网络视频播放的库.
@@ -1090,6 +1089,7 @@ A curated list of iOS objective-C ecosystem.
 * [PNChart](https://github.com/kevinzhow/PNChart) - 国内开源作者，动态的图表.
 * [JBChartView](https://github.com/Jawbone/JBChartView) - 基于iOS的用于线路和条形图的图表库.
 * [XJYChart](https://github.com/JunyiXie/XJYChart) - 优秀的的图表框架。支持动画，点击，滑动，区域高亮.
+* [AAChartKit](https://github.com/AAChartModel/AAChartKit) - 极其精美而又强大的 iOS 图表组件库,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图表,完全满足…
 * [YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) - 支持在watchOS上绘制图表，看它最近更新挺勤快的，可以关注一下.
 * [RealtimeGradientText](https://github.com/kevinzhow/RealtimeGradientText) - Fun With CALayer Mask 刚好今天开源了一个有趣的项目 RealtimeGradientText，所以也好聊一下 CALayer 的 Mask，[说明](http://blog.zhowkev.in/2015/07/06/fun-with-mask/).
 * [XYPieChart](https://github.com/xyfeng/XYPieChart) - XYPieChart:饼状图,  饼图,  数据统计,  数据可视化,可以在图形上标注数据。效果十分漂亮，而且没有用到一张图片.
