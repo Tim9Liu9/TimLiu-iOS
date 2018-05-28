@@ -127,6 +127,7 @@ A curated list of iOS objective-C ecosystem.
   - [Color@](#Color)
   - [Github相关@](#Github相关)
   - [键盘@](#键盘)
+  - [分发@](分发@)
 - [文本@](#文本)
   - [文本输入@](#文本输入)
   - [富文本@](#富文本)
@@ -1445,6 +1446,10 @@ A curated list of iOS objective-C ecosystem.
 
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - 处理键盘事件强大的库，有OC和Swift版本，纯代码、Storyboard和Xib都适用.
 * [YYKeyboardManager](https://github.com/ibireme/YYKeyboardManager) - iOS 键盘监听管理工具.
+
+#### 分发@
+
+* [TestFlight](https://testflight.top/) - 60秒制作TestFlight内测App分发页，用户直接下载测试.
 
 #### 文本@
 #### 文本输入@
