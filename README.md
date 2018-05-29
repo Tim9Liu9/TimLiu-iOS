@@ -1449,7 +1449,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 分发@
 
-* [TestFlight](https://testflight.top/) - 60秒制作TestFlight内测App分发页，用户直接下载测试.
+* [TestFlight.Top](https://testflight.top/) - 60秒制作TestFlight内测App分发页，用户直接下载测试.
 
 #### 文本@
 #### 文本输入@
