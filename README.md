@@ -1345,7 +1345,6 @@ A curated list of iOS objective-C ecosystem.
 * [MDCSwipeToChoose](https://github.com/modocache/MDCSwipeToChoose) - MDCSwipeToChoose可简单地添加滑动手势来调用UIView，并使用该行为提供了一个组件以创建类似Tinder app的like或者dislike界面的轻扫。基于轻扫的方向，你可以决定执行什么样的行为，并且你可以自定义文本颜色和图片。该项目适用于教学用的抽认卡、图片查看器以及其他等.
 * [MediumScrollFullScreen](https://github.com/pixyzehn/MediumScrollFullScreen) - Medium的可扩展滚动页面，上下滚动时，全屏显示内容，并自然消隐上下菜单。由此项目感知，作者是一位很注重细节的开发者，他的另外[几个菜单类项目](https://github.com/pixyzehn)也都不错，值得参考，比如：PathMenu, MediumMenu 等.
 * [today extension](http://adad184.com/2014/10/29/2014-10-29-how-to-setup-today-extension-programmatically/) - 用纯代码构建一个Widget(today extension).
-* [PDTSimpleCalendar](https://github.com/jivesoftware/PDTSimpleCalendar) - 是iOS最棒的日历组件了。你可以在各个方面对它进行定制，无论是运行逻辑还是外观方面.
 * [ImagePickerSheetController](https://github.com/larcus94/ImagePickerSheetController) - 图片或视频选择器（可多选）组件及其示例项目.
 * [ImagePickerSheet](https://github.com/larcus94/ImagePickerSheetController) - 图片或视频选择器（可多选）组件及其示例项目.
 * [BLEProgressView](https://github.com/blueeee/BLEProgressView) - 使用pop实现动画的进度条.
@@ -1522,6 +1521,7 @@ A curated list of iOS objective-C ecosystem.
 * [HYYCalendar](https://github.com/kRadius/HYYCalendar) - 一个简单易用的日期的选择的控件，支持日历选择和Picker选择两种方式。支持iOS 6+.
 * [JTCalendar](https://github.com/jonathantribouharet/JTCalendar) - iOS下优美的 Calendar 组件，做 GTD 类 App 必备.
 * [MSCollectionViewCalendarLayout](https://github.com/erichoracek/MSCollectionViewCalendarLayout) - 日历 UICollectionViewLayout for displaying cells chronologically. Similar to the iOS Calendar app.
+* [PDTSimpleCalendar](https://github.com/jivesoftware/PDTSimpleCalendar) - 是iOS最棒的日历组件了。你可以在各个方面对它进行定制，无论是运行逻辑还是外观方面.
 
 #### 游戏@
 
@@ -2038,6 +2038,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 
 * [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info) react-native获取设备信息组件,支持iOS、Android.
 * [XcodeCleaner](https://github.com/waylybaye/XcodeCleaner) - Cleaner for Xcode.app built with react-native-macos.
+* [cartool](https://github.com/steventroughtonsmith/cartool) - 导出ipa包中Assets.car文件中的切图.
 
 #### Runtime@
 
