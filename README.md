@@ -860,6 +860,7 @@ A curated list of iOS objective-C ecosystem.
 * [WSImagePicker](https://github.com/wsjtwzs/WSImagePicker) - 高性能多选图片库，类似于微信发布朋友圈中 ‘获取相册及拍照’模块.
 * [JTSImageViewController](https://github.com/jaredsinclair/JTSImageViewController) - 图片浏览.
 * [SGPhotoBrowser](https://github.com/Soulghost/SGPhotoBrowser) - 图片浏览.
+* [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) - AR相册 Photo Album For AR.
 
 #### 图像缓存@
 
@@ -1258,7 +1259,8 @@ A curated list of iOS objective-C ecosystem.
 #### TabBar@
 
 * [DLSlideView](https://github.com/agdsdl/DLSlideView) - DLSlideView对常见的顶部Tab页点击、滑动分页做了封装。 它使用基于ViewController的container特性（而不是scrollview）来管理各个子页面，保留原始的系统消息，没有隐患。 同时内存模型更优于使用scrollview的方式，理论上可以支持无限分页.
-* [](https://github.com/NoCodeNoWife/LLRiseTabBar-iOS) - 仿淘宝闲鱼的TabBar.
+* [LLRiseTabBar-iOS](https://github.com/NoCodeNoWife/LLRiseTabBar-iOS) - 仿淘宝闲鱼的TabBar.
+* [AxcAE_TabBar](https://github.com/axclogo/AxcAE_TabBar) - AxcAE_TabBar，特效TabBar，以开放为封装核心的TabBar组件，尽量将属性、API等参数全部开放给使用者，能够很方便快速使用的一个TabBar选项卡组件.
 
 #### 小红点@
 
@@ -1376,6 +1378,7 @@ A curated list of iOS objective-C ecosystem.
 * [LLBootstrapButton](https://github.com/lilei644/LLBootstrapButton) - Bootstrap 3.0扁平化风格按钮，自带图标，一句代码直接调用.
 * [JMRoundedCorner](https://github.com/raozhizhen/JMRoundedCorner) - UIView设置不触发离屏渲染的圆角.
 * [KNCirclePercentView](https://github.com/knn90/KNCirclePercentView) - 一个自定义动画的圆形进度View.
+* [MetalPetal](https://github.com/MetalPetal/MetalPetal) - A GPU-accelerated image and video processing framework based on Metal.
 
 #### 其他UI@
 
@@ -2269,7 +2272,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 
 #### 博客@
 
-* [Halfrost-Field](https://github.com/halfrost/Halfrost-Field) iOS学习博客.
+* [Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - iOS学习博客.
 * [唐巧整理](https://github.com/tangqiaoboy/iOSBlogCN) - 中文 iOS/Mac 开发博客列表,猿题库唐巧整理.
 * [11个超棒的iOS开发学习国外网站](http://www.cocoachina.com/ios/20150626/11348.html) - 11个超棒的iOS开发学习网站:[objc.io](https://www.objc.io) ;[subjc.com](http://subjc.com) ;[NSHipster](http://nshipster.com) ;[Peter Steinberger](http://petersteinberger.com) ;[Ole Begemann](http://oleb.net) ;[Florian Kugler](http://floriankugler.com) ;[NSBlog](https://www.mikeash.com/pyblog/) ;[Cocoa](http://cocoa.tumblr.com) ;[iOS Dev Weekly](http://iosdevweekly.com) ;[iOS Developer Tips](http://iosdevelopertips.com) ;[iOS Goodies](http://ios-goodies.com) ;[AppCoda](http://www.appcoda.com) 香港人创建;[Krzysztof Zab?ocki](http://merowing.info) ;[iOS Development tips](http://iosdevtips.co) ;
 
@@ -2333,6 +2336,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 #### 学习笔记@
 
 * [iOS-Note](https://github.com/seedante/iOS-Note) - A@ 非常好的学习笔记，主要目录1.Core Data 笔记2.Photos 笔记3.转场动画详解4.自定义容器控制器转场5.交互式动画.
+* [iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection) - iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践.
 
 #### 书籍@
 
