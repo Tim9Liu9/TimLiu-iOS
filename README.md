@@ -143,7 +143,6 @@ A curated list of iOS objective-C ecosystem.
   - [博客@](#博客)
   - [学习笔记@](#学习笔记)
   - [书籍@](#书籍)
-  - [CodeLiararyWebSite@](#CodeLiararyWebSite)
   - [设计@](#设计)
   - [美工资源@](#美工资源)
 - [文章@](#文章)
@@ -267,6 +266,7 @@ A curated list of iOS objective-C ecosystem.
 * [OneM](https://github.com/guangqiang-liu/OneM) - OneM是一款纯ReactNative打造的集杂志浏览、音乐播放、视频播放于一体的综合性App,并且支持iOS和Android双平台.
 * [ZMBCY-iOS](https://github.com/Brances/ZMBCY-iOS) - 高仿二次元网易GACHA,所有接口均通过Charles抓取而来，里面有可单独抽离出来的卡片轮播.
 * [Hotels](https://github.com/FantasticLBP/Hotels) - 酒店预订App.
+* [MONO](https://github.com/xumaohuai/MONO) - 高仿MONO(猫弄).
 
 #### 框架@                                               
 
@@ -1132,6 +1132,7 @@ A curated list of iOS objective-C ecosystem.
 * [FillableLoaders](https://github.com/poolqf/FillableLoaders) - 自定义加载进度UI-Completely customizable progress based loaders drawn using custom CGPaths written in Swift :large_orange_diamond:
 * [TopAlert](https://github.com/roycms/TopAlert) - 顶部提示View.
 * [CMPopTipView](https://github.com/chrismiles/CMPopTipView) - 自定义气泡View提示框.
+* [WeChatFloat](https://github.com/SherlockQi/WeChatFloat) - 仿微信浮窗功能.
 
 #### 对话框@
 
@@ -2252,6 +2253,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - 收集了不少 iOS UI/UX 库, 包含了很多酷炫的动画效果.
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac)  - Mac软件、开发工具、设计工具集合.
 * [ios-cosmos](http://www.ios-cosmos.com/) - The iOS Cosmos：收录了iOS绝大部分的开源框架和工具.
+* [pttrns](http://pttrns.com/) - iOS各种源码.
 * [Awesome Haskell资料大全](https://haskell.zeef.com/konstantin.skipor#block_28362_basics) - Awesome Haskell 资料大全：框架，库和软件.
 * [Cosmos](http://ios-cosmos.com) - The iOS Cosmos：收录了IOS绝大部分的开源框架和工具.
 * [cocoacontrols](https://www.cocoacontrols.com/) -  收集了很多UI控件效果代码，缺点是需要翻墙，而且代码分类不够好。
@@ -2329,10 +2331,6 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 [ibireme伽蓝之堂](http://blog.ibireme.com/) | <http://blog.ibireme.com/feed/>
 [https://onevcat.com/#blog](王巍的博客)
 
-#### CodeLiararyWebSite@
-
-* [pttrns](http://pttrns.com/) iOS各种源码
-
 #### 学习笔记@
 
 * [iOS-Note](https://github.com/seedante/iOS-Note) - A@ 非常好的学习笔记，主要目录1.Core Data 笔记2.Photos 笔记3.转场动画详解4.自定义容器控制器转场5.交互式动画.
@@ -2371,6 +2369,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [overkill-for-mac](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
 * [Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files and sockets in use by all running applications. Nice GUI for lsof.
 * [QQMusicHelper](https://github.com/AsTryE/QQMusicHelper) - Mac版QQ音乐绿砖破解，可收听无损音乐和下载无损音乐到本地.
+* [MarzipanPlatter](https://github.com/biscuitehh/MarzipanPlatter) - UIKit + macOS.
 
 #### iOS插件@
 
