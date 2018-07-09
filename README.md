@@ -488,7 +488,7 @@ A curated list of iOS objective-C ecosystem.
 * [OCMapper](https://github.com/aryaxt/OCMapper) - Objective-C & Swift library to easily map NSDictionary to model objects, works perfectly with Alamofire. ObjectMapper works similar to GSON.
 * [Cereal](https://github.com/Weebly/Cereal) - 对象序列化三方库 Swift object serialization.
 * [SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator) - json转model的三方库 Generate Swift model files from JSON using either SwiftyJSON or ObjectMapper. Supports NSCoding and provides method for JSON string representation of the model.
-* [Tyro](htt  ps://github.com/typelift/Tyro) - Functional JSON parsing and encoding :large_orange_diamond:
+* [Tyro](https://github.com/typelift/Tyro) - Functional JSON parsing and encoding :large_orange_diamond:
 * [Unbox](https://github.com/JohnSundell/Unbox) - The easy to use Swift JSON decoder :large_orange_diamond:
 * [JSONJoy-Swift](https://github.com/daltoniam/JSONJoy-Swift) - Convert JSON to Swift objects. :large_orange_diamond:
 * [LazyObject](https://github.com/iwasrobbed/LazyObject) - Lazily deserialize JSON into strongly typed Swift objects :large_orange_diamond:
