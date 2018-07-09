@@ -266,7 +266,9 @@ A curated list of iOS objective-C ecosystem.
 * [OneM](https://github.com/guangqiang-liu/OneM) - OneM是一款纯ReactNative打造的集杂志浏览、音乐播放、视频播放于一体的综合性App,并且支持iOS和Android双平台.
 * [ZMBCY-iOS](https://github.com/Brances/ZMBCY-iOS) - 高仿二次元网易GACHA,所有接口均通过Charles抓取而来，里面有可单独抽离出来的卡片轮播.
 * [Hotels](https://github.com/FantasticLBP/Hotels) - 酒店预订App.
+* [YouTube-Music](https://github.com/steve228uk/YouTube-Music) - A Mac app wrapper for music.youtube.com.
 * [MONO](https://github.com/xumaohuai/MONO) - 高仿MONO(猫弄).
+* [LZAlbum](https://github.com/lzwjava/LZAlbum) - 基于 LeanCloud 的朋友圈，优雅地使用 LeanCloud.
 
 #### 框架@                                               
 
@@ -303,6 +305,7 @@ A curated list of iOS objective-C ecosystem.
 * [react-native-syan-image-picker](https://github.com/syanbo/react-native-syan-image-picker) - React-Native 多图片选择 支持裁剪 压缩.
 * [ReactNative的理解与思考,三端同一套代码的实践](http://www.jianshu.com/p/1144469bf81f?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io).
 * [RNStudyNotes](https://github.com/crazycodeboy/RNStudyNotes) - React Native 研究与实践.
+* [react-native-orientation](https://github.com/yamill/react-native-orientation) - Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis.
 
 #### framework@
 
@@ -515,6 +518,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [FMDB](https://github.com/ccgus/fmdb) - sqlite的工具. [多线程FMDatabaseQueue实例](https://github.com/tangqiaoboy/FmdbSample)，[FMDB数据库的使用演示和封装工具类](https://github.com/liuchunlao/LVDatabaseDemo)，[基于fmdb 的基本操作](http://code.cocoachina.com/view/128312) 通过 fmdb 进行的数据库的 基本操作(增删改查 )查找是使用 UISearchBar 和UISearchDisplayController 进行混合使用.
 * [GDataBase](https://github.com/GIKICoder/GDataBase) - 基于FMDB的ORM数据库存储解决方案. 面向模型和线程安全的API. 一句代码存储,读取.对存储模型无需继承BaseObject. 可自定义多主键,可使用sqlite关键字.可自定义序列化字段等.支持模型黑名单.支持数据库表存储value base64编/解码.对模型无侵入,只需遵守相关协议即可.极大方便项目中使用.
+* [WCDB](https://github.com/Tencent/wcdb) - Tencent:WCDB is an efficient, complete, easy-to-use mobile database framework for iOS, macOS.
 * [realm-cocoa](https://github.com/realm/realm-cocoa) - 一个号称要代替Core Data & SQLite的用于移动端的数据库，非常不错👍👍 ，同时支持Swift.
 * [YapDatabase](https://github.com/yapstudios/YapDatabase) - YapDatabase is an extensible database for iOS & Mac.
 * [CoreModel](https://github.com/CharlinFeng/CoreModel) - Replace CoreData.
@@ -542,7 +546,6 @@ A curated list of iOS objective-C ecosystem.
 * [OneStore](https://github.com/muukii/OneStore) - A single value proxy for NSUserDefaults, with clean API. :large_orange_diamond:
 * [Nora](https://github.com/SD10/Nora) - Nora is a Firebase abstraction layer for working with FirebaseDatabase and FirebaseStorage. :large_orange_diamond:
 * [PersistentStorageSerializable](https://github.com/IvanRublev/PersistentStorageSerializable) - Swift library that makes easier to serialize the user's preferences (app's settings) with system User Defaults or Property List file on disk. :large_orange_diamond:
-* [WCDB](https://github.com/Tencent/wcdb) - WCDB is an efficient, complete, easy-to-use mobile database framework for iOS, macOS.
 * [StorageKit](https://github.com/StorageKit/StorageKit) - Your Data Storage Troubleshooter 🛠 .
 * [sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.
 
@@ -851,6 +854,7 @@ A curated list of iOS objective-C ecosystem.
 * [JFImagePickerController](https://github.com/johnil/JFImagePickerController) - vvebo作者：多选照片、预览已选照片、针对超大图片优化.
 * [VIPhotoView](https://github.com/vitoziv/VIPhotoView) - 图片浏览，用于展示图片的工具类，因为是个 View，所以你可以放在任何地方显示。支持旋转，双击指定位置放大等.
 * [YUCIHighPassSkinSmoothing](https://github.com/YuAo/YUCIHighPassSkinSmoothing) - 磨皮滤镜.
+* [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for camera, configurable compression, multiple images and cropping.
 * [YUGPUImageHighPassSkinSmoothing](https://github.com/YuAo/YUGPUImageHighPassSkinSmoothing) - 一个基于 GPUImage 的磨皮滤镜.
 * [XHImageViewer](https://github.com/JackTeam/XHImageViewer) - XHImageViewer is images viewer, zoom image.
 * [card.io-iOS-SDK](https://github.com/AllLuckly/card.io-iOS-SDK) - OCR光学识别储蓄卡以及信用卡,[oc与swift使用教程](http://www.jianshu.com/p/82f73c23a76a).
@@ -868,6 +872,7 @@ A curated list of iOS objective-C ecosystem.
 * [UIActivityIndicator-for-SDWebImage](https://github.com/JJSaccolo/UIActivityIndicator-for-SDWebImage) - 为SDWebImage显示加载效果.
 * [FastImageCache](https://github.com/path/FastImageCache) - 👍 非常棒的一个 一个高效显示图片的库，支持图片缓存、平滑滚动和图片检索.
 * [DFImageManager](https://github.com/kean/DFImageManager) - 图片加载、处理、缓存、预加载.
+* [LKImageKit](https://github.com/Tencent/LKImageKit) - Tencent:A high-performance image framework, including a series of capabilities such as image views, image downloader, memory caches, disk caches, image decoders and image processors.
 * [Twitter Image Pipline](https://github.com/twitter/ios-twitter-image-pipeline) - Twitter出品的一个高性能的图片下载、缓存库.
 * [AlamofireImage](https://github.com/Alamofire/AlamofireImage) - Alamofire的一个图片组件，支持图片序列化，UIImage扩展（压缩、缩放、圆角、核心图像），单个、多个的图片过滤、自动清除内存，队列图片下载、URL鉴定、图片占位和异步远程图片下载、UIImageView过滤和转换等. An image component library for Alamofire.
 * [AsyncImageView](https://github.com/nicklockwood/AsyncImageView) - 一个易用的UIImageView扩展，用于异步加载、显示图片，对UI显示无影响。
@@ -1279,6 +1284,7 @@ A curated list of iOS objective-C ecosystem.
 * [XHTwitterPaggingViewer](https://github.com/xhzengAIB/XHTwitterPaggingViewer) - A twitter like navigation bar, page viewer.
 * [SPPage](https://github.com/xichen744/SPPage) - 高性能PageController.
 * [SCSafariPageController](https://github.com/stefanceriu/SCSafariPageController) - A page view controller component that reproduces Mobile Safari's tab switching behavior.
+* [YNPageViewController](https://github.com/yongyuandouneng/YNPageViewController) - 重构版--特斯拉组件、多页面嵌套滚动、悬停效果、美团、淘宝、京东、微博、腾讯新闻、网易新闻、今日头条等标题滚动视图.
 
 #### 轮播@
 
@@ -2220,6 +2226,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [Analyze](https://github.com/Draveness/Analyze) - 深入解析 iOS 开源项目.
 * [articles](https://github.com/objccn/articles) - Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本.
 * [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions) - iOS面试题集锦（附答案）.
+* [iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection) - iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践.
 * [growth-ebook](https://github.com/phodal/growth-ebook) - Growth Engineering: The Definitive Guide,全栈增长工程师指南.
 * [ideabook](https://github.com/phodal/ideabook) - 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
 * [zen](https://github.com/100mango/zen) - iOS, Swift, Objective-C 心得.
@@ -2229,6 +2236,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [豆瓣iOS开源库列表](https://www.douban.com/note/276160185/?type=like) - 豆瓣iOS开源库列表，很多开源项目.
 * [iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques) - 中文版iOS 高级动画技术.
 * [iOS开发的一些奇巧淫技2](http://www.jianshu.com/p/08f194e9904c) - 用一个pan手势来代替UISwipegesture的各个方向、拉伸图片、播放GIF、上拉刷新、把tableview里cell的小对勾的颜色改变、navigationbar弄成透明的而不是带模糊的效果、改变uitextfield placeholder的颜色和位置.
+* [iOS-Tips](https://github.com/awesome-tips/iOS-Tips) - iOS知识小集.
 * [RemoteControl](https://github.com/johnno1962/Remote) - Control your iPhone from inside Xcode for end-to-end testing.
 * [iOS](https://github.com/Lafree317/iOS) - iOS资源大全中文版.
 * [MVVM 介绍](http://objccn.io/issue-13-1/) - 替换MVC的开发模式.
@@ -2370,6 +2378,8 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files and sockets in use by all running applications. Nice GUI for lsof.
 * [QQMusicHelper](https://github.com/AsTryE/QQMusicHelper) - Mac版QQ音乐绿砖破解，可收听无损音乐和下载无损音乐到本地.
 * [MarzipanPlatter](https://github.com/biscuitehh/MarzipanPlatter) - UIKit + macOS.
+* [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful OS X desktop automation with Lua.
+* [marzipanify](https://github.com/steventroughtonsmith/marzipanify) - Convert an iOS Simulator app bundle to an iOSMac (Marzipan) one (Unsupported & undocumented, WIP).
 
 #### iOS插件@
 
@@ -2393,6 +2403,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 
 * [fks](https://github.com/JacksonTian/fks) - 前端技能汇总 Frontend Knowledge Structure.
 * [blog](https://github.com/zhiqiang21/blog) - 记录前端开发日常点滴。为梦想Coding...
+* [TSW](https://github.com/Tencent/TSW) - 一套面向WEB前端开发者，以提升问题定位效率为初衷，提供染色抓包、全息日志和异常发现的Node.js基础设施.
 * [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - 非常棒👍👍👍  We’re a community that helps you learn to code, then get experience by contributing to open source projects used by
  nonprofits.
