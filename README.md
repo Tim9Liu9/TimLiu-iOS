@@ -71,6 +71,7 @@ A curated list of iOS objective-C ecosystem.
   - [滤镜@](#滤镜)
   - [图像识别@](#图像识别)
   - [图像圆角@](#图像圆角)
+  - [截屏@](#截屏)
 - [数据结构/算法@](#数据结构/算法)
 - [机器学习@](#机器学习)
 - [上架@](#上架)
@@ -899,6 +900,10 @@ A curated list of iOS objective-C ecosystem.
 #### 图像圆角@
 
 * [ZYCornerRadius](https://github.com/liuzhiyi1992/ZYCornerRadius) - 赞 一句代码，圆角风雨无阻。A Category to make cornerRadius for UIImageView have no Offscreen-Rendered, be more efficiency. http://zyden.vicp.cc/zycornerradius/
+
+#### 截屏@
+
+* [PPSnapshotKit](https://github.com/VernonVan/PPSnapshotKit) - 在包括 UIWebView 和 WKWebView 的网页中进行长截图.
 
 #### 数据结构/算法@
 
