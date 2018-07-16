@@ -124,7 +124,6 @@ A curated list of iOS objective-C ecosystem.
   - [压缩解压@](@压缩解压)
   - [Category@](#Category)
   - [代码片@](#代码片)
-  - [Color@](#Color)
   - [Github相关@](#Github相关)
   - [键盘@](#键盘)
   - [分发@](分发@)
@@ -1104,6 +1103,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 颜色@
 
+* [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon是一个非常棒👍👍👍iOS的色彩框架。它运用现代化flat color将UIColor扩展地非常美观。我们还可以通过它运用自定义颜色创建调色板。它还有很多功用，请浏览readme。同时支持Swift.
 * [Colours](https://github.com/bennyguitar/Colours) - Colours–颜色库,包含100种预定义的颜色和方法.
 * [DKNightVersion](https://github.com/Draveness/DKNightVersion) - Manage Colors, Integrate Night/Multiple Themes.
 
@@ -1431,9 +1431,6 @@ A curated list of iOS objective-C ecosystem.
 
 * [snippets](https://github.com/Xcode-Snippets/Objective-C) - A few code snippets from my Xcode arsenal.
 
-#### Color@
-
-* [Chameleon](https://github.com/ViccAlexander/Chameleon) - Chameleon是一个非常棒👍👍👍iOS的色彩框架。它运用现代化flat color将UIColor扩展地非常美观。我们还可以通过它运用自定义颜色创建调色板。它还有很多功用，请浏览readme。同时支持Swift.
 
 #### Github相关@
 
