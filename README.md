@@ -1235,6 +1235,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [YYAsyncLayer](https://github.com/ibireme/YYAsyncLayer) - iOS utility classes for asynchronous rendering and display.
 * [PPCounter](https://github.com/jkpang/PPCounter) - 一款简单实用的数字加减动画,支持UILabel、UIButton显示.
+* [MZTimerLabel](https://github.com/mineschan/MZTimerLabel) - 使用UILabel作为倒数计时器或秒表.
 
 #### Search@
 
