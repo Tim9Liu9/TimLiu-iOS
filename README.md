@@ -2014,7 +2014,6 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [Versions](https://github.com/zenangst/Versions) - 版本比较小工具.
 * [MobileWebPageTest](http://code4app.com/ios/MobileWebPerformanceTest/5465d3e9933bf00c658b4f43) - MobileWebPageTest是用来测试移动网页性能的软件，它可以对页面的加载和渲染过程进行截屏，协助开发者分析出页面性能瓶颈.
 * [WebDriverAgent](https://github.com/facebook/WebDriverAgent) - Facebook 推出了一款新的iOS移动测试框架 A WebDriver server for iOS that runs inside the Simulator.
-.
 * [specta](https://github.com/specta/specta) - TDD或BDD，objective-c语言的测试框架，用的人多.
 * [cedar](https://github.com/pivotal/cedar) - TDD或BDD，objective-c语言的测试框架，用的人少.
 * [cedar](https://github.com/cedarbdd/cedar) - BDD-style testing using Objective-C.
