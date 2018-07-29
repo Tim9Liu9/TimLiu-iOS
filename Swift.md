@@ -1087,7 +1087,7 @@ A curated list of iOS objective-C ecosystem.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - XCGLogger.swift功能完整的日志管理类库.
 * [FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) - 支持同时启动多个模拟器的库，FaceBook出品.
 * [depcheck](https://github.com/wojteklu/depcheck) - Swift 工程分析工具(Dependency analyzer tool for Swift projects).
-* [CocoaDebug](https://github.com/CocoaDebug/CocoaDebug) - iOS Debugging Tool.
+* [CocoaDebug](https://github.com/CocoaDebug/CocoaDebug) - iOS内置调试工具(日志打印/网络监控/内存监控/沙盒查看...)[兼容Swift和Objective-C].
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - 相当于 CocoaLumberjack 或 Log4j 的 Swift 版本，功能上甚至更强大。另外，源代码中已经内含了完整的 API 文档，使用非常方便.
 * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - 一个完善的日志工具，支持彩色输出、输出内容到文件、重要性分级、多输出目标。工具执行在后台，不影响性能，可以极大提高开发效率.
 * [Cuckoo](https://github.com/Brightify/Cuckoo) - First boilerplate-free mocking framework for Swift.
