@@ -2046,6 +2046,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [iOS-Debug-Hacks](https://github.com/aozhimin/iOS-Debug-Hacks) - 项目开发过程中用到的高级调试技巧，涉及三方库动态调试、静态分析和反编译等领域.
 * [iSimulator](https://github.com/wigl/iSimulator) - 模拟器控制工具，simctl的GUI实现，可以方便打开模拟器位置、App沙盒文件位置，并且可以启动、关闭模拟器.
 * [Kiwi](https://github.com/kiwi-bdd/Kiwi) - 简单的BDD为iOS.
+* [CocoaDebug](https://github.com/CocoaDebug/CocoaDebug) - iOS内置调试工具(日志打印/网络监控/内存监控/沙盒查看...)[兼容Swift和Objective-C].
 
 #### Xcode工具@
 
