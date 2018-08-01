@@ -438,6 +438,7 @@ A curated list of iOS objective-C ecosystem.
 * [TeamTalk](https://github.com/meili/TeamTalk) - TeamTalk is a solution for enterprise IM.
 * [QQ界面](https://github.com/weida-studio/QQ)
 * [RTCChatUI](https://github.com/Haley-Wong/RTCChatUI) - 仿QQ音视频通话效果.
+* [Telegram](https://github.com/peter-iakovlev/Telegram) - Telegram Messenger for iOS.
 
 #### 网络测试@
 
@@ -743,6 +744,7 @@ A curated list of iOS objective-C ecosystem.
 * [PBJVideoPlayer](https://github.com/piemonte/PBJVideoPlayer) - 一个易用的流媒体播放器.
 * [KrVideoPlayerPlus](https://github.com/PlutusCat/KrVideoPlayerPlus) - 根据36Kr开源的KRVideoPlayer 进行修改和补充实现一个轻量级的视频播放器，满足大部分视频播放需求.
 * [PKShortVideo](https://github.com/pepsikirk/PKShortVideo) - iOS仿微信小视频功能开发优化记录.
+* [SGPlayer](https://github.com/libobjc/SGPlayer) - A powerful media player framework for iOS, macOS, and tvOS. Support 360° panorama video, VR video. RTMP streaming.
 * [AVAnimator](http://www.modejong.com/AVAnimator/) - 一个不错的原生的开源视频库，可以轻松实现视频、音频的功能.
 * [SSVideoPlayer](https://github.com/immrss/SSVideoPlayer) - 一个支持本地和网络视频播放的库.
 * [SRGMediaPlayer-iOS](https://github.com/SRGSSR/SRGMediaPlayer-iOS) - 一个提供简洁的方法为iOS应用添加通用的音频、视频播放的库.
@@ -1295,6 +1297,7 @@ A curated list of iOS objective-C ecosystem.
 #### 轮播@
 
 * [YJBannerView](https://github.com/stackhou/YJBannerView.git) - 轻量级高性能轮播Banner组件，使用方法简单，可高度自定义化，超级赞
+* [SGPagingView](https://github.com/kingsic/SGPagingView) - A powerful and easy to use segment control (美团、淘宝、京东、微博、腾讯、网易、今日头条等标题滚动视图).
 * [iCarousel](https://github.com/nicklockwood/iCarousel) - 非常赞 作者是英国 Charcoal Design 公司的创始人, 开源领域的贡献颇为卓著, 这个项目就是其中之一, 这是一款可以在 iOS 上实现旋转木马视图切换效果的第三方控件, 并提供多种切换效果。是一个使用简单、高度自定义的多类型视图切换的控件，支持iOS/Mac OS、ARC & Thread Safety; A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS
 * [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) - 无限循环自动图片轮播器(一步设置即可使用).
 * [HYBLoopScrollView](https://github.com/CoderJackyHuang/HYBLoopScrollView) - 一行代码接入轮播组件，自带图片下载、缓存相关功能，无任何第三方依赖、轻量级组件.
@@ -1489,6 +1492,7 @@ A curated list of iOS objective-C ecosystem.
 * [FXLabel](https://github.com/nicklockwood/FXLabel) - FXLabel是一个功能强大使用简单的类库，通过提供一个子类改进了标准的UILabel组件，为字体增加了阴影、内阴影和渐变色等，可以被用在任何标准的UILabel中。FXLabel还提供了更多控件，可以对字体行距、字体间距等进行调整.
 * [WFReader](https://github.com/TigerWf/WFReader) - 一款简单的coretext阅读器，支持文本选择、高亮以及字体大小选择等.
 * [WPAttributedMarkup](https://github.com/nigelgrange/WPAttributedMarkup) - WPAttributedMarkup is a simple utility category that can be used to easily create an attributed string from text with markup tags and a style dictionary.
+* [MessageThrottle](https://github.com/yulingtianxia/MessageThrottle) - A lightweight Objective-C message throttle and debounce library.
 * [UUColorSwitch](https://github.com/zhangyu9050/UUColorSwitch) - Switch 开关动画效果,当打开开关时，Switch可实现平滑渲染过渡到父视图的效果.
 * [UITextViewDIYEmojiExample](https://github.com/zekunyan/UITextViewDIYEmojiExample) - [UITextView编辑时插入自定义表情-简单的图文混编](http://tutuge.me/2015/03/07/UITextView%E7%BC%96%E8%BE%91%E6%97%B6%E6%8F%92%E5%85%A5%E8%87%AA%E5%AE%9A%E4%B9%89%E8%A1%A8%E6%83%85-%E7%AE%80%E5%8D%95%E7%9A%84%E5%9B%BE%E6%96%87%E6%B7%B7%E7%BC%96/).
 * [MMMarkdown](https://github.com/mdiep/MMMarkdown) - 一个Objective-C的静态库,用于将Markdown语法转换换为HTML.
@@ -1997,6 +2001,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [Buildasaur](https://github.com/czechboy0/Buildasaur) 自动测试框架 Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server. Keep your team productive and safe. Get up and running in minutes. @buildasaur
 * [MLeaksFinder](https://github.com/Tencent/MLeaksFinder) - 内存泄露检测工具.
 * [IPAPatch](https://github.com/Naituw/IPAPatch) 免越狱调试、修改第三方App，👍👍 .
+* [DBDebugToolkit](https://github.com/dbukowski/DBDebugToolkit) - Set of easy to use debugging tools for iOS developers & QA engineers.
 * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - 是一个快速、简单，但很强大的日志框架，可以自定义打印日志的颜色.
 * [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization) - 关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit.
 * [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) - Facebook出品,内存检测库.FBMemoryProfiler 基础教程](http://ifujun.com/fbmemoryprofiler-shi-yong-ji-chu-jiao-cheng/)。(https://swiftcafe.io/2017/05/02/mem-profiler/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -2013,6 +2018,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [snoop-it](https://code.google.com/archive/p/snoop-it/) - snoop-it比UIViewController-Swizzled好用，代码托管在google上。
 * [Versions](https://github.com/zenangst/Versions) - 版本比较小工具.
 * [MobileWebPageTest](http://code4app.com/ios/MobileWebPerformanceTest/5465d3e9933bf00c658b4f43) - MobileWebPageTest是用来测试移动网页性能的软件，它可以对页面的加载和渲染过程进行截屏，协助开发者分析出页面性能瓶颈.
+* [ios-snapshot-test-case](https://github.com/uber/ios-snapshot-test-case) - Snapshot view unit tests for iOS.
 * [WebDriverAgent](https://github.com/facebook/WebDriverAgent) - Facebook 推出了一款新的iOS移动测试框架 A WebDriver server for iOS that runs inside the Simulator.
 * [specta](https://github.com/specta/specta) - TDD或BDD，objective-c语言的测试框架，用的人多.
 * [cedar](https://github.com/pivotal/cedar) - TDD或BDD，objective-c语言的测试框架，用的人少.
@@ -2381,6 +2387,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files and sockets in use by all running applications. Nice GUI for lsof.
 * [QQMusicHelper](https://github.com/AsTryE/QQMusicHelper) - Mac版QQ音乐绿砖破解，可收听无损音乐和下载无损音乐到本地.
 * [MarzipanPlatter](https://github.com/biscuitehh/MarzipanPlatter) - UIKit + macOS.
+* [HexFiend](https://github.com/ridiculousfish/HexFiend) - A fast and clever hex editor for Mac OS X.
 * [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful OS X desktop automation with Lua.
 * [marzipanify](https://github.com/steventroughtonsmith/marzipanify) - Convert an iOS Simulator app bundle to an iOSMac (Marzipan) one (Unsupported & undocumented, WIP).
 
