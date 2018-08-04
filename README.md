@@ -804,7 +804,6 @@ A curated list of iOS objective-C ecosystem.
 
 #### 拍照@
 
-* [Cool-iOS-Camera](https://github.com/GabrielAlva/Cool-iOS-Camera) - Cool-iOS-Camera.
 * [FastttCamera](https://github.com/IFTTT/FastttCamera) - FastttCamera 快速照相.
 * [DBCamera](https://github.com/danielebogo/DBCamera) - DBCamera is a simple custom camera with AVFoundation.
 * [ZPCamera](https://github.com/hawk0620/ZPCamera) - An OpenSource Camera App.
