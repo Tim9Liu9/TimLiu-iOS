@@ -53,10 +53,11 @@ A curated list of iOS objective-C ecosystem.
   - [二维码@](#二维码)
   - [PDF@](#pdf)
   - [GIF@](#GIF)
-  - [流媒体@](#流媒体)
   - [音频@](#音频)
+  - [媒体流@](#媒体流)
   - [视频@](#视频)
     - [视频播放@](#视频播放)
+    - [视频处理@](#视频处理)
 - [图像@](#图像)
   - [人脸识别@](#人脸识别)
   - [图像识别@](#图像识别)
@@ -203,7 +204,6 @@ A curated list of iOS objective-C ecosystem.
 * [TodayNews](https://github.com/hrscy/TodayNews) - Swift4 模仿今日头条.
 * [notGIF](https://github.com/atuooo/notGIF) - 一款展示、管理和分享相册中 GIF 的应用，并适配了 iMessage Extension.
 * [TheGreatGame](https://github.com/dreymonde/TheGreatGame) - Open-source first-class iOS app dedicated to Women’s Euro 2017.
-* [Swift-YouTube-Player](https://github.com/gilesvangruisen/Swift-YouTube-Player) - Swift library for embedding and controlling YouTube videos in your iOS applications.
 * [trust-wallet-ios](https://github.com/TrustWallet/trust-wallet-ios) - 📱 Trust - Ethereum Wallet for iOS.
 * [Instagram](https://github.com/Imputes/Instagram) - 📱 💯 A simple imitation of Instagram  app.
 * [cnode-swift](https://github.com/nswbmw/cnode-swift) - iOS 上更好用的 CNode 客户端.
@@ -495,14 +495,6 @@ A curated list of iOS objective-C ecosystem.
 * [AImage](https://github.com/wangjwchn/AImage) - A animated GIF&APNG engine for iOS in Swift with low memory & cpu usage.Optimized for Multi-Image case.:large_orange_diamond:
 * [gifu](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS in Swift :large_orange_diamond:
 
-#### 流媒体@
-
-* [lf.swift](https://github.com/shogo4405/lf.swift) - 相机和麦克风流媒体库，支持RTMP，HLS for iOS，macOS。
-* [StreamingKit](https://github.com/tumtumtum/StreamingKit) - A fast and extensible gapless AudioPlayer/AudioStreamer for OSX and iOS.
-* [Jukebox](https://github.com/teodorpatras/Jukebox) - 音频播放器，可播放本地和网络音频流
-* [Airstream](https://github.com/qasim/Airstream) - 一个基于AirPlay在Apple devices之间进行音频流传输的库，比如iphone音乐在Apple TV上面播放。
-* [OTAcceleratorCore](https://github.com/opentok/accelerator-core-ios) - 通过Tokbox将音频/视频（屏幕共享）轻松集成到任何iOS应用程序.包括视频通话、语音通话等。
-
 #### 音频@
 
 * [recordDemo.swift](https://github.com/lfb-cd/recordDemo) - 一个Swift语言实现直接可以用的录音Demo，[实现说明](http://www.jianshu.com/p/f0b88355d7cb).
@@ -522,6 +514,14 @@ A curated list of iOS objective-C ecosystem.
 * [ESTMusicIndicator](https://github.com/Aufree/ESTMusicIndicator) - 很酷的音乐动画指示View.
 * [SwiftySound](https://github.com/adamcichy/SwiftySound) - 一个让你一行代码就可以播放音频的三方库.
 * [ROMPlayer](https://github.com/AudioKit/ROMPlayer) - AudioKit Sample Player (ROM Player) - EXS24, Sound Font, Wave Player.
+
+#### 媒体流@
+
+* [lf.swift](https://github.com/shogo4405/lf.swift) - 相机和麦克风流媒体库，支持RTMP，HLS for iOS，macOS。
+* [StreamingKit](https://github.com/tumtumtum/StreamingKit) - A fast and extensible gapless AudioPlayer/AudioStreamer for OSX and iOS.
+* [Jukebox](https://github.com/teodorpatras/Jukebox) - 音频播放器，可播放本地和网络音频流
+* [Airstream](https://github.com/qasim/Airstream) - 一个基于AirPlay在Apple devices之间进行音频流传输的库，比如iphone音乐在Apple TV上面播放。
+* [OTAcceleratorCore](https://github.com/opentok/accelerator-core-ios) - 通过Tokbox将音频/视频（屏幕共享）轻松集成到任何iOS应用程序.包括视频通话、语音通话等。
 
 #### VR@
 
@@ -556,10 +556,18 @@ A curated list of iOS objective-C ecosystem.
 * [Periscope-VideoViewController.swift](https://github.com/gontovnik/Periscope-VideoViewController) - 简洁实用的视频快进、倒带控制视图类库.
 * [MPMoviePlayerController-Subtitles](https://github.com/mhergon/MPMoviePlayerController-Subtitles) - 一个播放STR文件的简单方法.
 * [Player](https://github.com/piemonte/Player) - ▶️  一个简单方法播放视频和流媒体的播放器，支持iOS和tvOS.
+* [YoutubeKit](https://github.com/rinov/YoutubeKit) - YoutubeKit is a video player that fully supports Youtube IFrame API and YoutubeDataAPI for easily create a Youtube app.
 * [mobileplayer-ios.swift](https://github.com/mobileplayer/mobileplayer-ios) - 很不错的高度可定制播放器项目.
 * [BMPlayer.swift](https://github.com/BrikerMan/BMPlayer) - 基于 AVPlayer 使用 Swift 封装的视频播放器，方便快速集成,支持横屏、竖屏，上下滑动调节音量、屏幕亮度，左右滑动调节播放进度.
 * [PlayerView](https://github.com/davidlondono/PlayerView) - 一个使用代理和AVPlayer的播放View.
+* [VGPlayer](https://github.com/VeinGuo/VGPlayer) - A simple iOS video player by Vein.
+* [Swift-YouTube-Player](https://github.com/gilesvangruisen/Swift-YouTube-Player) - Swift library for embedding and controlling YouTube videos in your iOS applications.
 * [PlayerKit](https://github.com/vimeo/PlayerKit)
+* [DDDKit](https://github.com/gsabran/DDDKit) - 360 video player for iOS written in swift - a subset of SceneKit that works.
+
+#### 视频处理@
+
+* [PryntTrimmerView](https://github.com/prynt/PryntTrimmerView) - A set of tools to trim, crop and select frames inside a video.
 
 ####图像@
 
