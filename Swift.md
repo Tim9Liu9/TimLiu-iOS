@@ -553,12 +553,13 @@ A curated list of iOS objective-C ecosystem.
 #### 视频播放@
 
 * [MobilePlayer](https://github.com/mobileplayer/mobileplayer-ios) - 一个强大、可自定义的媒体播放器.
-* [Periscope-VideoViewController.swift](https://github.com/gontovnik/Periscope-VideoViewController) - 简洁实用的视频快进、倒带控制视图类库。
-* [MPMoviePlayerController-Subtitles](https://github.com/mhergon/MPMoviePlayerController-Subtitles) - 一个播放STR文件的简单方法
-* [Player](https://github.com/piemonte/Player) - ▶️  一个简单方法播放视频和流媒体的播放器，支持iOS和tvOS
-* [mobileplayer-ios.swift](https://github.com/mobileplayer/mobileplayer-ios) - 很不错的高度可定制播放器项目。
-* [BMPlayer.swift](https://github.com/BrikerMan/BMPlayer) - 基于 AVPlayer 使用 Swift 封装的视频播放器，方便快速集成,支持横屏、竖屏，上下滑动调节音量、屏幕亮度，左右滑动调节播放进度。
-* [PlayerView](https://github.com/davidlondono/PlayerView) - 一个使用代理和AVPlayer的播放View
+* [Periscope-VideoViewController.swift](https://github.com/gontovnik/Periscope-VideoViewController) - 简洁实用的视频快进、倒带控制视图类库.
+* [MPMoviePlayerController-Subtitles](https://github.com/mhergon/MPMoviePlayerController-Subtitles) - 一个播放STR文件的简单方法.
+* [Player](https://github.com/piemonte/Player) - ▶️  一个简单方法播放视频和流媒体的播放器，支持iOS和tvOS.
+* [mobileplayer-ios.swift](https://github.com/mobileplayer/mobileplayer-ios) - 很不错的高度可定制播放器项目.
+* [BMPlayer.swift](https://github.com/BrikerMan/BMPlayer) - 基于 AVPlayer 使用 Swift 封装的视频播放器，方便快速集成,支持横屏、竖屏，上下滑动调节音量、屏幕亮度，左右滑动调节播放进度.
+* [PlayerView](https://github.com/davidlondono/PlayerView) - 一个使用代理和AVPlayer的播放View.
+* [PlayerKit](https://github.com/vimeo/PlayerKit)
 
 ####图像@
 
