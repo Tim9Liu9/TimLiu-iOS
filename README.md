@@ -1090,6 +1090,7 @@ A curated list of iOS objective-C ecosystem.
 * [MyLinearLayout](https://github.com/youngsoft/MyLinearLayout) - MyLayout is a powerful iOS UI framework implemented by Objective-C. It integrates the functions with Android Layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use LinearLayout,RelativeLayout,FrameLayout,TableLayout,FlowLayout,FloatLayout,PathLayout,LayoutSizeClass to build your App 自动布局 UIView UITableView UICo…
 * [WHC_AutoLayoutKit](https://github.com/netyouli/WHC_AutoLayoutKit) - Had better use the auto layout of open source framework，致力打造使用最简单功能最强大的自动布局开源库.
 * [NerdyUI](https://github.com/nerdycat/NerdyUI) - 好用的快速布局 UI 库，适用于 iOS 8 及以上版本.
+* [FlexLib](https://github.com/zhenglibao/FlexLib) - FlexLib is a framework for creating native iOS applications using a human-readable markup language, similar to Android and .NET development way. It's based on flexbox model, easy & powerful. Trash xib & storyboard, autolayout & masonry now. :).
 
 #### 日历三方库@
 
