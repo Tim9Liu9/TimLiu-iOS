@@ -269,6 +269,7 @@ A curated list of iOS objective-C ecosystem.
 * [YouTube-Music](https://github.com/steve228uk/YouTube-Music) - A Mac app wrapper for music.youtube.com.
 * [MONO](https://github.com/xumaohuai/MONO) - 高仿MONO(猫弄).
 * [LZAlbum](https://github.com/lzwjava/LZAlbum) - 基于 LeanCloud 的朋友圈，优雅地使用 LeanCloud.
+* [xkcd-Open-Source](https://github.com/mamaral/xkcd-Open-Source) - A free and open source xkcd comic reader for iOS.
 
 #### 框架@                                               
 
@@ -810,6 +811,7 @@ A curated list of iOS objective-C ecosystem.
 * [DBCamera](https://github.com/danielebogo/DBCamera) - DBCamera is a simple custom camera with AVFoundation.
 * [ZPCamera](https://github.com/hawk0620/ZPCamera) - An OpenSource Camera App.
 * [HeartBeatsPlugin](https://github.com/YvanLiu/HeartBeatsPlugin) - 手机摄像头测心率 带心率折线图和返回瞬时心率.
+* [MARFaceBeauty](https://github.com/Maru-zhang/MARFaceBeauty) - 一款类似于FaceU的美颜相机，支持大部分基础功能：美颜，对焦，前后摄像头转换，过场动画...
 
 #### 图像处理@
 
@@ -1522,6 +1524,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 字体@
 
+* [xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font.
 * [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit) - 图片字体库，支持超级字体、基础Icon等，支持同时支持Swift.
 
 #### 多线程@
