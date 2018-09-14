@@ -269,7 +269,7 @@ A curated list of iOS objective-C ecosystem.
 * [YouTube-Music](https://github.com/steve228uk/YouTube-Music) - A Mac app wrapper for music.youtube.com.
 * [MONO](https://github.com/xumaohuai/MONO) - 高仿MONO(猫弄).
 * [LZAlbum](https://github.com/lzwjava/LZAlbum) - 基于 LeanCloud 的朋友圈，优雅地使用 LeanCloud.
-* [xkcd-Open-Source](https://github.com/mamaral/xkcd-Open-Source) - A free and open source xkcd comic reader for iOS.
+* [xkcd-Open-Source](https://github.com/mamaral/xkcd-Open-Source) - A free and open source xkcd comic reader for iOS.s
 
 #### 框架@                                               
 
@@ -2005,6 +2005,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [calabash-ios](https://github.com/calabash/calabash-ios) - 自动测试 Calabash is an automated testing technology for Android and iOS native and hybrid applications.
 * [Buildasaur](https://github.com/czechboy0/Buildasaur) 自动测试框架 Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server. Keep your team productive and safe. Get up and running in minutes. @buildasaur
 * [MLeaksFinder](https://github.com/Tencent/MLeaksFinder) - 内存泄露检测工具.
+* [CocoaDebug](https://github.com/CocoaDebug/CocoaDebug) - iOS内置调试工具(日志打印/网络监控/内存监控/沙盒查看...)[兼容Swift和Objective-C].
 * [IPAPatch](https://github.com/Naituw/IPAPatch) 免越狱调试、修改第三方App，👍👍 .
 * [DBDebugToolkit](https://github.com/dbukowski/DBDebugToolkit) - Set of easy to use debugging tools for iOS developers & QA engineers.
 * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - 是一个快速、简单，但很强大的日志框架，可以自定义打印日志的颜色.
@@ -2056,7 +2057,6 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [iOS-Debug-Hacks](https://github.com/aozhimin/iOS-Debug-Hacks) - 项目开发过程中用到的高级调试技巧，涉及三方库动态调试、静态分析和反编译等领域.
 * [iSimulator](https://github.com/wigl/iSimulator) - 模拟器控制工具，simctl的GUI实现，可以方便打开模拟器位置、App沙盒文件位置，并且可以启动、关闭模拟器.
 * [Kiwi](https://github.com/kiwi-bdd/Kiwi) - 简单的BDD为iOS.
-* [CocoaDebug](https://github.com/CocoaDebug/CocoaDebug) - iOS内置调试工具(日志打印/网络监控/内存监控/沙盒查看...)[兼容Swift和Objective-C].
 * [GTrack](https://github.com/gemr/GTrack) - Lightweight Objective-C wrapper around the Google Analytics for iOS SDK with some extra goodies.
 
 #### Xcode工具@
