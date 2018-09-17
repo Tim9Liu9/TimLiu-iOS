@@ -86,10 +86,10 @@ A curated list of iOS objective-C ecosystem.
     - [TableView@](#TableView)
     - [TableView适配@](#TableView适配)
     - [CollectionView@](#CollectionView)
+  - [图表@](#图表)
   - [下拉刷新@](#下拉刷新)
   - [模糊效果@](#模糊效果)
   - [日历三方库@](#日历三方库)
-  - [图表@](#图表)
   - [颜色@](#颜色)
   - [scrollView@](#scrollView)
   - [对话交互@](#对话交互)
@@ -278,7 +278,7 @@ A curated list of iOS objective-C ecosystem.
 * [react-native-maps](https://github.com/airbnb/react-native-maps) - React Native Mapview component for iOS + Android.
 * [react-native-svg](https://github.com/react-native-community/react-native-svg)  - SVG library for React Native. react-native-svg is built to provide a SVG interface to react native on both iOS and Android.
 * [react-native-maps](https://github.com/react-community/react-native-maps) - React Native Mapview component for iOS + Android.
-* [react-native-code-push](https://github.com/Microsoft/react-native-code-push) - React Native module for CodePush.
+* [react-native-code-push](https://github.com/Microsoft/react-native-code-push) - React Native module for CodePush（微软提供的一套可用于React Native和Cordova的热更新服务）.
 * [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController) - 低耦合集成TabBarController,最低只需传两个数组即可完成主流App框架搭建.
 * [samurai-native](https://github.com/hackers-painters/samurai-native) - 是一个基于浏览器内核通过HTML+CSS 开发原生移动应用的iOS框架.
 * [HHRouter](https://github.com/Huohua/HHRouter) - 一言以蔽之，URL Router 即将 UIViewController 映射成 URL，从而支持通过 URL 进行界面跳转。是的，就和 Web 一样。当然，这并不是 Web Developer 转职为 iOS Developer 后所做的无聊玩具。URL Router 有着许多切实的好处.
@@ -293,6 +293,7 @@ A curated list of iOS objective-C ecosystem.
 * [AppManager](https://github.com/nanchen2251/AppManager) - 🔥 An elegant exit application and restart mechanism management.
 * [MACProject](https://github.com/azheng51714/MACProject) - 这是一个用 Objective-C 写的 iOS 轻量级框架，旨在快速构建 iOS App.
 * [iOSProject](https://github.com/NJHu/iOSProject) - 一些oc项目集合.
+* [WYBasisKit](https://github.com/Jacke-xu/WYBasisKit) - "WYBasisKit" is a toolkit aimed at greatly improving efficiency.
 
 #### React@
 
@@ -307,6 +308,7 @@ A curated list of iOS objective-C ecosystem.
 * [ReactNative的理解与思考,三端同一套代码的实践](http://www.jianshu.com/p/1144469bf81f?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io).
 * [RNStudyNotes](https://github.com/crazycodeboy/RNStudyNotes) - React Native 研究与实践.
 * [react-native-orientation](https://github.com/yamill/react-native-orientation) - Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis.
+* [QTEventBus](https://github.com/LeoMobileDeveloper/QTEventBus) - 优雅的处理全局事件，支持AppDelegate解耦.
 
 #### framework@
 
@@ -329,7 +331,10 @@ A curated list of iOS objective-C ecosystem.
 * [ios-class-guard](https://github.com/Polidea/ios-class-guard) - 一个用于混淆iOS的类名、方法名以及变量名的开源库--有人反映编译出来的app运行不了.
 * [《Protecting iOS Applications》](https://www.polidea.com/#!heartbeat/blog/Protecting_iOS_Applications) - 文章系统地介绍了如何保护iOS程序的代码安全，防止反汇编分析.
 * [fishhook](https://github.com/facebook/fishhook) - fishhook是Facebook开源的一个可以hook系统方法的工具.
+* [MSCrashProtector](https://github.com/JZJJZJ/MSCrashProtector) - An Global protection scheme(代码容错处理).
 * [JMPasswordView](https://github.com/Juuman/JMPasswordView) - 简单实用的手势密码，效果可自行调控.
+* [LSSafeProtector](https://github.com/lsmakethebest/LSSafeProtector) - 防止crash框架，不改变原代码支持KVO自释放，可以检测到dealloc时未释放的kvo，等19种crash.
+* [WHC_ConfuseSoftware](https://github.com/netyouli/WHC_ConfuseSoftware) - iOS代码自动翻新(混淆)专家(WHC_ConfuseSoftware)是一款新一代运行在MAC OS平台的App、完美支持Objc和Swift项目代码的自动翻新(混淆)、支持文件名、类名、方法名、属性名、添加混淆方法体、添加混淆属性、自动调用混淆方法等。。。功能强大而稳定.
 * [仿密码锁-九宫格](http://code.cocoachina.com/detail/298556/%E4%BB%BF%E5%AF%86%E7%A0%81%E9%94%81-%E4%B9%9D%E5%AE%AB%E6%A0%BC/) - 仿密码锁-九宫格，主要是使用UIButton 手势事件  UIBezierPath画图，解锁失败弹出“密码错误”.
 * [Valet](https://github.com/square/Valet) - 代客可以让你安全地存储在iOS和OS X的钥匙串数据，而无需了解的钥匙扣如何工作的事情.
 * [CoreLock](https://github.com/CharlinFeng/CoreLock) - 本框架是高仿支付宝，并集成了所有功能，并非一个简单的解锁界面展示。个人制作用时1周多，打造解锁终结者框架.
@@ -463,6 +468,7 @@ A curated list of iOS objective-C ecosystem.
 * [BAWKWebView](https://github.com/BAHome/BAWKWebView) - 用分类封装 WKWebView，一行代码搞定 request、URL、URLString、本地 HTML文件、HTMLString等请求，一个 block 搞定 title、progress、currentURL、当前网页的高度等等所需.
 * [WKWebView](https://github.com/Telerik-Verified-Plugins/WKWebView) - A drop-in replacement of UIWebView - useful until Apple release a bug-free WKWebView.
 * [Erik](https://github.com/phimage/Erik) - Erik is an headless browser based on WebKit. An headless browser allow to run functional tests, to access and manipulate webpages using javascript. :large_orange_diamond:
+* [react-native-webview](https://github.com/react-native-community/react-native-webview) - React Native Cross-Platform WebView.
 * [URLPreview](https://github.com/itsmeichigo/URLPreview) - An NSURL extension for showing preview info of webpages :large_orange_diamond: [e]
 * [AXWebViewController](https://github.com/devedbox/AXWebViewController) - AXWebViewController is a webViewController to browse web content inside applications.
 * [LYWebviewController](https://github.com/halohily/LYWebviewController) - 基于UIWebview-简书文章阅读页面的模仿demo.
@@ -485,6 +491,7 @@ A curated list of iOS objective-C ecosystem.
 * [RFJModel](https://github.com/refusebt/RFJModel) - RFJModel是一个IOS类库，可以将JSON字典自动装填到OBJC对象.
 * [XMLDictionary](https://github.com/nicklockwood/XMLDictionary) - ios与mac os平台下xml与NSDictionary相互转化开源类库.
 * [DDModel](https://github.com/openboy2012/DDModel) - a HTTP-JSON/XML-ORM-Persistent Object Kit.
+* [ambly](https://github.com/mfikes/ambly) - ClojureScript REPL into embedded JavaScriptCore.
 * [TouchJSON](https://github.com/TouchCode/TouchJSON) - JSon解析库(早已停止更新).
 * [JSON-Framework](https://github.com/stig/json-framework) -  JSON（JavaScript对象符号）是一种轻量的数据交换格式，易于读写人类和计算机一样。该框架实现了用在Objective-C严格的JSON解析器和编码器.
 * [Groot](https://github.com/gonzalezreal/Groot) - From JSON to Core Data and back.
@@ -842,6 +849,7 @@ A curated list of iOS objective-C ecosystem.
 * [EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages) - 类似facebook的相册浏览库.
 * [RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper) - 适用于iOS的图片裁剪器，类似Contacts app，可上下左右移动图片选取最合适的区域.
 * [WZRecyclePhotoStackView](http://code.cocoachina.com/detail/232156) - 删除照片交互--WZRecyclePhotoStackView，就是模拟生活中是删除或保留犹豫不决的情形而产生的。 在上滑，下滑的部分，借鉴了[TinderSimpleSwipeCards](https://github.com/cwRichardKim/TinderSimpleSwipeCards).
+* [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for camera, configurable compression, multiple images and cropping.
 * [PhotoTweaks](https://github.com/itouch2/PhotoTweaks) - 这个库挺赞的，正好是对图像操作的.
 * [MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery) - A Photo and Video Gallery.
 * [CorePhotoBroswerVC](https://github.com/CharlinFeng/CorePhotoBroswerVC) - 快速集成高性能图片浏览器，支持本地及网络相册.
@@ -957,6 +965,7 @@ A curated list of iOS objective-C ecosystem.
 * [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS) - Many Google Material Design Controls for iOS native application.
 * [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS) - 大神模仿谷歌做的各种各样的iOS原生特效控件，非常全面.
 * [Form](https://github.com/hyperoslo/Form) - Form 是一个方便开发者创建表单填写工作的 UI 库.
+* [JXCategoryView](https://github.com/pujiaxin33/JXCategoryView) - A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图).
 * [material-components-ios](https://github.com/material-components/material-components-ios) - 基于 Material Design 的组件库，包含iOS、Android、Web 三个平台的组件库和调用方法.
 * [fluid-slider](https://github.com/Ramotion/fluid-slider) - A slider widget with a popup bubble displaying the precise value selected.
 * [YXYDashLayer](https://github.com/yulingtianxia/YXYDashLayer) - Colorful Rounded Rect Dash Border.
@@ -1047,6 +1056,20 @@ A curated list of iOS objective-C ecosystem.
 * [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - A modern Swift framework for building reusable data-driven collection components.
 * [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout) - CollectionView实现悬停的header.
 
+#### 图表@
+
+* [ios-charts](https://github.com/danielgindi/Charts) - 一款优秀 Android 图表开源库 MPAndroidChart 的 Swift 语言实现版（支持 Objective-C 和 Swift 调用）。缺省提供的示例代码为 Objective-C.
+* [PNChart](https://github.com/kevinzhow/PNChart) - 国内开源作者，动态的图表.
+* [JBChartView](https://github.com/Jawbone/JBChartView) - 基于iOS的用于线路和条形图的图表库.
+* [KLine](https://github.com/AbuIOSDeveloper/KLine) - (CAShapelayer + UIBezierPath)绘制K线支撑横竖屏切换、刷新、长按、缩放、masonry适配，完美支持金融产品 非常的流畅，占用内存少，使用矢量进行填充K线，持续更新.
+* [XJYChart](https://github.com/JunyiXie/XJYChart) - 优秀的的图表框架。支持动画，点击，滑动，区域高亮.
+* [AAChartKit](https://github.com/AAChartModel/AAChartKit) - 极其精美而又强大的 iOS 图表组件库,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图表,完全满足…
+* [YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) - 支持在watchOS上绘制图表，看它最近更新挺勤快的，可以关注一下.
+* [RealtimeGradientText](https://github.com/kevinzhow/RealtimeGradientText) - Fun With CALayer Mask 刚好今天开源了一个有趣的项目 RealtimeGradientText，所以也好聊一下 CALayer 的 Mask，[说明](http://blog.zhowkev.in/2015/07/06/fun-with-mask/).
+* [XYPieChart](https://github.com/xyfeng/XYPieChart) - XYPieChart:饼状图,  饼图,  数据统计,  数据可视化,可以在图形上标注数据。效果十分漂亮，而且没有用到一张图片.
+* [ZFChart](https://github.com/Zirkfied/ZFChart) - 模仿PNChart写的一个图表库，用法简单，暂时有柱状图，线状图，饼图三种类型，后续可能会更新新的类型.
+* [JYRadarChart](https://github.com/johnnywjy/JYRadarChart) - 一个很赞的图表库.
+
 #### 下拉刷新@
 
 * [MJRefresh](https://github.com/CoderMJLee/MJRefresh) - 仅需一行代码就可以为UITableView或者CollectionView加上下拉刷新或者上拉刷新功能。可以自定义上下拉刷新的文字说明。具体使用看“使用方法”.
@@ -1098,19 +1121,6 @@ A curated list of iOS objective-C ecosystem.
 
 * [TEAChart](https://github.com/xhacker/TEAChart) - xhacker/TEAChart 一个简洁的 iOS 图表库，支持柱状图、饼图以及日历等.
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar) - 是一个方便开发者集成自定义日历视图到自己 iOS 应用的项目, 支持 Storyboard 和手动配置, 使用 CocoaPods 进行安装, 提供了丰富的 API 供开发者使用.
-
-#### 图表@
-
-* [ios-charts](https://github.com/danielgindi/Charts) - 一款优秀 Android 图表开源库 MPAndroidChart 的 Swift 语言实现版（支持 Objective-C 和 Swift 调用）。缺省提供的示例代码为 Objective-C.
-* [PNChart](https://github.com/kevinzhow/PNChart) - 国内开源作者，动态的图表.
-* [JBChartView](https://github.com/Jawbone/JBChartView) - 基于iOS的用于线路和条形图的图表库.
-* [XJYChart](https://github.com/JunyiXie/XJYChart) - 优秀的的图表框架。支持动画，点击，滑动，区域高亮.
-* [AAChartKit](https://github.com/AAChartModel/AAChartKit) - 极其精美而又强大的 iOS 图表组件库,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图表,完全满足…
-* [YOChartImageKit](https://github.com/yasuoza/YOChartImageKit) - 支持在watchOS上绘制图表，看它最近更新挺勤快的，可以关注一下.
-* [RealtimeGradientText](https://github.com/kevinzhow/RealtimeGradientText) - Fun With CALayer Mask 刚好今天开源了一个有趣的项目 RealtimeGradientText，所以也好聊一下 CALayer 的 Mask，[说明](http://blog.zhowkev.in/2015/07/06/fun-with-mask/).
-* [XYPieChart](https://github.com/xyfeng/XYPieChart) - XYPieChart:饼状图,  饼图,  数据统计,  数据可视化,可以在图形上标注数据。效果十分漂亮，而且没有用到一张图片.
-* [ZFChart](https://github.com/Zirkfied/ZFChart) - 模仿PNChart写的一个图表库，用法简单，暂时有柱状图，线状图，饼图三种类型，后续可能会更新新的类型.
-* [JYRadarChart](https://github.com/johnnywjy/JYRadarChart) - 一个很赞的图表库.
 
 #### 颜色@
 
@@ -2177,6 +2187,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [Hydro.network](https://github.com/CatchChat/Hydro.network) - [Hydro.network 的开发旅程](http://blog.zhowkev.in/2015/03/09/hydro-network-de-kai-fa-lu-cheng/), [gitcafe](https://gitcafe.com/Catch/Hydro.network).
 * [Potatso](https://github.com/shadowsocks/Potatso) - 基于iOS 9 的 NetworkExtension 框架实现 Shadowsocks 代理，由国人开发，虽然还有很多问题不过确实值得期待.
 * [forum](https://github.com/getlantern/forum) - 蓝灯(Lantern)官方论坛.
+* [WireGuard](https://github.com/WireGuard/WireGuard) - Jason A. Donenfeld开发的开源VPN协议。目前支持Linux, macOS, Android以及OpenWrt.
 
 #### 美工资源@
 
@@ -2381,6 +2392,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 
 #### mac@
 
+* [spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse(窗口控制器).
 * [radiant-player-mac](https://github.com/radiant-player/radiant-player-mac) - 一个Google Play音乐转换成与Mac整合的独立，美观的mac音乐播放器.
 * [DevDataTool](https://github.com/MxABC/DevDataTool) - OSX系统 转换、加解密工具.
 * [LuLu](https://github.com/objective-see/LuLu) - 防火墙 LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic.
@@ -2396,6 +2408,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [HexFiend](https://github.com/ridiculousfish/HexFiend) - A fast and clever hex editor for Mac OS X.
 * [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful OS X desktop automation with Lua.
 * [marzipanify](https://github.com/steventroughtonsmith/marzipanify) - Convert an iOS Simulator app bundle to an iOSMac (Marzipan) one (Unsupported & undocumented, WIP).
+* [EnergyBar](https://github.com/billziss-gh/EnergyBar) - Supercharge your Mac's Touch Bar.
 
 #### iOS插件@
 
