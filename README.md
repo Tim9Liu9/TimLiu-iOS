@@ -1130,6 +1130,7 @@ A curated list of iOS objective-C ecosystem.
 #### scrollView@
 
 * [SYParallaxScrollView](https://github.com/syjdev/SYParallaxScrollView) - Useful for Configure Horizontal Parallax Scroll.
+* [LazyScrollView](https://github.com/alibaba/LazyScrollView) - iOS 高性能异构滚动视图构建方案
 
 #### 对话交互@
 #### 隐藏与显示@
