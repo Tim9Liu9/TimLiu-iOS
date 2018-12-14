@@ -269,6 +269,7 @@ A curated list of iOS objective-C ecosystem.
 * [MONO](https://github.com/xumaohuai/MONO) - 高仿MONO(猫弄).
 * [LZAlbum](https://github.com/lzwjava/LZAlbum) - 基于 LeanCloud 的朋友圈，优雅地使用 LeanCloud.
 * [xkcd-Open-Source](https://github.com/mamaral/xkcd-Open-Source) - A free and open source xkcd comic reader for iOS.s
+* [GKDYVideo](https://github.com/QuintGao/GKDYVideo) - iOS仿抖音短视频.
 
 #### 框架@                                               
 
@@ -279,6 +280,7 @@ A curated list of iOS objective-C ecosystem.
 * [react-native-maps](https://github.com/react-community/react-native-maps) - React Native Mapview component for iOS + Android.
 * [react-native-code-push](https://github.com/Microsoft/react-native-code-push) - React Native module for CodePush（微软提供的一套可用于React Native和Cordova的热更新服务）.
 * [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController) - 低耦合集成TabBarController,最低只需传两个数组即可完成主流App框架搭建.
+* [keystone](https://github.com/keystone-enclave/keystone) - Keystone Enclave (QEMU).
 * [samurai-native](https://github.com/hackers-painters/samurai-native) - 是一个基于浏览器内核通过HTML+CSS 开发原生移动应用的iOS框架.
 * [HHRouter](https://github.com/Huohua/HHRouter) - 一言以蔽之，URL Router 即将 UIViewController 映射成 URL，从而支持通过 URL 进行界面跳转。是的，就和 Web 一样。当然，这并不是 Web Developer 转职为 iOS Developer 后所做的无聊玩具。URL Router 有着许多切实的好处.
 * [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit) - 异步界面渲染库,为极限优化View效果而生（同时提供 UIView bridge 接口）.
@@ -354,6 +356,7 @@ A curated list of iOS objective-C ecosystem.
 #### 逆向@
 
 * [app2dylib](https://github.com/tobefuturer/app2dylib) - A reverse engineering tool to convert iOS app to dylib.
+* [iWeChat](https://github.com/lefex/iWeChat) - 我们一起来还原微信。希望通过 iWeChat 这个项目能过勾勒出微信的设计，使用到的技术手段等.
 
 #### 网络@
 #### 网络请求@
@@ -1194,6 +1197,7 @@ A curated list of iOS objective-C ecosystem.
 * [AMPopTip](https://github.com/andreamazz/AMPopTip) - 一个可以定义frame的带动画的popover. An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
 * [DXPopover](https://github.com/xiekw2010/DXPopover) - 很赞 DXPopover微信右上角的+点击展示列表效果，弹窗菜单。 A Popover mimic Facebook app popover using UIKit.
 * [zhPopupController](https://github.com/snail-z/zhPopupController) - Popup your custom view is easy, support custom mask style, transition effects and gesture to drag.
+* [FFPopup](https://github.com/JonyFang/FFPopup) - 🎉Presenting custom views as a popup in iOS.
 * [GTSheet](https://github.com/gametimesf/GTSheet) - An easy to integrate solution for presenting UIViewControllers in a bottom sheet.
 * [LewPopupViewController](https://github.com/pljhonglu/LewPopupViewController) - ios 弹出视图.
 * [YCXMenuDemo_ObjC](https://github.com/Aster0id/YCXMenuDemo_ObjC) - `TCXMenu` is an easy-to-use menu.
@@ -2018,6 +2022,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [CocoaDebug](https://github.com/CocoaDebug/CocoaDebug) - iOS内置调试工具(日志打印/网络监控/内存监控/沙盒查看...)[兼容Swift和Objective-C].
 * [IPAPatch](https://github.com/Naituw/IPAPatch) 免越狱调试、修改第三方App，👍👍 .
 * [DBDebugToolkit](https://github.com/dbukowski/DBDebugToolkit) - Set of easy to use debugging tools for iOS developers & QA engineers.
+* [DoraemonKit](https://github.com/didi/DoraemonKit) - 一个不错的可视化调试、各种测试工具.
 * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - 是一个快速、简单，但很强大的日志框架，可以自定义打印日志的颜色.
 * [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization) - 关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit.
 * [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) - Facebook出品,内存检测库.FBMemoryProfiler 基础教程](http://ifujun.com/fbmemoryprofiler-shi-yong-ji-chu-jiao-cheng/)。(https://swiftcafe.io/2017/05/02/mem-profiler/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -2398,6 +2403,8 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [LuLu](https://github.com/objective-see/LuLu) - 防火墙 LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic.
 * [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开.
 * [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 微信 macOS 客户端撤回拦截与多开.
+* [squirrel](https://github.com/rime/squirrel) - Rime鼠须管”输入法.
+* [Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS (mac软件自动升级开源类库).
 * [magnetX](https://github.com/youusername/magnetX) - 资源搜索型软件 macOS OSX magnet.
 * [highsierramediakeyenabler](https://github.com/milgra/highsierramediakeyenabler) - MacOS High Sierra Media Key Enabler for iTunes.
 * [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system for Mac OS X.
@@ -2406,7 +2413,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [QQMusicHelper](https://github.com/AsTryE/QQMusicHelper) - Mac版QQ音乐绿砖破解，可收听无损音乐和下载无损音乐到本地.
 * [MarzipanPlatter](https://github.com/biscuitehh/MarzipanPlatter) - UIKit + macOS.
 * [HexFiend](https://github.com/ridiculousfish/HexFiend) - A fast and clever hex editor for Mac OS X.
-* [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful OS X desktop automation with Lua.
+* [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful OS X desktop automation with Lua(一个可以用来进行窗口管理的 App).
 * [marzipanify](https://github.com/steventroughtonsmith/marzipanify) - Convert an iOS Simulator app bundle to an iOSMac (Marzipan) one (Unsupported & undocumented, WIP).
 * [EnergyBar](https://github.com/billziss-gh/EnergyBar) - Supercharge your Mac's Touch Bar.
 
