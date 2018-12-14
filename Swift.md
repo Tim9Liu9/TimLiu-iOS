@@ -1249,6 +1249,7 @@ A curated list of iOS objective-C ecosystem.
 * [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac.
 * [iina](https://github.com/lhc70000/iina) - The modern video player for macOS,非常👍👍👍 .
 * [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface.
+* [iOSLocalizationEditor](https://github.com/igorkulman/iOSLocalizationEditor) - Simple macOS editor app to help you manage iOS app localizations by allowing you to edit all the translations side by side(一款在 macOS 上帮助用户编辑和管理 app localizations 的图形化工具，它会显示每种语言的所有本地化版本，并能方便快捷的找出你缺失的 key).
 * [swift14macOSApps](https://github.com/KrisYu/swift14macOSApps) - 几个Mac小Demo.
 * [SpotMenu](https://github.com/kmikiy/SpotMenu) - 菜单栏中的Spotify和iTunes.
 * [xi-mac](https://github.com/google/xi-mac) - The xi editor project is an attempt to build a high quality text editor.
