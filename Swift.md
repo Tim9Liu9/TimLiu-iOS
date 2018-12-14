@@ -116,7 +116,7 @@ A curated list of iOS objective-C ecosystem.
   - [AI@](#AI)
   - [全景@](#全景)
   - [VPN@](#vpn)
-  - [蓝牙@][蓝牙@]
+  - [蓝牙@][#蓝牙]
   - [地图@](#地图)
   - [通知@](#通知)
 - [开发资料@](#开发资料)
