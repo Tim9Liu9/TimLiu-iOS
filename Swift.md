@@ -104,10 +104,15 @@ A curated list of iOS objective-C ecosystem.
 - [工具@](#工具)
   - [Category@](#category)
   - [Color@](#Color)
+<<<<<<< Updated upstream
   - [Xcode工具@](#Xcode工具)
 - [测试调试@](#测试调试)
   - [分析@](#分析)
   - [优化@](#优化)
+=======
+  - [Xcode插件@](#Xcode插件)
+  - [Xcode工具@](#Xcode工具)
+>>>>>>> Stashed changes
 - [游戏@](#游戏)
 - [小样@](#小样)
   - [VR@](#VR)
@@ -1018,8 +1023,16 @@ A curated list of iOS objective-C ecosystem.
 * [xcbeautify](https://github.com/thii/xcbeautify) - A little beautifier tool for xcodebuild.
 * [quicktype-xcode](https://github.com/quicktype/quicktype-xcode) - 将json数据快速转换为模型类.
 * [MotherShip](https://github.com/thecb4/MotherShip) - iTunes Connect Library inspired by FastLane.
+<<<<<<< Updated upstream
+=======
+
+#### Xcode工具@
+
+>>>>>>> Stashed changes
 * [FengNiao](https://github.com/onevcat/FengNiao) - 一个清理Xcode中没使用的资源文件的命令行工具.
 * [stylesync](https://github.com/dylanslewis/stylesync) - A command line tool to extract shared styles from a Sketch document, and generate native code for any platform.
+* [NWPusher](https://github.com/noodlewerk/NWPusher) - OS X and iOS application and framework to play with the Apple Push Notification service (APNs).
+* [whats-new-in-swift-5-0](https://github.com/twostraws/whats-new-in-swift-5-0) - An Xcode playground that demonstrates the new features introduced in Swift 5.0.
 
 #### 测试调试@
 
@@ -1040,6 +1053,7 @@ A curated list of iOS objective-C ecosystem.
 * [Cuckoo.swift](https://github.com/SwiftKit/Cuckoo) - Cuckoo.swift一款用法更接近于传统单元测试 Mock 框架库（区别之处在于需要用脚本预先生成 Mock 类）.
 * [Peek](https://github.com/shaps80/Peek) - 更友好、手势方式检查界面内组件布局信息（相当于浏览器元素检查功能），界面调试利器.
 * [CocoaDebug](https://github.com/CocoaDebug/CocoaDebug) - iOS内置调试工具(日志打印/网络监控/内存监控/沙盒查看...)[兼容Swift和Objective-C].
+* [SYM](https://github.com/zqqf16/SYM) - A crash log symbolicating Mac app | 一个图形化的崩溃日志符号化工具.
 
 #### 分析@
 

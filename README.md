@@ -152,6 +152,7 @@ A curated list of iOS objective-C ecosystem.
   - [Xcode插件@](#Xcode插件)
   - [接口调试工具@](#接口调试工具)
   - [UI调试@](#UI调试)
+  - [测试@](#测试)
 - [版本适配@](#版本适配)
 - [深度链接@](#深度链接)
 - [WebView与WKWebView@](#WebView与WKWebView)
@@ -263,6 +264,7 @@ A curated list of iOS objective-C ecosystem.
 * [yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo) - a demo developed using weex/weex高仿网易严选App.
 * [MeiTuan](https://github.com/huanxsd/MeiTuan) - 高仿美团客户端 React-Native版，支持iOS、Android.
 * [OneM](https://github.com/guangqiang-liu/OneM) - OneM是一款纯ReactNative打造的集杂志浏览、音乐播放、视频播放于一体的综合性App,并且支持iOS和Android双平台.
+* [Papr](https://github.com/jdisho/Papr) - :octocat: An Unsplash app for iOS.
 * [ZMBCY-iOS](https://github.com/Brances/ZMBCY-iOS) - 高仿二次元网易GACHA,所有接口均通过Charles抓取而来，里面有可单独抽离出来的卡片轮播.
 * [Hotels](https://github.com/FantasticLBP/Hotels) - 酒店预订App.
 * [YouTube-Music](https://github.com/steve228uk/YouTube-Music) - A Mac app wrapper for music.youtube.com.
@@ -348,6 +350,7 @@ A curated list of iOS objective-C ecosystem.
 * [SFHFKeychainUtils] (https://github.com/ldandersen/scifihifi-iphone) - iOS中使用SFHFKeychainUtils保存用户密码，比如项目中需要保存用户密码，以实现自动登录的功能可以使用.
 * [AESCipher-iOS](https://github.com/WelkinXie/AESCipher-iOS) - AESCipher-iOS:用 Objective-C 实现的 AES 加密。与 [AESCipher-Java](https://github.com/WelkinXie/AESCipher-Java) 一并使用能达到 在iOS、Android、Java后台产生相同密文、正确解密成明文的目的。[AES加密 - iOS与Java的同步实现](http://www.jianshu.com/p/df828a57cb8f).
 * [ABPadLockScreen](https://github.com/abury/ABPadLockScreen) - 九宫格密码锁.
+* [JJException](https://github.com/jezzmemo/JJException) - Protect the objective-c application(保护App不闪退).
 
 #### 区块链@
 
@@ -658,6 +661,8 @@ A curated list of iOS objective-C ecosystem.
 * [WZXJianShuPopDemo](https://github.com/Wzxhaha/WZXJianShuPopDemo) - 仿简书、淘宝等等的View弹出效果，已封装好，使用简单。[实现原理](http://www.jianshu.com/p/a697d2a38b3c)
 * [LSAnimator](https://github.com/Lision/LSAnimator) - 非侵入式的多链式动画.
 * [PearlSaver](https://github.com/insidegui/PearlSaver) - Face ID detection animation as a screensaver.
+* [LoadAnimatedDemo-ios](https://github.com/tigerAndBull/LoadAnimatedDemo-ios) - 仿简书网页，网络加载过渡动画（持续更新中）.
+* [fireworks](https://github.com/tomkowz/fireworks) - Fireworks for UIView.
 
 #### 转场@
 
@@ -694,6 +699,7 @@ A curated list of iOS objective-C ecosystem.
 * [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) - This library uses ARKit Face Tracking in order to catch a user's smile.
 * [TGLAugmentedRealityView](https://github.com/gleue/TGLAugmentedRealityView) - Augmented Reality made easy -- place overlays on a camera preview and adjust their position depending on device attitude.
 * [ARImageViewer](https://github.com/keayou/ARImageViewer) - 一款基于ARKit的AR图片查看器.
+* [ARKit-Emperor](https://github.com/kboy-silvergym/ARKit-Emperor) - Power! Unlimited power for ARKit 2.0!.
 
 #### 二维码@
 
@@ -881,6 +887,7 @@ A curated list of iOS objective-C ecosystem.
 * [JTSImageViewController](https://github.com/jaredsinclair/JTSImageViewController) - 图片浏览.
 * [SGPhotoBrowser](https://github.com/Soulghost/SGPhotoBrowser) - 图片浏览.
 * [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) - AR相册 Photo Album For AR.
+* [YBImageBrowser](https://github.com/indulgeIn/YBImageBrowser) - iOS图片浏览器 (支持视频) / image browser (support video) —— 打造开源第一.
 
 #### 图像缓存@
 
@@ -2157,6 +2164,10 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [Reveal：分析iOS UI的利器](http://revealapp.com/)
 * [Reveal-Plugin-for-XCode](https://github.com/shjborage/Reveal-Plugin-for-XCode) - 一个Reveal插件，可以使工程不作任何修改的情况下使用Reveal，该插件已在Alcatraz上架
 
+#### 测试@
+
+* [TBUIAutoTest](https://github.com/yulingtianxia/TBUIAutoTest) - Generating UI test label automatically for iOS 帮助开发人员生成UI 控件的标签，便于自动化测试.
+
 #### AppleWatch
 
 * [Tesla汽车AppleWatch app demo演示](https://github.com/eleks/rnd-apple-watch-tesla) - 通过AppleWatch控制特斯拉汽车，同时可以看到汽车的相关信息，比如剩余电量、可续行里程等，以及解锁/上锁车门、调节司机和乘客的四区域空调温度、开启车辆大灯、定位汽车等。[源码推荐说明](http://www.cocoachina.com/ios/20150205/11116.html)。
@@ -2428,7 +2439,9 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 
 #### 深度学习@
 
-* [TrafficLights-DeepLearning-iOS](https://github.com/asavihay/TrafficLights-DeepLearning-iOS) 利用Caffe深度学习执着的一个交通灯信号检测App
+* [TrafficLights-DeepLearning-iOS](https://github.com/asavihay/TrafficLights-DeepLearning-iOS) - 利用Caffe深度学习执着的一个交通灯信号检测App.
+* [CoreML](https://github.com/lovoo/NSFWDetector) - A NSFW (aka porn) detector with CoreML.
+* [iOS-Depth-Sampler](https://github.com/shu223/iOS-Depth-Sampler) - Code examples for Depth APIs in iOS.
 
 #### game@
 
