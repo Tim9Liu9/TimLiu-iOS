@@ -39,7 +39,6 @@ A curated list of iOS objective-C ecosystem.
       - [CSV](#csv)
       - [JSON@](#json)
       - [XML&HTML@](#xml&html)
-- [block@](#block)
 - [数据存储@](#数据存储)
   - [缓存处理@](#缓存处理)
   - [序列化@](#序列化)
@@ -73,13 +72,10 @@ A curated list of iOS objective-C ecosystem.
   - [截屏@](#截屏)
 - [AutoLayout@](#AutoLayout)
 - [数据结构/算法@](#数据结构/算法)
-- [机器学习@](#机器学习)
 - [上架@](#上架)
 - [iOS11@](#iOS)
 - [应用内支付@](#应用内支付)
-- [Xcode8插件@](#Xcode8插件)
 - [动态更新@](#动态更新)
-- [App更新提示@](#App更新提示)
 - [UI@](#UI)
   - [综合UI@](#综合UI)
   - [列表@](#列表)
@@ -97,7 +93,6 @@ A curated list of iOS objective-C ecosystem.
     - [HUD与Toast@](#HUD与Toast)
     - [对话框@](#对话框)
     - [Pop@](#Pop)
-    - [通知相关@](#通知相关)
   - [状态栏@](#状态栏)
   - [导航栏@](#导航栏)
   - [设置@](#设置)
@@ -156,8 +151,13 @@ A curated list of iOS objective-C ecosystem.
 - [深度链接@](#深度链接)
 - [WebView与WKWebView@](#WebView与WKWebView)
 - [游戏@](#cocos2d-objc)
-- [通讯录@](#通讯录)
-- [地图@](#地图)
+- [小样@](#小样)
+  - [机器学习@](#机器学习)
+  - [VPN@](#VPN)
+  - [地图@](#地图)
+  - [通知@](#通知)
+  - [通讯录@](#通讯录)
+  - [深度学习@](#深度学习)
 - [其他库@](#其他库)
 - [三方@](#三方)
   - [三方分享、支付、登录等等@](#三方分享、支付、登录等等)
@@ -181,13 +181,10 @@ A curated list of iOS objective-C ecosystem.
   - [Github项目@](#Github项目)
   - [Git库@](#Git库)
   - [Github浏览器工具@](#Github浏览器工具)
-- [皮肤@语言国际化@](#皮肤#语言国际化)
 - [版本新API的Demo@](#版本新API的Demo)
 - [AppleWatch@](#AppleWatch)
-- [VPN@](#VPN)
 - [mac@](#mac)
 - [开发环境@](#开发环境)
-- [深度学习@](#深度学习)
 - [前端@](#前端)
 - [后台@](#后台)
 - [AppHTTPServer@](#AppHTTPServer)
@@ -270,6 +267,7 @@ A curated list of iOS objective-C ecosystem.
 * [LZAlbum](https://github.com/lzwjava/LZAlbum) - 基于 LeanCloud 的朋友圈，优雅地使用 LeanCloud.
 * [xkcd-Open-Source](https://github.com/mamaral/xkcd-Open-Source) - A free and open source xkcd comic reader for iOS.s
 * [GKDYVideo](https://github.com/QuintGao/GKDYVideo) - iOS仿抖音短视频.
+* [adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for iOS, Android, Chrome, and Opera. https://adblockfast.com/.
 
 #### 框架@                                               
 
@@ -520,10 +518,6 @@ A curated list of iOS objective-C ecosystem.
 * [SwiftyXMLParer](https://github.com/yahoojapan/SwiftyXMLParser) - Simple XML Parser implemented in Swift  :large_orange_diamond:
 * [HTMLKit](https://github.com/iabudiab/HTMLKit) - An Objective-C framework for your everyday HTML needs.
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing in Swift :large_orange_diamond:
-
-#### block@
-
-* [adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for iOS, Android, Chrome, and Opera. https://adblockfast.com/.
 
 #### 数据存储@
 
@@ -949,10 +943,6 @@ A curated list of iOS objective-C ecosystem.
 * [Pencil](https://github.com/naru-jpn/pencil) - Write values to file and read it more easily. :large_orange_diamond:
 * [AlgorithmOC](https://github.com/wang542413041/AlgorithmOC) - OC算法与数据结构实现.
 
-#### 机器学习@
-
-* [ShowAndTell](https://github.com/LitleCarl/ShowAndTell) - A Show And Tell implementation for iOS 11.0 based on CoreML.
-
 #### 上架@
 
 * [Solve-App-Store-Review-Problemm](https://github.com/wg689/Solve-App-Store-Review-Problem) - (ipv6,ipv6被拒绝,后台定位等审核问题的终极解决方案汇总).
@@ -965,15 +955,6 @@ A curated list of iOS objective-C ecosystem.
 
 * [IAPDemo](https://github.com/WildDylan/IAPDemo) - 应用内支付IAP全部流程, [教程](http://www.jianshu.com/p/e9ae4cece800).
 * [IAPHelper](https://github.com/saturngod/IAPHelper) - 应用内付费给我们提供了很多样本代码，而这个库丢掉了那些代码，将金钱交易相关的大多通用任务做了简单的封装.
-
-#### Xcode8插件@
-
-* [Import](https://github.com/markohlebar/Import) 快捷导入头文件-Xcode extension for adding imports from anywhere in the code.
-* [XcodeSourceEditorExtension-Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) 对齐属性声明 This Xcode source editor extension align your assignment statement.
-* [Dash-iOS](https://github.com/Kapeli/Dash-iOS) Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets https://kapeli.com/dash_ios
-* [HYBUnicodeReadable](https://github.com/CoderJackyHuang/HYBUnicodeReadable) -解决打印日志对于Unicode编码不能正常显示中文的问题，只需要将文件导入工程，不需要引用，就能达到打印日志显示Unicode编码中文数据
-* [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - 一个json转模型的mac软件，ESJsonFormat-Xcode的替代产品,非常不错👍 .
-* [WHC_DataModelFactory](https://github.com/netyouli/WHC_DataModelFactory) Mac上iOS开发辅助工具，快速把json/xml数据转换生成对应模型类属性，省去麻烦手动创建，提高开发效率。
 
 #### UI@
 
@@ -1209,15 +1190,6 @@ A curated list of iOS objective-C ecosystem.
 * [DOPScrollableActionSheet](https://github.com/mrhyh/DOPScrollableActionSheet) - Multi-row scrollable action sheet.
 * [DropDownMenu](https://github.com/MartinLi841538513/DropDownMenu) - 仿美团下拉菜单，二级菜单.
 
-#### 通知相关@
-
-* [JSQNotificationObserverKit](https://github.com/jessesquires/JSQNotificationObserverKit) - 一款轻量、易用的通知发送及响应框架类库。作者是知名开源项目 JSQMessagesViewController（Objective-C 版即时聊天）的作者 Jesse Squires.
-* [TSMessages](https://github.com/KrauseFx/TSMessages) - 易于使用和定制的消息/通知,用于 iOS版Tweetbot.
-* [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification) - 酷炫的通知栏，多种通知样式，使用简单,非常赞👍 .
-* [GLPubSub](https://github.com/Glow-Inc/GLPubSub) - 一个简短实用的 NSNotificationCenter 的封装.
-* [JDStatusBarNotification](https://github.com/jaydee3/JDStatusBarNotification) - 在状态栏顶部显示通知。可以自定义颜色字体以及动画。支持进度显示以及显示状态指示器.
-* [obito](https://github.com/jiajunhuang/obito) - an iOS notification service out of box.
-
 #### 状态栏@
 
 * [MTStatusBarOverlay](https://github.com/myell0w/MTStatusBarOverlay) - MTStatusBarOverlay 是一个定制的 iOS 状态栏，用于覆盖系统默认的状态栏，类似 Reeder, Evernote and Google Mobile App。支持两种点击动作：1. 当用户点击状态栏时，状态栏会收缩，仅仅遮盖住状态栏右方的电池图标；2. 当用户点击状态栏时，一个有详细信息的视图会从系统状态栏中下拉出现.
@@ -1265,6 +1237,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 主题@
 
+* [Hodor](https://github.com/Aufree/Hodor) Hodor 是一套可让你的应用快速支持本地化的解决方案, 允许你在应用内直接更改应用语言而无需退出应用, 类似微信.
 * [LEETheme](https://github.com/lixiang1994/LEETheme) - 优雅的主题管理库- 一行代码完成多样式切换.
 * [PYTheme](https://github.com/iphone5solo/PYTheme) - PYTheme通过NSObject的分类实现使用简单的主题更换.
 * [EasyTheme](https://github.com/JyHu/EasyTheme) - 支持动态主题更换，使用简单。
@@ -1563,6 +1536,41 @@ A curated list of iOS objective-C ecosystem.
 
 * [cocos2d-objc](https://github.com/cocos2d/cocos2d-objc) - Cocos2d for iOS and OS X, built using Objective-C.
 
+#### 小样@
+#### 机器学习@
+
+* [ShowAndTell](https://github.com/LitleCarl/ShowAndTell) - A Show And Tell implementation for iOS 11.0 based on CoreML.
+
+#### VPN@
+
+* [Hydro.network](https://github.com/CatchChat/Hydro.network) - [Hydro.network 的开发旅程](http://blog.zhowkev.in/2015/03/09/hydro-network-de-kai-fa-lu-cheng/), [gitcafe](https://gitcafe.com/Catch/Hydro.network).
+* [Potatso](https://github.com/shadowsocks/Potatso) - 基于iOS 9 的 NetworkExtension 框架实现 Shadowsocks 代理，由国人开发，虽然还有很多问题不过确实值得期待.
+* [forum](https://github.com/getlantern/forum) - 蓝灯(Lantern)官方论坛.
+* [WireGuard](https://github.com/WireGuard/WireGuard) - Jason A. Donenfeld开发的开源VPN协议。目前支持Linux, macOS, Android以及OpenWrt.
+
+#### 地图@
+
+* [YJLocationConverter](https://github.com/stackhou/YJLocationConverter) - 中国国测局地理坐标（GCJ-02）<火星坐标>、世界标准地理坐标(WGS-84) 、百度地理坐标（BD-09)坐标系转换工具类.
+
+#### 通知@
+
+* [JSQNotificationObserverKit](https://github.com/jessesquires/JSQNotificationObserverKit) - 一款轻量、易用的通知发送及响应框架类库。作者是知名开源项目 JSQMessagesViewController（Objective-C 版即时聊天）的作者 Jesse Squires.
+* [TSMessages](https://github.com/KrauseFx/TSMessages) - 易于使用和定制的消息/通知,用于 iOS版Tweetbot.
+* [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification) - 酷炫的通知栏，多种通知样式，使用简单,非常赞👍 .
+* [GLPubSub](https://github.com/Glow-Inc/GLPubSub) - 一个简短实用的 NSNotificationCenter 的封装.
+* [JDStatusBarNotification](https://github.com/jaydee3/JDStatusBarNotification) - 在状态栏顶部显示通知。可以自定义颜色字体以及动画。支持进度显示以及显示状态指示器.
+* [obito](https://github.com/jiajunhuang/obito) - an iOS notification service out of box.
+* [iVersion](https://github.com/nicklockwood/iVersion) 非常赞👍 的一个灵活动态监测App是否有更新的库，并可以通知用户升级.
+
+#### 通讯录@
+
+* [快速查找联系人](http://code.cocoachina.com/view/128245) - 类似微信联系人搜索的界面,快速查找联系人,并支持点击查询结果.
+* [PPGetAddressBook](https://github.com/jkpang/PPGetAddressBook) - 对联系人姓名第二个字做排序处理,对AddressBook框架(iOS9之前)和Contacts框架(iOS9之后)做了对应的封装处理,一句代码搞定联系人的获取与排序.
+
+#### 深度学习@
+
+* [TrafficLights-DeepLearning-iOS](https://github.com/asavihay/TrafficLights-DeepLearning-iOS) 利用Caffe深度学习执着的一个交通灯信号检测App
+
 #### 侧滑与右滑返回手势@
 
 * [ViewDeck](https://github.com/ViewDeck/ViewDeck) - 项目需要用到左侧右侧各有一个抽屉视图，而这个类库可以极其简单的实现这个功能，不单单是左右各一个，它可以随意设置上下左右的抽屉视图，简直是360度想怎么抽怎么抽.
@@ -1598,15 +1606,6 @@ A curated list of iOS objective-C ecosystem.
 #### 通讯@
 
 * [peertalk](https://github.com/rsms/peertalk) - peertalk 是一个支持 iOS 与 Mac 通过 USB 相互通讯的开源库。 Duet Display 基于此实现了将 Mac 界面呈现到 iOS 设备上.
-
-#### 通讯录@
-
-* [快速查找联系人](http://code.cocoachina.com/view/128245) - 类似微信联系人搜索的界面,快速查找联系人,并支持点击查询结果.
-* [PPGetAddressBook](https://github.com/jkpang/PPGetAddressBook) - 对联系人姓名第二个字做排序处理,对AddressBook框架(iOS9之前)和Contacts框架(iOS9之后)做了对应的封装处理,一句代码搞定联系人的获取与排序.
-
-#### 地图@
-
-* [YJLocationConverter](https://github.com/stackhou/YJLocationConverter) - 中国国测局地理坐标（GCJ-02）<火星坐标>、世界标准地理坐标(WGS-84) 、百度地理坐标（BD-09)坐标系转换工具类.
 
 #### 三方@
 #### 三方分享、支付、登录等等@
@@ -1984,10 +1983,6 @@ A curated list of iOS objective-C ecosystem.
 
 * [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) GitHub浏览器扩展收集列表.
 
-#### 皮肤@语言国际化@
-
-* [Hodor](https://github.com/Aufree/Hodor) Hodor 是一套可让你的应用快速支持本地化的解决方案, 允许你在应用内直接更改应用语言而无需退出应用, 类似微信.
-
 #### 版本新API的Demo@
 
 * [appleSample](https://github.com/WildDylan/appleSample) - iOS 苹果官方Demo合集， [官方demo](https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code).
@@ -2078,6 +2073,12 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info) react-native获取设备信息组件,支持iOS、Android.
 * [XcodeCleaner](https://github.com/waylybaye/XcodeCleaner) - Cleaner for Xcode.app built with react-native-macos.
 * [cartool](https://github.com/steventroughtonsmith/cartool) - 导出ipa包中Assets.car文件中的切图.
+* [Import](https://github.com/markohlebar/Import) 快捷导入头文件-Xcode extension for adding imports from anywhere in the code.
+* [XcodeSourceEditorExtension-Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) 对齐属性声明 This Xcode source editor extension align your assignment statement.
+* [Dash-iOS](https://github.com/Kapeli/Dash-iOS) Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets https://kapeli.com/dash_ios
+* [HYBUnicodeReadable](https://github.com/CoderJackyHuang/HYBUnicodeReadable) -解决打印日志对于Unicode编码不能正常显示中文的问题，只需要将文件导入工程，不需要引用，就能达到打印日志显示Unicode编码中文数据
+* [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - 一个json转模型的mac软件，ESJsonFormat-Xcode的替代产品,非常不错👍 .
+* [WHC_DataModelFactory](https://github.com/netyouli/WHC_DataModelFactory) Mac上iOS开发辅助工具，快速把json/xml数据转换生成对应模型类属性，省去麻烦手动创建，提高开发效率。
 
 #### Runtime@
 
@@ -2163,10 +2164,6 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) - WatchKit 开源小项目示例集锦。是不可多得地学习 WatchKit 的示例式教程（1.如何创建一个简单的交互式计数器；2.如何从手表上控制iOS app；3.如何在WatchKit app和iOS app之间共享数据；4.如何创建一个拥有不同背景色的数字时钟；5.展示不同的UI层；6.如何创建支持滑动手势的应用程序。）。
 * [ipapy](https://github.com/hades0918/ipapy) - iOS项目自动打包脚本，并且上传到fir.im，然后发送邮件给测试人员。
 
-#### App更新提示@
-
-* [iVersion](https://github.com/nicklockwood/iVersion) 非常赞👍 的一个灵活动态监测App是否有更新的库，并可以通知用户升级.
-
 #### 动态更新@
 
 * [waxPatch](https://github.com/mmin18/WaxPatch) - 大众点评的屠毅敏同学在基于[wax](https://github.com/probablycorey/wax)的基础上写了waxPatch，这个工具的主要原理是通过lua来针对objc的方法进行替换，由于lua本身是解释型语言，可以通过动态下载得到，因此具备了一定的动态部署能力。
@@ -2185,13 +2182,6 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [HighstreetWatchApp](https://github.com/GetHighstreet/HighstreetWatchApp) - 是电商平台Highstreet针对App Watch的一款应用，该demo中加载的是虚拟数据。
 * [NKWatchChart](https://github.com/NilStack/NKWatchChart) - NKWatchChart是一个基于PNChart专门为Apple Watch 开发的图表库,目前支持 line, bar, pie, circle 和 radar 等 图表形式。
 * [BeijingAirWatch](https://github.com/diwu/BeijingAirWatch) - 国人的开源项目代码 ！WatchOS 2.0 Complication of Real-time Air Quality for Major Chinese Cities 苹果表盘实时刷新北上广沈蓉空气质量。
-
-#### VPN@
-
-* [Hydro.network](https://github.com/CatchChat/Hydro.network) - [Hydro.network 的开发旅程](http://blog.zhowkev.in/2015/03/09/hydro-network-de-kai-fa-lu-cheng/), [gitcafe](https://gitcafe.com/Catch/Hydro.network).
-* [Potatso](https://github.com/shadowsocks/Potatso) - 基于iOS 9 的 NetworkExtension 框架实现 Shadowsocks 代理，由国人开发，虽然还有很多问题不过确实值得期待.
-* [forum](https://github.com/getlantern/forum) - 蓝灯(Lantern)官方论坛.
-* [WireGuard](https://github.com/WireGuard/WireGuard) - Jason A. Donenfeld开发的开源VPN协议。目前支持Linux, macOS, Android以及OpenWrt.
 
 #### 美工资源@
 
@@ -2425,10 +2415,6 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 
 * [iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things. http://iterm2.com/.
 * [Homebrew](https://github.com/Homebrew/brew) Homebrew是一款Mac OS平台下的软件包管理工具，拥有安装、卸载、更新、查看、搜索等很多实用的功能。简单的一条指令，就可以实现包管理，而不用你关心各种依赖和文件路径的情况，十分方便快捷。
-
-#### 深度学习@
-
-* [TrafficLights-DeepLearning-iOS](https://github.com/asavihay/TrafficLights-DeepLearning-iOS) 利用Caffe深度学习执着的一个交通灯信号检测App
 
 #### game@
 
