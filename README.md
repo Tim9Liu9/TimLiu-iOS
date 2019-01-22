@@ -207,7 +207,6 @@ A curated list of iOS objective-C ecosystem.
 * [firefox-ios](https://github.com/mozilla/firefox-ios) Firefox for iOS.
 * [RSSRead](https://github.com/ming1016/RSSRead) - “已阅”（iOS上开源RSS新闻阅读器）.
 * [zulip-ios](https://github.com/zulip/zulip-ios) - Dropbox收购公司内部社交服务商Zulip,然后全部开源，这是iOS App.
-* [ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS) - Objective-C写的XMPP聊天应用.
 * [FirebaseChat](https://github.com/relatedcode/FirebaseChat) - Objective-C写的完整的聊天应用.
 * [Meizi](https://github.com/Sunnyyoung/Meizi) - 豆瓣妹子图iOS客户端.
 * [PlainReader](https://github.com/guojiubo/PlainReader)  - 简阅是一款 iOS(iPhone + iPad) 新闻类客户端，内容抓取自 cnBeta.COM。在售期间倍受好评，但由于版权问题已于今年一月从 AppStore 下架，下架至今，每天仍有几千人在使用这款 App.
@@ -434,16 +433,15 @@ A curated list of iOS objective-C ecosystem.
 * [Messenger](https://github.com/relatedcode/Messenger) - This is a native iOS Messenger app, with audio/video calls and realtime chat conversations (full offline support).
 * [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) - 仿微信聊天，参考JSQMessagesViewController.
 * [SXTheQQ](https://github.com/dsxNiubility/SXTheQQ) - 用xmppFramework框架编写QQ程序，主要为了练习通讯的一些原理，界面比较渣 必须要先在本地配置好环境才可以运行。
-* [环信](http://www.easemob.com/) - 给开发者更稳定IM云功能。8200万用户考验，好用！（暂无及时语音、视频通话).
-* [融云](http://www.rongcloud.cn/) - 即时通讯云服务提供商。（暂无及时语音、视频通话）.
-* [容联云通讯](http://www.yuntongxun.com) - 提供基于互联网通话,视频会议,呼叫中心/IVR,IM等通讯服务.
-* [ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS) - 基于XMPP的iphone、android加密式聊天软件， [chatsecure官网](https://chatsecure.org/) 。 [iOS代码1](https://github.com/ChatSecure/ChatSecure-iOS)，[iOS代码2](https://github.com/ChatSecure/ChatSecure-iOS)， [iOS中文版](http://www.cocoachina.com/bbs/read.php?tid=153156).
-* [chatsecure](https://github.com/ChatSecure/ChatSecure-iOS) - 基于XMPP的iphone、android加密式聊天软件， [chatsecure官网](https://chatsecure.org/) 。 [iOS代码1](https://github.com/ChatSecure/ChatSecure-iOS)，[iOS代码2](https://github.com/ChatSecure/ChatSecure-iOS)， [iOS中文版](http://www.cocoachina.com/bbs/read.php?tid=153156).
+* [ChatSecure](https://github.com/ChatSecure/ChatSecure-iOS) - 基于XMPP的iphone、android加密式聊天软件， [chatsecure官网](https://chatsecure.org/) 。 [iOS代码1](https://github.com/ChatSecure/ChatSecure-iOS)，[iOS代码2](https://github.com/ChatSecure/ChatSecure-iOS)， [iOS中文版](http://www.cocoachina.com/bbs/read.php?tid=153156).
 * [SunFlower](https://github.com/HanYaZhou1990/-SunFlower) - 环信聊天demo，比较多功能.
 * [BlueTalk蓝牙聊天](http://code4app.com/ios/BlueTalk%E8%93%9D%E7%89%99%E8%81%8A%E5%A4%A9-%E6%89%8B%E6%9C%BA%E4%B9%8B%E9%97%B4/552b8190933bf0291e8b4748) - 以MultipeerConnectivity为基础， 实现了简单的蓝牙聊天.
 * [网易云信 iOS UI 组件](https://github.com/netease-im/NIM_iOS_UIKit) - 云信 UI 组件，全称 Netease Instant Message Kit，简称 NIMKit，是一款开源的聊天组件，并支持二次开发。开发者只需要稍作配置就可以打造出属于自己的聊天界面，而通过一些自定义的设置，也可以轻松添加业务相关的功能，如阅后即焚，红包，点赞等功能。NIMKit 底层依赖 NIMSDK，是一款由网易开发的 IM SDK，通过它可以轻松快速在你的 App 中集成 IM 功能.
+* [环信](http://www.easemob.com/) - 给开发者更稳定IM云功能。8200万用户考验，好用！（暂无及时语音、视频通话).
+* [融云](http://www.rongcloud.cn/) - 即时通讯云服务提供商。（暂无及时语音、视频通话）.
 * [TeamTalk](https://github.com/meili/TeamTalk) - TeamTalk is a solution for enterprise IM.
 * [QQ界面](https://github.com/weida-studio/QQ)
+* [容联云通讯](http://www.yuntongxun.com) - 提供基于互联网通话,视频会议,呼叫中心/IVR,IM等通讯服务.
 * [RTCChatUI](https://github.com/Haley-Wong/RTCChatUI) - 仿QQ音视频通话效果.
 * [Telegram](https://github.com/peter-iakovlev/Telegram) - Telegram Messenger for iOS.
 
