@@ -598,6 +598,7 @@ A curated list of iOS objective-C ecosystem.
 * [NYTPhotoViewer](https://github.com/NYTimes/NYTPhotoViewer) - 图片浏览库，支持图片点击缩放、标题、多选、缩放动画等.
 * [IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser) - 照片浏览，支持猛击消失等.
 * [ImagePickerSheetController](https://github.com/lbrndnr/ImagePickerSheetController) - 流畅、遍历的照片选择器.
+* [ImageViewer](https://github.com/Krisiacik/ImageViewer) - 模仿 Twitter 的图片浏览器.
 * [Agrume](https://github.com/JanGorman/Agrume) - 一个图片查看库
 * [SwiftPhotoGallery](https://github.com/Inspirato/SwiftPhotoGallery) - 一个简单的、全屏显示图片的库，支持缩放、手势、单击关闭、Twitter的关闭风格、Includes a customizable page indicator 等等.
 * [ImageSlideshow](https://github.com/zvonicek/ImageSlideshow) - 图片幻灯片和图片轮播器.
@@ -833,6 +834,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 选择器@
 
+* [AGCircularPicker](https://github.com/agilie/AGCircularPicker) - AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter.
 * [McPicker](https://github.com/kmcgill88/McPicker-iOS) - A customizable, closure driven UIPickerView drop-in solution with animations that is rotation ready. :large_orange_diamond:
 * [Mandoline](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your "picking" needs.
 
@@ -1076,6 +1078,7 @@ A curated list of iOS objective-C ecosystem.
 * [ARuler](https://github.com/duzexu/ARuler) - Mesure distance using apple ARKit.
 * [Findme](https://github.com/mmoaay/Findme) - An ARKit App that can help your friends to find you.
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
+* [Measure](https://github.com/levantAJ/Measure) - Using ARKit to make calculate distance of real world objects.
 * [ARCharts](https://github.com/Boris-Em/ARCharts) - Lovely Augmented Reality Charts for iOS - Built with ARKit.
 * [arkit-smb-homage](https://github.com/bjarnel/arkit-smb-homage) - An implementation of a Super Mario Bros-like game in augmented reality with ARKit and SceneKit.
 * [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) - Code examples for ARKit.
