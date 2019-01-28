@@ -2388,6 +2388,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 
 #### mac@
 
+* [wechat_jump_game](https://github.com/wangshub/wechat_jump_game) - 微信《跳一跳》Python 辅助.
 * [spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse(窗口控制器).
 * [radiant-player-mac](https://github.com/radiant-player/radiant-player-mac) - 一个Google Play音乐转换成与Mac整合的独立，美观的mac音乐播放器.
 * [DevDataTool](https://github.com/MxABC/DevDataTool) - OSX系统 转换、加解密工具.
