@@ -3,7 +3,7 @@
 [![Language](https://img.shields.io/badge/language-ObjC-blue.svg)](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)  
 
 [Swift版本点击这里](https://github.com/Tim9Liu9/TimLiu-iOS/blob/master/Swift.md)
-欢迎加入QQ群交流:  594119878
+欢迎加入QQ群交流:  594119878 (入群答案：TimLiu-iOS)
 
 ### About
 
