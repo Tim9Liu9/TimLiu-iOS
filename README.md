@@ -423,6 +423,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [WHCNetWorkKit](https://github.com/netyouli/WHCNetWorkKit) - WHCNetWorkKit 是http网络请求开源库(支持GET/POST 文件上传 后台文件下载 UIButton UIImageView 控件设置网络图片 网络数据工具json/xml 转模型类对象网络状态监听).
 * [HSDownloadManager](https://github.com/HHuiHao/HSDownloadManager) - 下载音乐、视频、图片各种资源，支持多任务、断点下载.
+* [DGDownloadManager](https://github.com/liudiange/DGDownloadManager) - 下载的一个框架，支持断点续传、支持批量下载，支持ios和macOs,支持pod，可设置最大并发数量，可以暂停也可以恢复更可以取消.
 
 #### IM@
 
@@ -650,6 +651,7 @@ A curated list of iOS objective-C ecosystem.
 * [WZXJianShuPopDemo](https://github.com/Wzxhaha/WZXJianShuPopDemo) - 仿简书、淘宝等等的View弹出效果，已封装好，使用简单。[实现原理](http://www.jianshu.com/p/a697d2a38b3c)
 * [LSAnimator](https://github.com/Lision/LSAnimator) - 非侵入式的多链式动画.
 * [PearlSaver](https://github.com/insidegui/PearlSaver) - Face ID detection animation as a screensaver.
+* [DGWaveLoadingTool](https://github.com/liudiange/DGWaveLoadingTool) - 实现的功能类似于百度贴吧的波浪动画.
 
 #### 转场@
 
