@@ -2392,7 +2392,9 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 
 * [wechat_jump_game](https://github.com/wangshub/wechat_jump_game) - 微信《跳一跳》Python 辅助.
 * [spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse(窗口控制器).
+* [alfred-workflows](https://github.com/zenorocha/alfred-workflows) - 首推 Alfred，可以说是 Mac 必备软件，利用它我们可以快速地进行各种操作，大幅提高工作效率，如快速打开某个软件、快速打开某个链接、快速搜索某个文档，快速定位某个文件，快速查看本机 IP，快速定义某个色值，几乎你能想到的都能对接实现.
 * [radiant-player-mac](https://github.com/radiant-player/radiant-player-mac) - 一个Google Play音乐转换成与Mac整合的独立，美观的mac音乐播放器.
+* [aria2gui](https://github.com/yangshun1029/aria2gui) - 不错的下载工具，添加插件后支持百度网盘高速下载.
 * [DevDataTool](https://github.com/MxABC/DevDataTool) - OSX系统 转换、加解密工具.
 * [high-speed-downloader](https://github.com/high-speed-downloader/high-speed-downloader) - 百度网盘不限速下载 支持Windows和Mac 2018年1月16日更新.
 * [LuLu](https://github.com/objective-see/LuLu) - 防火墙 LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic.
