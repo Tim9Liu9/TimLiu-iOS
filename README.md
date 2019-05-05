@@ -2258,7 +2258,6 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [objc-zen-book-cn](https://github.com/oa414/objc-zen-book-cn) - 禅与 Objective-C 编程艺术 （Zen and the Art of the Objective-C Craftsmanship 中文翻译）.
 * [dev-blog](https://github.com/nixzhu/dev-blog) - 翻译、开发心得或学习笔记.
 * A-[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - GitHub上所有Awesome Awesomeness 系列集合. 这个系列集合收集上GitHub上优秀的开源项目、框架、书籍、网站、类库等实用资源的集合.
-* [豆瓣iOS开源库列表](https://www.douban.com/note/276160185/?type=like) - 豆瓣iOS开源库列表，很多开源项目.
 * [iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques) - 中文版iOS 高级动画技术.
 * [iOS开发的一些奇巧淫技2](http://www.jianshu.com/p/08f194e9904c) - 用一个pan手势来代替UISwipegesture的各个方向、拉伸图片、播放GIF、上拉刷新、把tableview里cell的小对勾的颜色改变、navigationbar弄成透明的而不是带模糊的效果、改变uitextfield placeholder的颜色和位置.
 * [iOS-Tips](https://github.com/awesome-tips/iOS-Tips) - iOS知识小集.
