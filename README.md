@@ -331,6 +331,7 @@ A curated list of iOS objective-C ecosystem.
 * [ios-class-guard](https://github.com/Polidea/ios-class-guard) - 一个用于混淆iOS的类名、方法名以及变量名的开源库--有人反映编译出来的app运行不了.
 * [《Protecting iOS Applications》](https://www.polidea.com/#!heartbeat/blog/Protecting_iOS_Applications) - 文章系统地介绍了如何保护iOS程序的代码安全，防止反汇编分析.
 * [fishhook](https://github.com/facebook/fishhook) - fishhook是Facebook开源的一个可以hook系统方法的工具.
+* [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev) - CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps, Without Jailbreak.
 * [MSCrashProtector](https://github.com/JZJJZJ/MSCrashProtector) - An Global protection scheme(代码容错处理).
 * [JMPasswordView](https://github.com/Juuman/JMPasswordView) - 简单实用的手势密码，效果可自行调控.
 * [LSSafeProtector](https://github.com/lsmakethebest/LSSafeProtector) - 防止crash框架，不改变原代码支持KVO自释放，可以检测到dealloc时未释放的kvo，等19种crash.
@@ -436,6 +437,7 @@ A curated list of iOS objective-C ecosystem.
 * [SXTheQQ](https://github.com/dsxNiubility/SXTheQQ) - 用xmppFramework框架编写QQ程序，主要为了练习通讯的一些原理，界面比较渣 必须要先在本地配置好环境才可以运行。
 * [ChatSecure](https://github.com/ChatSecure/ChatSecure-iOS) - 基于XMPP的iphone、android加密式聊天软件， [chatsecure官网](https://chatsecure.org/) 。 [iOS代码1](https://github.com/ChatSecure/ChatSecure-iOS)，[iOS代码2](https://github.com/ChatSecure/ChatSecure-iOS)， [iOS中文版](http://www.cocoachina.com/bbs/read.php?tid=153156).
 * [SunFlower](https://github.com/HanYaZhou1990/-SunFlower) - 环信聊天demo，比较多功能.
+* [MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK) - 一个专为移动端开发的原创即时通讯框架，超轻量级、高度提炼，完全基于UDP协议，支持iOS、Android、标准Java平台，服务端基于Mina和Netty编写.
 * [BlueTalk蓝牙聊天](http://code4app.com/ios/BlueTalk%E8%93%9D%E7%89%99%E8%81%8A%E5%A4%A9-%E6%89%8B%E6%9C%BA%E4%B9%8B%E9%97%B4/552b8190933bf0291e8b4748) - 以MultipeerConnectivity为基础， 实现了简单的蓝牙聊天.
 * [网易云信 iOS UI 组件](https://github.com/netease-im/NIM_iOS_UIKit) - 云信 UI 组件，全称 Netease Instant Message Kit，简称 NIMKit，是一款开源的聊天组件，并支持二次开发。开发者只需要稍作配置就可以打造出属于自己的聊天界面，而通过一些自定义的设置，也可以轻松添加业务相关的功能，如阅后即焚，红包，点赞等功能。NIMKit 底层依赖 NIMSDK，是一款由网易开发的 IM SDK，通过它可以轻松快速在你的 App 中集成 IM 功能.
 * [环信](http://www.easemob.com/) - 给开发者更稳定IM云功能。8200万用户考验，好用！（暂无及时语音、视频通话).
@@ -906,6 +908,7 @@ A curated list of iOS objective-C ecosystem.
 * [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - C++ 人脸识别 包含正面和多视角人脸检测两个算法.优点:速度快(OpenCV haar+adaboost的2-3倍), 准确度高 (FDDB非公开类评测排名第二），能估计人脸角度.
 * [YLFaceuDemo](https://github.com/Guikunzhi/YLFaceuDemo) - 在直播应用中添加Faceu贴纸效果。Faceu贴纸效果其实就是在人脸上贴一些图片，同时这些图片是跟随着人脸的位置改变的。[说明](http://www.jianshu.com/p/ba1f79f8f6fa).
 * [IDCardRecognition](https://github.com/zhongfenglee/IDCardRecognition) - 中国大陆第二代身份证识别，自动读出身份证上的信息（姓名、性别、民族、住址、身份证号码）并截取身份证照片 Edit
+* [ZQCNN](https://github.com/zuoqing1988/ZQCNN) - 一款比mini-caffe更快的Forward库，觉得好用请点星啊，400星公布快速人脸检测模型，500星公布106点landmark，600星公布人头检测模型，700星公布人脸检测套餐（六种pnet,两种rnet随意混合使用满足各种速度/精度要求），800星公布更准的106点模型.
 * [AiyaEffectsIOS](https://github.com/aiyaapp/AiyaEffectsIOS) - 宝宝特效 SDK IOS Demo，支持美颜，3D特效，3D动画特效，2D特效等，免费使用 visual effects IOS demo, support 3D effect, 3D Animation, 2D effect for FREE http://www.bbtexiao.com/.
 * [SSIDCard](https://github.com/sansansisi/SSIDCard) - iOS中国二代身份证号扫描识别.
 
@@ -944,6 +947,7 @@ A curated list of iOS objective-C ecosystem.
 * [Monaka](https://github.com/naru-jpn/Monaka) - Convert custom struct and fundamental values to NSData.
 * [Pencil](https://github.com/naru-jpn/pencil) - Write values to file and read it more easily. :large_orange_diamond:
 * [AlgorithmOC](https://github.com/wang542413041/AlgorithmOC) - OC算法与数据结构实现.
+* [100-Days-Of-iOS-DataStructure-Algorithm](https://github.com/renmoqiqi/100-Days-Of-iOS-DataStructure-Algorithm) - 100天iOS数据结构与算法实战.
 
 #### 上架@
 
@@ -1551,6 +1555,7 @@ A curated list of iOS objective-C ecosystem.
 #### VPN@
 
 * [Hydro.network](https://github.com/CatchChat/Hydro.network) - [Hydro.network 的开发旅程](http://blog.zhowkev.in/2015/03/09/hydro-network-de-kai-fa-lu-cheng/), [gitcafe](https://gitcafe.com/Catch/Hydro.network).
+* [Shadowsocks-X](https://github.com/yangfeicheung/Shadowsocks-X) - Latest ShadowsocksX for Mac OS X 10.9+.
 * [Potatso](https://github.com/shadowsocks/Potatso) - 基于iOS 9 的 NetworkExtension 框架实现 Shadowsocks 代理，由国人开发，虽然还有很多问题不过确实值得期待.
 * [forum](https://github.com/getlantern/forum) - 蓝灯(Lantern)官方论坛.
 * [WireGuard](https://github.com/WireGuard/WireGuard) - Jason A. Donenfeld开发的开源VPN协议。目前支持Linux, macOS, Android以及OpenWrt.
@@ -2041,6 +2046,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [dSYMTools](https://github.com/answer-huang/dSYMTools) - 友盟 dSYM analyze  备用地址[https://github.com/mrhyh/dSYMTools].
 * [HeapInspector](https://github.com/tapwork/HeapInspector-for-iOS) - HeapInspector是一个用于检测应用中的内存泄漏的开源调试工具.
 * [UIViewController-Swizzled](https://github.com/RuiAAPeres/UIViewController-Swizzled) - 把你进入的每一个controller的类名打出来,如果看一些特别复杂的项目的时候直接运行demo就可以知道执行次序了.
+* [MTHawkeye](https://github.com/meitu/MTHawkeye) - Profiling / Debugging assist tools for iOS.
 * [YourView](https://github.com/TalkingData/YourView) - YourView is a desktop App in MacOS based on Apple SceneKit. You may use it to view iOS App's view hierarchy 3D.
 * [snoop-it](https://code.google.com/archive/p/snoop-it/) - snoop-it比UIViewController-Swizzled好用，代码托管在google上。
 * [Versions](https://github.com/zenangst/Versions) - 版本比较小工具.
@@ -2283,6 +2289,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [iOS10AdaptationTips](https://github.com/ChenYilong/iOS10AdaptationTips) - for iOS10 in [ObjC, Swift, English, 中文] {...}.
 * [blog](https://github.com/jiajunhuang/blog) - 个人博客.
 * [ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS.
+* [JHBlog](https://github.com/SunshineBrother/JHBlog) - iOS开发：我的初级到中级的晋级之路.
 
 #### 其他开源@
 
@@ -2400,6 +2407,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 #### mac@
 
 * [wechat_jump_game](https://github.com/wangshub/wechat_jump_game) - 微信《跳一跳》Python 辅助.
+* [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac版微信的功能拓展.
 * [spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse(窗口控制器).
 * [alfred-workflows](https://github.com/zenorocha/alfred-workflows) - 首推 Alfred，可以说是 Mac 必备软件，利用它我们可以快速地进行各种操作，大幅提高工作效率，如快速打开某个软件、快速打开某个链接、快速搜索某个文档，快速定位某个文件，快速查看本机 IP，快速定义某个色值，几乎你能想到的都能对接实现.
 * [radiant-player-mac](https://github.com/radiant-player/radiant-player-mac) - 一个Google Play音乐转换成与Mac整合的独立，美观的mac音乐播放器.
