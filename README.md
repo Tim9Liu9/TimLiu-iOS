@@ -2304,6 +2304,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://freeCodeCamp.org open source codebase and curriculum. Learn to code and help nonprofits.
 * [Show](https://github.com/CharlinFeng/Show) - 成都地区一个公司开源项目目录.
 * [EFArticles](https://github.com/EyreFree/EFArticles) - EyreFree 存放所发布的各种水文的仓库.
+* [Book-Recommend-Github](https://github.com/iOShuyang/Book-Recommend-Github) - 推荐生活当中积累的优秀Objective-C和Swift三方库.
 
 #### 博客@
 
