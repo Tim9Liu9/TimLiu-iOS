@@ -766,6 +766,7 @@ A curated list of iOS objective-C ecosystem.
 * [DraggableYoutubeFloatingVideo](https://github.com/vizllx/DraggableYoutubeFloatingVideo) - 展示像类似Youtube移动应用的那种浏览视频的效果，当点击某视频时能够从右下方弹出一个界面，并且该界面能够通过手势，再次收缩在右下方并继续播放,通过AutoLayout设计实现.
 * [SRGMediaPlayer-iOS](https://github.com/SRGSSR/SRGMediaPlayer-iOS) - The SRG Media Player library for iOS provides a simple way to add a universal audio / video player to any iOS application.
 * [ios-360-videos](https://github.com/NYTimes/ios-360-videos) - NYT360Video plays 360-degree video streamed from an AVPlayer on iOS.
+* [GAPlayer](https://github.com/CodeisSunShine/GAPlayer) - 播放器内核为IJKPlayer和AVPlayer(一句代码切换内核) 支持M3U8/MP3/MP4等格式本地/在线播放,支持片头/片尾广告等功能齐全的播放器.
 
 #### 视频处理@
 
