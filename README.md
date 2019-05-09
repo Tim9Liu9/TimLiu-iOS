@@ -1672,6 +1672,7 @@ A curated list of iOS objective-C ecosystem.
 * [RuntimeSummary](https://github.com/Tuccuay/RuntimeSummary) - 一个集合了常用 Objective-C Runtime 使用方法的 Playground。
 * [GCDThrottle](https://github.com/cyanzhong/GCDThrottle) - 限制频率过高的调用GCD多线程。
 * [WHC_KeyboardManager](https://github.com/netyouli/WHC_KeyboardManager)iOS平台轻量级的键盘管理器，使用简单功能强大，键盘再也不会挡住输入控件
+* [Inkpad](https://github.com/TheLittleBoy/inkpad-fork) - iOS高级画板，原inkpad项目修复bug的版本。
 
 #### 消息相关@
 #### 消息推送客户端@
