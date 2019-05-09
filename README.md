@@ -2248,11 +2248,11 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 
 #### 学习资料@
 
-* [网易新闻iOS版使用的开源组件](http://m.163.com/special/newsclient/ios_libraries.html) - 网易新闻iOS版在开发过程中使用的第三方开源类库、组件.
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - 非常棒👍👍👍 经常更新的免费资源列表，包括书籍，播客，网站，开发工具等等。对于正在学习代码的人来说挺实用；  Whether you're learning to code or are already an experienced programmer, this GitHub repository is an incredible resource of free programming books. ... You'll find books on professional development, specific platforms like Android and Oracle Server, and about 80 programming languages.
 * [coding-interview-university](https://github.com/jwasham/coding-interview-university) 非常棒👍👍👍 A complete computer science study plan to become a software engineer.
 * [Analyze](https://github.com/Draveness/Analyze) - 深入解析 iOS 开源项目.
 * [articles](https://github.com/objccn/articles) - Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本.
+* [网易新闻iOS版使用的开源组件](http://m.163.com/special/newsclient/ios_libraries.html) - 网易新闻iOS版在开发过程中使用的第三方开源类库、组件.
 * [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions) - iOS面试题集锦（附答案）.
 * [iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection) - iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践.
 * [growth-ebook](https://github.com/phodal/growth-ebook) - Growth Engineering: The Definitive Guide,全栈增长工程师指南.
