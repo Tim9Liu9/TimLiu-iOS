@@ -197,6 +197,7 @@ A curated list of iOS objective-C ecosystem.
 * [expo](https://github.com/expo/expo) - Expo iOS/Android Client https://docs.expo.io/.
 * [PPRows for Mac](https://github.com/jkpang/PPRows) - 在Mac上优雅的计算你写了多少行代码.
 * [NewsBlur](https://github.com/samuelclay/NewsBlur) - 作者独自一个人 Samuel Clay 做出来的一款名为 NewsBlur 的新闻阅读器, 很多人都称其为 Google Reader 的替代品, 这是它的源码.
+* [FlutterDouBan](https://github.com/kaina404/FlutterDouBan) - Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉.  
 * [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) - 用React Native 完成的 HackerNews 客户端.
 * [WeChat](https://github.com/zhengwenming/WeChat)- 实现类似微信朋友圈或者QQ空间，评论回复，九宫格布局。处理键盘弹出后定位到当前点击的被评论人处。另：滑动时候FPS在57-60之间，纵享丝滑.
 * [iOSAppTemplate](https://github.com/tbl00c/iOSAppTemplate) - 高仿微信，iOS应用开发模板，个人总结.
@@ -271,6 +272,8 @@ A curated list of iOS objective-C ecosystem.
 
 * [nimbus](https://github.com/jverkoey/nimbus)  - Nimbus是一个开源的iOS框架，比起Three20，Nimbus的文档更为全面、丰富，能够实现很多非常炫的界面特效.
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa受函数响应式编程激发。不同于使用可变的变量替换和就地修改，RAC提供Signals来捕获当前值和将来值（ [使用介绍](http://yulingtianxia.com/blog/2014/07/29/reactivecocoa/) ），[不错的例子](http://iiiyu.com/2014/12/26/learning-ios-notes-thirty-six/),入门好教程：[ReactiveCocoa入门教程：第一部分 ](http://www.cocoachina.com/ios/20150123/10994.html)。[Reactive Cocoa 3.0 在 MVVM 中的应用](http://ios.jobbole.com/82232/) ,[小码哥：快速让你上手ReactiveCocoa之基础篇](http://www.jianshu.com/p/87ef6720a096)。
+* [flutter](https://github.com/flutter/flutter) - Flutter针对想要在Android和iOS上运行的2D移动应用进行了优化。您可以使用Flutter构建全功能应用程序，包括相机、地理位置、网络、存储、第三方SDK等.
+* [flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档.
 - [FRDModuleManager](https://github.com/lincode/FRDModuleManager) - AppDelegate瘦身，iOS Module Manager library.
 * [react-native-maps](https://github.com/airbnb/react-native-maps) - React Native Mapview component for iOS + Android.
 * [react-native-svg](https://github.com/react-native-community/react-native-svg)  - SVG library for React Native. react-native-svg is built to provide a SVG interface to react native on both iOS and Android.
@@ -2024,6 +2027,7 @@ A curated list of iOS objective-C ecosystem.
   4. 动态的调用实例和类方法
 FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者是远程的调试服务器，它可以在本地随时随地的进行自有的操作和调试
 * [Quick](https://github.com/Quick/Quick) - 非常赞👍👍👍 用于Swift中的单元测试（也可用于Objective-C），与Xcode整合在一起。如果你是Objective-C的粉丝，我建议用Specta代替这个，但是对Swift使用者来说，Quick是最佳选择.
+* [commandLine](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) - 五万星登顶，程序员命令行最全技巧宝典.
 * [KIF](https://github.com/kif-framework/KIF) - 是一个开源的用户界面UI测试框架. 使用 KIF, 并利用 iOS中的辅助功能 API, 你将能够编写模拟用户输入，诸如点击，触摸和文本输入，自动化的UI测试.
 * [FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) - 支持同时启动多个模拟器的库，FaceBook出品.
 * [calabash-ios](https://github.com/calabash/calabash-ios) - 自动测试 Calabash is an automated testing technology for Android and iOS native and hybrid applications.
