@@ -777,6 +777,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [BeautifyFaceDemo](https://github.com/Guikunzhi/BeautifyFaceDemo) - 一个基于 GPUImage 的实时直播磨皮滤镜的开源实现,主要功能脸部去斑磨皮.
 * [simplest_ffmpeg_mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) ffmpeg examples in Android / IOS / WinPhone.
+* [WAVideoBox](https://github.com/CoderHenry66/WAVideoBox) - 秒级! 三行代码实现iOS视频压缩、变速、混音、合并、GIF水印、旋转、换音、裁剪 ! 支持不同分辩率，支持你能想到的各种混合操作! 扩展性强...更多功能不断增加中.
 
 #### 视频录制@
 
@@ -1558,6 +1559,7 @@ A curated list of iOS objective-C ecosystem.
 #### VPN@
 
 * [Hydro.network](https://github.com/CatchChat/Hydro.network) - [Hydro.network 的开发旅程](http://blog.zhowkev.in/2015/03/09/hydro-network-de-kai-fa-lu-cheng/), [gitcafe](https://gitcafe.com/Catch/Hydro.network).
+* [new-pac](https://github.com/Alvin9999/new-pac/wiki) - 自由上网方法.
 * [Shadowsocks-X](https://github.com/yangfeicheung/Shadowsocks-X) - Latest ShadowsocksX for Mac OS X 10.9+.
 * [Potatso](https://github.com/shadowsocks/Potatso) - 基于iOS 9 的 NetworkExtension 框架实现 Shadowsocks 代理，由国人开发，虽然还有很多问题不过确实值得期待.
 * [forum](https://github.com/getlantern/forum) - 蓝灯(Lantern)官方论坛.
