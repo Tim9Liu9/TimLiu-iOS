@@ -772,6 +772,7 @@ A curated list of iOS objective-C ecosystem.
 * [SRGMediaPlayer-iOS](https://github.com/SRGSSR/SRGMediaPlayer-iOS) - The SRG Media Player library for iOS provides a simple way to add a universal audio / video player to any iOS application.
 * [ios-360-videos](https://github.com/NYTimes/ios-360-videos) - NYT360Video plays 360-degree video streamed from an AVPlayer on iOS.
 * [GAPlayer](https://github.com/CodeisSunShine/GAPlayer) - 播放器内核为IJKPlayer和AVPlayer(一句代码切换内核) 支持M3U8/MP3/MP4等格式本地/在线播放,支持片头/片尾广告等功能齐全的播放器.
+* [KJPlayer](https://github.com/yangKJ/KJPlayerDemo) - KJPlayer是一款视频播放器，AVPlayer的封装，继承UIView。支持播放网络和本地视频、播放多种格式，视频边下边播、优先播放缓存视频，支持拖动、手势快进倒退、增大减小音量、重力感应切换横竖屏等等
 
 #### 视频处理@
 
@@ -1156,6 +1157,7 @@ A curated list of iOS objective-C ecosystem.
 * [TopAlert](https://github.com/roycms/TopAlert) - 顶部提示View.
 * [CMPopTipView](https://github.com/chrismiles/CMPopTipView) - 自定义气泡View提示框.
 * [WeChatFloat](https://github.com/SherlockQi/WeChatFloat) - 仿微信浮窗功能.
+* [KJLoadingDemo](https://github.com/yangKJ/KJLoadingDemo) - 汇集整理一些样式的Loading加载等待动画，封装以及简单调用，使用起来也非常方便快捷，同样你也可以把他作为HUD来使用
 
 #### 对话框@
 
@@ -1273,6 +1275,7 @@ A curated list of iOS objective-C ecosystem.
 * [KYGooeyMenu](https://github.com/KittenYang/KYGooeyMenu) - KYGooeyMenu 是一个具有 Gooey Effects 带粘性的扇形菜单控件(卫星菜单、path).
 * [DCPathButton](https://github.com/Tangdixi/DCPathButton) - Path，4.0的弹出菜单，呼出或者关闭菜单时，多个小图标会分别按照逆时针和顺时针的方向进行滚动.
 * [类似美团的下拉选项](http://code4app.com/ios/%E7%B1%BB%E4%BC%BC%E7%BE%8E%E5%9B%A2%E7%9A%84%E4%B8%8B%E6%8B%89%E9%80%89%E9%A1%B9/538606d4933bf06e0a8b496e) -  类似于美团、大众点评的下拉菜单选项，code4app代码，评论代码有瑕疵.
+* [KJMenuView](https://github.com/yangKJ/KJMenuView) - 封装整理一些菜单控件、下拉菜单，横向滚动菜单
 
 #### TabBar@
 
@@ -1301,7 +1304,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 轮播@
 
-* [YJBannerView](https://github.com/mrhyh/YJBannerView) - 轻量级高性能轮播Banner组件，使用方法简单，可高度自定义化，超级赞
+* [KJBannerView](https://github.com/yangKJ/KJBannerViewDemo) - 轮播图Banner - 无任何第三方依赖、轻量级组件  支持缩放、自带缓存加载  支持自定义继承、定制特定样式  支持网络GIF播放和网络图片和本地图片混合显示轮播  支持在Storyboard和Xib中创建并配置其属性
 * [SGPagingView](https://github.com/kingsic/SGPagingView) - A powerful and easy to use segment control (美团、淘宝、京东、微博、腾讯、网易、今日头条等标题滚动视图).
 * [iCarousel](https://github.com/nicklockwood/iCarousel) - 非常赞 作者是英国 Charcoal Design 公司的创始人, 开源领域的贡献颇为卓著, 这个项目就是其中之一, 这是一款可以在 iOS 上实现旋转木马视图切换效果的第三方控件, 并提供多种切换效果。是一个使用简单、高度自定义的多类型视图切换的控件，支持iOS/Mac OS、ARC & Thread Safety; A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS
 * [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) - 无限循环自动图片轮播器(一步设置即可使用).
@@ -1415,6 +1418,7 @@ A curated list of iOS objective-C ecosystem.
 #### 工具@
 #### 综合@
 * [sstoolkit](https://github.com/soffes/sstoolkit) - 一个不错的工具包，提供各种比如编码、加密、字符串处理等等东西，还提供了一些不错的自定义控件，并且文档非常齐全
+* [KJEmitterView](https://github.com/yangKJ/KJEmitterView) - 粒子效果、扩展、好用的工具等等，Button图文混排、点击事件封装、扩大点击域，手势封装、圆角渐变、Xib属性、TextView输入框扩展、限制字数，Image图片加工处理、滤镜渲染、泛洪算法，_KJMacros常用宏定义，Label富文本，自定义笑脸Switch，自定义动画选中控件，Alert控件，数组和字典防崩处理，数组算法处理等等等
 
 #### 提醒用户评分@
 
