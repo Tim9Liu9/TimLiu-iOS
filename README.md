@@ -605,6 +605,7 @@ A curated list of iOS objective-C ecosystem.
 * [XHLaunchAd](https://github.com/CoderZhuXH/XHLaunchAd) - XHLaunchAd开机启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad.
 * [Core Animation笔记，基本的使用方法](http://www.starming.com/index.php?v=index&view=62) - Core Animation笔记，基本的使用方法：1.基本动画，2.多步动画，3.沿路径的动画，4.时间函数，5.动画组.
 * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) - [iOS Animation 主流炫酷动画框架(特效)收集整理](https://github.com/sxyx2008/DevArticles/issues/91) 收集整理了下iOS平台下比较主流炫酷的几款动画框架.
+* [TABAnimated](https://github.com/tigerAndBull/TABAnimated) - 一个由iOS原生组件映射出骨架屏的框架，包含快速植入，低耦合，兼容复杂视图等特点，提供国内主流骨架屏动画的加载方案，同时支持自定制动画.
 * [AGGeometryKit](https://github.com/agens-no/AGGeometryKit) - 几何图形框架，把AGGeometryKit和POP结合起来使用，可实现非常棒的动态和动画.
 * [FleaMarket](https://github.com/SunLiner/FleaMarket) - "咸鱼"新特性-视频动画.
 * [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) - 在应用中采用链式写出酷炫的动画效果, 使代码更加清晰易读，利用block实现的链式编程，同时支持Swift.
