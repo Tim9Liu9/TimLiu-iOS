@@ -480,7 +480,7 @@ A curated list of iOS objective-C ecosystem.
 * [WKWebViewH5ObjCDemo](https://github.com/CoderJackyHuang/WKWebViewH5ObjCDemo) - 学习如何使用OC实现WKWebView与H5交互，并学习其API使用.
 * [PPHTMLImagePreviewDemo](https://github.com/smallmuou/PPHTMLImagePreviewDemo) - 该Repo用于演示APP中点击HTML的图片来预览图片的功能.
 * [WKWebViewExtension](https://github.com/dequan1331/WKWebViewExtension) - An extension for WKWebView. Providing menuItems delete 、support protocol 、clear cache of iOS8 and so on.
-* [ZFWKWebView](https://github.com/FranLucky/ZFWKWebView) - 一款封装较为全面的可自定义的WKWebViewController，用户友好，提供丰富的功能和JS交互
+* [ZFWKWebView](https://github.com/ICU-Coders/ZFWKWebView) - 一款封装较为全面的可自定义的WKWebViewController，用户友好，提供丰富的功能和JS交互
 #### 网络解析@
 
 * [ParseSourceCodeStudy](https://github.com/ChenYilong/ParseSourceCodeStudy) - Facebook开源的Parse源码分析【系列】.
@@ -1189,7 +1189,7 @@ A curated list of iOS objective-C ecosystem.
 * [CCActionSheet](https://github.com/maxmoo/CCActionSheet) - CCActionSheet：仿照微信朋友圈自定义actionsheet，一行代码即可使用.
 * [CustomPopOverView](https://github.com/maltsugar/CustomPopOverView) - 自定义弹出视图，内容支持传一组菜单标题，也支持自定义view，或者自定义viewController，支持任意按钮触发，会显示在按钮底部，也支持切换按钮的对齐方式：左对齐、居中、右对齐.
 * [TOActionSheet](https://github.com/TimOliver/TOActionSheet) - 是一个 iOS UI 控件，提供一个模态提示控制，类似于 UIActionSheet。不同于 UIActionSheet 的是，它可以深度重设主题，通过对每个按钮使用块来避免委托模式.
-* [ZFAlertController](https://github.com/FranLucky/ZFAlertController) - 一款可高度自定义的弹窗（Alert，ActionSheet），使用方法完全类似UIAlertController
+* [ZFAlertController](https://github.com//ICU-Coders/ZFAlertController) - 一款可高度自定义的弹窗（Alert，ActionSheet），使用方法完全类似UIAlertController
 
 #### Pop@
 
