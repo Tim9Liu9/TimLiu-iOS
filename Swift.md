@@ -100,14 +100,17 @@ A curated list of iOS objective-C ecosystem.
   - [搜索@](#搜索)
   - [Button@](#Button)
   - [3D@](#3D)
+  - [Slider@](#Slider)
   - [其他UI@](#其他ui)
 - [工具@](#工具)
   - [Category@](#category)
   - [Color@](#Color)
   - [Xcode工具@](#Xcode工具)
+  - [压缩解压@](#压缩解压)
 - [测试调试@](#测试调试)
   - [分析@](#分析)
   - [优化@](#优化)
+  - [日志@](#日志)
 - [游戏@](#游戏)
 - [小样@](#小样)
   - [VR@](#VR)
@@ -129,6 +132,7 @@ A curated list of iOS objective-C ecosystem.
   - [iOS11@](#iOS11)
 - [其他库@](#其他库)
 - [AppleWatch@](#applewatch)
+- [TV@](#TV)
 - [mac@](#mac)
 - [服务端@](#服务端)
 
@@ -139,6 +143,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [swift-evolution](https://github.com/apple/swift-evolution) Swift更新日志
 * [SwiftGuide](https://github.com/ipader/SwiftGuide) - 这份文档汇集了Swift 开源精选资源，思维导图形式呈现.
+* [ioscreator](https://github.com/ioscreator/ioscreator) - Tutorials from ioscreator.com.
 * [SwiftGuide](https://github.com/ipader/SwiftGuide) 很赞 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排-- 非常不错，值得推荐。
 * [leetcode](https://leetcode.com/accounts/login/) 一个练习、评估自己水平的代码平台，跟ACM有点类似
 * [Swift中文指南](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) - 中文版Apple官方Swift教程《The Swift Programming Language》，[老码版本](https://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/)  [历史版本更新说明](https://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/chapter1/03_revision_history.html)。
@@ -203,6 +208,7 @@ A curated list of iOS objective-C ecosystem.
 * [cnode-swift](https://github.com/nswbmw/cnode-swift) - iOS 上更好用的 CNode 客户端.
 * [Postal](https://github.com/snipsco/Postal) A swift framework for working with emails,Postal is a swift framework providing simple access to common email providers.
 * [LBXMLYFM-Swift](https://github.com/lb2281075105/LBXMLYFM-Swift) - 仿写喜马拉雅App.
+* [ios-mail](https://github.com/ProtonMail/ios-mail) - iOS-mail — ProtonMail iOS client app.
 
 #### App框架@
 
@@ -269,6 +275,7 @@ A curated list of iOS objective-C ecosystem.
 * [Alamofire](https://github.com/Alamofire/Alamofire) - 非常赞👍👍👍 Alamofire是AFNetworking的作者mattt新写的网络请求的swift库。[Alamofire 最佳实践](https://github.com/ipader/SwiftGuide/wiki/Alamofire%20%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5)
 * [Moya](https://github.com/Moya/Moya) - 对Alamofire的封装，使用枚举将网络层实现细节与页面逻辑代码分离，方便单元测试，支持stub测试，配合RxSwift食用更佳，[博客教程](http://www.hmttommy.com/2015/12/15/Moya/)
 * [Hedwig](https://github.com/onevcat/Hedwig) - 提供了一组高级 API，可以让你轻松地发送电子邮件到SMTP服务器。如果你打算在下一个神奇的 Swift 服务器 app里发送 email，Hedwig 可能是一个好的选择.
+* [swift-nio](https://github.com/apple/swift-nio) - 苹果开源的一个事件驱动的非阻塞的网络框架，用来写高性能网络应用.
 * [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS, written in Swift 2.2 :large_orange_diamond:
 * [AlamofireObjectMapper.swift](https://github.com/tristanhimmelman/AlamofireObjectMapper) - 将Alamofire JSON响应数据 转为swift对象。
 * [RxAlamofire.swift](https://github.com/RxSwiftCommunity/RxAlamofire) - 为Alamofire提供函数响应式（FRP）调用接口,以优雅的方式使用Alamofire进行网络请求。
@@ -293,6 +300,7 @@ A curated list of iOS objective-C ecosystem.
 * [Frisbee](https://github.com/ronanrodrigo/Frisbee) - Another network wrapper for URLSession. Built to be simple, small and easy to create tests at the network layer of your application.
 * [Restofire](https://github.com/Restofire/Restofire) - Restofire is a protocol oriented network abstraction layer in swift that is built on top of Alamofire to use services in a declartive way.
 * [SolarNetwork](https://github.com/ThreeGayHub/SolarNetwork) - 基于Alamofire封装，揉和了Alamofire和Moya两者优点的一套简单易用的网络库。
+* [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) - socket.
 
 #### 网络聊天@
 
@@ -430,6 +438,7 @@ A curated list of iOS objective-C ecosystem.
 * [PostgreSQL](https://github.com/PerfectlySoft/Perfect-PostgreSQL) - A Swift wrapper around the libpq client library, enabling access to PostgreSQL servers. Part of the
 * [FileMaker](https://github.com/PerfectlySoft/Perfect-FileMaker) - A Swift wrapper around the FileMaker XML Web publishing interface, enabling access to FileMaker servers. Part of the
 * [AppFolder](https://github.com/dreymonde/AppFolder) - Never use NSSearchPathForDirectoriesInDomains again.
+* [GRDB.swift](https://github.com/groue/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development.
 
 #### 钥匙链@
 
@@ -593,6 +602,7 @@ A curated list of iOS objective-C ecosystem.
 * [Navi](https://github.com/nixzhu/Navi) - 头像缓存.
 * [Imaginary](https://github.com/hyperoslo/Imaginary) - 远程图片异步下载，缓存.
 * [Vulcan](https://github.com/jinSasaki/Vulcan) - 带有优先级的多图下载.
+* [url-image](https://github.com/dmytro-anokhin/url-image) - Asynchronous image loading in SwiftUI. SwiftUI Image view that displays an image downloaded from URL, with cache and filters.
 
 #### 图像浏览@
 
@@ -643,7 +653,7 @@ A curated list of iOS objective-C ecosystem.
 #### 数学@
 
 * [Surge.swift](https://github.com/mattt/Surge) - Surge.swift基于苹果Accelerate高性能计算数学框架封装库.
-
+* [swift-numerics](https://github.com/apple/swift-numerics) - 苹果出品的Numerical APIs for Swift.
 
 #### 动画@
 
@@ -911,6 +921,7 @@ A curated list of iOS objective-C ecosystem.
 * [MZGuidePages](https://github.com/MachelleZhang/MZGuidePages) - 自己写的通用导航页，可以直接引入工程使用，请参考案例（版本新特性、导航页、引导页）.
 * [Intro](https://github.com/nbolatov/Intro) - 简单的功能引导组件.
 * [Wizardry.swift](https://github.com/ijoshsmith/Wizardry) - 可重用的方法和框架实现向导式用户界面管理。（版本新特性、导航页、引导页）.
+* [liquid-swipe](https://github.com/Cuberto/liquid-swipe) - Cuberto is a leading digital agency with solid design and development expertise. We build mobile and web products for startups. Drop us a line.
 
 #### page@
 
@@ -946,6 +957,10 @@ A curated list of iOS objective-C ecosystem.
 #### 3D@
 
 * [Euclid](https://github.com/nicklockwood/Euclid) - A Swift library for creating and manipulating 3D geometry.
+
+#### Slider@
+
+* [Sliders](https://github.com/SwiftUIExtensions/Sliders) - SwiftUI Sliders with custom styles.
 
 #### 其他UI@
 
@@ -1031,6 +1046,10 @@ A curated list of iOS objective-C ecosystem.
 * [FengNiao](https://github.com/onevcat/FengNiao) - 一个清理Xcode中没使用的资源文件的命令行工具.
 * [stylesync](https://github.com/dylanslewis/stylesync) - A command line tool to extract shared styles from a Sketch document, and generate native code for any platform.
 
+#### 压缩解压@
+
+* [Zip](https://github.com/marmelroy/Zip) - Swift framework for zipping and unzipping files.
+
 #### 测试调试@
 
 * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - 是一个快速、简单，但很强大的日志框架，可以自定义打印日志的颜色.
@@ -1063,8 +1082,13 @@ A curated list of iOS objective-C ecosystem.
 * [Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times) - Collection of advice on optimizing compile times of Swift projects.
 * [Lotusoot](https://github.com/Vegetarians/Lotusoot) - 灵活的 Swift 组件解耦和通信工具.
 
+#### 日志@
+
+* [swift-log](https://github.com/apple/swift-log) - A Logging API for Swift.
+
 #### 游戏@
 
+* [FlappySwift](https://github.com/fullstackio/FlappySwift) - swift implementation of flappy bird.
 * [Legend-Wings](https://github.com/woguan/Legend-Wings) iOS Swift Game - Push SpriteKit to the limit
 
 #### 小样@
@@ -1101,6 +1125,7 @@ A curated list of iOS objective-C ecosystem.
 #### VPN@
 
 * [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX.
+* [V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等.
 * [vpnon](https://github.com/lexrus/vpnon/) - swift的VPN On 的源码和本地化内容都是开放的: [官方网站](https://crowdin.com/project/vpnon).
 * [Potatso](https://github.com/haxpor/Potatso) - 一个实现Shadowsocks代理的客户端.
 
@@ -1232,6 +1257,10 @@ A curated list of iOS objective-C ecosystem.
 * [overlook](https://github.com/wess/overlook) 可以监测目标目录文件改变，执行对应命令的后台及命令行工具 The Judge, Jury and Executioner for the file system.
 * [CircularCrownSelector](https://github.com/mkchoi212/CircularCrownSelector) - watchOS UI for a circular selection menu.
 
+#### TV@
+
+* [PopcornTimeTV](https://github.com/PopcornTimeTV/PopcornTimeTV) - Popcorn Time for Apple TV 4, iPhone and iPad.
+
 #### mac@
 
 * [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
@@ -1245,6 +1274,7 @@ A curated list of iOS objective-C ecosystem.
 * [xi-mac](https://github.com/google/xi-mac) - The xi editor project is an attempt to build a high quality text editor.
 * [mas](https://github.com/mas-cli/mas) - 📦 Mac App Store command line interface.
 * [fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS.
+* [SidecarPatcher](https://github.com/pookjw/SidecarPatcher) - Enables Sidecar on old Mac and iPad for macOS 10.15.
 
 #### game@
 
