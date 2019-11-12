@@ -312,6 +312,7 @@ A curated list of iOS objective-C ecosystem.
 * [RNStudyNotes](https://github.com/crazycodeboy/RNStudyNotes) - React Native 研究与实践.
 * [react-native-orientation](https://github.com/yamill/react-native-orientation) - Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis.
 * [QTEventBus](https://github.com/LeoMobileDeveloper/QTEventBus) - 优雅的处理全局事件，支持AppDelegate解耦.
+* [react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript) - Clean and minimalist React Native template for a quick start with TypeScript.
 
 #### framework@
 
@@ -324,6 +325,7 @@ A curated list of iOS objective-C ecosystem.
 #### flutter@
 
 * [dicee-flutter](https://github.com/londonappbrewery/dicee-flutter) - Starter code for the Dicee project in the Complete Flutter Bootcamp.
+* [mi_card_flutter](https://github.com/londonappbrewery/mi_card_flutter) - Starter code for the Mi Card Project from the Complete Flutter Development Bootcamp.
 
 #### 混合开发@
 
@@ -2458,6 +2460,11 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [EnergyBar](https://github.com/billziss-gh/EnergyBar) - Supercharge your Mac's Touch Bar.
 * [HexFiend](https://github.com/ridiculousfish/HexFiend) - 在mac下查看二进制文件的编辑器.
 * [syncthing-macos](https://github.com/syncthing/syncthing-macos) - Frugal and native macOS Syncthing application bundle.
+* [blink](https://github.com/blinksh/blink) - 可用于iOS的shell工具.
+* [QQRedPackHelper](https://github.com/AsTryE/QQRedPackHelper) - Mac 系统下的QQ抢红包插件,消息防撤回，消息自动回复，红包指定群过滤，红包指定关键字过滤，无需回复-抢文字口令红包，时间随机延迟抢红包.
+* [MacPass](https://github.com/MacPass/MacPass) - mac os密码管理工具.
+* [Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Run Aperture, iPhoto, or iTunes on macOS Catalina.
+* [BaiduNetdiskPlugin-macOS ](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS) - For macOS.百度网盘 破解SVIP、下载速度限制.
 
 #### iOS插件@
 
