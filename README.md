@@ -24,9 +24,7 @@ A curated list of iOS objective-C ecosystem.
   - [react@](#react)
   - [framework@](#framework)
   - [混合开发@](#混合开发)
-- [安全@](#安全)
-- [区块链@](#区块链)
-- [逆向@](#逆向)
+- [多线程@](#多线程)
 - [网络@](#网络)
   - [网络请求@](#网络请求)
   - [socket@](#socket)
@@ -45,13 +43,8 @@ A curated list of iOS objective-C ecosystem.
   - [coreData@](#coreData)
 - [动画@](#动画)
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
-  - [转场@](#转场)
+  - [转场动画@](#转场动画)
 - [多媒体@](#多媒体)
-  - [GIF@](#GIF)
-  - [VR@](#VR)
-  - [AR@](#AR)
-  - [二维码@](#二维码)
-  - [PDF@](#PDF)
   - [流媒体@](#流媒体)
   - [音频@](#音频)
   - [视频@](#视频)
@@ -59,8 +52,13 @@ A curated list of iOS objective-C ecosystem.
     - [视频处理@](#视频处理)
     - [视频录制@](#视频录制)
     - [视频剪切@](#视频剪切)
-    - [弹幕@](#弹幕)
     - [直播@](#直播)
+      - [弹幕@](#弹幕)
+  - [GIF@](#GIF)
+  - [VR@](#VR)
+  - [AR@](#AR)
+  - [二维码@](#二维码)
+  - [PDF@](#PDF)
 - [图像@](#图像)
   - [拍照@](#拍照)
   - [图像处理@](#图像处理)
@@ -69,7 +67,9 @@ A curated list of iOS objective-C ecosystem.
   - [滤镜@](#滤镜)
   - [图像识别@](#图像识别)
   - [图像圆角@](#图像圆角)
-  - [截屏@](#截屏)
+  - [截屏@](#截屏）
+- [安全@](#安全)
+  - [逆向@](#逆向)
 - [AutoLayout@](#AutoLayout)
 - [数据结构/算法@](#数据结构/算法)
 - [上架@](#上架)
@@ -128,7 +128,6 @@ A curated list of iOS objective-C ecosystem.
   - [富文本@](#富文本)
   - [表情@](#表情)
   - [字体@](#字体)
-- [多线程@](#多线程)
 - [ipad@](#ipad)
 - [通讯@](#通讯)
 - [学习资料@](#学习资料)
@@ -143,6 +142,7 @@ A curated list of iOS objective-C ecosystem.
   - [优化@](#优化@)
 - [测试调试@](#测试调试)
   - [Xcode工具@](#Xcode工具)
+  - [崩溃捕获@](#崩溃捕获)
   - [Runtime@](#Runtime)
   - [Xcode插件@](#Xcode插件)
   - [接口调试工具@](#接口调试工具)
@@ -167,6 +167,7 @@ A curated list of iOS objective-C ecosystem.
   - [通知相关请搜索“对话交互@”@](#通知相关请搜索“对话交互@”@)
 - [时间日期@](#时间日期)
 - [设计模式@](#设计模式)
+- [区块链@](#区块链)
 - [版本管理@](#版本管理)
   - [Git用法@](#Git用法)
   - [GitHub@](#GitHub)
@@ -320,45 +321,20 @@ A curated list of iOS objective-C ecosystem.
 * [Aspects](https://github.com/steipete/Aspects) - 个简洁高效的用于使iOS支持AOP面向切面编程的库.它可以帮助你在不改变一个类或类实例的代码的前提下,有效更改类的行为.
 * [Form](https://github.com/hyperoslo/Form) - JSON 驱动的 Form表单系统，复杂的表单填写类 App 极其需要（比如淘宝呢！）.
 
+#### flutter@
+
+* [dicee-flutter](https://github.com/londonappbrewery/dicee-flutter) - Starter code for the Dicee project in the Complete Flutter Bootcamp.
+
 #### 混合开发@
 
 * [rexxar-ios](https://github.com/douban/rexxar-ios) - 豆瓣推的混合开发库 Mobile Hybrid Framework Rexxar iOS Container.
 
-#### 安全@
+#### 多线程@
 
-* [Objective-C-RSA](https://github.com/ideawu/Objective-C-RSA) - Doing RSA encryption and decryption with Objective-C on iOS.
-* [NSDictionary-NilSafe](https://github.com/allenhsu/NSDictionary-NilSafe) - How we made NSDictionary nil safe at Glow.
-* [Myriam](https://github.com/GeoSn0w/Myriam) - A vulnerable iOS App with Security Challenges for the Security Researcher inside you.
-* [Valet](https://github.com/square/Valet) - 让你安全地存储在iOS和OS X的钥匙串数据，而无需了解的钥匙扣如何工作的事情.
-* [Hopper App](https://www.hopperapp.com/) - Hopper Disassembler是一款逆向工程工具，iOS爱好者可以使用它来进行反汇编，反编译和调试应用程序。此工具也可用于修改和重组代码。你只需在你的macOS或Linux系统上启动该应用，然后将其指向你需要破解的二进制文件即可。总的来说Hopper是一款非常好用的逆向工程工具，对于热衷于iOS漏洞赏金的人而言，无疑它将成为一个首选.
-* [ios-class-guard](https://github.com/Polidea/ios-class-guard) - 一个用于混淆iOS的类名、方法名以及变量名的开源库--有人反映编译出来的app运行不了.
-* [《Protecting iOS Applications》](https://www.polidea.com/#!heartbeat/blog/Protecting_iOS_Applications) - 文章系统地介绍了如何保护iOS程序的代码安全，防止反汇编分析.
-* [fishhook](https://github.com/facebook/fishhook) - fishhook是Facebook开源的一个可以hook系统方法的工具.
-* [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev) - CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps, Without Jailbreak.
-* [MSCrashProtector](https://github.com/JZJJZJ/MSCrashProtector) - An Global protection scheme(代码容错处理).
-* [JMPasswordView](https://github.com/Juuman/JMPasswordView) - 简单实用的手势密码，效果可自行调控.
-* [LSSafeProtector](https://github.com/lsmakethebest/LSSafeProtector) - 防止crash框架，不改变原代码支持KVO自释放，可以检测到dealloc时未释放的kvo，等19种crash.
-* [WHC_ConfuseSoftware](https://github.com/netyouli/WHC_ConfuseSoftware) - iOS代码自动翻新(混淆)专家(WHC_ConfuseSoftware)是一款新一代运行在MAC OS平台的App、完美支持Objc和Swift项目代码的自动翻新(混淆)、支持文件名、类名、方法名、属性名、添加混淆方法体、添加混淆属性、自动调用混淆方法等。。。功能强大而稳定.
-* [仿密码锁-九宫格](http://code.cocoachina.com/detail/298556/%E4%BB%BF%E5%AF%86%E7%A0%81%E9%94%81-%E4%B9%9D%E5%AE%AB%E6%A0%BC/) - 仿密码锁-九宫格，主要是使用UIButton 手势事件  UIBezierPath画图，解锁失败弹出“密码错误”.
-* [CoreLock](https://github.com/CharlinFeng/CoreLock) - 本框架是高仿支付宝，并集成了所有功能，并非一个简单的解锁界面展示。个人制作用时1周多，打造解锁终结者框架.
-* [LikeAlipayLockCodeView](https://github.com/crazypoo/LikeAlipayLockCodeView) - 高仿支付宝手势解锁（超级版）.
-* [Smile-Lock.swfit](https://github.com/liu044100/Smile-Lock) - 一个类似于iOS的解锁界面.
-* [PCGestureUnlock](https://github.com/iosdeveloperpanc/PCGestureUnlock) - 目前最全面最高仿支付宝的手势解锁，而且提供方法进行参数修改，能解决项目开发中所有手势解锁的开发.
-* [ICPayPassWordDemo](https://github.com/icoder20150719/ICPayPassWordDemo) - CPayPassWordDemo，一个模仿支付宝支付密码输入对话框小demo.
-* [RSAESCryptor](https://github.com/bigsan/RSAESCryptor) - 加密 RSA+AES Encryption/Decryption library for iOS. This library uses 2048-bit RSA and 256-bit key with 128-bit block size AES for encryption/decryption.
-* [TouchID](https://github.com/bringbird/TouchID) - 用法简单的TouchID验证框架：两行代码搞定.
-* [SFHFKeychainUtils] (https://github.com/ldandersen/scifihifi-iphone) - iOS中使用SFHFKeychainUtils保存用户密码，比如项目中需要保存用户密码，以实现自动登录的功能可以使用.
-* [AESCipher-iOS](https://github.com/WelkinXie/AESCipher-iOS) - AESCipher-iOS:用 Objective-C 实现的 AES 加密。与 [AESCipher-Java](https://github.com/WelkinXie/AESCipher-Java) 一并使用能达到 在iOS、Android、Java后台产生相同密文、正确解密成明文的目的。[AES加密 - iOS与Java的同步实现](http://www.jianshu.com/p/df828a57cb8f).
-* [ABPadLockScreen](https://github.com/abury/ABPadLockScreen) - 九宫格密码锁.
-
-#### 区块链@
-
-* [awesome-blockchain](https://github.com/chaozh/awesome-blockchain) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料.
-
-#### 逆向@
-
-* [app2dylib](https://github.com/tobefuturer/app2dylib) - A reverse engineering tool to convert iOS app to dylib.
-* [iWeChat](https://github.com/lefex/iWeChat) - 我们一起来还原微信。希望通过 iWeChat 这个项目能过勾勒出微信的设计，使用到的技术手段等.
+* [YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool) - iOS 全局并发队列管理工具.
+* [JX_GCDTimer](https://github.com/Joeyqiushi/JX_GCDTimer) - 定时器，NSTimer和GCD哪个更好.
+* [BLStopwatch](https://github.com/beiliao-mobile/BLStopwatch) - 代码耗时打点计时器.
+* [Thread](https://github.com/mrhyh/Thread) - 多线程Demo集合.
 
 #### 网络@
 #### 网络请求@
@@ -660,7 +636,7 @@ A curated list of iOS objective-C ecosystem.
 * [PearlSaver](https://github.com/insidegui/PearlSaver) - Face ID detection animation as a screensaver.
 * [DGWaveLoadingTool](https://github.com/liudiange/DGWaveLoadingTool) - 实现的功能类似于百度贴吧的波浪动画.
 
-#### 转场@
+#### 转场动画@
 
 * [RZTransitions](https://github.com/Raizlabs/RZTransitions) - A library of custom iOS View Controller Animations and Interactions.
 * [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) - A gallery app of custom animated transitions for iOS.
@@ -668,52 +644,6 @@ A curated list of iOS objective-C ecosystem.
 * [WXSTransition](https://github.com/alanwangmodify/WXSTransition) - 转场动画集合.
 
 #### 多媒体@
-#### GIF@
-
-* [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - 高性能GIF动画引擎.
-* [YLGIFImage](https://github.com/liyong03/YLGIFImage) - 异步方式实现突Gif突破编码、显示，低内存占用.
-* [AnimatedGIFImageSerialization](https://github.com/mattt/AnimatedGIFImageSerialization) - Complete Animated GIF Support for iOS, with Functions, NSJSONSerialization-style Class, and (Optional) UIImage Swizzling.
-* [XAnimatedImage](https://github.com/khaledmtaha/XAnimatedImage) - XAnimatedImage is a performant animated GIF engine for iOS written in Swift based on FLAnimatedImage :large_orange_diamond:
-* [SwiftGif](https://github.com/bahlo/SwiftGif) - :sparkles: A small UIImage extension with gif support :large_orange_diamond:
-* [APNGKit](https://github.com/onevcat/APNGKit) - High performance and delightful way to play with APNG format in iOS. :large_orange_diamond:
-* [YYImage](https://github.com/ibireme/YYImage) - Image framework for iOS to display/encode/decode animated WebP, APNG, GIF, and more.
-* [NSGIF2](https://github.com/metasmile/NSGIF2) - Simplify creation of a GIF from the provided video file url.
-* [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance GIF engine :large_orange_diamond:
-* [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView-PlayGIF.
-* [droptogif](https://github.com/mortenjust/droptogif) -  droptogif视频拖拽到应用窗口后自动转换为 GIF 动画（其转换进程动画效果也超赞）.
-
-#### VR@
-
-* [HTY360Player](https://github.com/hanton/HTY360Player) - 一款360度全景视频播放器.
-* [ios-360-videos](https://github.com/NYTimes/ios-360-videos) - 基于AVPlayer的360度全景视频播放器.
-
-#### AR@
-
-* [Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources. Feel free to contribute.
-* [AR-Source](https://github.com/GeekLiB/AR-Source) - AR开发资料汇总.
-* [ARShooter](https://github.com/farice/ARShooter) - A demo Augmented Reality shooter made with ARKit in Swift (iOS 11) http://texnotes.me/post/5/.
-* [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) - This library uses ARKit Face Tracking in order to catch a user's smile.
-* [TGLAugmentedRealityView](https://github.com/gleue/TGLAugmentedRealityView) - Augmented Reality made easy -- place overlays on a camera preview and adjust their position depending on device attitude.
-* [ARImageViewer](https://github.com/keayou/ARImageViewer) - 一款基于ARKit的AR图片查看器.
-
-#### 二维码@
-
-* [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC)  - 👍 An Objective-C Port of ZXing.
-* [LBXScan](https://github.com/MxABC/LBXScan) - 👍 A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和ios系统自带扫码封装，扫码界面效果封装)(Objective-C和Swift均支持).
-* [原生实现扫描二维码条码](http://code.cocoachina.com/view/129108) - iOS原生实现扫描二维码条码.
-* [ZFScan](https://github.com/Zirkfied/ZFScan) - 仿微信 二维码/条形码 扫描.
-* [HMQRCodeScanner](https://github.com/liufan321/HMQRCodeScanner) - 包含 UI 界面的轻量级二维码扫描及生成框架，提供一个导航控制器，扫描 二维码 / 条形码；能够生成指定 字符串 + avatar(可选) 的二维码名片；能够识别相册图片中的二维码(iOS 64 位设备).
-* [QRCatcher](https://github.com/100mango/QRCatcher) - 一个简洁美观的二维码扫描应用， [iOS学习：AVFoundation 视频流处理--二维码].
-* [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - 带状态控制的条码扫描库，支持处理相机权限、自定义颜色和提示信息，不依赖其他第三方库).
-* [MQRCodeReaderViewController](https://github.com/zhengjinghua/MQRCodeReaderViewController) - 二维码扫描控件.
-* [QRWeiXinDemo](https://github.com/lcddhr/QRWeiXinDemo) - 仿微信二维码扫描，中间透明区域.
-* [EFQRCode](https://github.com/EyreFree/EFQRCode) - iOS 花式二维码生成库.
-
-#### PDF@
-
-* [Reader](https://github.com/vfr/Reader) - Reader可提供类似iBooks的文档导航，支持屏幕旋转和所有方向，并通过密码保护加密PDF文件，支持PDF链接和旋转页面.
-* [PDFXKit](https://github.com/PSPDFKit/PDFXKit) - A drop-in replacement for Apple PDFKit powered by our PSPDFKit framework under the hood.
-
 #### 流媒体@
 
 #### 音频@
@@ -796,12 +726,6 @@ A curated list of iOS objective-C ecosystem.
 * [ICGVideoTrimmer](https://github.com/itsmeichigo/ICGVideoTrimmer) - ICGVideoTrimmer提供提供视频剪切的视图（类似系统相册中浏览视频时顶部那个条状视图）,左右两个边界选择器还能够自定义.
 * [VideoEditing](https://github.com/ShelinShelin/VideoEditing) - Video processing of the video capture and add background music.
 
-#### 弹幕@
-
-* [BarrageRenderer](https://github.com/unash/BarrageRenderer) - 一个 iOS 上的弹幕渲染库.
-* [LiveSendGift](https://github.com/Jonhory/LiveSendGift) - 直播发送弹幕效果.
-* [HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo) - iOS端视频弹幕.
-
 #### 直播@
 
 * [LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit) - 开源遵循RTMP协议的直播SDK.
@@ -813,6 +737,58 @@ A curated list of iOS objective-C ecosystem.
 * [LMLiveStreaming](https://github.com/chenliming777/LMLiveStreaming) - iOS直播，支持H246/AAC，支持GPUImage美化，支持rtmp和flv，较慢的网络优化.
 * [直播技术的总结](https://github.com/tiantianlan/LiveExplanation)
 * [Tencent-NOW](https://github.com/ChinaArJun/Tencent-NOW) - iOS视频直播:高仿 腾讯旗下 < NOW > 直播 类似 映客 斗鱼 直播类型 喜欢的记点star谢谢 IOS Live video.
+
+#### 弹幕@
+
+* [BarrageRenderer](https://github.com/unash/BarrageRenderer) - 一个 iOS 上的弹幕渲染库.
+* [LiveSendGift](https://github.com/Jonhory/LiveSendGift) - 直播发送弹幕效果.
+* [HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo) - iOS端视频弹幕.
+
+#### GIF@
+
+* [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - 高性能GIF动画引擎.
+* [YLGIFImage](https://github.com/liyong03/YLGIFImage) - 异步方式实现突Gif突破编码、显示，低内存占用.
+* [AnimatedGIFImageSerialization](https://github.com/mattt/AnimatedGIFImageSerialization) - Complete Animated GIF Support for iOS, with Functions, NSJSONSerialization-style Class, and (Optional) UIImage Swizzling.
+* [XAnimatedImage](https://github.com/khaledmtaha/XAnimatedImage) - XAnimatedImage is a performant animated GIF engine for iOS written in Swift based on FLAnimatedImage :large_orange_diamond:
+* [SwiftGif](https://github.com/bahlo/SwiftGif) - :sparkles: A small UIImage extension with gif support :large_orange_diamond:
+* [APNGKit](https://github.com/onevcat/APNGKit) - High performance and delightful way to play with APNG format in iOS. :large_orange_diamond:
+* [YYImage](https://github.com/ibireme/YYImage) - Image framework for iOS to display/encode/decode animated WebP, APNG, GIF, and more.
+* [NSGIF2](https://github.com/metasmile/NSGIF2) - Simplify creation of a GIF from the provided video file url.
+* [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance GIF engine :large_orange_diamond:
+* [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView-PlayGIF.
+* [droptogif](https://github.com/mortenjust/droptogif) -  droptogif视频拖拽到应用窗口后自动转换为 GIF 动画（其转换进程动画效果也超赞）.
+
+#### VR@
+
+* [HTY360Player](https://github.com/hanton/HTY360Player) - 一款360度全景视频播放器.
+* [ios-360-videos](https://github.com/NYTimes/ios-360-videos) - 基于AVPlayer的360度全景视频播放器.
+
+#### AR@
+
+* [Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources. Feel free to contribute.
+* [AR-Source](https://github.com/GeekLiB/AR-Source) - AR开发资料汇总.
+* [ARShooter](https://github.com/farice/ARShooter) - A demo Augmented Reality shooter made with ARKit in Swift (iOS 11) http://texnotes.me/post/5/.
+* [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) - This library uses ARKit Face Tracking in order to catch a user's smile.
+* [TGLAugmentedRealityView](https://github.com/gleue/TGLAugmentedRealityView) - Augmented Reality made easy -- place overlays on a camera preview and adjust their position depending on device attitude.
+* [ARImageViewer](https://github.com/keayou/ARImageViewer) - 一款基于ARKit的AR图片查看器.
+
+#### 二维码@
+
+* [ZXingObjC](https://github.com/TheLevelUp/ZXingObjC)  - 👍 An Objective-C Port of ZXing.
+* [LBXScan](https://github.com/MxABC/LBXScan) - 👍 A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和ios系统自带扫码封装，扫码界面效果封装)(Objective-C和Swift均支持).
+* [原生实现扫描二维码条码](http://code.cocoachina.com/view/129108) - iOS原生实现扫描二维码条码.
+* [ZFScan](https://github.com/Zirkfied/ZFScan) - 仿微信 二维码/条形码 扫描.
+* [HMQRCodeScanner](https://github.com/liufan321/HMQRCodeScanner) - 包含 UI 界面的轻量级二维码扫描及生成框架，提供一个导航控制器，扫描 二维码 / 条形码；能够生成指定 字符串 + avatar(可选) 的二维码名片；能够识别相册图片中的二维码(iOS 64 位设备).
+* [QRCatcher](https://github.com/100mango/QRCatcher) - 一个简洁美观的二维码扫描应用， [iOS学习：AVFoundation 视频流处理--二维码].
+* [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - 带状态控制的条码扫描库，支持处理相机权限、自定义颜色和提示信息，不依赖其他第三方库).
+* [MQRCodeReaderViewController](https://github.com/zhengjinghua/MQRCodeReaderViewController) - 二维码扫描控件.
+* [QRWeiXinDemo](https://github.com/lcddhr/QRWeiXinDemo) - 仿微信二维码扫描，中间透明区域.
+* [EFQRCode](https://github.com/EyreFree/EFQRCode) - iOS 花式二维码生成库.
+
+#### PDF@
+
+* [Reader](https://github.com/vfr/Reader) - Reader可提供类似iBooks的文档导航，支持屏幕旋转和所有方向，并通过密码保护加密PDF文件，支持PDF链接和旋转页面.
+* [PDFXKit](https://github.com/PSPDFKit/PDFXKit) - A drop-in replacement for Apple PDFKit powered by our PSPDFKit framework under the hood.
 
 #### 图像@
 
@@ -925,6 +901,38 @@ A curated list of iOS objective-C ecosystem.
 #### 截屏@
 
 * [PPSnapshotKit](https://github.com/VernonVan/PPSnapshotKit) - 在包括 UIWebView 和 WKWebView 的网页中进行长截图.
+
+#### 安全@
+
+* [Objective-C-RSA](https://github.com/ideawu/Objective-C-RSA) - Doing RSA encryption and decryption with Objective-C on iOS.
+* [NSDictionary-NilSafe](https://github.com/allenhsu/NSDictionary-NilSafe) - How we made NSDictionary nil safe at Glow.
+* [Myriam](https://github.com/GeoSn0w/Myriam) - A vulnerable iOS App with Security Challenges for the Security Researcher inside you.
+* [Valet](https://github.com/square/Valet) - 让你安全地存储在iOS和OS X的钥匙串数据，而无需了解的钥匙扣如何工作的事情.
+* [Hopper App](https://www.hopperapp.com/) - Hopper Disassembler是一款逆向工程工具，iOS爱好者可以使用它来进行反汇编，反编译和调试应用程序。此工具也可用于修改和重组代码。你只需在你的macOS或Linux系统上启动该应用，然后将其指向你需要破解的二进制文件即可。总的来说Hopper是一款非常好用的逆向工程工具，对于热衷于iOS漏洞赏金的人而言，无疑它将成为一个首选.
+* [ios-class-guard](https://github.com/Polidea/ios-class-guard) - 一个用于混淆iOS的类名、方法名以及变量名的开源库--有人反映编译出来的app运行不了.
+* [《Protecting iOS Applications》](https://www.polidea.com/#!heartbeat/blog/Protecting_iOS_Applications) - 文章系统地介绍了如何保护iOS程序的代码安全，防止反汇编分析.
+* [fishhook](https://github.com/facebook/fishhook) - fishhook是Facebook开源的一个可以hook系统方法的工具.
+* [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev) - CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps, Without Jailbreak.
+* [MSCrashProtector](https://github.com/JZJJZJ/MSCrashProtector) - An Global protection scheme(代码容错处理).
+* [JMPasswordView](https://github.com/Juuman/JMPasswordView) - 简单实用的手势密码，效果可自行调控.
+* [LSSafeProtector](https://github.com/lsmakethebest/LSSafeProtector) - 防止crash框架，不改变原代码支持KVO自释放，可以检测到dealloc时未释放的kvo，等19种crash.
+* [WHC_ConfuseSoftware](https://github.com/netyouli/WHC_ConfuseSoftware) - iOS代码自动翻新(混淆)专家(WHC_ConfuseSoftware)是一款新一代运行在MAC OS平台的App、完美支持Objc和Swift项目代码的自动翻新(混淆)、支持文件名、类名、方法名、属性名、添加混淆方法体、添加混淆属性、自动调用混淆方法等。。。功能强大而稳定.
+* [仿密码锁-九宫格](http://code.cocoachina.com/detail/298556/%E4%BB%BF%E5%AF%86%E7%A0%81%E9%94%81-%E4%B9%9D%E5%AE%AB%E6%A0%BC/) - 仿密码锁-九宫格，主要是使用UIButton 手势事件  UIBezierPath画图，解锁失败弹出“密码错误”.
+* [CoreLock](https://github.com/CharlinFeng/CoreLock) - 本框架是高仿支付宝，并集成了所有功能，并非一个简单的解锁界面展示。个人制作用时1周多，打造解锁终结者框架.
+* [LikeAlipayLockCodeView](https://github.com/crazypoo/LikeAlipayLockCodeView) - 高仿支付宝手势解锁（超级版）.
+* [Smile-Lock.swfit](https://github.com/liu044100/Smile-Lock) - 一个类似于iOS的解锁界面.
+* [PCGestureUnlock](https://github.com/iosdeveloperpanc/PCGestureUnlock) - 目前最全面最高仿支付宝的手势解锁，而且提供方法进行参数修改，能解决项目开发中所有手势解锁的开发.
+* [ICPayPassWordDemo](https://github.com/icoder20150719/ICPayPassWordDemo) - CPayPassWordDemo，一个模仿支付宝支付密码输入对话框小demo.
+* [RSAESCryptor](https://github.com/bigsan/RSAESCryptor) - 加密 RSA+AES Encryption/Decryption library for iOS. This library uses 2048-bit RSA and 256-bit key with 128-bit block size AES for encryption/decryption.
+* [TouchID](https://github.com/bringbird/TouchID) - 用法简单的TouchID验证框架：两行代码搞定.
+* [SFHFKeychainUtils] (https://github.com/ldandersen/scifihifi-iphone) - iOS中使用SFHFKeychainUtils保存用户密码，比如项目中需要保存用户密码，以实现自动登录的功能可以使用.
+* [AESCipher-iOS](https://github.com/WelkinXie/AESCipher-iOS) - AESCipher-iOS:用 Objective-C 实现的 AES 加密。与 [AESCipher-Java](https://github.com/WelkinXie/AESCipher-Java) 一并使用能达到 在iOS、Android、Java后台产生相同密文、正确解密成明文的目的。[AES加密 - iOS与Java的同步实现](http://www.jianshu.com/p/df828a57cb8f).
+* [ABPadLockScreen](https://github.com/abury/ABPadLockScreen) - 九宫格密码锁.
+
+#### 逆向@
+
+* [app2dylib](https://github.com/tobefuturer/app2dylib) - A reverse engineering tool to convert iOS app to dylib.
+* [iWeChat](https://github.com/lefex/iWeChat) - 我们一起来还原微信。希望通过 iWeChat 这个项目能过勾勒出微信的设计，使用到的技术手段等.
 
 #### AutoLayout@
 
@@ -1129,7 +1137,8 @@ A curated list of iOS objective-C ecosystem.
 #### scrollView@
 
 * [SYParallaxScrollView](https://github.com/syjdev/SYParallaxScrollView) - Useful for Configure Horizontal Parallax Scroll.
-* [LazyScrollView](https://github.com/alibaba/LazyScrollView) - iOS 高性能异构滚动视图构建方案
+* [LazyScrollView](https://github.com/alibaba/LazyScrollView) - iOS 高性能异构滚动视图构建方案.
+* [GKPageScrollView](https://github.com/QuintGao/GKPageScrollView) - iOS类似微博、抖音、网易云等个人详情页滑动嵌套效果.
 
 #### 对话交互@
 #### 隐藏与显示@
@@ -1536,13 +1545,6 @@ A curated list of iOS objective-C ecosystem.
 * [xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font.
 * [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit) - 图片字体库，支持超级字体、基础Icon等，支持同时支持Swift.
 
-#### 多线程@
-
-* [YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool) - iOS 全局并发队列管理工具.
-* [JX_GCDTimer](https://github.com/Joeyqiushi/JX_GCDTimer) - 定时器，NSTimer和GCD哪个更好.
-* [BLStopwatch](https://github.com/beiliao-mobile/BLStopwatch) - 代码耗时打点计时器.
-* [Thread](https://github.com/mrhyh/Thread) - 多线程Demo集合.
-
 #### 日历@
 
 * [FDCalendar](https://github.com/fergusding/FDCalendar) - A custom calendar control in iOS.
@@ -1720,6 +1722,10 @@ A curated list of iOS objective-C ecosystem.
 * [KVOController] (https://github.com/facebook/KVOController)  是一个简单安全的KVO（Key-value Observing，键-值观察）工具，用于iOS 和OS X 应用开发中，开源自facebook。 在项目中有使用 KVO ，那么 KVOController 绝对是个好选择。
 * [DecouplingKit] (https://github.com/coderyi/DecouplingKit)   iOS模块化过程中模块间解耦方案。
 * [Trip-to-iOS-Design-Patterns](https://github.com/skyming/Trip-to-iOS-Design-Patterns)
+
+#### 区块链@
+
+* [awesome-blockchain](https://github.com/chaozh/awesome-blockchain) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料.
 
 #### 版本管理@
 
@@ -2109,6 +2115,12 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [HYBUnicodeReadable](https://github.com/CoderJackyHuang/HYBUnicodeReadable) -解决打印日志对于Unicode编码不能正常显示中文的问题，只需要将文件导入工程，不需要引用，就能达到打印日志显示Unicode编码中文数据
 * [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - 一个json转模型的mac软件，ESJsonFormat-Xcode的替代产品,非常不错👍 .
 * [WHC_DataModelFactory](https://github.com/netyouli/WHC_DataModelFactory) Mac上iOS开发辅助工具，快速把json/xml数据转换生成对应模型类属性，省去麻烦手动创建，提高开发效率。
+* [Hyperion-iOS](https://github.com/willowtreeapps/Hyperion-iOS) - 内嵌app内部的控件尺寸测量工具.
+
+
+#### 崩溃捕获@
+
+- [plcrashreporter](https://github.com/microsoft/plcrashreporter) - Reliable, open-source crash reporting for iOS and Mac OS X .
 
 #### Runtime@
 
@@ -2430,6 +2442,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [LuLu](https://github.com/objective-see/LuLu) - 防火墙 LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic.
 * [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开.
 * [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 微信 macOS 客户端撤回拦截与多开.
+* [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - 防止mac休眠.
 * [squirrel](https://github.com/rime/squirrel) - Rime鼠须管”输入法.
 * [Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS (mac软件自动升级开源类库).
 * [magnetX](https://github.com/youusername/magnetX) - 资源搜索型软件 macOS OSX magnet.
@@ -2443,6 +2456,8 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful OS X desktop automation with Lua(一个可以用来进行窗口管理的 App).
 * [marzipanify](https://github.com/steventroughtonsmith/marzipanify) - Convert an iOS Simulator app bundle to an iOSMac (Marzipan) one (Unsupported & undocumented, WIP).
 * [EnergyBar](https://github.com/billziss-gh/EnergyBar) - Supercharge your Mac's Touch Bar.
+* [HexFiend](https://github.com/ridiculousfish/HexFiend) - 在mac下查看二进制文件的编辑器.
+* [syncthing-macos](https://github.com/syncthing/syncthing-macos) - Frugal and native macOS Syncthing application bundle.
 
 #### iOS插件@
 
