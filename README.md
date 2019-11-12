@@ -3,7 +3,7 @@
 [![Language](https://img.shields.io/badge/language-ObjC-blue.svg)](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)  
 
 [Swift版本点击这里](https://github.com/Tim9Liu9/TimLiu-iOS/blob/master/Swift.md)
-欢迎加入QQ群交流:  594119878 (入群答案：TimLiu-iOS)
+欢迎加入QQ群交流:  594119878(一群已满) 331409824（加二群） (入群答案：TimLiu-iOS)
 
 ### About
 
@@ -1421,7 +1421,7 @@ A curated list of iOS objective-C ecosystem.
 #### 工具@
 #### 综合@
 * [sstoolkit](https://github.com/soffes/sstoolkit) - 一个不错的工具包，提供各种比如编码、加密、字符串处理等等东西，还提供了一些不错的自定义控件，并且文档非常齐全
-* [KJEmitterView](https://github.com/yangKJ/KJEmitterView) - 粒子效果、扩展、好用的工具等等，Button图文混排、点击事件封装、扩大点击域，手势封装、圆角渐变、Xib属性、TextView输入框扩展、限制字数，Image图片加工处理、滤镜渲染、泛洪算法，_KJMacros常用宏定义，Label富文本，自定义笑脸Switch，自定义动画选中控件，Alert控件，数组和字典防崩处理，数组算法处理等等等
+* [KJEmitterView](https://github.com/yangKJ/KJEmitterView) - 粒子效果、扩展、好用的工具等等，Button图文混排、点击事件封装、扩大点击域，手势封装、圆角渐变、Xib属性、TextView输入框扩展、限制字数，Image图片加工处理、滤镜渲染、泛洪算法_KJMacros常用宏定义，Label富文本，自定义笑脸Switch，自定义动画选中控件，Alert控件，数组和字典防崩处理，数组算法处理等等等
 
 #### 提醒用户评分@
 
