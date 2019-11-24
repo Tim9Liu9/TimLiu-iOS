@@ -215,6 +215,8 @@ A curated list of iOS objective-C ecosystem.
 * [katana-swift](https://github.com/BendingSpoons/katana-swift) - Swift Apps in a Swoosh! A modern framework for creating iOS apps, inspired by React and Redux. http://katana.bendingspoons.com
 * [SlackKit](https://github.com/SlackKit/SlackKit) SlackKit makes it easy to build Slack apps in Swift.
 * [Lona](https://github.com/airbnb/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, images, and other artifacts.
+* [ReSwift](https://github.com/ReSwift/ReSwift) - ReSwift 是一个轻量级的框架，能够帮助你很轻松的去构建一个 Redux 架构的app.
+* [Lotusoot](https://github.com/Vegetarians/Lotusoot) - 灵活的 Swift 组件通信和路由工具.
 * [katana-swift](https://github.com/BendingSpoons/katana-swift)一个用于编写iOS应用程序的现代Swift框架，灵感来自React和Redux。 Swift Apps in a Swoosh! A modern framework for creating iOS apps, inspired by React and Redux.
 * [SwiftyMocky](https://github.com/MakeAWishFoundation/SwiftyMocky) - Framework for mock generation.
 * [Flix](https://github.com/DianQK/Flix) - 快速搭建列表类界面的框架.

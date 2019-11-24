@@ -1,4 +1,3 @@
-# TimLiu-iOS
 [![Test Status](https://travis-ci.org/douban/rexxar-ios.svg?branch=master)](https://travis-ci.org/douban/rexxar-ios)
 [![Language](https://img.shields.io/badge/language-ObjC-blue.svg)](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)  
 
@@ -160,14 +159,14 @@ A curated list of iOS objective-C ecosystem.
   - [通讯录@](#通讯录)
   - [深度学习@](#深度学习)
 - [其他库@](#其他库)
-- [三方@](#三方)
-  - [三方分享、支付、登录等等@](#三方分享、支付、登录等等)
 - [消息相关@](#消息相关)
   - [消息推送客户端@](#消息推送客户端)
   - [消息推送服务器端@](#消息推送服务器端)
   - [通知相关请搜索“对话交互@”@](#通知相关请搜索“对话交互@”@)
 - [时间日期@](#时间日期)
 - [设计模式@](#设计模式)
+- [三方@](#三方)
+  - [三方分享、支付、登录等等@](#三方分享、支付、登录等等)
 - [区块链@](#区块链)
 - [版本管理@](#版本管理)
   - [Git用法@](#Git用法)
@@ -277,15 +276,10 @@ A curated list of iOS objective-C ecosystem.
 #### 框架@                                               
 
 * [nimbus](https://github.com/jverkoey/nimbus)  - Nimbus是一个开源的iOS框架，比起Three20，Nimbus的文档更为全面、丰富，能够实现很多非常炫的界面特效.
-* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa受函数响应式编程激发。不同于使用可变的变量替换和就地修改，RAC提供Signals来捕获当前值和将来值（ [使用介绍](http://yulingtianxia.com/blog/2014/07/29/reactivecocoa/) ），[不错的例子](http://iiiyu.com/2014/12/26/learning-ios-notes-thirty-six/),入门好教程：[ReactiveCocoa入门教程：第一部分 ](http://www.cocoachina.com/ios/20150123/10994.html)。[Reactive Cocoa 3.0 在 MVVM 中的应用](http://ios.jobbole.com/82232/) ,[小码哥：快速让你上手ReactiveCocoa之基础篇](http://www.jianshu.com/p/87ef6720a096)。
 * [flutter](https://github.com/flutter/flutter) - Flutter针对想要在Android和iOS上运行的2D移动应用进行了优化。您可以使用Flutter构建全功能应用程序，包括相机、地理位置、网络、存储、第三方SDK等.
 * [flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档.
 - [FRDModuleManager](https://github.com/lincode/FRDModuleManager) - AppDelegate瘦身，iOS Module Manager library.
-* [react-native-maps](https://github.com/airbnb/react-native-maps) - React Native Mapview component for iOS + Android.
-* [react-native-svg](https://github.com/react-native-community/react-native-svg)  - SVG library for React Native. react-native-svg is built to provide a SVG interface to react native on both iOS and Android.
-* [react-native-maps](https://github.com/react-community/react-native-maps) - React Native Mapview component for iOS + Android.
 * [promises](https://github.com/google/promises) - Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.Promise 就是链的方式对结果类型闭包的封装，避免层层闭包重复嵌套难以阅读.
-* [react-native-code-push](https://github.com/Microsoft/react-native-code-push) - React Native module for CodePush（微软提供的一套可用于React Native和Cordova的热更新服务）.
 * [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController) - 低耦合集成TabBarController,最低只需传两个数组即可完成主流App框架搭建.
 * [keystone](https://github.com/keystone-enclave/keystone) - Keystone Enclave (QEMU).
 * [samurai-native](https://github.com/hackers-painters/samurai-native) - 是一个基于浏览器内核通过HTML+CSS 开发原生移动应用的iOS框架.
@@ -305,25 +299,29 @@ A curated list of iOS objective-C ecosystem.
 
 #### React@
 
+* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa受函数响应式编程激发。不同于使用可变的变量替换和就地修改，RAC提供Signals来捕获当前值和将来值（ [使用介绍](http://yulingtianxia.com/blog/2014/07/29/reactivecocoa/) ），[不错的例子](http://iiiyu.com/2014/12/26/learning-ios-notes-thirty-six/),入门好教程：[ReactiveCocoa入门教程：第一部分 ](http://www.cocoachina.com/ios/20150123/10994.html)。[Reactive Cocoa 3.0 在 MVVM 中的应用](http://ios.jobbole.com/82232/) ,[小码哥：快速让你上手ReactiveCocoa之基础篇](http://www.jianshu.com/p/87ef6720a096)。
 * [react-native](https://github.com/facebook/react-native)  - A framework for building native apps with React.
 * [weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI.
 * [LoginWithReactiveCocoa](https://github.com/CrazySurfBoy/LoginWithReactiveCocoa) - ReactiveCocoa - 登录交互效果的实现。
 * [BeeFramework](https://github.com/gavinkwoe/BeeFramework) -  与ReactiveCocoa类似，[BeeFramework用户指南 v1.0](http://www.lanrenios.com/tutorials/all/2012/1220/641.html)。
 * [Objective-Chain](https://github.com/Tricertops/Objective-Chain) - Objective-Chain是一个面向对象的响应式框架，作者表示该框架吸收了 ReactiveCocoa 的思想，并且想做得更面向对象一些。
 * [MVVMFramework](https://github.com/lovemo/MVVMFramework) - (OC版)总结整理下一个快速开发框架，分离控制器中创建tableView和collectionView的代码，已加入cell自适应高度，降低代码耦合，提高开发效率。
-* [react-native-config](https://github.com/luggit/react-native-config) - Bring some 12 factor love to your mobile apps.
+* [react-native-config](https://github.com/luggit/react-native-config) - 用于响应本机应用程序的配置变量,模块将配置变量公开到你的javascript代码中，同时支持iOS和 Android.
 * [react-native-syan-image-picker](https://github.com/syanbo/react-native-syan-image-picker) - React-Native 多图片选择 支持裁剪 压缩.
 * [ReactNative的理解与思考,三端同一套代码的实践](http://www.jianshu.com/p/1144469bf81f?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io).
 * [RNStudyNotes](https://github.com/crazycodeboy/RNStudyNotes) - React Native 研究与实践.
 * [react-native-orientation](https://github.com/yamill/react-native-orientation) - Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis.
 * [QTEventBus](https://github.com/LeoMobileDeveloper/QTEventBus) - 优雅的处理全局事件，支持AppDelegate解耦.
 * [react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript) - Clean and minimalist React Native template for a quick start with TypeScript.
+* [react-native-viewpager](https://github.com/react-native-community/react-native-viewpager) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
+* [react-native-maps](https://github.com/airbnb/react-native-maps) - React Native Mapview component for iOS + Android.
+* [react-native-svg](https://github.com/react-native-community/react-native-svg)  - SVG library for React Native. react-native-svg is built to provide a SVG interface to react native on both iOS and Android.
+* [react-native-maps](https://github.com/react-community/react-native-maps) - React Native Mapview component for iOS + Android.
+* [react-native-code-push](https://github.com/Microsoft/react-native-code-push) - React Native module for CodePush（微软提供的一套可用于React Native和Cordova的热更新服务）.
 
 #### framework@
 
-* [ReSwift](https://github.com/ReSwift/ReSwift) - ReSwift 是一个轻量级的框架，能够帮助你很轻松的去构建一个 Redux 架构的app.
 * [Small](https://github.com/wequick/Small) - A small framework to split app into small parts.
-* [Lotusoot](https://github.com/Vegetarians/Lotusoot) - 灵活的 Swift 组件通信和路由工具.
 * [Aspects](https://github.com/steipete/Aspects) - 个简洁高效的用于使iOS支持AOP面向切面编程的库.它可以帮助你在不改变一个类或类实例的代码的前提下,有效更改类的行为.
 * [Form](https://github.com/hyperoslo/Form) - JSON 驱动的 Form表单系统，复杂的表单填写类 App 极其需要（比如淘宝呢！）.
 
@@ -1580,6 +1578,7 @@ A curated list of iOS objective-C ecosystem.
 * [Potatso](https://github.com/shadowsocks/Potatso) - 基于iOS 9 的 NetworkExtension 框架实现 Shadowsocks 代理，由国人开发，虽然还有很多问题不过确实值得期待.
 * [forum](https://github.com/getlantern/forum) - 蓝灯(Lantern)官方论坛.
 * [WireGuard](https://github.com/WireGuard/WireGuard) - Jason A. Donenfeld开发的开源VPN协议。目前支持Linux, macOS, Android以及OpenWrt.
+* [V2RayX](https://github.com/Cenmrev/V2RayX) - 一个非常小巧灵活的代理软件.
 
 #### 地图@
 
@@ -1639,16 +1638,6 @@ A curated list of iOS objective-C ecosystem.
 #### 通讯@
 
 * [peertalk](https://github.com/rsms/peertalk) - peertalk 是一个支持 iOS 与 Mac 通过 USB 相互通讯的开源库。 Duet Display 基于此实现了将 Mac 界面呈现到 iOS 设备上.
-
-#### 三方@
-#### 三方分享、支付、登录等等@
-
-* [openshare](https://github.com/100apps/openshare) - 不用官方SDK，利用社交软件移动客户端(微信/QQ/微博/人人/支付宝)分享/登录/支付.
-* [RongCloud-SDK-description](https://github.com/zhengwenming/RongCloud-SDK-description) 介绍融云SDK即时通讯机制和集成步骤，由于国内CSDN博客封杀带有广告性质的文章（其实不是打广告，纯粹的技术分享），所以只能在Github发表了。希望大家支持我，谢谢。Demo地址：https://github.com/zhengwenming/RCIM .
-* [RCIM](https://github.com/zhengwenming/RCIM) 融云SDK集成即时通讯。单聊，群聊，讨论组，自定义cell,自定义消息等.
-* [WechatPayDemo](https://github.com/gbammc/WechatPayDemo) - 非官方微信支付 iOS demo.
-* [ShareView](https://github.com/mrhyh/ShareView) - 一个xib做的分享UI.
-* [HXEasyCustomShareView](https://github.com/huangxuan518/HXEasyCustomShareView) - 轻松集成分享界面UI.
 
 #### 其他库@
 
@@ -1729,6 +1718,16 @@ A curated list of iOS objective-C ecosystem.
 * [KVOController] (https://github.com/facebook/KVOController)  是一个简单安全的KVO（Key-value Observing，键-值观察）工具，用于iOS 和OS X 应用开发中，开源自facebook。 在项目中有使用 KVO ，那么 KVOController 绝对是个好选择。
 * [DecouplingKit] (https://github.com/coderyi/DecouplingKit)   iOS模块化过程中模块间解耦方案。
 * [Trip-to-iOS-Design-Patterns](https://github.com/skyming/Trip-to-iOS-Design-Patterns)
+
+#### 三方@
+#### 三方分享、支付、登录等等@
+
+* [openshare](https://github.com/100apps/openshare) - 不用官方SDK，利用社交软件移动客户端(微信/QQ/微博/人人/支付宝)分享/登录/支付.
+* [RongCloud-SDK-description](https://github.com/zhengwenming/RongCloud-SDK-description) 介绍融云SDK即时通讯机制和集成步骤，由于国内CSDN博客封杀带有广告性质的文章（其实不是打广告，纯粹的技术分享），所以只能在Github发表了。希望大家支持我，谢谢。Demo地址：https://github.com/zhengwenming/RCIM .
+* [RCIM](https://github.com/zhengwenming/RCIM) 融云SDK集成即时通讯。单聊，群聊，讨论组，自定义cell,自定义消息等.
+* [WechatPayDemo](https://github.com/gbammc/WechatPayDemo) - 非官方微信支付 iOS demo.
+* [ShareView](https://github.com/mrhyh/ShareView) - 一个xib做的分享UI.
+* [HXEasyCustomShareView](https://github.com/huangxuan518/HXEasyCustomShareView) - 轻松集成分享界面UI.
 
 #### 区块链@
 
