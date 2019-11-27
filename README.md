@@ -24,6 +24,7 @@ A curated list of iOS objective-C ecosystem.
   - [react@](#react)
   - [framework@](#framework)
   - [混合开发@](#混合开发)
+  - [组件化@](#组件化)
 - [多线程@](#多线程)
 - [网络@](#网络)
   - [网络请求@](#网络请求)
@@ -334,12 +335,22 @@ A curated list of iOS objective-C ecosystem.
 
 * [rexxar-ios](https://github.com/douban/rexxar-ios) - 豆瓣推的混合开发库 Mobile Hybrid Framework Rexxar iOS Container.
 
+#### 组件化@
+
+* [JLRoutes](https://github.com/joeldev/JLRoutes) - JLRoutes好用的URL map库，它的作用是让按钮的点击像网页里的链接一样，只是触发了某个URL，而没有像pushViewController这样的行为，实现解耦.
+* [CTMediator](https://github.com/casatwy/CTMediator) - 应用架构组件化解耦库,让你的`Appdelegate.h`等文件不在显得头大,模块之间解除强耦合性.
+* [MGJRouter](https://github.com/meili/MGJRouter) - 一个高效/灵活的 iOS URL Router.
+* [HHRouter](https://github.com/lightory/HHRouter) - 页面跳转方式，可以将 UIViewController 映射成 URL，从而支持通过 URL 进行界面跳转，类似 Web 一样.
+* [routable-ios](https://github.com/clayallsopp/routable-ios) - 代码解耦-iOS应用內动态跳转解决方案.
+
 #### 多线程@
 
 * [YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool) - iOS 全局并发队列管理工具.
 * [JX_GCDTimer](https://github.com/Joeyqiushi/JX_GCDTimer) - 定时器，NSTimer和GCD哪个更好.
 * [BLStopwatch](https://github.com/beiliao-mobile/BLStopwatch) - 代码耗时打点计时器.
 * [Thread](https://github.com/mrhyh/Thread) - 多线程Demo集合.
+
+
 
 #### 网络@
 #### 网络请求@
@@ -936,6 +947,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 逆向@
 
+* [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - 重签名工具.
 * [app2dylib](https://github.com/tobefuturer/app2dylib) - A reverse engineering tool to convert iOS app to dylib.
 * [iWeChat](https://github.com/lefex/iWeChat) - 我们一起来还原微信。希望通过 iWeChat 这个项目能过勾勒出微信的设计，使用到的技术手段等.
 
@@ -1684,8 +1696,6 @@ A curated list of iOS objective-C ecosystem.
 * [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth) - 是一个非常容易使用的蓝牙库, 适用于 iOS 和 Mac OS, 基于原生 CoreBluetooth 框架封装, 可以帮开发者们更简单地使用 CoreBluetooth API, 使用链式方法体, 使得代码更简洁、优雅。[iOS蓝牙开发（四）：BabyBluetooth蓝牙库介绍](http://www.cocoachina.com/ios/20160219/15301.html)
 * [BHBDrawBoarderDemo车](https://github.com/bb-coder/BHBDrawBoarderDemo) - 仿写猿题库练题画板功能，没有用drawRect，而是用CAShapeLayer来做画板绘画，特别省内存，赞1个，[实现分析](http://bihongbo.com/2016/01/03/memoryGhostdrawRect/).
 * [BGTaobao](https://github.com/huangzhibiao/-) - ios 高仿淘宝/京东详情页 - 集合各种测试框架.
-* [JLRoutes](https://github.com/joeldev/JLRoutes) - JLRoutes好用的URL map库，它的作用是让按钮的点击像网页里的链接一样，只是触发了某个URL，而没有像pushViewController这样的行为，实现解耦.
-* [CTMediator](https://github.com/casatwy/CTMediator) - 应用架构组件化解耦库,让你的`Appdelegate.h`等文件不在显得头大,模块之间解除强耦合性.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - 同时支持 Swift 及 Objective-C 的 Promise 类库，异步编程类库 提供了很多实用的异步函数 让异步编程更简单.
 * [HWChangeFont](https://github.com/Loveway/HWChangeFont) - 利用runtime一键改变字体。[教程](http://www.jianshu.com/p/b9fdd17c525e).
 * [RuntimeSummary](https://github.com/Tuccuay/RuntimeSummary) - 一个集合了常用 Objective-C Runtime 使用方法的 Playground。
@@ -2506,7 +2516,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 #### 后台@
 
 * [HttpServerDebug](https://github.com/rob2468/HttpServerDebug)
-* [GCDWebServer](https://github.com/swisspol/GCDWebServer) - 基于GCD的轻量级的HTTP服务器.
+* [GCDWebServer](https://github.com/swisspol/GCDWebServer) - 基于GCD的轻量级的HTTP1.1的服务器.
 * [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 * [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 * [Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN) - Python最佳实践指南.
