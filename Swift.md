@@ -205,6 +205,7 @@ A curated list of iOS objective-C ecosystem.
 * [RxPermission.swift](https://github.com/sunshinejr/RxPermission) - 通过绑定 RxSwift 实现的 RxPermission。
 * [ReactiveAnimation](https://github.com/ReactiveCocoa/ReactiveAnimation) - ReactiveCocoa 推出了一个叫 ReactiveAnimation 的子项目，直接用完全用 Swift 来实现了。
 * [Swiftest](https://github.com/bppr/Swiftest) - BDD 全称 Behavior Driven Development，行为驱动开发。各种 DD 数不胜数，孰优孰劣争论不休，其实归根结底还是要根据使用场景进行选择。
+* [SemanticUI](https://github.com/aaronbrethorst/SemanticUI) - Semantic UI 是一套开源的 CSS 与 JavaScript 框架，提供了一些设计好的界面组件，你可以在项目里直接使用这些组件。它还提供了一套很方便的定制主题的方法，你可以用自己的想法去改变界面组件的样式。在这个教程里我们学习一下安装 Semantic UI.
 
 #### 页面路由@
 
@@ -232,6 +233,8 @@ A curated list of iOS objective-C ecosystem.
 * [Permission.swift](https://github.com/delba/Permission) - 统一的 API 请求 iOS 本地设备及资源权限类库。
 * [Proposer](https://github.com/nixzhu/Proposer) - Proposer 用单个 API 处理 iOS 上的权限请求，以便使用前确认可访问“相册”、“相机”、“麦克风”、“通讯录”或“用户位置”.
 * [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - OAuthSwift国外主流网站OAuth授权类库。
+* [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS
+* [AppAuth-iOS](https://github.com/openid/AppAuth-iOS) - iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers. 用于iOS和MacOS的OAuth和OpenID Connect客户端.
 
 
 #### 网络@
@@ -289,6 +292,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift. :large_orange_diamond:.
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - 很赞 ObjectMapper 是一个基于 Swift 语言开发的能够让 JSON 与 Object 之间轻易转换的类库。通过 ObjectMapper 我们可以将 JSON 数据转换成 Model 对象或将 Model 对象转换成 JSON 数据。 Simple JSON Object mapping written in Swift.
+* [Mantle](https://github.com/Mantle/Mantle) - Model framework for Cocoa and Cocoa Touch.
 * [Decodable](https://github.com/Anviking/Decodable) - Swift 2 JSON parsing done (more) right :large_orange_diamond:.
 * [Jay](https://github.com/czechboy0/Jay) - Pure-Swift JSON parser & formatter. Linux & OS X ready. :large_orange_diamond:.
 * [XMLDictionary](https://github.com/nicklockwood/XMLDictionary) - ios与mac os平台下xml与NSDictionary相互转化开源类库.
@@ -380,6 +384,7 @@ A curated list of iOS objective-C ecosystem.
 * [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
 * [MySQL](https://github.com/PerfectlySoft/Perfect-MySQL) - A Swift wrapper around the MySQL client library, enabling access to MySQL servers. Part of the
 * [Redis](https://github.com/PerfectlySoft/Perfect-Redis) - A Swift wrapper around the Redis client library, enabling access to Redis. Part of the
+* [PostgresApp](https://github.com/PostgresApp/PostgresApp) - 以加州大学伯克利分校计算机系开发的 POSTGRES，现在已经更名为PostgreSQL，版本 4.2为基础的对象关系型数据库管理系统（ORDBMS).
 * [PostgreSQL](https://github.com/PerfectlySoft/Perfect-PostgreSQL) - A Swift wrapper around the libpq client library, enabling access to PostgreSQL servers. Part of the
 * [FileMaker](https://github.com/PerfectlySoft/Perfect-FileMaker) - A Swift wrapper around the FileMaker XML Web publishing interface, enabling access to FileMaker servers. Part of the
 * [AppFolder](https://github.com/dreymonde/AppFolder) - Never use NSSearchPathForDirectoriesInDomains again.
@@ -571,6 +576,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - 很多流行的算法和数据结构的具体实现，非常赞👍👍👍 .
 * [SwiftSortedList](https://github.com/bemindinteractive/SwiftSortedList) - A sorted list implementation written in Swift :large_orange_diamond:
+* [LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift) - Solutions to LeetCode by Swift.
 * [BTree](https://github.com/attaswift/BTree) - Fast ordered collections for Swift using in-memory B-trees :large_orange_diamond:
 * [SwiftStructures](https://github.com/waynewbishop/SwiftStructures) - Examples of commonly used data structures and algorithms in Swift. :large_orange_diamond:
 * [diff](https://github.com/soffes/diff) - Simple diff library in pure Swift :large_orange_diamond:
@@ -673,6 +679,7 @@ A curated list of iOS objective-C ecosystem.
 #### 富文本@
 
 * [RichEditorView](https://github.com/cjwirth/RichEditorView) - swift，一套可定制富文本编辑器组件及示例。功能完整、代码简练、实现逻辑巧妙（编辑器核心与 WebView 结合，采用 HTML5 contentEditable 编辑模式，执行JS 配套命令 execCommand 实现富文本编辑功能）。
+* [Ink](https://github.com/JohnSundell/Ink) - A fast and flexible Markdown parser written in Swift.
 * [SwiftyMarkdown.swift](https://github.com/SimonFairbairn/SwiftyMarkdown) - 用swift写的markdown解析库。
 * [Marklight.swift](https://github.com/macteo/Marklight) - Markdown 语法高亮显示编辑库（Swift）。
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - swift 能够实现文字变形动画效果的Label，用Swift写的一个能够实现文字变形动画效果的Label，很炫。
@@ -840,6 +847,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [alerts-and-pickers](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of UIAlertController and pickers based on it: Telegram, Contacts, Location, PhotoLibrary, Country, Phone Code, Currency, Date...
 * [panelkit](https://github.com/louisdh/panelkit) - 手势拖动弹出面板视图 A UI framework that enables panels on iOS.
+* [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - 易于使用的浮动面板UI组件.
 * [ElongationPreview](https://github.com/Ramotion/elongation-preview) - 一个优雅的push-pop风格的视图控制器  ElongationPreview is an elegant push-pop style view controller with 3D-Touch support and gestures. :large_orange_diamond:
 * [PopupWindow](https://github.com/shin8484/PopupWindow) - PopupWindow is a simple Popup using another UIWindow in Swift.
 * [Pageboy](https://github.com/MerrickSapsford/Pageboy) -  一个简单、易学的page View Controller A simple, highly informative page view controller. :large_orange_diamond:
@@ -990,8 +998,9 @@ A curated list of iOS objective-C ecosystem.
 #### Xcode工具@
 
 * [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - Injection for Xcode：成吨的提高开发效率,[使用说明](http://www.jianshu.com/p/27be46d5e5d4).
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - 用于重新格式化 Swift 代码的命令行工具.
 * [Reminders](https://github.com/tiagomartinho/Reminders) - Clean Architecture.
-* [SwiftGen](https://github.com/SwiftGen/SwiftGen) - The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!.
+* [SwiftGen](https://github.com/SwiftGen/SwiftGen) - SwiftGen is a tool to auto-generate Swift code for resources of your projects, to make them type-safe to use.
 * [FileExplorer](https://github.com/Augustyniak/FileExplorer) - 完整的文件资源管理器组件.
 * [Drafter](https://github.com/L-Zephyr/Drafter) - 在iOS项目中自动生成类图和方法调用图 - Generate call graph in iOS project.
 * [Swimat](https://github.com/Jintin/Swimat) - Swimat，是一款Xcode 插件，帮你一键格式化 swift 代码.
@@ -1089,6 +1098,7 @@ A curated list of iOS objective-C ecosystem.
 * [V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等.
 * [vpnon](https://github.com/lexrus/vpnon/) - swift的VPN On 的源码和本地化内容都是开放的: [官方网站](https://crowdin.com/project/vpnon).
 * [Potatso](https://github.com/haxpor/Potatso) - 一个实现Shadowsocks代理的客户端.
+* [mac-app](https://github.com/ProtonVPN/mac-app) - Official ProtonVPN macOS app.
 
 #### 蓝牙@
 
@@ -1130,6 +1140,7 @@ A curated list of iOS objective-C ecosystem.
 * [MySampleCode](https://github.com/bestswifter/MySampleCode) Swift的一些Demo.
 * [iOS与swift学习之路](https://toutiao.io/subjects/35291#187)
 * [iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) - 老司机 iOS 周报.
+* [Mocker](https://github.com/WeTransfer/Mocker) - A simple mocker framework for Swift.
 
 #### Swift小Demo@
 
@@ -1243,10 +1254,12 @@ A curated list of iOS objective-C ecosystem.
 * [iina](https://github.com/lhc70000/iina) - The modern video player for macOS,非常👍👍👍 .
 * [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface.
 * [iOSLocalizationEditor](https://github.com/igorkulman/iOSLocalizationEditor) - Simple macOS editor app to help you manage iOS app localizations by allowing you to edit all the translations side by side(一款在 macOS 上帮助用户编辑和管理 app localizations 的图形化工具，它会显示每种语言的所有本地化版本，并能方便快捷的找出你缺失的 key).
+* [AltStore](https://github.com/rileytestut/AltStore) - AltStore 是一个 iOS 应用程序，允许您仅使用 Apple ID 将其他应用程序（.ipa 文件）侧面加载到您的 iOS 设备上.
 * [swift14macOSApps](https://github.com/KrisYu/swift14macOSApps) - 几个Mac小Demo.
 * [SpotMenu](https://github.com/kmikiy/SpotMenu) - 菜单栏中的Spotify和iTunes.
 * [xi-mac](https://github.com/google/xi-mac) - The xi editor project is an attempt to build a high quality text editor.
 * [mas](https://github.com/mas-cli/mas) - 📦 Mac App Store command line interface.
+* [Dozer](https://github.com/Mortennn/Dozer) - Hide status bar icons on macOS.
 * [fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS.
 * [SidecarPatcher](https://github.com/pookjw/SidecarPatcher) - Enables Sidecar on old Mac and iPad for macOS 10.15.
 * [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy for macOS.
