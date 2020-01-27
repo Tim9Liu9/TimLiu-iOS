@@ -68,7 +68,7 @@ A curated list of iOS objective-C ecosystem.
   - [滤镜@](#滤镜)
   - [图像识别@](#图像识别)
   - [图像圆角@](#图像圆角)
-  - [截屏@](#截屏）
+  - [截屏@](#截屏)
 - [安全@](#安全)
   - [逆向@](#逆向)
 - [AutoLayout@](#AutoLayout)
@@ -313,10 +313,13 @@ A curated list of iOS objective-C ecosystem.
 * [RNStudyNotes](https://github.com/crazycodeboy/RNStudyNotes) - React Native 研究与实践.
 * [react-native-orientation](https://github.com/yamill/react-native-orientation) - Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis.
 * [QTEventBus](https://github.com/LeoMobileDeveloper/QTEventBus) - 优雅的处理全局事件，支持AppDelegate解耦.
+* [react-native-notifications](https://github.com/wix/react-native-notifications) - React Native Notifications.
 * [react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript) - Clean and minimalist React Native template for a quick start with TypeScript.
 * [react-native-viewpager](https://github.com/react-native-community/react-native-viewpager) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
+* [react-native-spinkit](https://github.com/maxs15/react-native-spinkit) - A collection of animated loading indicators for React Native.
 * [react-native-maps](https://github.com/airbnb/react-native-maps) - React Native Mapview component for iOS + Android.
 * [react-native-svg](https://github.com/react-native-community/react-native-svg)  - SVG library for React Native. react-native-svg is built to provide a SVG interface to react native on both iOS and Android.
+* [TypeScript-React-Native-Starter](https://github.com/microsoft/TypeScript-React-Native-Starter) - A starter template for TypeScript and React Native with a detailed README describing how to use the two together.
 * [react-native-maps](https://github.com/react-community/react-native-maps) - React Native Mapview component for iOS + Android.
 * [react-native-code-push](https://github.com/Microsoft/react-native-code-push) - React Native module for CodePush（微软提供的一套可用于React Native和Cordova的热更新服务）.
 
@@ -330,6 +333,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [dicee-flutter](https://github.com/londonappbrewery/dicee-flutter) - Starter code for the Dicee project in the Complete Flutter Bootcamp.
 * [mi_card_flutter](https://github.com/londonappbrewery/mi_card_flutter) - Starter code for the Mi Card Project from the Complete Flutter Development Bootcamp.
+* [flutter-webrtc](https://github.com/cloudwebrtc/flutter-webrtc) - WebRTC plugin for Flutter Mobile/Desktop/Web.
 
 #### 混合开发@
 
@@ -525,6 +529,7 @@ A curated list of iOS objective-C ecosystem.
 * [WHC_ModelSqliteKit](https://github.com/netyouli/WHC_ModelSqliteKit) - 专业的数据库存储解决方案.
 * [JQFMDB](https://github.com/gaojunquan/JQFMDB) - FMDB的封装,操作简单,线程安全,扩展性强,直接操作model或dictionary.
 * [RealmObjectEditor](https://github.com/Ahmed-Ali/RealmObjectEditor) - Realm Object Editor is a visual editor where you can create your Realm entities, attributes and relationships inside a nice user interface. Once you finish, you can save your schema document for later use and you can export your entities in Swift, Objective-C and Java.
+* [firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase是一家实时后端数据库创业公司，它能帮助开发者很快的写出Web端和移动端的应用。 自2014年10月Google收购Firebase以来，用户可以在更方便地使用Firebase的同时，结合Google的云服务.
 * [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: http://sqlitebrowser.org.
 * [GXDatabaseUtils](https://github.com/Gerry1218/GXDatabaseUtils) - 在FMDB基础上的工具.
 * [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) - CoreData第一库，MagicalRecord就像是给Core Data提供了一层外包装，隐藏掉所有不相关的东西。 其中事务管理及查询是其比较大的亮点，整套 API 功能完整。
@@ -921,10 +926,12 @@ A curated list of iOS objective-C ecosystem.
 * [Objective-C-RSA](https://github.com/ideawu/Objective-C-RSA) - Doing RSA encryption and decryption with Objective-C on iOS.
 * [NSDictionary-NilSafe](https://github.com/allenhsu/NSDictionary-NilSafe) - How we made NSDictionary nil safe at Glow.
 * [Myriam](https://github.com/GeoSn0w/Myriam) - A vulnerable iOS App with Security Challenges for the Security Researcher inside you.
+* [LuLu](https://github.com/objective-see/LuLu) - 防火墙 LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic.
 * [Valet](https://github.com/square/Valet) - 让你安全地存储在iOS和OS X的钥匙串数据，而无需了解的钥匙扣如何工作的事情.
 * [Hopper App](https://www.hopperapp.com/) - Hopper Disassembler是一款逆向工程工具，iOS爱好者可以使用它来进行反汇编，反编译和调试应用程序。此工具也可用于修改和重组代码。你只需在你的macOS或Linux系统上启动该应用，然后将其指向你需要破解的二进制文件即可。总的来说Hopper是一款非常好用的逆向工程工具，对于热衷于iOS漏洞赏金的人而言，无疑它将成为一个首选.
 * [ios-class-guard](https://github.com/Polidea/ios-class-guard) - 一个用于混淆iOS的类名、方法名以及变量名的开源库--有人反映编译出来的app运行不了.
 * [《Protecting iOS Applications》](https://www.polidea.com/#!heartbeat/blog/Protecting_iOS_Applications) - 文章系统地介绍了如何保护iOS程序的代码安全，防止反汇编分析.
+* [MMPlugin](https://github.com/gaoshilei/MMPlugin) - 微信自动抢红包、防消息撤回、修改运动步数、朋友圈小视频转发等功能（无需越狱），附微信重签名教程.
 * [fishhook](https://github.com/facebook/fishhook) - fishhook是Facebook开源的一个可以hook系统方法的工具.
 * [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev) - CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps, Without Jailbreak.
 * [MSCrashProtector](https://github.com/JZJJZJ/MSCrashProtector) - An Global protection scheme(代码容错处理).
@@ -942,6 +949,7 @@ A curated list of iOS objective-C ecosystem.
 * [SFHFKeychainUtils] (https://github.com/ldandersen/scifihifi-iphone) - iOS中使用SFHFKeychainUtils保存用户密码，比如项目中需要保存用户密码，以实现自动登录的功能可以使用.
 * [AESCipher-iOS](https://github.com/WelkinXie/AESCipher-iOS) - AESCipher-iOS:用 Objective-C 实现的 AES 加密。与 [AESCipher-Java](https://github.com/WelkinXie/AESCipher-Java) 一并使用能达到 在iOS、Android、Java后台产生相同密文、正确解密成明文的目的。[AES加密 - iOS与Java的同步实现](http://www.jianshu.com/p/df828a57cb8f).
 * [ABPadLockScreen](https://github.com/abury/ABPadLockScreen) - 九宫格密码锁.
+* [DKWechatHelper](https://github.com/DKJone/DKWechatHelper) - 不止于抢红包，功能丰富的微信插件.
 
 #### 逆向@
 
@@ -1183,6 +1191,7 @@ A curated list of iOS objective-C ecosystem.
 * [CMPopTipView](https://github.com/chrismiles/CMPopTipView) - 自定义气泡View提示框.
 * [WeChatFloat](https://github.com/SherlockQi/WeChatFloat) - 仿微信浮窗功能.
 * [KJLoadingDemo](https://github.com/yangKJ/KJLoadingDemo) - 汇集整理一些样式的Loading加载等待动画，封装以及简单调用，使用起来也非常方便快捷，同样你也可以把他作为HUD来使用
+* [JGProgressHUD](https://github.com/JonasGessner/JGProgressHUD) - An elegant and simple progress HUD for iOS and tvOS, compatible with Swift and ObjC.
 
 
 #### 对话框@
@@ -1598,11 +1607,13 @@ A curated list of iOS objective-C ecosystem.
 
 * [JSQNotificationObserverKit](https://github.com/jessesquires/JSQNotificationObserverKit) - 一款轻量、易用的通知发送及响应框架类库。作者是知名开源项目 JSQMessagesViewController（Objective-C 版即时聊天）的作者 Jesse Squires.
 * [TSMessages](https://github.com/KrauseFx/TSMessages) - 易于使用和定制的消息/通知,用于 iOS版Tweetbot.
+* [terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
 * [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification) - 酷炫的通知栏，多种通知样式，使用简单,非常赞👍 .
 * [GLPubSub](https://github.com/Glow-Inc/GLPubSub) - 一个简短实用的 NSNotificationCenter 的封装.
 * [JDStatusBarNotification](https://github.com/jaydee3/JDStatusBarNotification) - 在状态栏顶部显示通知。可以自定义颜色字体以及动画。支持进度显示以及显示状态指示器.
 * [obito](https://github.com/jiajunhuang/obito) - an iOS notification service out of box.
 * [iVersion](https://github.com/nicklockwood/iVersion) 非常赞👍 的一个灵活动态监测App是否有更新的库，并可以通知用户升级.
+
 
 #### 通讯录@
 
@@ -2204,6 +2215,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [FastStub-Xcode](https://github.com/music4kid/FastStub-Xcode) - 一只快速生成代码的Xcode插件，[说明](http://mrpeak.cn/blog/faststub/).
 * [ESTranslate-Xcode](https://github.com/EnjoySR/ESTranslate-Xcode) - 一个快速翻译Xcode代码里面单词(我主要用于翻译句子～)的插件，快捷键：Ctrl+Shift+T.
 * [liftoff](https://github.com/liftoffcli/liftoff) - 用于创建和配置新的Xcode项目的CLI.
+* [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - .ipa 和mobileprovision的快速外观插件.
 
 #### 接口调试工具@
 
@@ -2453,7 +2465,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [aria2gui](https://github.com/yangshun1029/aria2gui) - 不错的下载工具，添加插件后支持百度网盘高速下载.
 * [DevDataTool](https://github.com/MxABC/DevDataTool) - OSX系统 转换、加解密工具.
 * [high-speed-downloader](https://github.com/high-speed-downloader/high-speed-downloader) - 百度网盘不限速下载 支持Windows和Mac 2018年1月16日更新.
-* [LuLu](https://github.com/objective-see/LuLu) - 防火墙 LuLu is the free open-source macOS firewall that aims to block unauthorized (outgoing) network traffic.
+* [MenuMeters](https://github.com/yujitach/MenuMeters) - my fork of MenuMeters by.
 * [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开.
 * [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 微信 macOS 客户端撤回拦截与多开.
 * [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - 防止mac休眠.
@@ -2477,6 +2489,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [MacPass](https://github.com/MacPass/MacPass) - mac os密码管理工具.
 * [Retroactive](https://github.com/cormiertyshawn895/Retroactive) - Run Aperture, iPhoto, or iTunes on macOS Catalina.
 * [BaiduNetdiskPlugin-macOS ](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS) - For macOS.百度网盘 破解SVIP、下载速度限制.
+* [MaciASL](https://github.com/acidanthera/MaciASL) - Macisl黑苹果ACPI编译修改工具.
 
 #### iOS插件@
 
@@ -2497,6 +2510,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [fks](https://github.com/JacksonTian/fks) - 前端技能汇总 Frontend Knowledge Structure.
 * [blog](https://github.com/zhiqiang21/blog) - 记录前端开发日常点滴。为梦想Coding...
 * [TSW](https://github.com/Tencent/TSW) - 一套面向WEB前端开发者，以提升问题定位效率为初衷，提供染色抓包、全息日志和异常发现的Node.js基础设施.
+* [phoenix](https://github.com/kasper/phoenix) - A lightweight macOS/OS X window and app manager scriptable with JavaScript.
 * [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - 非常棒👍👍👍  We’re a community that helps you learn to code, then get experience by contributing to open source projects used by
  nonprofits.
