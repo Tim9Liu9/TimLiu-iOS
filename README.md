@@ -2532,6 +2532,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 * [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 * [Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN) - Python最佳实践指南.
+* [APIJSON](https://github.com/APIJSON/APIJSON) - 🏆码云最有价值开源项目 🚀后端接口和文档自动化，前端(客户端) 定制返回 JSON 的数据和结构！.
 
 #### AppHTTPServer@
 
