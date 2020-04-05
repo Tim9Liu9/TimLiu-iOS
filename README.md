@@ -46,7 +46,6 @@ A curated list of iOS objective-C ecosystem.
   - [侧滑与右滑返回手势@](#侧滑与右滑返回手势)
   - [转场动画@](#转场动画)
 - [多媒体@](#多媒体)
-  - [流媒体@](#流媒体)
   - [音频@](#音频)
   - [视频@](#视频)
     - [视频播放@](#视频播放)
@@ -663,8 +662,6 @@ A curated list of iOS objective-C ecosystem.
 * [WXSTransition](https://github.com/alanwangmodify/WXSTransition) - 转场动画集合.
 
 #### 多媒体@
-#### 流媒体@
-
 #### 音频@
 
 * [KTVHTTPCache](https://github.com/ChangbaDevs/KTVHTTPCache) - 唱吧出品音视频在线播放缓存框架.
