@@ -199,7 +199,7 @@ A curated list of iOS objective-C ecosystem.
 #### 完整App@
 
 * [GitHubRank](http://githubrank.com/) - GitHub活跃用户排名(便于学习，请勿攀比).
-* [expo](https://github.com/expo/expo) - Expo iOS/Android Client https://docs.expo.io/.
+* [expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. 
 * [PPRows for Mac](https://github.com/jkpang/PPRows) - 在Mac上优雅的计算你写了多少行代码.
 * [NewsBlur](https://github.com/samuelclay/NewsBlur) - 作者独自一个人 Samuel Clay 做出来的一款名为 NewsBlur 的新闻阅读器, 很多人都称其为 Google Reader 的替代品, 这是它的源码.
 * [FlutterDouBan](https://github.com/kaina404/FlutterDouBan) - Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉.  
@@ -305,6 +305,7 @@ A curated list of iOS objective-C ecosystem.
 * [LoginWithReactiveCocoa](https://github.com/CrazySurfBoy/LoginWithReactiveCocoa) - ReactiveCocoa - 登录交互效果的实现。
 * [BeeFramework](https://github.com/gavinkwoe/BeeFramework) -  与ReactiveCocoa类似，[BeeFramework用户指南 v1.0](http://www.lanrenios.com/tutorials/all/2012/1220/641.html)。
 * [Objective-Chain](https://github.com/Tricertops/Objective-Chain) - Objective-Chain是一个面向对象的响应式框架，作者表示该框架吸收了 ReactiveCocoa 的思想，并且想做得更面向对象一些。
+* [react-native-maps](https://github.com/react-native-community/react-native-maps) - React Native Mapview component for iOS + Android.
 * [MVVMFramework](https://github.com/lovemo/MVVMFramework) - (OC版)总结整理下一个快速开发框架，分离控制器中创建tableView和collectionView的代码，已加入cell自适应高度，降低代码耦合，提高开发效率。
 * [react-native-config](https://github.com/luggit/react-native-config) - 用于响应本机应用程序的配置变量,模块将配置变量公开到你的javascript代码中，同时支持iOS和 Android.
 * [react-native-syan-image-picker](https://github.com/syanbo/react-native-syan-image-picker) - React-Native 多图片选择 支持裁剪 压缩.
@@ -321,6 +322,7 @@ A curated list of iOS objective-C ecosystem.
 * [TypeScript-React-Native-Starter](https://github.com/microsoft/TypeScript-React-Native-Starter) - A starter template for TypeScript and React Native with a detailed README describing how to use the two together.
 * [react-native-maps](https://github.com/react-community/react-native-maps) - React Native Mapview component for iOS + Android.
 * [react-native-code-push](https://github.com/Microsoft/react-native-code-push) - React Native module for CodePush（微软提供的一套可用于React Native和Cordova的热更新服务）.
+* [react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - The WebRTC module for React Native.
 
 #### framework@
 
@@ -2069,12 +2071,12 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) - 支持同时启动多个模拟器的库，FaceBook出品.
 * [calabash-ios](https://github.com/calabash/calabash-ios) - 自动测试 Calabash is an automated testing technology for Android and iOS native and hybrid applications.
 * [Buildasaur](https://github.com/czechboy0/Buildasaur) 自动测试框架 Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server. Keep your team productive and safe. Get up and running in minutes. @buildasaur
+* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - 是一个快速、简单，但很强大的日志框架，可以自定义打印日志的颜色.
 * [MLeaksFinder](https://github.com/Tencent/MLeaksFinder) - 内存泄露检测工具.
 * [CocoaDebug](https://github.com/CocoaDebug/CocoaDebug) - iOS内置调试工具(日志打印/网络监控/内存监控/沙盒查看...)[兼容Swift和Objective-C].
 * [IPAPatch](https://github.com/Naituw/IPAPatch) 免越狱调试、修改第三方App，👍👍 .
 * [DBDebugToolkit](https://github.com/dbukowski/DBDebugToolkit) - Set of easy to use debugging tools for iOS developers & QA engineers.
 * [DoraemonKit](https://github.com/didi/DoraemonKit) - 一个不错的可视化调试、各种测试工具.
-* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - 是一个快速、简单，但很强大的日志框架，可以自定义打印日志的颜色.
 * [iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization) - 关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit.
 * [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) - Facebook出品,内存检测库.FBMemoryProfiler 基础教程](http://ifujun.com/fbmemoryprofiler-shi-yong-ji-chu-jiao-cheng/)。(https://swiftcafe.io/2017/05/02/mem-profiler/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [xctool](https://github.com/facebook/xctool) - Facebook出的自动化打包工具，它规范了输出的log日志，而且一些错误信息也更为清晰一些.
@@ -2538,6 +2540,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 #### 其他@
 
 * [BaiduYunEnhancer](https://github.com/maoger/BaiduYunEnhancer) - 破解 百度云/百度网盘 的下载限制.
+* [UTM](https://github.com/utmapp/UTM) - 让你的iphone可以运行windows、Android等的虚拟机.
 
 #### Runtime@
 
