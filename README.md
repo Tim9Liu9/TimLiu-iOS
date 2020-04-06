@@ -199,7 +199,7 @@ A curated list of iOS objective-C ecosystem.
 #### 完整App@
 
 * [GitHubRank](http://githubrank.com/) - GitHub活跃用户排名(便于学习，请勿攀比).
-* [expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. 
+* [expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 * [PPRows for Mac](https://github.com/jkpang/PPRows) - 在Mac上优雅的计算你写了多少行代码.
 * [NewsBlur](https://github.com/samuelclay/NewsBlur) - 作者独自一个人 Samuel Clay 做出来的一款名为 NewsBlur 的新闻阅读器, 很多人都称其为 Google Reader 的替代品, 这是它的源码.
 * [FlutterDouBan](https://github.com/kaina404/FlutterDouBan) - Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉.  
@@ -296,6 +296,8 @@ A curated list of iOS objective-C ecosystem.
 * [MACProject](https://github.com/azheng51714/MACProject) - 这是一个用 Objective-C 写的 iOS 轻量级框架，旨在快速构建 iOS App.
 * [iOSProject](https://github.com/NJHu/iOSProject) - 一些oc项目集合.
 * [WYBasisKit](https://github.com/Jacke-xu/WYBasisKit) - "WYBasisKit" is a toolkit aimed at greatly improving efficiency.
+* [nextcloud](https://github.com/nextcloud/ios) - Nextcloud iOS app.
+* [eEducation](https://github.com/AgoraIO-Usecase/eEducation) - e-education solutions(Agora Reference Design).
 
 #### React@
 
@@ -323,6 +325,8 @@ A curated list of iOS objective-C ecosystem.
 * [react-native-maps](https://github.com/react-community/react-native-maps) - React Native Mapview component for iOS + Android.
 * [react-native-code-push](https://github.com/Microsoft/react-native-code-push) - React Native module for CodePush（微软提供的一套可用于React Native和Cordova的热更新服务）.
 * [react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - The WebRTC module for React Native.
+* [react-native-permissions](https://github.com/react-native-community/react-native-permissions) - An unified permissions API for React Native on iOS and Android.
+* [react-native-iap](https://github.com/dooboolab/react-native-iap) - react-native native module for In App Purchase.
 
 #### framework@
 
