@@ -923,6 +923,7 @@ A curated list of iOS objective-C ecosystem.
 #### 截屏@
 
 * [PPSnapshotKit](https://github.com/VernonVan/PPSnapshotKit) - 在包括 UIWebView 和 WKWebView 的网页中进行长截图.
+* [SDScreenshotCapture](https://github.com/shinydevelopment/SDScreenshotCapture) - 一个工具类，用于捕获不包括 iOS 状态栏的应用程序窗口的屏幕截图.
 
 #### 安全@
 
@@ -1378,6 +1379,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 引导@
 
+* [EAIntroView](https://github.com/ealeksandrov/EAIntroView) - Highly customizable drop-in solution for introduction views.
 * [Onboard](https://github.com/mamaral/Onboard) - 一个iOS框架，轻松创建一个美丽和吸引人的使用引导，只需行代码，非常赞👍👍，同时支持Swift.
 * [JMHoledView](https://github.com/leverdeterre/JMHoledView) - 一个不错的使用引导库，使用View实现.
 * [TNTutorialManager](https://github.com/Tawa/TNTutorialManager) - 内嵌的App使用引导库.
@@ -1386,6 +1388,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [TORoundedButton](https://github.com/TimOliver/TORoundedButton) - A high-performance button control with rounded corners for iOS.
 * [DownloadButton](https://github.com/PavelKatunin/DownloadButton) - Customizable App Store style download button.
+* [PPNumberButton](https://github.com/jkpang/PPNumberButton) - 高仿京东淘宝商品数量的加减按钮,可定制程度较高,使用简单.
 
 #### 类3D@
 
@@ -1447,7 +1450,6 @@ A curated list of iOS objective-C ecosystem.
 #### 其他UI@
 
 * [drawablebubble](https://github.com/KittenYang/KYCuteView) - QQ中未读气泡拖拽消失的实现分析[分析文章](http://kittenyang.com/drawablebubble/).
-* [PPNumberButton](https://github.com/jkpang/PPNumberButton) - 高仿京东淘宝商品数量的加减按钮,可定制程度较高,使用简单.
 * [YJFavorEmitter](https://github.com/SplashZ/YJFavorEmitter) - 一个非常好用的点赞粒子发射器.
 * [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) - BEMCheckBox 是一个用于 iOS 应用上构建漂亮, 高度可定制化动画效果的复选框类库, 最低支持到 iOS 7 系统, 有多种不同风格的动画效果可供选择.
 * [BFPaperCheckbox](https://github.com/bfeher/BFPaperCheckbox) - iOS Checkboxes inspired by Google's Paper Material Design.
