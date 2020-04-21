@@ -111,7 +111,6 @@ A curated list of iOS objective-C ecosystem.
   - [轮播@](#轮播)
   - [选择器@](#选择器)
   - [购物车@](#购物车)
-  - [引导@](#引导)
   - [按钮@](#按钮)
   - [类3D@](#类3D)
   - [其他UI@](#其他UI)
@@ -1271,6 +1270,10 @@ A curated list of iOS objective-C ecosystem.
 * [CoreNewFeatureVC](https://github.com/CharlinFeng/CoreNewFeatureVC) - 版本新特性（引导页），1.封装并简化了版本新特性启动视图！2.添加了版本的本地缓存功能，3.集成简单，使用方便，没有耦合度，4.支持block回调（版本新特性、导航页、引导页).
 * [MZGuidePages](https://github.com/MachelleZhang/MZGuidePages) - 自己写的通用导航页，可以直接引入工程使用，请参考案例（版本新特性、导航页、引导页）.
 * [ABCIntroView](https://github.com/AdamBCo/ABCIntroView) - ABCIntroView是一个易于使用的入门类，让你到达主屏幕之前介绍你的应用程序（版本新特性、导航页、引导页）.
+* [EAIntroView](https://github.com/ealeksandrov/EAIntroView) - Highly customizable drop-in solution for introduction views.
+* [Onboard](https://github.com/mamaral/Onboard) - 一个iOS框架，轻松创建一个美丽和吸引人的使用引导，只需行代码，非常赞👍👍，同时支持Swift.
+* [JMHoledView](https://github.com/leverdeterre/JMHoledView) - 一个不错的使用引导库，使用View实现.
+* [TNTutorialManager](https://github.com/Tawa/TNTutorialManager) - 内嵌的App使用引导库.
 
 #### Switch@
 
@@ -1378,13 +1381,6 @@ A curated list of iOS objective-C ecosystem.
 * [shopCarDemobyCX](http://code.cocoachina.com/view/129430) - shopCarDemobyCX一个简易购物车效果，最重要的是可以分单结算，分单个商品结算，代理是主要技术.
 * [MVVM KVO购物车](http://code.cocoachina.com/view/128713) - MVVM KVO 购物车(一处计算总价钱).
 * [CartDemo](https://github.com/LQQZYY/CartDemo) - CartDemo比较完整的购物车界面及逻辑,商品展示,多选,单选,全选及滑动删除,价格计算.
-
-#### 引导@
-
-* [EAIntroView](https://github.com/ealeksandrov/EAIntroView) - Highly customizable drop-in solution for introduction views.
-* [Onboard](https://github.com/mamaral/Onboard) - 一个iOS框架，轻松创建一个美丽和吸引人的使用引导，只需行代码，非常赞👍👍，同时支持Swift.
-* [JMHoledView](https://github.com/leverdeterre/JMHoledView) - 一个不错的使用引导库，使用View实现.
-* [TNTutorialManager](https://github.com/Tawa/TNTutorialManager) - 内嵌的App使用引导库.
 
 #### 按钮@
 
