@@ -297,6 +297,7 @@ A curated list of iOS objective-C ecosystem.
 * [WYBasisKit](https://github.com/Jacke-xu/WYBasisKit) - "WYBasisKit" is a toolkit aimed at greatly improving efficiency.
 * [nextcloud](https://github.com/nextcloud/ios) - Nextcloud iOS app.
 * [eEducation](https://github.com/AgoraIO-Usecase/eEducation) - e-education solutions(Agora Reference Design).
+* [MobileProject](https://github.com/wujunyang/MobileProject) - 一个基于 MVC 的项目框架，并集成一些常用的功能.
 
 #### React@
 
@@ -1063,7 +1064,6 @@ A curated list of iOS objective-C ecosystem.
 * [JXPageListView](https://github.com/pujiaxin33/JXPageListView) - 高仿闲鱼、转转、京东、中央天气预报等主流APP列表底部分页滚动视图.
 * [LLNoDataView](https://github.com/LvJianfeng/LLNoDataView) - 超简单的空数据提示通用View支持UIScrollView、UITableView、UICollectionView、UIWebView.
 * [XLPlainFlowLayout](https://github.com/HebeTienCoder/XLPlainFlowLayout) - 可以让UICollectionView的header也支持悬停效果，类似于tableView的Plain风格.
-* [WMPageController](https://github.com/wangmchn/WMPageController) - 一个方便的 pageContrller 的控件，里面还包括滚动视图。
 * [PSTCollectionView](https://github.com/steipete/PSTCollectionView) - PSTCollectionView.
 * [LLRiseTabBar-iOS](https://github.com/lianleven/LLRiseTabBar-iOS) - 直接使用系统的特性实现的tabbar，比较简单.
 * [MTMaterialDelete](https://github.com/MartinRGB/MTMaterialDelete) - 非常有趣的Material Design动画，动画删除表里面的单元格.
@@ -1337,13 +1337,15 @@ A curated list of iOS objective-C ecosystem.
 * [VTMagic](https://github.com/tianzhuo112/VTMagic) - VTMagic is a page container library for iOS.
 * [NinaPagerView](https://github.com/RamWire/NinaPagerView) - 一行代码搞定顶部菜单栏。类似网易新闻、今日头条、虎扑看球等app做的一个顶部菜单栏，每栏中有独立的控制器，可自己定制.
 * [PageMenu](https://github.com/uacaps/PageMenu) - A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram) [⚠️已失去维护]
+* [WMPageController](https://github.com/wangmchn/WMPageController) - 一个方便的 pageContrller 的控件，里面还包括滚动视图。
 * [MXSegmentedPager](https://github.com/maxep/MXSegmentedPager) - 分页滚动，多个分页的pageController效果.
 * [ZJScrollPageView](https://github.com/jasnig/ZJScrollPageView) - 网易新闻, 腾讯视频, 头条 等首页的滑块视图联动的效果OC版的简单方便的集成.
 * [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) - 一个比较好用的第三方分段控制器.
-* [XHTwitterPaggingViewer](https://github.com/xhzengAIB/XHTwitterPaggingViewer) - A twitter like navigation bar, page viewer.
+* [XHTwitterPaggingViewer](https://github.com/xhzengAIB/XHTwitterPaggingViewer) - 类似 Twitter 风格的导航栏页面控制器。
 * [SPPage](https://github.com/xichen744/SPPage) - 高性能PageController.
 * [SCSafariPageController](https://github.com/stefanceriu/SCSafariPageController) - A page view controller component that reproduces Mobile Safari's tab switching behavior.
 * [YNPageViewController](https://github.com/yongyuandouneng/YNPageViewController) - 重构版--特斯拉组件、多页面嵌套滚动、悬停效果、美团、淘宝、京东、微博、腾讯新闻、网易新闻、今日头条等标题滚动视图.
+* [XBScrollPageController](https://github.com/changjianfeishui/XBScrollPageController) - iOS 分页控制器，只需传入标题数组和控制器类名数组即可。
 
 #### 轮播@
 
@@ -1403,7 +1405,6 @@ A curated list of iOS objective-C ecosystem.
 * [WaveLoadingView](https://github.com/liuzhiyi1992/WaveLoadingView) - iOS 唯一完美的波浪进度加载指示器，[实现说明](http://zyden.vicp.cc/waveloadingindicator/).
 * [JZMultiChoicesCircleButton](https://github.com/JustinFincher/JZMultiChoicesCircleButton) - 三维多选按钮.
 * [ASProgressPopUpView](https://github.com/alskipp/ASProgressPopUpView) - 弹出的进度条显示进度.
-* [TwitterPaggingViewer](https://github.com/xhzengAIB/XHTwitterPaggingViewer)  - 多个Tableview，左右滑动.
 * [CircularProgressControl](https://github.com/carantes/CircularProgressControl) - Circular Progress Control using CAShapeLayer ，环形进度控制条.
 * [SDProgressView](https://github.com/gsdios/SDProgressView) - 简便美观的进度指示器，此系列共有六种样式的进度指示器.
 * [LoopProgressDemo](https://github.com/saitjr/STLoopProgressView) - 环形渐变进度条，[环形渐变进度条实现](http://www.superqq.com/blog/2015/08/12/realization-circular-gradient-progress/).
