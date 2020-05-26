@@ -568,6 +568,7 @@ A curated list of iOS objective-C ecosystem.
 * [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - 管理Keychain接入的小助手.
 * [YYCache](https://github.com/ibireme/YYCache) - 高性能的 iOS 缓存框架.
 * [RuntimeDemo](https://github.com/CoderJackyHuang/RuntimeDemo) - runtime自动归档/解档,[源码分析](http://www.henishuo.com/runtime-archive-unarchive-automaticly/).
+* [PINCache](https://github.com/pinterest/PINCache) - 适用于 iOS，tvOS 和 OS X 的快速、无死锁的并行对象缓存框架.
 
 #### 序列化@
 
