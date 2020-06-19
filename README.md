@@ -884,6 +884,7 @@ A curated list of iOS objective-C ecosystem.
 * [JTSImageViewController](https://github.com/jaredsinclair/JTSImageViewController) - 图片浏览.
 * [SGPhotoBrowser](https://github.com/Soulghost/SGPhotoBrowser) - 图片浏览.
 * [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) - AR相册 Photo Album For AR.
+* [QBImagePicker](https://github.com/questbeat/QBImagePicker) - A clone of UIImagePickerController with multiple selection support.
 
 #### 图像缓存@
 
@@ -1714,6 +1715,7 @@ A curated list of iOS objective-C ecosystem.
 * [GCDThrottle](https://github.com/cyanzhong/GCDThrottle) - 限制频率过高的调用GCD多线程。
 * [WHC_KeyboardManager](https://github.com/netyouli/WHC_KeyboardManager)iOS平台轻量级的键盘管理器，使用简单功能强大，键盘再也不会挡住输入控件
 * [Inkpad](https://github.com/TheLittleBoy/inkpad-fork) - iOS高级画板，原inkpad项目修复bug的版本。
+* [coobjc](https://github.com/alibaba/coobjc) - Alibaba 开源库，这个库为 Objective-C 和 Swift 提供了协程功能。coobjc 支持 await、generator 和 actor model，接口参考了 C# 、Javascript 和 Kotlin 中的很多设计。还提供了 cokit 库为 Foundation 和 UIKit 中的部分 API 提供了协程化支持，包括 NSFileManager , JSON , NSData , UIImage 等。coobjc 也提供了元组的支持。
 
 #### 消息相关@
 #### 消息推送客户端@
