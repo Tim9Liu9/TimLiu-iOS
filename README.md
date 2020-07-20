@@ -1383,6 +1383,8 @@ A curated list of iOS objective-C ecosystem.
 * [shopCarDemobyCX](http://code.cocoachina.com/view/129430) - shopCarDemobyCX一个简易购物车效果，最重要的是可以分单结算，分单个商品结算，代理是主要技术.
 * [MVVM KVO购物车](http://code.cocoachina.com/view/128713) - MVVM KVO 购物车(一处计算总价钱).
 * [CartDemo](https://github.com/LQQZYY/CartDemo) - CartDemo比较完整的购物车界面及逻辑,商品展示,多选,单选,全选及滑动删除,价格计算.
+* [shopCartDemo](https://github.com/wangluhui/shopCartDemo) - 购物车Demo.
+* [ShoppingCartDemo](https://github.com/Andy0570/ShoppingCartDemo) - iOS 中的购物车页面示例。
 
 #### 按钮@
 
@@ -1453,7 +1455,6 @@ A curated list of iOS objective-C ecosystem.
 * [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) - BEMCheckBox 是一个用于 iOS 应用上构建漂亮, 高度可定制化动画效果的复选框类库, 最低支持到 iOS 7 系统, 有多种不同风格的动画效果可供选择.
 * [BFPaperCheckbox](https://github.com/bfeher/BFPaperCheckbox) - iOS Checkboxes inspired by Google's Paper Material Design.
 * [GMenuController](https://github.com/GIKICoder/GMenuController) - 具有和UIMenuController一致的UI 与交互行为. menuItem可指定target. 可定制化UI.对外API与原生UIMenuController 一致.
-* [shopCartDemo](https://github.com/wangluhui/shopCartDemo) - 购物车Demo.
 
 #### 工具@
 #### 综合@
@@ -1607,6 +1608,7 @@ A curated list of iOS objective-C ecosystem.
 #### 地图@
 
 * [YJLocationConverter](https://github.com/stackhou/YJLocationConverter) - 中国国测局地理坐标（GCJ-02）<火星坐标>、世界标准地理坐标(WGS-84) 、百度地理坐标（BD-09)坐标系转换工具类.
+* [LocationManager](https://github.com/intuit/LocationManager) - 对苹果 Core Location 框架的封装，轻松获取 iOS 设备上的位置信息和方向信息。支持 Objective-C 和 Swift。
 
 #### 通知@
 
@@ -1740,8 +1742,8 @@ A curated list of iOS objective-C ecosystem.
 #### 设计模式@
 
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) 非常👍 Design Patterns implemented in Swift
-* [KVOController] (https://github.com/facebook/KVOController)  是一个简单安全的KVO（Key-value Observing，键-值观察）工具，用于iOS 和OS X 应用开发中，开源自facebook。 在项目中有使用 KVO ，那么 KVOController 绝对是个好选择。
-* [DecouplingKit] (https://github.com/coderyi/DecouplingKit)   iOS模块化过程中模块间解耦方案。
+* [KVOController](https://github.com/facebook/KVOController)  是一个简单安全的KVO（Key-value Observing，键-值观察）工具，用于iOS 和OS X 应用开发中，开源自facebook。 在项目中有使用 KVO ，那么 KVOController 绝对是个好选择。
+* [DecouplingKit](https://github.com/coderyi/DecouplingKit)   iOS模块化过程中模块间解耦方案。
 * [Trip-to-iOS-Design-Patterns](https://github.com/skyming/Trip-to-iOS-Design-Patterns)
 
 #### 三方@
