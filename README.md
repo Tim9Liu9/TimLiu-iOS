@@ -1108,7 +1108,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 图表@
 
-* [ios-charts](https://github.com/danielgindi/Charts) - 一款优秀 Android 图表开源库 MPAndroidChart 的 Swift 语言实现版（支持 Objective-C 和 Swift 调用）。缺省提供的示例代码为 Objective-C.
+* [Charts](https://github.com/danielgindi/Charts) - 一款优秀 Android 图表开源库 MPAndroidChart 的 Swift 语言实现版（支持 Objective-C 和 Swift 调用）。缺省提供的示例代码为 Objective-C.
 * [PNChart](https://github.com/kevinzhow/PNChart) - 国内开源作者，动态的图表.
 * [JBChartView](https://github.com/Jawbone/JBChartView) - 基于iOS的用于线路和条形图的图表库.
 * [KLine](https://github.com/AbuIOSDeveloper/KLine) - (CAShapelayer + UIBezierPath)绘制K线支撑横竖屏切换、刷新、长按、缩放、masonry适配，完美支持金融产品 非常的流畅，占用内存少，使用矢量进行填充K线，持续更新.
@@ -1119,6 +1119,8 @@ A curated list of iOS objective-C ecosystem.
 * [XYPieChart](https://github.com/xyfeng/XYPieChart) - XYPieChart:饼状图,  饼图,  数据统计,  数据可视化,可以在图形上标注数据。效果十分漂亮，而且没有用到一张图片.
 * [ZFChart](https://github.com/Zirkfied/ZFChart) - 模仿PNChart写的一个图表库，用法简单，暂时有柱状图，线状图，饼图三种类型，后续可能会更新新的类型.
 * [JYRadarChart](https://github.com/johnnywjy/JYRadarChart) - 一个很赞的图表库.
+* [iOS-Echarts](https://github.com/Pluto-Y/iOS-Echarts) - 将百度的 ECharts (Echarts2) 工具封装成对应的 iOS 和 Mac 的控件。
+* [FSLineChart](https://github.com/ArthurGuibert/FSLineChart) - 一个适用于 iOS 的折线图表。
 
 #### 下拉刷新@
 
@@ -1153,6 +1155,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 日历三方库@
 
+* [FSCalendar](https://github.com/WenchaoD/FSCalendar) - 一个完全可定制的 iOS 日历库，兼容 Objective-C 和 Swift。
 * [TEAChart](https://github.com/xhacker/TEAChart) - xhacker/TEAChart 一个简洁的 iOS 图表库，支持柱状图、饼图以及日历等.
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar) - 是一个方便开发者集成自定义日历视图到自己 iOS 应用的项目, 支持 Storyboard 和手动配置, 使用 CocoaPods 进行安装, 提供了丰富的 API 供开发者使用.
 
