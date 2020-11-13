@@ -327,6 +327,7 @@ A curated list of iOS objective-C ecosystem.
 * [react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - The WebRTC module for React Native.
 * [react-native-permissions](https://github.com/react-native-community/react-native-permissions) - An unified permissions API for React Native on iOS and Android.
 * [react-native-iap](https://github.com/dooboolab/react-native-iap) - react-native native module for In App Purchase.
+* [react-native-navigation](https://github.com/wix/react-native-navigation) - 是Navigator的加强版，不仅有Navigator的全部功能，另外还支持底部导航类似于与iOS中的UITabBarController，此外它也支持侧拉效果方式的导航类似于Android中的抽屉效果。
 
 #### framework@
 
@@ -1616,6 +1617,7 @@ A curated list of iOS objective-C ecosystem.
 #### 通知@
 
 * [JSQNotificationObserverKit](https://github.com/jessesquires/JSQNotificationObserverKit) - 一款轻量、易用的通知发送及响应框架类库。作者是知名开源项目 JSQMessagesViewController（Objective-C 版即时聊天）的作者 Jesse Squires.
+* [NWPusher](https://github.com/noodlewerk/NWPusher) - OS X and iOS application and framework to play with the Apple Push Notification service (APNs).
 * [TSMessages](https://github.com/KrauseFx/TSMessages) - 易于使用和定制的消息/通知,用于 iOS版Tweetbot.
 * [terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
 * [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification) - 酷炫的通知栏，多种通知样式，使用简单,非常赞👍 .
@@ -2553,6 +2555,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 
 * [BaiduYunEnhancer](https://github.com/maoger/BaiduYunEnhancer) - 破解 百度云/百度网盘 的下载限制.
 * [UTM](https://github.com/utmapp/UTM) - 让你的iphone可以运行windows、Android等的虚拟机.
+* [KernBypass-Public](https://github.com/akusio/KernBypass-Public) - 内核级越狱屏蔽检测，简单而实用级,屏蔽吃鸡封号,游戏封号
 
 #### Runtime@
 
