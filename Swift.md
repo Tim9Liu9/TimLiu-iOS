@@ -165,6 +165,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### 页面路由
 * [ACRouter](https://github.com/Archerlly/ACRouter) - Swift版页面路由, 组件化过程中快速页面解耦.
+* [SwiftyURLRouter](https://github.com/iAllenC/SwiftyRouter) - 基于模块结构的Swift页面路由，支持DSL式调用.
 
 #### UI@
 
