@@ -282,7 +282,6 @@ A curated list of iOS objective-C ecosystem.
 * [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController) - 低耦合集成TabBarController,最低只需传两个数组即可完成主流App框架搭建.
 * [keystone](https://github.com/keystone-enclave/keystone) - Keystone Enclave (QEMU).
 * [samurai-native](https://github.com/hackers-painters/samurai-native) - 是一个基于浏览器内核通过HTML+CSS 开发原生移动应用的iOS框架.
-* [HHRouter](https://github.com/Huohua/HHRouter) - 一言以蔽之，URL Router 即将 UIViewController 映射成 URL，从而支持通过 URL 进行界面跳转。是的，就和 Web 一样。当然，这并不是 Web Developer 转职为 iOS Developer 后所做的无聊玩具。URL Router 有着许多切实的好处.
 * [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit) - 异步界面渲染库,为极限优化View效果而生（同时提供 UIView bridge 接口）.
 * [XFLegoVIPER](https://github.com/yizzuide/XFLegoVIPER)  - A lightweight framework base on VIPER architecture for iOS, to build robust and maintained large scale project.
 * [publishImageAndVideoAnsRecord](https://github.com/DayCrazy/publishImageAndVideoAnsRecord) - 发布视频、语言、照片模块集合，其中包括带placeHolder的TextView、录制小视频、录制音频、选择照片或拍照.
@@ -347,11 +346,13 @@ A curated list of iOS objective-C ecosystem.
 
 #### 组件化@
 
-* [JLRoutes](https://github.com/joeldev/JLRoutes) - JLRoutes好用的URL map库，它的作用是让按钮的点击像网页里的链接一样，只是触发了某个URL，而没有像pushViewController这样的行为，实现解耦.
 * [CTMediator](https://github.com/casatwy/CTMediator) - 应用架构组件化解耦库,让你的`Appdelegate.h`等文件不在显得头大,模块之间解除强耦合性.
-* [MGJRouter](https://github.com/meili/MGJRouter) - 一个高效/灵活的 iOS URL Router.
+* [JLRoutes](https://github.com/joeldev/JLRoutes) - 好用的URL map库，它的作用是让按钮的点击像网页里的链接一样，只是触发了某个URL，而没有像pushViewController这样的行为，实现解耦.
 * [HHRouter](https://github.com/lightory/HHRouter) - 页面跳转方式，可以将 UIViewController 映射成 URL，从而支持通过 URL 进行界面跳转，类似 Web 一样.
+* [MGJRouter](https://github.com/meili/MGJRouter) - 一个高效/灵活的 iOS URL Router。
 * [routable-ios](https://github.com/clayallsopp/routable-ios) - 代码解耦-iOS应用內动态跳转解决方案.
+* [Bifrost](https://github.com/youzan/Bifrost) - 有赞移动开源的 iOS 组件化方案.
+* [WLRRoute](https://github.com/Neojoke/WLRRoute) - 一个简单的 iOS 路由组件.
 
 #### 多线程@
 
