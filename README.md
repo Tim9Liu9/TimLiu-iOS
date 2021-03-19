@@ -25,6 +25,7 @@ A curated list of iOS objective-C ecosystem.
   - [framework@](#framework)
   - [混合开发@](#混合开发)
   - [组件化@](#组件化)
+  - [优化@](#优化@)
 - [多线程@](#多线程)
 - [网络@](#网络)
   - [网络请求@](#网络请求)
@@ -138,7 +139,6 @@ A curated list of iOS objective-C ecosystem.
   - [设计@](#设计)
   - [美工资源@](#美工资源)
 - [文章@](#文章)
-  - [优化@](#优化@)
 - [测试调试@](#测试调试)
   - [Xcode工具@](#Xcode工具)
   - [崩溃捕获@](#崩溃捕获)
@@ -353,6 +353,11 @@ A curated list of iOS objective-C ecosystem.
 * [routable-ios](https://github.com/clayallsopp/routable-ios) - 代码解耦-iOS应用內动态跳转解决方案.
 * [Bifrost](https://github.com/youzan/Bifrost) - 有赞移动开源的 iOS 组件化方案.
 * [WLRRoute](https://github.com/Neojoke/WLRRoute) - 一个简单的 iOS 路由组件.
+
+### 优化@
+
+* [MLeaksFinder新特性](http://wereadteam.github.io/2016/07/20/MLeaksFinder2/) - MLeaksFinder（iOS 平台的自动内存泄漏检测工具）用法.
+* [LSUnusedResources](https://github.com/tinymind/LSUnusedResources) - 清理Xcode项目中未使用的资源文件.
 
 #### 多线程@
 
@@ -2280,7 +2285,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [用 JSON 构建 API 的标准指南](http://jsonapi.org.cn/) - 用 JSON 构建 API 的标准指南。
 * [iOS创建半透明ViewController](http://miketech.it/ios-transparent-viewcontroller/) - iOS创建半透明ViewController。
 * [iOS蓝牙开发（四）：BabyBluetooth蓝牙库介绍](http://www.cocoachina.com/ios/20160219/15301.html) - [iOS蓝牙开发（一）蓝牙相关基础知识](http://www.cocoachina.com/ios/20150915/13454.html),[iOS蓝牙开发（二）：iOS连接外设的代码实现](http://www.cocoachina.com/ios/20160217/15294.html),[iOS蓝牙开发（三）：App作为外设被连接的实现](http://www.cocoachina.com/ios/20160218/15299.html)。
-* [统计项目中图片使用情况](http://blog.adorkabledean.cn/blog/20151027/tong-ji-xiang-mu-zhong-tu-pian-shi-yong-qing-kuang/) - 统计项目中图片使用情况;工具：[Unused](http://jeffhodnett.github.io/Unused/):找出项目中未使用的图片, Unused 的基础上改了一下的[LSUnusedResources](https://github.com/tinymind/LSUnusedResources);工具：[ImageOptim](https://imageoptim.com/) 图片保真压缩。【iOS图片压缩工具】效率最高的是[tiny-png](http://www.alfredforum.com/topic/1520-tiny-png-workflow-updated-to-v12/):在线压缩，前500张免费。
+* [ImageOptim](https://imageoptim.com/) 图片保真压缩。【iOS图片压缩工具】效率最高的是[tiny-png](http://www.alfredforum.com/topic/1520-tiny-png-workflow-updated-to-v12/):在线压缩，前500张免费。
 * [iOS推送之远程推送](http://ios.jobbole.com/83952/) 、[iOS推送之本地推送](http://ios.jobbole.com/83949/)。
 * [动态部署方案](http://www.cocoachina.com/ios/20151019/13761.html) - iOS应用架构谈动态部署方案。
 * [ReactiveCocoa 4 文档翻译目录](http://www.jianshu.com/p/fccba7be1ca1) - ReactiveCocoa 4 文档翻译目录。    
@@ -2291,10 +2296,6 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [使用GCD实现和封装分组并发网络请求](www.jianshu.com/p/54bbacfcc31b) - 使用GCD实现和封装分组并发网络请求。
 * [微信语音连播的实现思路](http://www.jianshu.com/p/1d354feacf3c) - 微信语音连播的实现思路。
 * [UITableView 手势延迟导致subview无法完成两次绘制](http://www.jianshu.com/p/b422d92738ac) - UITableView 手势延迟导致subview无法完成两次绘制。
-
-#### 优化@
-
-* [MLeaksFinder新特性](http://wereadteam.github.io/2016/07/20/MLeaksFinder2/) - MLeaksFinder（iOS 平台的自动内存泄漏检测工具）用法.
 
 #### 其他资源@
 
