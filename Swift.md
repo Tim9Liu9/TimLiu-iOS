@@ -236,6 +236,7 @@ A curated list of iOS objective-C ecosystem.
 * [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - OAuthSwift国外主流网站OAuth授权类库。
 * [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS
 * [AppAuth-iOS](https://github.com/openid/AppAuth-iOS) - iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers. 用于iOS和MacOS的OAuth和OpenID Connect客户端.
+* [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - KeychainAccess is a simple Swift wrapper for Keychain that works on iOS and OS X. Makes using Keychain APIs extremely easy and much more palatable to use in Swift.
 
 
 #### 网络@
@@ -380,6 +381,7 @@ A curated list of iOS objective-C ecosystem.
 * [SwiftMongoDB](https://github.com/Danappelxx/SwiftMongoDB) - A MongoDB interface for Swift :large_orange_diamond:
 * [SwiftStore](https://github.com/hemantasapkota/SwiftStore) - Key-Value store for Swift backed by LevelDB :large_orange_diamond:
 * [MongoDB](https://github.com/PerfectlySoft/Perfect-MongoDB) - A Swift wrapper around the mongo-c client library, enabling access to MongoDB servers. Part of the
+* [apollo-ios](https://github.com/apollographql/apollo-ios) - GraphQL是一种用于API的开源数据查询和操作语言，并且是用于使用现有数据执行查询的运行时.
 * [SQLite](https://github.com/PerfectlySoft/Perfect-SQLite) - A Swift wrapper around the SQLite 3 client library, enabling access to SQLite servers. Part of the
 * [PersistDB](https://github.com/PersistX/PersistDB) - Projection-based Database Persistence in Swift.
 * [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
@@ -882,7 +884,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [ButtonProgressBar-iOS](https://github.com/thePsguy/ButtonProgressBar-iOS) A small and flexible UIButton subclass with animated loading progress, and completion animation.
 * [KYCircularProgress](https://github.com/kentya6/KYCircularProgress) - 简单、实用路径可定进程条。
-* [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress) -  KDCircularProgress是使用swift制作的色彩炫丽的进度条，可以加入多种颜色来控制进度条的渐变效果.
+* [KDCircularProgress](https://github.com/kaandedeoglu/KDCircularProgress) - KDCircularProgress是使用swift制作的色彩炫丽的进度条，可以加入多种颜色来控制进度条的渐变效果.
 
 #### 引导页@
 
@@ -1264,6 +1266,7 @@ A curated list of iOS objective-C ecosystem.
 * [fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS.
 * [SidecarPatcher](https://github.com/pookjw/SidecarPatcher) - Enables Sidecar on old Mac and iPad for macOS 10.15.
 * [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy for macOS.
+* [swift-argument-parser](https://github.com/apple/swift-argument-parser) - Apple 最近新开源了一个库，叫 ArgumentParser，它是由 Swift 实现的，用于解析命令行参数（command-line arguments）的.
 
 #### game@
 
@@ -1274,6 +1277,7 @@ A curated list of iOS objective-C ecosystem.
 #### 服务端@
 
 * [Httper-iOS](https://github.com/MuShare/Httper-iOS) - App for developers to test REST API. https://httper.mushare.cn.
+* [Publish](https://github.com/JohnSundell/Publish) - Publish是一款专门为Swift开发者打造的静态网站生成器。它使用Swift构建整个网站，并支持主题、插件和其他大量的定制选项.
 * [README.zh_CN.md](https://github.com/PerfectlySoft/Perfect/blob/master/README.zh_CN.md) - Swift 语言服务器端软件框架.
 * [PersistQL](https://github.com/PersistX/PersistQL) - Projection-based GraphQL Clients and Servers in Swift.
 * [Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)
