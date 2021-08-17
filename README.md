@@ -372,6 +372,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful networking framework for iOS, OS X, watchOS, and tvOS. [iOS开发下载文件速度计算](http://www.superqq.com/blog/2015/01/29/ioskai-fa-xia-zai-wen-jian-su-du-ji-suan/) , [AFNetworking 3.0迁移指南](http://www.cocoachina.com/ios/20151022/13831.html) , [AFNetworking2.0源码解析<一>](http://www.cocoachina.com/ios/20140829/9480.html) 、[AFNetworking2.0源码解析<二>](http://www.cocoachina.com/ios/20140904/9523.html)、[AFNetworking源码解析<三>](http://www.cocoachina.com/ios/20140916/9632.html)、[AFNetworking源码解析<四>](http://www.cocoachina.com/ios/20141120/10265.html)。
 * [YTKNetwork](https://github.com/yuantiku/YTKNetwork) - 是基于 AFNetworking 封装的 iOS网络库，提供了更高层次的网络访问抽象。相比AFNetworking，YTKNetwork提供了以下更高级的功能：按时间或版本号缓存网络请求内容、检查返回 JSON 内容的合法性、文件的断点续传、批量的网络请求发送、filter和插件机制等，猿题库出品.
+* [KJNetworkPlugin](https://github.com/yangKJ/KJNetworkPlugin) - 插件版网络请求可以更方便快捷的定制专属网络请求，并且支持批量操作，链式操作，功能清单：**1.支持基本的网络请求，下载上传文件 2.支持配置通用请求跟路径，通用参数等 3.支持设置加载和提示框插件 4.支持解析结果插件 4.支持网络缓存插件 5.支持配置自建证书插件 6.支持修改请求体和获取响应结果插件 7.支持自定义插件**
 * [RestKit](https://github.com/RestKit/RestKit) - RestKit是一款专为iOS设计的Objective-C框架，旨在与RESTful web服务的交互变得更简单快速。它基于强大的对象映射系统，并且结合了一个干净、简单的HTTP请求/响应API，大大减少了完成任务所需的代码量。 RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X
 * [HYBNetworking](https://github.com/CoderJackyHuang/HYBNetworking) - 基于AFN封装的网络库，可以通用。[基于AFNetworking封装网络库说明](http://www.henishuo.com/base-on-afnetworking-wrapper/)目前已经提供了通用的GET/POST、上传、下载API等。
 * [LxFTPRequest](https://github.com/DeveloperLx/LxFTPRequest) - 支持获取FTP服务器资源列表，下载/上传文件，创建/销毁ftp服务器文件/目录，以及下载断点续传，下载/上传进度，自动判断地址格式合法性跟踪等功能！国人开发，QQ：349124555。
@@ -708,6 +709,7 @@ A curated list of iOS objective-C ecosystem.
 * [ijkplayer](https://github.com/Bilibili/ijkplayer) - 非常赞 B站开源的视频播放器，支持Android和iOS. [iOS中集成ijkplayer视频直播框架](http://www.jianshu.com/p/1f06b27b3ac0)。
 * [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - 非常赞 基于AVPlayer，支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度.
 * [WMPlayer](https://github.com/zhengwenming/WMPlayer) 赞 WMPlayer视频播放器，AVPlayer的封装，继承UIView，想怎么玩就怎么玩。支持播放mp4、m3u8、3gp、mov，网络和本地视频同时支持。全屏和小屏播放同时支持。 cell中播放视频，全屏小屏切换自如.
+* [KJPlayer](https://github.com/yangKJ/KJPlayerDemo) - 目前已封装三种内核：AVPlayer内核、IJKPlayer内核、MIDIPlayer内核，视频播放壳子：动态切换内核，支持边下边播边缓存的播放器方案，支持试看、跳过片头片尾、自动记忆上次播放时间、手势操作锁定屏幕等等日常播放器功能。
 * [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) - 一个能够在国内播放YouTube视频的播放器.
 * [MRVLCPlayer](https://github.com/Maru-zhang/MRVLCPlayer) - 相信Mac用户都很熟悉一款VLC播放器，这款播放器在Mac上表现异常优异，支持的格式几乎涵盖了所有格式（就是这么屌！）。没错，就是它创造者--VideoLAN，开源了一款牛逼的视频播放框架MobileVLCKit！[介绍信息：] (http://gold.xitu.io/entry/578c304b2e958a0054320503?from=singlemessage&isappinstalled=1).
 * [plask](https://github.com/deanm/plask) - Plask is a multimedia programming environment.
