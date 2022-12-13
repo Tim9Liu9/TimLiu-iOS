@@ -244,6 +244,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [Alamofire](https://github.com/Alamofire/Alamofire) - 非常赞👍👍👍 Alamofire是AFNetworking的作者mattt新写的网络请求的swift库。[Alamofire 最佳实践](https://github.com/ipader/SwiftGuide/wiki/Alamofire%20%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5)
 * [Moya](https://github.com/Moya/Moya) - 对Alamofire的封装，使用枚举将网络层实现细节与页面逻辑代码分离，方便单元测试，支持stub测试，配合RxSwift食用更佳，[博客教程](http://www.hmttommy.com/2015/12/15/Moya/)
+* [RxNetworks](https://github.com/yangKJ/RxNetworks) - 基于 RxSwift + Moya 搭建响应式数据绑定网络API架构，多种插件模式，构建简单易用的网络架构。
 * [Hedwig](https://github.com/onevcat/Hedwig) - 提供了一组高级 API，可以让你轻松地发送电子邮件到SMTP服务器。如果你打算在下一个神奇的 Swift 服务器 app里发送 email，Hedwig 可能是一个好的选择.
 * [swift-nio](https://github.com/apple/swift-nio) - 苹果开源的一个事件驱动的非阻塞的网络框架，用来写高性能网络应用.
 * [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS, written in Swift 2.2 :large_orange_diamond:
@@ -500,6 +501,7 @@ A curated list of iOS objective-C ecosystem.
 #### 图像处理@
 
 * [GPUImage2.swift](https://github.com/BradLarson/GPUImage2) - Swift 版基于 GPU 图像和视频处理框架库。
+* [Harbeth](https://github.com/yangKJ/Harbeth) - 基于Metal滤镜框架，包括图像、相机、视频注入滤镜功能，支持 UIImage, CGImage, CIImage, MTLTexture, CMSampleBuffer, CVPixelBuffer 直接注入滤镜功能，同时也兼容`CoreImage`滤镜。
 * [Sharaku](https://github.com/makomori/Sharaku) 类似Instagram的图片滤镜库 Image filtering UI library like Instagram.
 * [UIImageColors](https://github.com/jathu/UIImageColors) - iTunes style color fetcher for UIImage.
 * [FaceAware](https://github.com/BeauNouvelle/FaceAware) - 一个焦点显示图片面部部分的UIImageView的扩展.
