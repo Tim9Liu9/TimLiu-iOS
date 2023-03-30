@@ -270,6 +270,7 @@ A curated list of iOS objective-C ecosystem.
 * [xkcd-Open-Source](https://github.com/mamaral/xkcd-Open-Source) - A free and open source xkcd comic reader for iOS.s
 * [GKDYVideo](https://github.com/QuintGao/GKDYVideo) - iOS仿抖音短视频.
 * [adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for iOS, Android, Chrome, and Opera. https://adblockfast.com/.
+* [react-native-permissions](https://github.com/zoontek/react-native-permissions) - React-Native权限管理工具类
 
 #### 框架@                                               
 
@@ -2513,6 +2514,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [BaiduNetdiskPlugin-macOS ](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS) - For macOS.百度网盘 破解SVIP、下载速度限制.
 * [MaciASL](https://github.com/acidanthera/MaciASL) - Macisl黑苹果ACPI编译修改工具.
 * [Hackintool](https://github.com/headkaze/Hackintool) - Mac平台上的一款黑苹果系统工具。Hackintool 中文版是黑苹果安装完成后定制核显、定制USB、调试显卡必不可少的万能驱动神器，这款直观的补丁工具，使配置和排除您的Hackintosh系统故障的过程更容易一点.
+* [keycastr](https://github.com/keycastr/keycastr) - 一个开源的击键可视化工具.
 
 #### iOS插件@
 
