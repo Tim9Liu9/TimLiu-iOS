@@ -2573,3 +2573,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 
 * [jrswizzle](https://github.com/rentzsch/jrswizzle) - runtime实现的Method Swizzling第三方框架.
 * [jrswizzle介绍](https://www.valiantcat.cn/index.php/2017/11/03/53.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+ 
+### AI@
+
+* [ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI provides a collection of parallel components for you. 
