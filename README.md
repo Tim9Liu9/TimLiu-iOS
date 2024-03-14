@@ -271,7 +271,8 @@ A curated list of iOS objective-C ecosystem.
 * [GKDYVideo](https://github.com/QuintGao/GKDYVideo) - iOS仿抖音短视频.
 * [adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a new, faster ad blocker for iOS, Android, Chrome, and Opera. https://adblockfast.com/.
 * [react-native-permissions](https://github.com/zoontek/react-native-permissions) - React-Native权限管理工具类
-
+* [AppAuth-iOS](https://github.com/openid/AppAuth-iOS) AppAuth-iOS客户端
+  
 #### 框架@                                               
 
 * [nimbus](https://github.com/jverkoey/nimbus)  - Nimbus是一个开源的iOS框架，比起Three20，Nimbus的文档更为全面、丰富，能够实现很多非常炫的界面特效.
