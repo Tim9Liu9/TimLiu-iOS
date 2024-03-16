@@ -2156,6 +2156,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [iSimulator](https://github.com/wigl/iSimulator) - 模拟器控制工具，simctl的GUI实现，可以方便打开模拟器位置、App沙盒文件位置，并且可以启动、关闭模拟器.
 * [Kiwi](https://github.com/kiwi-bdd/Kiwi) - 简单的BDD为iOS.
 * [GTrack](https://github.com/gemr/GTrack) - Lightweight Objective-C wrapper around the Google Analytics for iOS SDK with some extra goodies.
+* [sentry-cocoa](https://github.com/getsentry/sentry-cocoa) - 崩溃日志收集.
 
 #### Xcode工具@
 
