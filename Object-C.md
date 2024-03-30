@@ -572,6 +572,7 @@ A curated list of iOS objective-C ecosystem.
 * [StorageKit](https://github.com/StorageKit/StorageKit) - Your Data Storage Troubleshooter 🛠 .
 * [sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.
 * [realm](https://github.com/realm) - 跨平台的移动数据库引擎.
+* [CTPersistance](https://github.com/casatwy/CTPersistance) - 本地持久化方案
 
 #### 缓存处理@
 
