@@ -302,6 +302,7 @@ A curated list of iOS objective-C ecosystem.
 
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa受函数响应式编程激发。不同于使用可变的变量替换和就地修改，RAC提供Signals来捕获当前值和将来值（ [使用介绍](http://yulingtianxia.com/blog/2014/07/29/reactivecocoa/) ），[不错的例子](http://iiiyu.com/2014/12/26/learning-ios-notes-thirty-six/),入门好教程：[ReactiveCocoa入门教程：第一部分 ](http://www.cocoachina.com/ios/20150123/10994.html)。[Reactive Cocoa 3.0 在 MVVM 中的应用](http://ios.jobbole.com/82232/) ,[小码哥：快速让你上手ReactiveCocoa之基础篇](http://www.jianshu.com/p/87ef6720a096)。
 * [react-native](https://github.com/facebook/react-native)  - A framework for building native apps with React.
+* [react-native-maps](https://github.com/react-native-maps/react-native-maps) - 一个用于在ReactNative应用中集成地图功能的开源库。它提供了一种简单且易于使用的方式来在应用中显示地图，并且支持多种地图提供商的API.
 * [weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI.
 * [LoginWithReactiveCocoa](https://github.com/CrazySurfBoy/LoginWithReactiveCocoa) - ReactiveCocoa - 登录交互效果的实现。
 * [BeeFramework](https://github.com/gavinkwoe/BeeFramework) -  与ReactiveCocoa类似，[BeeFramework用户指南 v1.0](http://www.lanrenios.com/tutorials/all/2012/1220/641.html)。
@@ -979,6 +980,7 @@ A curated list of iOS objective-C ecosystem.
 * [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - 重签名工具.
 * [app2dylib](https://github.com/tobefuturer/app2dylib) - A reverse engineering tool to convert iOS app to dylib.
 * [iWeChat](https://github.com/lefex/iWeChat) - 我们一起来还原微信。希望通过 iWeChat 这个项目能过勾勒出微信的设计，使用到的技术手段等.
+* [LiveContainer](https://github.com/khanhduytran0/LiveContainer) - 一个巧妙规避了代码签名机制的工具，允许您在不实际安装的情况下运行iOS应用程序。 这个项目不仅支持无限数量的App安装，还能实现同一App的不同版本共存，并创建独立的数据容器。 借助JIT（Just-In-Time）编译，用户甚至可以在无需预先签名的情况下直接安装应用.
 
 #### AutoLayout@
 
@@ -2177,6 +2179,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 #### 崩溃捕获@
 
 - [plcrashreporter](https://github.com/microsoft/plcrashreporter) - Reliable, open-source crash reporting for iOS and Mac OS X .
+- [sentry-cocoa](https://github.com/getsentry/sentry-cocoa) - 一款强大的开源错误跟踪解决方案,可以实时捕获并解决应用中的异常和错误.
 
 #### Runtime@
 
@@ -2490,6 +2493,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 * [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac版微信的功能拓展.
 * [spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse(窗口控制器).
 * [alfred-workflows](https://github.com/zenorocha/alfred-workflows) - 首推 Alfred，可以说是 Mac 必备软件，利用它我们可以快速地进行各种操作，大幅提高工作效率，如快速打开某个软件、快速打开某个链接、快速搜索某个文档，快速定位某个文件，快速查看本机 IP，快速定义某个色值，几乎你能想到的都能对接实现.
+* [PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) - 一款适用于Android/IOS的开源Minecraft: Java Edition启动器.
 * [radiant-player-mac](https://github.com/radiant-player/radiant-player-mac) - 一个Google Play音乐转换成与Mac整合的独立，美观的mac音乐播放器.
 * [aria2gui](https://github.com/yangshun1029/aria2gui) - 不错的下载工具，添加插件后支持百度网盘高速下载.
 * [DevDataTool](https://github.com/MxABC/DevDataTool) - OSX系统 转换、加解密工具.
