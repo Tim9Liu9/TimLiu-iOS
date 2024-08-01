@@ -572,7 +572,7 @@ A curated list of iOS objective-C ecosystem.
 * [StorageKit](https://github.com/StorageKit/StorageKit) - Your Data Storage Troubleshooter 🛠 .
 * [sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.
 * [realm](https://github.com/realm) - 跨平台的移动数据库引擎.
-* [CTPersistance](https://github.com/casatwy/CTPersistance) - 本地持久化方案
+* [CTPersistance](https://github.com/casatwy/CTPersistance) - 本地持久化
 
 #### 缓存处理@
 
@@ -2486,6 +2486,7 @@ FLEX正因为是注入式的，所以不需要在链接LLDB或者Xocde，或者�
 #### mac@
 
 * [wechat_jump_game](https://github.com/wangshub/wechat_jump_game) - 微信《跳一跳》Python 辅助.
+* [TrollStore](https://github.com/opa334/TrollStore) - 给你的iPhone和iPad安装任何你想要安装的APP软件，而且不需要越狱.
 * [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac版微信的功能拓展.
 * [spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse(窗口控制器).
 * [alfred-workflows](https://github.com/zenorocha/alfred-workflows) - 首推 Alfred，可以说是 Mac 必备软件，利用它我们可以快速地进行各种操作，大幅提高工作效率，如快速打开某个软件、快速打开某个链接、快速搜索某个文档，快速定位某个文件，快速查看本机 IP，快速定义某个色值，几乎你能想到的都能对接实现.
