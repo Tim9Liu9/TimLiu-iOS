@@ -1381,6 +1381,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### 选择器@
 
+* [BRPickerView](https://github.com/agiapp/BRPickerView) - 封装的是iOS中常用的选择器组件，主要包括：BRDatePickerView 日期选择器（支持年月日、年月等15种日期样式选择，支持设置星期、至今等）、BRTextPickerView 文本选择器（支持单列、多列、省市区、省市、省、自定义多级联动选择）。支持自定义主题样式，适配深色模式，支持将选择器组件添加到指定容器视图.
 * [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0) - Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
 * [STPickerView](https://github.com/STShenZhaoliang/STPickerView) - 一个多功能的选择器,有城市选择，日期选择和单数组源自定的功能，方便大家的使用,低耦合,易扩展.
 * [ASDayPicker](http://code.cocoachina.com/detail/226543) - 适用于iOS (iPhone)的日期选择器(时间选择器)，类似于Calendar app的周视图.
