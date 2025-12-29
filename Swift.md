@@ -69,6 +69,7 @@ A curated list of iOS objective-C ecosystem.
  - [文本@](文本)
  - [字体@](字体)
 - [UI@](#ui)
+  - [SwiftUI@](#SwiftUI)
   - [AutoLayout@](#autolayout)
   - [列表@](#列表)
   - [scrollView@](#scrollView)
@@ -148,6 +149,7 @@ A curated list of iOS objective-C ecosystem.
 * [BaiduFM-Swift](https://github.com/belm/BaiduFM-Swift) - 百度FM, swift语言实现，基于最新xcode6.3+swift1.2,初步只是为了实现功能，代码比较粗燥，后面有时间会整理，支持Apple Watch。
 * [Tuan](https://github.com/aiqiuqiu/Tuan) - 模仿MJ老师iPad版美团（swift版），偶有bug 见谅.
 * [ios-oss](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
+* [Swiftfin](https://github.com/jellyfin/Swiftfin) - 为 iOS 和 tvOS 设计的原生 Jellyfin 客户端，旨在提供流畅的视频播放体验.
 * [CocoaChinaPlus](https://github.com/zixun/CocoaChinaPlus) - CocoaChina+是一款开源的第三方CocoaChina移动端。整个App都用Swift2.0编写(除部分第三方OC代码外，比如JPush和友盟).
 * [SimpleMemo](https://github.com/likumb/SimpleMemo) - 易便签已经转到Swift2.0，全面适配iOS9和Watch OS2，并支持iPhone6s和iPhone6sPlus的3D Touch功能，包括图标快捷键和内容预览.
 * [SelectionOfZhihu.swift](https://github.com/sheepy1/SelectionOfZhihu) - 『看知乎』iOS 客户端, [项目说明](http://www.jianshu.com/p/2c3a0f109788).
@@ -181,6 +183,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### App框架@
 
+* [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - 一个基于 ReactiveSwift 的架构库，旨在帮助开发者以一致且易于理解的方式构建应用程序。它提供了强大的工具来管理状态、处理副作用以及进行模块化开发.
 * [katana-swift](https://github.com/BendingSpoons/katana-swift) - Swift Apps in a Swoosh! A modern framework for creating iOS apps, inspired by React and Redux. http://katana.bendingspoons.com
 * [SlackKit](https://github.com/SlackKit/SlackKit) SlackKit makes it easy to build Slack apps in Swift.
 * [Lona](https://github.com/airbnb/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, images, and other artifacts.
@@ -715,6 +718,11 @@ A curated list of iOS objective-C ecosystem.
 * [Material](https://github.com/CosmicMind/Material) - A UI/UX framework for creating beautiful applications.
 * [IBLinter](https://github.com/kateinoigakukun/IBLinter) - A linter tool for Interface Builder.
 
+### SwiftUI@
+
+* [swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - 用于在 SwiftUI 中显示和自定义 Markdown 文本的开源库.
+
+
 #### AutoLayout@
 
 * [Snap](https://github.com/SnapKit/SnapKit) - Snap是Masonry Auto Layout DSL的Swift版本，是一款轻量级的布局框架，使用了更良好的语法封装了AutoLayout。Snap支持iOS和OS X.
@@ -1004,6 +1012,7 @@ A curated list of iOS objective-C ecosystem.
 
 #### Xcode工具@
 
+* [CopilotForXcode](https://github.com/github/CopilotForXcode) - 专为Xcode开发者打造的AI编程助手.
 * [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - Injection for Xcode：成吨的提高开发效率,[使用说明](http://www.jianshu.com/p/27be46d5e5d4).
 * [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - 用于重新格式化 Swift 代码的命令行工具.
 * [Reminders](https://github.com/tiagomartinho/Reminders) - Clean Architecture.
@@ -1256,12 +1265,16 @@ A curated list of iOS objective-C ecosystem.
 #### mac@
 
 * [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
+* [stats](https://github.com/exelban/stats) - Stats is an application that allows you to monitor your macOS system.
 * [twig](https://github.com/lukakerr/twig) - A modern macOS markdown editor.
+* [VoiceInk](https://github.com/Beingpax/VoiceInk) - mac App 即时语音转文字工具.
 * [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac.
 * [iina](https://github.com/lhc70000/iina) - The modern video player for macOS,非常👍👍👍 .
 * [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface.
 * [iOSLocalizationEditor](https://github.com/igorkulman/iOSLocalizationEditor) - Simple macOS editor app to help you manage iOS app localizations by allowing you to edit all the translations side by side(一款在 macOS 上帮助用户编辑和管理 app localizations 的图形化工具，它会显示每种语言的所有本地化版本，并能方便快捷的找出你缺失的 key).
 * [AltStore](https://github.com/rileytestut/AltStore) - AltStore 是一个 iOS 应用程序，允许您仅使用 Apple ID 将其他应用程序（.ipa 文件）侧面加载到您的 iOS 设备上.
+* [DockDoor](https://github.com/ejbills/DockDoor) - 一个为macOS设计的开源工具，允许用户通过鼠标悬停在Dock栏图标上来预览应用程序的窗口，从而提高多窗口操作的效率.
+* [Atoll](https://github.com/Ebullioscopic/Atoll) - 一个为macOS系统设计的开源项目，旨在利用刘海屏（如Face ID区域）实现类似iPhone的动态岛交互功能，提供实时信息展示和交互体验.
 * [swift14macOSApps](https://github.com/KrisYu/swift14macOSApps) - 几个Mac小Demo.
 * [SpotMenu](https://github.com/kmikiy/SpotMenu) - 菜单栏中的Spotify和iTunes.
 * [xi-mac](https://github.com/google/xi-mac) - The xi editor project is an attempt to build a high quality text editor.
