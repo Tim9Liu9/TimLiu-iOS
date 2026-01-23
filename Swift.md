@@ -580,6 +580,8 @@ A curated list of iOS objective-C ecosystem.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written by swift.
 * [MediaBrowser](https://github.com/younatics/MediaBrowser) — 照片/视频浏览器，支持UIImage对象、PHAsset对象、资源库URL、网络图像/视频、本地文件.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) -  Reinventing the way ImagePicker works.
+* [HXPhotoPicker](https://github.com/SilenceLove/HXPhotoPicker) -  图片/视频选择器 - 支持LivePhoto、GIF图片选择、3DTouch预览、在线下载iCloud上的资源、编辑图片/视频、浏览网络图片 功能。
+* [ZLPhotoBrowser](https://github.com/longitachi/ZLPhotoBrowser) -  微信样式的图片选择器，支持预览/相册内拍照及录视频、拖拽/滑动选择，编辑图片/视频，支持多语言国际化等功能。已经被开发者用Swift重构了。
 
 #### 数据结构/算法@
 
@@ -697,6 +699,7 @@ A curated list of iOS objective-C ecosystem.
 * [FloatLabelFields.swift](https://github.com/FahimF/FloatLabelFields) - FloatLabelFields.swift浮动标签输入效果类。
 * [cleartext-mac.swift](https://github.com/mortenjust/cleartext-mac) - 提供一千个常用单词的编辑器。
 * [GlitchLabel.swift](https://github.com/kciter/GlitchLabel) - 可定制“黑（故障）文字标签”类库，熟称晃瞎你的眼文字标签。
+* [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift；轻量级富文本
 
 #### 文本@
 
