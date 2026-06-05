@@ -150,6 +150,7 @@ A curated list of iOS objective-C ecosystem.
 * [Tuan](https://github.com/aiqiuqiu/Tuan) - 模仿MJ老师iPad版美团（swift版），偶有bug 见谅.
 * [ios-oss](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
 * [Swiftfin](https://github.com/jellyfin/Swiftfin) - 为 iOS 和 tvOS 设计的原生 Jellyfin 客户端，旨在提供流畅的视频播放体验.
+* [HealthSync](https://healthsync.megabyte.sh/apple-health-app-sync) - SwiftUI iOS app for syncing selected Apple Health data from HealthKit to a private backend API, with source code on [GitHub](https://github.com/megabyte0x/healthykit).
 * [CocoaChinaPlus](https://github.com/zixun/CocoaChinaPlus) - CocoaChina+是一款开源的第三方CocoaChina移动端。整个App都用Swift2.0编写(除部分第三方OC代码外，比如JPush和友盟).
 * [SimpleMemo](https://github.com/likumb/SimpleMemo) - 易便签已经转到Swift2.0，全面适配iOS9和Watch OS2，并支持iPhone6s和iPhone6sPlus的3D Touch功能，包括图标快捷键和内容预览.
 * [SelectionOfZhihu.swift](https://github.com/sheepy1/SelectionOfZhihu) - 『看知乎』iOS 客户端, [项目说明](http://www.jianshu.com/p/2c3a0f109788).
